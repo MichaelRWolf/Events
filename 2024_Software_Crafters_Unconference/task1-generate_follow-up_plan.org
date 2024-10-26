@@ -1,0 +1,12 @@
+** Task 1: Generate Follow-up Plan
+
+- Create a file called 'Follow-up plan'
+Start by collecting a list of names for all people mentioned anywhere in the 'Conference Notes' or 'GatherTown Chat'
+
+Add the following sections to the 'Follow-up plan'
+  - Section 1 - People :: Add each person as a bullet list item.  As a sub-list, enumerate the sessions they are mentioned in.
+  - Section 2 - Sessions :: A bullet list with the format "Time Leader Title - Summary".  Please distill my notes into phrases (not sentences) that will jog my memory when I review this later.  Create a bullet list of all attendees mentioned in the session.
+  - Section 3 - Follow-up Communicaiton :: A check-box list of tasks for all sessions, typically a light-touch LinkedIn message.  Occasionally a promise to send information.  Add an item called "LinkedIn message to <person>" for every person
+  - Section 4 - Follow-up Research :: A check-box list of ideas that I want to explore alone.
+  - Section 5 - Follow-up Tasks :: A check-box list that is neither communication nor research.
+  - Section 6 - Session Attendance Matrix :: A table with names in first column, session times in first row, and "Y" in the intersecting cell where a person is mentioned in a session for that time.    

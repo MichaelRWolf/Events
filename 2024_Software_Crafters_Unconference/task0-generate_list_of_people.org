@@ -1,0 +1,47 @@
+** Task 0: Generate List of People
+
+Goal: Create "People" lists for use in subsequent tasks
+
+
+Generate list of people from 2 locations:  'GatherTown Chat' and 'Conference Notes'
+
+*** Find People in 'GatherTown Chat'
+- Analyze the 'GatherTown Chat' to extract a list of people.  The format is as follows:
+  Person Name
+  Time
+  Messages
+
+Example chat message from "Chris Lucian"
+    Chris Lucian
+    4:39 PM
+    @BrianFreeman we could not hear you because of internet issue if you want to type it out in chat
+
+Example 1: chat message from "Gus Murphy" sending his LinkedIn contact
+    Gus Murphy
+    4:02 PM
+    https://github.com/kuoman/6-Minute_Interview/tree/master
+
+Example 2: Multi-line message.
+    Matthew Knowles - GA
+    1:52 PM
+    Making it easier for the developers to safely deliver value to customers?
+    A catalyst for developer productivity?
+
+*** Find People in 'Conference Notes'
+- In every sub-section with header value of "People", in every Session in the entire 'Conference Notes' section, People's names are in a dashed list.  Collect all of them.dashed lists from those "People" 
+- Extract any names listed beneath these headers.
+- Some list items may start with a name, then have dash, then a task.
+  Example:
+  Chris Lucian - Sing praises of Mob Programming
+
+*** Generate People Lists
+
+Display People found.
+- For each Person, create a line that includes First Name, Last Name, and LinkedIn address (if found)
+- Add that line to the 'AllPeople' list  
+- Add that line to one (and only one) of these name lists
+  - Only in Conference Notes
+  - Only in GatherTown Chat
+
+Display the lines for all 4 lists as numbered lists
+

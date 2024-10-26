@@ -1,0 +1,70 @@
+#+title: Literate Programming Follow-Up Demo
+#+author: Your Name
+#+date: 2024-10-24
+
+#+begin_ai
+Is Emacs the greatest editor?
+Determining whether Emacs is the "greatest" editor can be subjective and depends largely on an individual's needs, preferences, and tasks they need to perform in their editing environment. 
+
+Here's a deeper look into the reasons why many people might consider Emacs as one of the greatest editors, as well as some limitations:
+
+### Advantages of Emacs:
+1. **Extensibility**: Emacs is highly extensible, allowing users to modify and enhance its functionality using Emacs Lisp. This aspect makes Emacs extremely adaptable to different programming languages and tasks.
+2. **Versatility**: Emacs can be used as a text editor, development environment, organizer (with org-mode), email client, and much more.
+3. **Community and Support**: Emacs has a large, active community with a vast array of pre-written packages and extensions available.
+4. **Platform Independence**: Emacs runs on multiple operating systems including various Unix variants, Windows, and Mac OS.
+5. **Integrated Documentation**: Emacs has extensive built-in documentation, including tutorials for new users and documentation for each command and package.
+
+### Limitations:
+1. **Learning Curve**: Emacs has a steep learning curve, especially for those not familiar with Lisp or who are new to programming.
+2. **User Interface**: By default, Emacs does not use a graphical user interface like more modern editors (though it can be configured with GUI enhancements). This can be a turn-off for users accustomed to more visually oriented programs.
+3. **Resource Usage**: Emacs can be heavier on resources compared to some simpler text editors, especially when many extensions are active.
+
+### Comparisons with Other Editors:
+- **Vim**: Like Emacs, Vim also has a steep learning curve but it focuses more on keyboard efficiency and modal editing. The choice between Vim and Emacs often comes down to personal preference in editing style (modal vs. non-modal) and workflow priorities.
+- **Modern IDEs**: Compared to integrated development environments (IDEs) like Visual Studio, IntelliJ IDEA, or Eclipse, Emacs is less "out-of-the-box" ready for specific programming tasks such as debugging, but it can often be extended to closely match their functionality using plugins.
+- **Lightweight Editors**: Against lightweight editors like Sublime Text, Atom, or VS Code, Emacs can be seen as more complex and demanding to set up but generally offers deeper customization and automation capabilities.
+
+The question of whether Emacs is the greatest editor is subjective and varies by user needs. For some, its flexibility and customization make it unparalleled, while others might prefer an editor that is easier to use or more focused on a specific programming environment right from the start.
+
+[ME]: 
+#+end_ai
+
+
+
+* Conference Notes
+#+name: conference_notes
+#+begin_src bash :result output
+date
+cat /Users/michael/2024_Software_Crafters_Unconference/Conference_Notes.md
+#+end_src
+
+#+RESULTS: conference_notes
+
+
+* Extract Person Names and To-Do Items Using ChatGPT
+#+begin_src chatgpt :prompt "Extract the names of people mentioned and any To-Do items from the content." :input conference_notes
+#+end_src
+
+
+* Number the Notes
+#+name: number_the_notes
+#+begin_src sh :var notes=conference_notes :output results
+echo "$notes"
+#+end_src
+
+#+name: first_three_notes
+#+begin_src bash
+echo do
+echo re
+echo me
+#+end_src
+
+
+#+name: number_the_notes
+#+begin_src sh :var text=first_three_notes :results output
+echo "$text"
+#+end_src
+
+#+RESULTS: number_the_notes
+| 1 | nil |

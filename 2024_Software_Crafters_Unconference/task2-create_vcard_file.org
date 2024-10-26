@@ -1,0 +1,13 @@
+** Task 2: Create vCard file
+
+Create a list of all people mentioned in 'Conference Notes' and also 'GatherTown Chat'
+
+For each Person, create a vCard including the following fields
+- FN
+- N  
+- NOTE - With value "'Attended Software Crafters Unconference 2024".
+- CATEGORIES - With the value 'SoftwareCraftersUnconference2024'.
+- LinkedIn address as a URL
+
+Combine all vCards into a single file named 'Softwarecraftersunconference2024.vcf'  
+

@@ -1,0 +1,37 @@
+** Task 3: Update Daylite
+
+Thanks to ChatGPT for the suggestion to automate it
+
+https://chatgpt.com/c/6717eabc-1568-8009-a2dd-337a4b10fd0b
+
+
+#+begin_src applescript
+-- Modified AppleScript to perform additional actions on each contact
+tell application "Daylite"
+    -- Import VCF contacts and capture references
+    set vcfFilePath to "/path/to/SWUnconference2024.vcf"
+    set importedContacts to import vcard vcfFilePath
+
+    -- Get the project by name
+    set conferenceProject to first project whose name is "Software Crafter Conference 2024"
+    
+    -- Get or create the contact group
+    set contactGroup to (first contact group whose name is "SoftwareCraftersUnconference2024")
+    if contactGroup is missing value then
+        set contactGroup to make new contact group with properties {name:"SoftwareCraftersUnconference2024"}
+    end if
+
+    -- Iterate over each imported contact
+    repeat with contact in importedContacts
+        -- Link to the project
+        add conferenceProject to linked projects of contact
+
+        -- Add to contact group
+        add contact to contactGroup
+
+        -- Add tag to contact
+        add "SoftwareCrafter" to tags of contact
+    end repeat
+end tell
+#+end_src
+

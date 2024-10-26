@@ -1,0 +1,519 @@
+* Conference Notes
+
+** Links
+
+- Online Event Page | Eventbrite. (2018). Eventbrite.com; Eventbrite. https://www.eventbrite.com/x/software-crafters-unconference-2024-tickets-991483743567?utm_source=eventbrite&utm_medium=email&utm_campaign=reminder_attendees_event_starting_email&utm_term=cta&ref=eemaileventremind
+
+
+- [[https://miro.com/app/board/uXjVLUEir0M=/][Miro Board]]
+
+** Pre-event Session - Planning & Promotion
+
+*** People
+- Mike Clement
+- Ryan Robbins
+- Jon Turner    
+
+*** Notes
+
+- [[id:2B2C1D88-59E7-4042-8C03-761266653735][Mike Clement]] - is a husband, father of four, and currently a Distinguished Software Engineer at Hunter Industries. Mike believes we work best when we are working together and that there are no best practices—only better and worse ones depending on the context. Some leading practices Mike is passionate about are Test Driven Development, Pair and Mob Programming, User Story Mapping, Domain Driven Design and Open Space Technology. Passionate about raising the bar of technical excellence in th software development community, Mike is a founder and organizer of Software Crafters Atlanta and the Lean+Agile Atlanta Unconference.
+- [[id:36D07DA1-6C8C-47BC-A833-848A3F05BC2F][Ryan Robbins]] - is a Senior Consultant at Hylaine. When Ryan transitioned from teaching physics and web development to writing software professionally; Clean Code ideas, pair & mob programming, and Agile methods generally resonated strongly with his values and way of working. The Atlanta software development community has been an incredible asset for Ryan, giving him the opportunity to learn and present at meetups and Atlanta Code Camp, and he is looking forward to giving back by organizing this open space event. Ryan will also be coordinating “something fun” for everyone to do after the event.
+- [[id:04C89550-05DC-43A2-A1FF-B04FF24CDDE1][Jon Turner]] - looks forward to a world where everyone involved in software development cares about the quality of their software and the value it provides. He is an advocate of test driven development, pair and mob programming, continuously integrating code changes, and continuously delivering value to customers. He has nearly 20 years of experience as a software developer. When he’s not developing software professionally, Jon spends time doing game and mobile development, working on a variety of robotics projects (while trying not to bring about the robot apocalypse), folding origami for friends and strangers, or spending time with his wife and three children.
+
+*** Follow-up
+
+- Acknowledge organizers on Slack channel
+
+** 10:00 Session - Meet/Greet
+
+*** People
+- Leah Wynn
+- Chris Stone
+- Eddie Bush
+- Steve Kuo
+
+*** Notes
+
+[[id:8CCFAE49-BEB6-4FBE-ACD2-D17CC93E0155][Leah Wynn]] and [[id:C9133A27-3213-4414-A351-FF778AEB2A7E][Chris Stone]] both got laid off and found new jobs.
+
+[[id:4A38FA05-FBC6-4DD7-BF55-2D187DADB7C2][Eddie Bush]] Negative about specific worker at [[id:C2B1EC35-E33D-454C-B80D-B81754D40747][Hunter Industries]] - Jesse Riley.  Had been doing work in [[id:68CF9487-D55A-4B2B-853D-C94747E71DB1][Rust Programming Language]].  Complexity science.  Degrees of Freedom.  Following [[id:F9757537-A3C9-4FD7-B771-2A329632BA37][David Laribee]].  Likes [[id:C1B9B24B-6E37-4187-A0D2-C882336BC14D][DDD - Domain Driven Design]] and [[id:899AFC29-479E-4381-B596-D4B39E0F8929][Use Cases]].
+
+[[id:08CB22B5-63A6-42BE-8A20-3B866C8E26EE][Steve Kuo]] says it's "Just OK" for new gig at Salesforce.
+
+TODO Ask Chris Flashlight Learning
+
+** 10:40 Session - Marketplace
+
+*** People
+- Ryan Robbins - Dojos at work
+- Jon Turner - Bad boss from "The Office"
+- Leah Wynn - Building Craftsman Culture
+- Taylor Dunn - Battle of Using Better Tech
+- Garrick West - NextP.org - XP++
+- Chris Lucian - Causal Loop Diagrams.  Mobbing.
+- Dave Foley - Why are we bad at teaching effective software development
+- Joel Robinson - Jobs beyond Agile Coach
+- Jay Bazuzi - 3rd Party Dependencies.  Iterate code through auto-lint.
+- JitterTed  - Finding bad code to use in training and coaching.
+- Sarah Martin - Increase verbal communication
+- Danny Faught - Job seeker.
+
+- Kelly Gaines - Seen in passing.
+
+** 11:00 Session - [[id:DA04D95A-3502-4079-9369-1446CDF14BE9][Dave Foley]] - Why are we bad at software training?
+
+*** People
+-  Dave Foley - Leader.  4 in company.  Lean.  Agile. People based training.  Look for approval speed and experience.
+- JitterTed - "Ticket Taker Developer"
+- Garrick West
+- Paige Watson
+- Mark Shead - Mobbing is growing, for arcitects and newbies.  How to measure what needs improving?
+- Eddie Bush - Hero culture.  Cognitive load.
+- Margaret McKever - Interests.  Effective SW Development.
+- Sharron Hoffman - If it feels bumpy, go faster.  It works for bikes and balance.
+- Garrick West - [[id:C7F9E4A3-EEDE-4005-B2CE-C0D2447AC760][Apprenticship Patterns]] - Read "Apprenticship Patterns".
+- Steven Diamante -  Has 3 month son.  [[id:419BA83B-5906-482E-84A2-7E8BFC387D62][Software Crafters - Raleigh]] is not picking up.
+
+Follow-up:
+
+[[id:DA04D95A-3502-4079-9369-1446CDF14BE9][Dave Foley]] - Thanks for convening the "bad at SW training" session at [[id:2A5132E3-2668-4F6F-BE62-502AA10A7105][Software Crafters Unconference 2024]].  I would be interested in continuing the conversation some time if you are open to that.  Meanwhile, let's connect on LI. -- Michael
+
+
+[[id:E06A24F8-93CC-467B-88CD-22A5C8A5C324][JitterTed]], I appreciated your comments last week at Code Craft Unconference, like "Ticket Taker Developer".  Let's connect on LI.  And... if you would be interested, let's connect on Zoom, too. - Michael
+
+
+[[id:58D1E09C-FAA8-4D4B-94D2-D30F99A53F3B][Mark Shead]] - I appreciated your input at the table "bad at training double "session last week. Let's connect on LI.  And, If you are game, I would be interested in a zoom call to follow up. – Michael.
+
+[[id:624C34AF-39DC-4E9F-839E-1F3D4BF4554F][Margaret McKever]] - Thanks for your contributions at last week's [[id:2A5132E3-2668-4F6F-BE62-502AA10A7105][Software Crafters Unconference 2024]], especially regarding software training.  Let's connect on LI, and schedule a zoom call if that would be interesting to you. - Michael
+
+Read "Apprenticship Patterns"
+
+** 12:00 Session - [[id:04C89550-05DC-43A2-A1FF-B04FF24CDDE1][Jon Turner]] - I think my boss might be Michael Scott
+
+*** People
+- Jon Turner - Leader
+
+*** Notes
+Jon has been through 3 recent layoffs.
+
+** 12:00 Session - [[id:2192D6CF-2EF2-48AA-BFE4-9AE053E335D0][Chris Lucian]] - Causal Loop Diagrams
+
+*** People
+- Chris Lucian - Leader
+- Ryan Robbins
+
+*** Notes  
+
+See: [[id:C90E5616-3486-4FBF-9207-48525F21676A][Causal Loop Diagrams]]
+
+Simulate Yosemite introduction of wolves. Actors: wolves, fevers, deer, grass, trees, water, whole system health.
+
+Loops have convergent behavior w/ odd-number of negative feedbak, divergent w/ even number.
+
+
+[[id:36D07DA1-6C8C-47BC-A833-848A3F05BC2F][Ryan Robbins]] had his own Loopy diagram.  Referenced "Joy, Inc."
+
+Research:
+ - Loopy v1.1
+
+*** Follow-up
+- [[id:36D07DA1-6C8C-47BC-A833-848A3F05BC2F][Ryan Robbins]] regarding Loopy and consulting company.
+   
+
+
+
+
+[[id:36D07DA1-6C8C-47BC-A833-848A3F05BC2F][Ryan Robbins]] had also created a diagram.
+
+** 1:45 Session - [[id:8CCFAE49-BEB6-4FBE-ACD2-D17CC93E0155][Leah Wynn]] - Building a Craftsperson Culture
+No notes
+
+** 1:45 Session - [[id:B2256B1B-26B3-43F4-A4FE-1C9EC1ACEBFD][Danny Faught]] - Getting work
+
+*** People
+- Mark Shead - "Never eat alone"
+- Danny Faught
+- Joel Robinson
+- Raimo
+- Garrick West
+
+*** Notes
+
+Don't think of it as "networking".
+Do think of it as "connecting".
+
+** 2:45 Session - [[id:36D07DA1-6C8C-47BC-A833-848A3F05BC2F][Ryan Robbins]] - Dojos
+
+*** People
+- Ryan Robbins - Leader
+- Taylor Dunn  
+
+*** Notes
+
+Discussion was actually about katas.
+
+Dojos in past:
+ - 5/week * 1 year in past
+ - 1/week recently
+
+
+Good words about [[id:CE331382-4C3F-4C6A-937C-5398836C9CDA][Emily Bache]]'s katas - Parrot, SuperMarket Description
+
+[[id:C4EB4F22-DDDA-409E-8495-8FCD177CAB87][Taylor Dunn]] has dojo at work in UT
+
+Follow-up.
+- Taylor RE Dojos
+- Ryan RE Dojos and Katas
+
+
+** 2:45 Session - [[id:A4B9036E-E00F-421D-8402-22E1CE7AABE0][Garrick West]] - nextP, XP++
+
+*** People
+- Garrick West
+- Steven Diamante
+- Steve Kuo
+
+*** Notes
+Garrick has domain.  Had it for years.  Looking for something to do with it.
+
+Follow-up
+- Garrick - Keep me in loop on NextP project
+- [[id:AB8CEE2A-B3ED-493D-9844-61083BA1D92E][Steven Diamante]] - Which Discord are you active on?
+
+
+Modern Agile (according to [[id:08CB22B5-63A6-42BE-8A20-3B866C8E26EE][Steve Kuo]]?):
+- Continuous flow
+- Rapid Feedback
+- Retrospectives
+- Testing
+- Approval tests
+- Pinning Tests
+
+
+Read "Art of Agile Development" by [[id:1E8AE191-BB92-45B9-B460-09E2872AE165][James Shore]]
+
+Followup
+- Connect [[id:A4B9036E-E00F-421D-8402-22E1CE7AABE0][Garrick West]] and [[id:AB8CEE2A-B3ED-493D-9844-61083BA1D92E][Steven Diamante]] on XP
+  
+** 3:45 Session - [[id:66C69584-4393-45FE-BEC7-A23DAB7A1619][Kelly Gaines]] - Habits
+
+*** People
+- Kelly Gaines
+
+*** Notes
+
+I didn't stick around.  conversation was stuck on bedtime routine
+
+Follow-up
+- [[id:66C69584-4393-45FE-BEC7-A23DAB7A1619][Kelly Gaines]] - Hi.  Glad you had real-person session
+
+** 3:45 Session - [[id:E06A24F8-93CC-467B-88CD-22A5C8A5C324][JitterTed]] - Looking for bad code for good coaching/training
+
+*** People
+- Nicolas Carlo
+- JitterTed  
+
+*** Notes
+[[id:5B85C6EB-19DC-444B-9744-47CF55B23C15][Nicolas Carlo]] - On treadmill w/ infant
+
+[[id:E06A24F8-93CC-467B-88CD-22A5C8A5C324][JitterTed]]
+
+Follow-up
+- [[id:E06A24F8-93CC-467B-88CD-22A5C8A5C324][JitterTed]] - Connect/bond on coaching.
+- [[id:E06A24F8-93CC-467B-88CD-22A5C8A5C324][JitterTed]] - Cognative Load Theory
+- TED talk - "How People Learn"
+- Who is Peter Kofler?
+- Connect [[id:E06A24F8-93CC-467B-88CD-22A5C8A5C324][JitterTed]] and [[id:A6270C3F-E4A3-450F-A7DD-5BF994FA11C8][Marian Hartman]]    
+
+
+** 4:30 Session - Take-aways and Meet/Greet
+
+
+*** Follow-up
+- Schedule AONW 2025
+- <2024-10-24 Thu> - [[id:E014CF53-E5C3-44D2-BCAC-7A576BE3B0DB][David Bernstein]] at [[id:15737E11-7ABC-481C-B98F-96AF7E4A281A][Seattle Software Crafters]]
+- [[id:C78E5DC4-E9C3-4F61-B3A9-F03EDB782C26][William Wallace]] - How to be a generalist?  We have each other.  Connect on LinkedIn.
+- Register for [[id:C2B1EC35-E33D-454C-B80D-B81754D40747][Hunter Industries]] visitor program
+- Connect w/ [[id:ABB5669F-A38D-464E-A625-E178BB62C269][Software Crafters - Atlanta]] through [[id:36D07DA1-6C8C-47BC-A833-848A3F05BC2F][Ryan Robbins]] and [[id:2B2C1D88-59E7-4042-8C03-761266653735][Mike Clement]]
+- Attend [[id:E06A24F8-93CC-467B-88CD-22A5C8A5C324][JitterTed]] Sunday book club.  Seee http://ted.dev.
+
+
+** GatherTown Chat
+
+
+Michael Wolf
+Mike Clement
+Danny Warren - UT
+Chuck
+William Wallace (Atlanta, he/him)
+
+Chat
+
+Room
+
+Nearby
+
+Inbox
+blank
+(52)
+Dwayne Green
+11:23 AM
+https://www.linkedin.com/in/dwaynegreen7/
+William Wallace (Atlanta, he/him)
+11:23 AM
+https://www.linkedin.com/in/wwallaceatl/
+Garion Cox
+11:23 AM
+https://www.linkedin.com/in/garion-cox/
+Rodrigo Coto
+11:23 AM
+https://www.linkedin.com/in/rodrigo-coto/
+Kalin Nebeker
+11:24 AM
+https://www.linkedin.com/in/kalin-nebeker/
+Jesús S.
+11:25 AM
+linkedin.com/in/jesús-sunuc-aa052a202
+Paige Watson
+11:25 AM
+https://www.linkedin.com/in/paige-is-xp/
+Sarah Martin
+11:25 AM
+www.linkedin.com/in/sarah-m-b31156257
+Joel
+11:32 AM
+https://www.linkedin.com/in/mrjoelrobinson/
+Danny Faught
+11:34 AM
+https://www.amazon.com/Developer-Hegemony-Future-Erik-Dietrich-ebook/dp/B0722H41SG/ref=as_li_ss_tl?_encoding=UTF8&qid=1493700419&sr=8-1&linkCode=sl1&tag=daed-20&linkId=f7ebdb74d02ef6c5d750bd854f73d081
+Jay Bazuzi (Seattle, he or they)
+11:35 AM
+Sans tracking: https://www.amazon.com/Developer-Hegemony-Future-Erik-Dietrich-ebook/dp/B0722H41SG/
+Garrick West
+11:39 AM
+Sounds like "Lord of the Flies"
+Jemadean Vasquez
+11:47 AM
+Thanks Chris!
+David Batten
+12:26 PM
+I have to step away for work. Thanks so much everyone
+Steven D (Raleigh. NC)
+1:43 PM
+https://sites.google.com/site/steveyegge2/being-the-averagest
+Matthew Knowles - GA
+1:52 PM
+Making it easier for the developers to safely deliver value to customers?
+A catalyst for developer productivity?
+Steve Kuo
+2:06 PM
+How to get people collaborating? They are already. Find the opportunities of where it's happening and highlight the good. Craft a short experiment with feedback loops to try it. Like let's pair on one story this sprint or someone pairs with me 1 hour today on a story...
+Chris Lucian
+2:27 PM
+🧀
+Marko B
+3:46 PM
+i'll come to Purple to facilitate VERY SOON :) sorry
+Gus Murphy
+4:02 PM
+https://github.com/kuoman/6-Minute_Interview/tree/master
+Michael Wolf
+4:29 PM
+I'm starting a conga line.
+Come follow me.
+William Wallace (Atlanta, he/him)
+4:33 PM
+my avatar definitely does not know how to play an accordion
+Brenden Riggs - BALT
+4:34 PM
+🪗
+Chris Lucian
+4:39 PM
+@BrianFreeman we could not hear you because of internet issue if you want to type it out in chat
+Ted (JitterTed)
+4:40 PM
+it IS always DNS
+Jay Bazuzi (Seattle, he or they)
+4:40 PM
+Pretty much no one is as humble as we are!
+Brian Freeman
+4:40 PM
+My 2 take aways - keep interview skills up by interviewing at least twice a year and code katas are about skill development not solving problems.
+Steve Taggart (he/him)
+4:40 PM
+🤣@Jay
+Daniel Ranner
+4:41 PM
+@jitterTed which is just cache invalidation and naming things, what's so hard about that?
+Brian Freeman
+4:41 PM
++
+William Wallace (Atlanta, he/him)
+4:41 PM
+did the exception control flow group keep their code anywhere? 👀
+Ted (JitterTed)
+4:41 PM
+@Daniel 😂
+Lada Kesseler
+4:41 PM
++1 for that, thanks so much for the Exceptions coding fun, Peter
+We have it in bitbucket, William
+Michael Wolf
+4:42 PM
+Bravo -- Great snacks!
+Lada Kesseler
+4:42 PM
+er, pastebin https://pastebin.com/WFfWrjZz
+code from that session
+Ted (JitterTed)
+4:45 PM
+I also felt really at home! wow.
+Chris Lucian
+4:46 PM
+28 second is the right number of awkward silence
+Nathan
+4:46 PM
+Mike, what did you learn?
+Steve Kuo
+4:46 PM
+Not longer than me!
+Danny Warren - UT
+4:46 PM
+Oh a show down of awkward silence between Steve and Mike would be EPIC!!!
+Luis M
+4:46 PM
+Ciao! Was really interesting hearing about other people's thoughts on agile methodology
+Capital A and otherwise
+Danny Warren - UT
+4:47 PM
+WOOT WOOT ELLIS!
+TTV/vazor222
+4:50 PM
+/me also had to get up at 7am haha
+Jay Bazuzi (Seattle, he or they)
+4:50 PM
+It starts when it starts.
+Sarah Martin
+4:50 PM
+🤣
+Chris Lucian
+4:51 PM
+Need to clone Mike
+Michael Wolf
+4:51 PM
+Bob Allen did a "mobbing around the world" that jumped time zones.
+Raimo
+4:51 PM
+I would love to understand the logistics of running scunconf
+Brian Freeman
+4:51 PM
+24 hr. unconference
+Ryan Robbins (he/him)
+4:52 PM
+:)
+Steve Kuo
+4:52 PM
+qYour check is in the mail @elis
+Michael Wolf
+4:53 PM
+Talk to Garrick about https://www.agileopennorthwest.org/
+Ryan Robbins (he/him)
+4:55 PM
+https://www.linkedin.com/in/ryanarobbins/
+Steve Taggart (he/him)
+4:55 PM
+https://www.linkedin.com/in/stevetaggart/
+Sheneeka Ward (Atlanta - She|Her)
+4:55 PM
+https://www.linkedin.com/in/sheneeka-ward-39566767/
+Nicolas Carlo
+4:55 PM
+Indeed, if you want to connect: https://www.linkedin.com/in/nicolas-carlo-095b243b/
+Ellis Lempriere
+4:55 PM
+https://www.linkedin.com/in/ellis-lempriere/
+Marko B
+4:55 PM
+https://www.linkedin.com/in/markobjelac
+Brenden Riggs - BALT
+4:55 PM
+https://www.linkedin.com/in/brenden-riggs/
+Jon Turner
+4:55 PM
+https://www.linkedin.com/in/jonathan-m-turner/
+Wade Beveridge - UT
+4:55 PM
+https://www.linkedin.com/in/wade-beveridge-83b261173/
+Steve Kuo
+4:55 PM
+https://www.linkedin.com/in/stevekuo/
+Paige Watson
+4:55 PM
+https://www.linkedin.com/in/paige-is-xp/
+Chris Stone
+4:55 PM
+https://www.linkedin.com/in/chrisstonedev/
+Garrick West
+4:56 PM
+https://www.linkedin.com/in/garrickwest/
+Jordan Cooper
+4:56 PM
+https://www.linkedin.com/in/jordan-d-cooper/
+Gus Murphy
+4:56 PM
+https://www.linkedin.com/in/gusmurphy/
+William Wallace (Atlanta, he/him)
+4:56 PM
+https://www.linkedin.com/in/wwallaceatl
+Mike Clement
+4:56 PM
+https://www.linkedin.com/in/mclement/
+Chris Lucian
+4:56 PM
+I accidently made one by clicking that "log in as " button that google gives you... https://www.linkedin.com/in/chris-lucian/
+Danny Warren - UT
+4:56 PM
+https://www.linkedin.com/in/dannydwarren/
+Jon Turner
+4:56 PM
+Utah SC website: http://utahsc.org/
+Leah Wynn
+4:56 PM
+https://www.linkedin.com/in/leahvwynn/
+Kelly Gaines
+4:57 PM
+https://www.linkedin.com/in/kellygaines-it/
+Jemadean Vasquez
+4:57 PM
+https://www.linkedin.com/in/jemadean-vasquez/
+Michael Wolf
+4:57 PM
+https://www.linkedin.com/in/MRWolf/
+Ted (JitterTed)
+4:57 PM
+https://www.linkedin.com/in/tedmyoung/
+Danny Warren - UT
+4:58 PM
+Today's Open Space has been my favorite and most productive to date. Super great!
+Neil
+4:58 PM
+https://www.linkedin.com/in/neil-sorensen-a516918a/
+Chris Lucian
+4:58 PM
+🧛‍♂️🦇🧛‍♀️🧛‍♂️🦇
+Ted (JitterTed)
+5:00 PM
+https://ted.dev/book-club/
+Sheneeka Ward (Atlanta - She|Her)
+5:00 PM
+
+
+
+
+
+
+
+
+
+
+51

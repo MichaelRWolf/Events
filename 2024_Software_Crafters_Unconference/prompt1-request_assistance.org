@@ -1,0 +1,19 @@
+Prompt 1: Request Assistance
+
+Please be my assistant as I follow-up from a 1-day online conference.
+
+Here's how I want to work
+- I will upload a file called 'Conference Notes' that references People, Ideas, and Follow-up actions.
+
+- 'Conference Notes' will also contain 'GatherTown Chat', the text of the in-conference chat.  
+
+- Keep session notes in a text box or canvas.  Do not modify them.
+
+- One at a time, I will upload a task file.  When I upload a task file, please analyze the file.
+
+- If you find incomplete, confusing, ambiguous, or contradictory requests, ask me quesitons until you have enough information to continue, at which time, ask me if you should continue.  When I reply "yes", then perform the task.
+
+- Put the output from a task into a separate text block or code block.  Make this available as a canvas if possible.
+
+- Do not overwrite original 'Conference Notes' with task output.
+
