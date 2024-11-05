@@ -1,5 +1,7 @@
 * People
 
+** As numbered list
+
 1. Arhin, Nana - https://www.linkedin.com
 2. Blackburn, Russell - https://www.linkedin.com
 3. Bridges, George - https://www.linkedin.com
@@ -40,6 +42,51 @@
 38. Witherspoon, LaVern - https://www.linkedin.com
 39. Imtiaz
 
+
+
+** As Table
+
+|----+--------------------------+--------------------------|
+|  1 | Nana Arhin               | https://www.linkedin.com |
+|  2 | Russell Blackburn        | https://www.linkedin.com |
+|  3 | George Bridges           | https://www.linkedin.com |
+|  4 | Romona Benson            | https://www.linkedin.com |
+|  5 | Juli Booze-Jervis        |                          |
+|  6 | Laura Brandenburg        | https://www.linkedin.com |
+|  7 | Robby Boys               | https://www.linkedin.com |
+|  8 | Nichelle Butler Sankey   |                          |
+|  9 | Cris Casey               |                          |
+| 10 | John Coutu               | https://www.linkedin.com |
+| 11 | Angelia Davis            | https://www.linkedin.com |
+| 12 | Todd Duchaine            |                          |
+| 13 | ReShockie Furnace        | https://www.linkedin.com |
+| 14 | Kerry Herron             |                          |
+| 15 | Lakievia "Lucky" Johnson | https://www.linkedin.com |
+| 16 | Sharon King              |                          |
+| 17 | Srinath Kondabathini     | https://www.linkedin.com |
+| 18 | David Mantica            |                          |
+| 19 | Russ Maynard             | https://www.linkedin.com |
+| 20 | Jonathan Mickles         | https://www.linkedin.com |
+| 21 | Jesse Morgan             | https://www.linkedin.com |
+| 22 | Shelley Morris           |                          |
+| 23 | Laura Nichols            |                          |
+| 24 | Laura Nichols            |                          |
+| 25 | Craig Oliver             | https://www.linkedin.com |
+| 26 | Cesar Partida            | https://www.linkedin.com |
+| 27 | Janet Perez              | https://www.linkedin.com |
+| 28 | Gil Pizano               | https://www.linkedin.com |
+| 29 | Tim Roby                 |                          |
+| 30 | Tim Roby                 |                          |
+| 31 | Syed Ammar Raza          |                          |
+| 32 | Sam Slater               | https://www.linkedin.com |
+| 33 | Nakoya Solomon           | https://www.linkedin.com |
+| 34 | Jonathan Stephens        | https://www.linkedin.com |
+| 35 | Julia Taylor             | https://www.linkedin.com |
+| 36 | Sheila Mullen            |                          |
+| 37 | Michael Wolf             | https://www.linkedin.com |
+| 38 | LaVern Witherspoon       | https://www.linkedin.com |
+| 39 | Imtiaz                   |                          |
+|----+--------------------------+--------------------------|
 
 
 * Sessions
