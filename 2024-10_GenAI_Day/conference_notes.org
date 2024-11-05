@@ -1,0 +1,94 @@
+* People
+
+1. Arhin, Nana - https://www.linkedin.com
+2. Blackburn, Russell - https://www.linkedin.com
+3. Bridges, George - https://www.linkedin.com
+4. Benson, Romona - https://www.linkedin.com
+5. Booze-Jervis, Juli
+6. Brandenburg, Laura - https://www.linkedin.com
+7. Boys, Robby - https://www.linkedin.com
+8. Butler Sankey, Nichelle
+9. Casey, Cris
+10. Coutu, John - https://www.linkedin.com
+11. Davis, Angelia - https://www.linkedin.com
+12. Duchaine, Todd
+13. Furnace, ReShockie - https://www.linkedin.com
+14. Herron, Kerry
+15. "Lucky" Johnson, Lakievia - https://www.linkedin.com
+16. King, Sharon
+17. Kondabathini, Srinath - https://www.linkedin.com
+18. Mantica, David
+19. Maynard, Russ - https://www.linkedin.com
+20. Mickles, Jonathan - https://www.linkedin.com
+21. Morgan, Jesse - https://www.linkedin.com
+22. Morris, Shelley
+23. Nichols, Laura
+24. Nichols, Laura
+25. Oliver, Craig - https://www.linkedin.com
+26. Partida, Cesar - https://www.linkedin.com
+27. Perez, Janet - https://www.linkedin.com
+28. Pizano, Gil - https://www.linkedin.com
+29. Roby, Tim
+30. Roby, Tim
+31. Ammar Raza, Syed
+32. Slater, Sam - https://www.linkedin.com
+33. Solomon, Nakoya - https://www.linkedin.com
+34. Stephens, Jonathan - https://www.linkedin.com
+35. Taylor, Julia - https://www.linkedin.com
+36. Mullen, Sheila
+37. Wolf, Michael - https://www.linkedin.com
+38. Witherspoon, LaVern - https://www.linkedin.com
+39. Imtiaz
+
+
+
+* Sessions
+** 9:00 Session - Kick-off
+*** People
+- Lara
+- David Mantica  
+
+** 9:45 Session - Lloyd Thompson
+
+
+** People 
+- Lloyd Thompson - Presenter
+
+gamma.app -
+
+
+
+
+** - Samuel Parri - GenAI for Project Management
+
+
+
+** 11:30 - George Churchwell - Beyond the Hype: Navigating the Realities of Enterprise AI Adoption
+
+
+* Follow-up
+
+* Agenda
+
+
+
+
+| Begin - End   | Presenter : Session Title                                                                         |
+|---------------+---------------------------------------------------------------------------------------------------|
+| 9:30 - 9:45   | David Mantica and Lara Hill: Welcome                                                              |
+| 9:45 - 10:15  | Loyd Thompson: Creating PowerPoint Presentations with Generative AI                               |
+| 10:15 - 10:45 | Samuel Parri: Gen AI for Project Management: Getting started with AI Concepts, Tools, & Use Cases |
+| 10:45 - 10:50 | Break / Networking / Open Forum                                                                   |
+| 10:50 - 11:20 | Abrar Hashmi: Empowering Data Governance with Generative AI                                       |
+| 11:20 - 12:05 | George Churchwell: Beyond the Hype: Navigating the Realities of Enterprise AI Adoption            |
+| 12:05 - 12:25 | Lunch Break                                                                                       |
+| 12:25 - 1:15  | Chris Knotts: Applied Generative AI for Project Management                                        |
+| 1:15 - 1:55   | Marc Balcer: Inverting TDD - AI-Generated Tests as Specifications                                 |
+| 1:55 - 2:00   | Break / Networking / Open Forum                                                                   |
+| 2:00 - 2:45   | Om Hashmi: Bridging Innovation and Execution: The TPM's Role in Gen AI Projects                   |
+| 2:45 - 3:15   | Jonathan Stephens: Low code, no-code, AI...oh my!                                                 |
+| 3:15 - 3:30   | Break / Networking / Open Forum                                                                   |
+| 3:30 - 4:00   | Taher Jamshidi: Navigating Generative AI in the Public Sector                                     |
+| 4:00 - 4:50   | Michael Schank: Unleashing Digital Twins to Power Operational Excellence                          |
+| 4:50 - 5:00   | David Mantica and Lara Hill: Q&A Session                                                          |
+
