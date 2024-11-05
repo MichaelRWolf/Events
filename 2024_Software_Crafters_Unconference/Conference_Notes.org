@@ -63,7 +63,7 @@ TODO Ask Chris Flashlight Learning
 ** 11:00 Session - [[id:DA04D95A-3502-4079-9369-1446CDF14BE9][Dave Foley]] - Why are we bad at software training?
 
 *** People
--  Dave Foley - Leader.  4 in company.  Lean.  Agile. People based training.  Look for approval speed and experience.
+- Dave Foley - Leader.  4 in company.  Lean.  Agile. People based training.  Look for approval speed and experience.
 - JitterTed - "Ticket Taker Developer"
 - Garrick West
 - Paige Watson

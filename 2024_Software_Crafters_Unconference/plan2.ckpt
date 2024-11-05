@@ -1,0 +1,230 @@
+
+**Contact Cards**
+
+File: ConferenceContacts.vcf
+```
+BEGIN:VCARD
+VERSION:3.0
+FN:Mike Clement
+N:Clement;Mike;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Ryan Robbins
+N:Robbins;Ryan;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Jon Turner
+N:Turner;Jon;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Leah Wynn
+N:Wynn;Leah;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Chris Stone
+N:Stone;Chris;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Steve Kuo
+N:Kuo;Steve;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Garrick West
+N:West;Garrick;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Chris Lucian
+N:Lucian;Chris;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:JitterTed
+N:JitterTed;;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Kelly Gaines
+N:Gaines;Kelly;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:William Wallace
+N:Wallace;William;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Dwayne Green
+N:Green;Dwayne;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Garion Cox
+N:Cox;Garion;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Rodrigo Coto
+N:Coto;Rodrigo;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Kalin Nebeker
+N:Nebeker;Kalin;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Jesús S.
+N:S.;Jesús;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Sarah Martin
+N:Martin;Sarah;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Joel
+N:Joel;;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Sheneeka Ward
+N:Ward;Sheneeka;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Nicolas Carlo
+N:Carlo;Nicolas;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Ellis Lempriere
+N:Lempriere;Ellis;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Marko B
+N:B;Marko;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Brenden Riggs - BALT
+N:Riggs;Brenden;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Wade Beveridge - UT
+N:Beveridge;Wade;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Jordan Cooper
+N:Cooper;Jordan;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Gus Murphy
+N:Murphy;Gus;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Jemadean Vasquez
+N:Vasquez;Jemadean;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Neil
+N:Neil;;;;
+NOTES:Attended Software Crafters Unconference 2024
+CATEGORIES:SWUC2024
+END:VCARD
+```
+
