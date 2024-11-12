@@ -1,33 +1,34 @@
 ** Table
- 
 
+|----------------------+---------------------------------------------------------------------|
 | Name                 | LinkedIn URL                                                        |
 |----------------------+---------------------------------------------------------------------|
-| Russell Blackburn    | https://LinkedIn.com/in/russ-blackburn-maolpmp-70159812             |
-| Michael Wolf         | https://LinkedIn.com/in/MRWolf                                      |
-| Laura Brandenburg    | https://LinkedIn.com/in/laurabrandenburg/                           |
-| Craig Oliver         | https://LinkedIn.com/in/craigpoliver/                               |
-| Srinath Kondabathini | https://LinkedIn.com/in/srinath-k-852362a/                          |
-| Jesse Morgan         | https://LinkedIn.com/in/jesse-g-morgan                              |
-| Julia Taylor         | https://LinkedIn.com/in/juliataylorcpc/                             |
+| Angelia Davis        | https://LinkedIn.com/in/angelia-davis/                              |
 | Cesar Partida        | https://LinkedIn.com/in/cesar-partida-pmbilingualprojectmanagement/ |
+| Craig Oliver         | https://LinkedIn.com/in/craigpoliver/                               |
+| Cris Casey           | https://LinkedIn.com/in/criscasey/                                  |
+| George Churchwell    | https://LinkedIn.com/in/georgechurchwell-6a6a/                      |
+| Gil Pizano           | https://LinkedIn.com/in/gilpizano                                   |
+| Janet Perez          | https://LinkedIn.com/in/janetperez4/                                |
+| Jeff Justiz          | https://LinkedIn.com/in/jjustiz/                                    |
+| Jesse Morgan         | https://LinkedIn.com/in/jesse-g-morgan                              |
+| John Ruppel          | https://LinkedIn.com/in/johnruppel/                                 |
+| Jonathan Mickles     | http://LinkedIn.com/gr8fulbishop                                    |
+| Jonathan Stephens    | https://LinkedIn.com/in/elnatnal                                    |
+| Julia Taylor         | https://LinkedIn.com/in/juliataylorcpc/                             |
+| Kara Flanagan        | https://LinkedIn.com/in/karaflanagan/                               |
+| Krista Roes          | https://LinkedIn.com/in/kristaroes                                  |
 | LaVern Witherspoon   | https://LinkedIn.com/in/lavernowitherspoon                          |
-| Sam Slater           | https://LinkedIn.com/in/samanthaconlynslater/                       |
-| Romona Benson        | https://LinkedIn.com/in/romona-benson                               |
+| Lakievia Johnson     | https://LinkedIn.com/in/lakieviajohnson                             |
+| Laura Brandenburg    | https://LinkedIn.com/in/laurabrandenburg/                           |
+| Michael Wolf         | https://LinkedIn.com/in/MRWolf                                      |
 | Nakoya Solomon       | https://LinkedIn.com/in/nakoya-solomon-63b603a5                     |
 | Robby Boys           | https://LinkedIn.com/in/robby-boys-pmpb7820566/                     |
-| Angelia Davis        | https://LinkedIn.com/in/angelia-davis/                              |
-| Jonathan Stephens    | https://LinkedIn.com/in/elnatnal                                    |
-| Jeff Justiz          | https://LinkedIn.com/in/jjustiz/                                    |
-| Jonathan Mickles     | http://LinkedIn.com/gr8fulbishop                                    |
-| Lakievia Johnson     | https://LinkedIn.com/in/lakieviajohnson                             |
-| Janet Perez          | https://LinkedIn.com/in/janetperez4/                                |
-| Gil Pizano           | https://LinkedIn.com/in/gilpizano                                   |
-| John Ruppel          | https://LinkedIn.com/in/johnruppel/                                 |
-| Krista Roes          | https://LinkedIn.com/in/kristaroes                                  |
-| George Churchwell    | https://LinkedIn.com/in/georgechurchwell-6a6a/                      |
-| Kara Flanagan        | https://LinkedIn.com/in/karaflanagan/                               |
-| Cris Casey           | https://LinkedIn.com/in/criscasey/                                  |
+| Romona Benson        | https://LinkedIn.com/in/romona-benson                               |
+| Russell Blackburn    | https://LinkedIn.com/in/russ-blackburn-maolpmp-70159812             |
+| Sam Slater           | https://LinkedIn.com/in/samanthaconlynslater/                       |
+| Srinath Kondabathini | https://LinkedIn.com/in/srinath-k-852362a/                          |
+|----------------------+---------------------------------------------------------------------|
 
 
 ** Text

@@ -46,47 +46,51 @@
 
 ** As Table
 
-|----+--------------------------+--------------------------|
-|  1 | Nana Arhin               | https://www.linkedin.com |
-|  2 | Russell Blackburn        | https://www.linkedin.com |
-|  3 | George Bridges           | https://www.linkedin.com |
-|  4 | Romona Benson            | https://www.linkedin.com |
-|  5 | Juli Booze-Jervis        |                          |
-|  6 | Laura Brandenburg        | https://www.linkedin.com |
-|  7 | Robby Boys               | https://www.linkedin.com |
-|  8 | Nichelle Butler Sankey   |                          |
-|  9 | Cris Casey               |                          |
-| 10 | John Coutu               | https://www.linkedin.com |
-| 11 | Angelia Davis            | https://www.linkedin.com |
-| 12 | Todd Duchaine            |                          |
-| 13 | ReShockie Furnace        | https://www.linkedin.com |
-| 14 | Kerry Herron             |                          |
-| 15 | Lakievia "Lucky" Johnson | https://www.linkedin.com |
-| 16 | Sharon King              |                          |
-| 17 | Srinath Kondabathini     | https://www.linkedin.com |
-| 18 | David Mantica            |                          |
-| 19 | Russ Maynard             | https://www.linkedin.com |
-| 20 | Jonathan Mickles         | https://www.linkedin.com |
-| 21 | Jesse Morgan             | https://www.linkedin.com |
-| 22 | Shelley Morris           |                          |
-| 23 | Laura Nichols            |                          |
-| 24 | Laura Nichols            |                          |
-| 25 | Craig Oliver             | https://www.linkedin.com |
-| 26 | Cesar Partida            | https://www.linkedin.com |
-| 27 | Janet Perez              | https://www.linkedin.com |
-| 28 | Gil Pizano               | https://www.linkedin.com |
-| 29 | Tim Roby                 |                          |
-| 30 | Tim Roby                 |                          |
-| 31 | Syed Ammar Raza          |                          |
-| 32 | Sam Slater               | https://www.linkedin.com |
-| 33 | Nakoya Solomon           | https://www.linkedin.com |
-| 34 | Jonathan Stephens        | https://www.linkedin.com |
-| 35 | Julia Taylor             | https://www.linkedin.com |
-| 36 | Sheila Mullen            |                          |
-| 37 | Michael Wolf             | https://www.linkedin.com |
-| 38 | LaVern Witherspoon       | https://www.linkedin.com |
-| 39 | Imtiaz                   |                          |
-|----+--------------------------+--------------------------|
+See instead: 
+file:/Users/michael/Events/2024-10-30_GenAI_Day/GenAI_Day_linkedin_addresses.org
+
+
+|--------------------------+--------------------------|
+| Angelia Davis            | https://www.linkedin.com |
+| Cesar Partida            | https://www.linkedin.com |
+| Craig Oliver             | https://www.linkedin.com |
+| Cris Casey               |                          |
+| David Mantica            |                          |
+| George Bridges           | https://www.linkedin.com |
+| Gil Pizano               | https://www.linkedin.com |
+| Imtiaz                   |                          |
+| Janet Perez              | https://www.linkedin.com |
+| Jesse Morgan             | https://www.linkedin.com |
+| John Coutu               | https://www.linkedin.com |
+| Jonathan Mickles         | https://www.linkedin.com |
+| Jonathan Stephens        | https://www.linkedin.com |
+| Juli Booze-Jervis        |                          |
+| Julia Taylor             | https://www.linkedin.com |
+| Kerry Herron             |                          |
+| LaVern Witherspoon       | https://www.linkedin.com |
+| Lakievia "Lucky" Johnson | https://www.linkedin.com |
+| Laura Brandenburg        | https://www.linkedin.com |
+| Laura Nichols            |                          |
+| Laura Nichols            |                          |
+| Michael Wolf             | https://www.linkedin.com |
+| Nakoya Solomon           | https://www.linkedin.com |
+| Nana Arhin               | https://www.linkedin.com |
+| Nichelle Butler Sankey   |                          |
+| ReShockie Furnace        | https://www.linkedin.com |
+| Robby Boys               | https://www.linkedin.com |
+| Romona Benson            | https://www.linkedin.com |
+| Russ Maynard             | https://www.linkedin.com |
+| Russell Blackburn        | https://www.linkedin.com |
+| Sam Slater               | https://www.linkedin.com |
+| Sharon King              |                          |
+| Sheila Mullen            |                          |
+| Shelley Morris           |                          |
+| Srinath Kondabathini     | https://www.linkedin.com |
+| Syed Ammar Raza          |                          |
+| Tim Roby                 |                          |
+| Tim Roby                 |                          |
+| Todd Duchaine            |                          |
+|--------------------------+--------------------------|
 
 
 * Sessions
