@@ -1,0 +1,3587 @@
+GenAI Enterprise Adoption: Tools, Use Cases, and Missteps
+Chat Logs
+00:45:27 Robby Boys: Hello from Richmond VA
+00:45:42 ReShockie Furnace: Hello! ReShockie Furnace joining from
+Durham, NC. This is my 1st GenAI day and I'm excited to be here!
+00:45:53 Laura Brandenburg: First timer here. :-)
+00:45:59 Russell Blackburn: www.linkedin.com/in/russ-blackburn-maolpmp-
+70159812
+00:45:59 Skills Development Group: Hi Laura, welcome!
+00:46:20 Michael Wolf: EST - Michigan, New York, Florida - Technomad
+- https://LinkedIn.com/in/MRWolf
+00:46:22 Suba Perumal: Reacted to "First Timer, NC" with
+00:46:35 John Coutu: OC, Oregon
+00:46:38 David Mantica--Co-host!!!: Russell thank you for sending your
+LinkedIN
+00:46:50 David Mantica--Co-host!!!: Please feel free to share your
+linkedIn url
+00:46:57 David Mantica--Co-host!!!: for networking
+00:47:10 David Mantica--Co-host!!!: If you are looking for a job, let
+folks know in chat
+00:47:11 Jonathan Stephens (he/him): Likewise
+00:47:23 David Mantica--Co-host!!!: GREAT TO Have you Samuel!!
+00:47:29 David Mantica--Co-host!!!: and you Loyd!!!
+00:47:52 Laura Brandenburg: Happy to connect with you all on LinkedIn:
+https://www.linkedin.com/in/laurabrandenburg/
+00:48:05 David Mantica--Co-host!!!: Laura!!! Great to have you!!!!
+00:48:25 Laura Brandenburg: Replying to "Laura!!! Great to h..."
+Great to see you again David!
+00:48:44 Craig Oliver: Happy to connect!
+https://www.linkedin.com/in/craigpoliver/
+00:48:44 David Mantica--Co-host!!!: Replying to "Laura!!! Great to
+h..."
+Look forward to hearing your thoughts and ideas on AI!
+00:48:45 Nana Arhin: Good Morning from Houston, TX! - Nana Arhin |
+LinkedIn
+00:48:48 LaVern Witherspoon - IIBA RTP Marketing: Reacted to "GM from
+IIBA Raleigh..." with
+00:48:53 Srinath Kondabathini: https://www.linkedin.com/in/srinath-k-
+852362a/
+00:48:54 David Mantica--Co-host!!!: Good morning Nana!!!
+00:49:05 David Mantica--Co-host!!!: Yes please share your LinkedIn!!!
+thank you Srinath
+00:49:33 Robert Parsons: Good morning from Toronto!
+00:49:38 Skills Development Group: good morning
+00:49:38 Tim Roby: Hello from Oregon. Representing Portland Metro
+chapter.
+00:49:52 Skills Development Group: thank you for the support sponsors!
+00:49:52 ReShockie Furnace: ReShockie Furnace, PMP | LinkedIn
+00:50:01 Jesse Morgan: linkedin.com/in/jesse-g-morgan Hi everyone, I
+am currently looking for a new opportunity
+00:50:15 Julia Taylor: I've already attempted to connect with some of
+you, lol, but my linkedin is https://www.linkedin.com/in/juliataylorcpc/
+00:50:16 Cesar Partida | Seeking new opportunities!:
+https://www.linkedin.com/in/cesar-partida-pmbilingualprojectmanagement/
+00:50:20 LaVern Witherspoon - IIBA RTP Marketing:
+https://www.linkedin.com/in/lavernowitherspoon
+00:50:32 Sam Slater:
+https://www.linkedin.com/in/samanthaconlynslater/
+00:50:34 Romona Benson: https://www.linkedin.com/in/romona-benson
+#OpentoWork
+00:50:40 Todd Duchaine: Todd Duchaine | LinkedIn
+00:50:56 Nakoya Solomon: https://www.linkedin.com/in/nakoya-solomon-
+63b603a5
+00:51:05 Robby Boys: https://www.linkedin.com/in/robby-boys-pmpb7820566/
+00:51:33 Nichelle Butler Sankey: #opentowork - Nichelle Butler
+Sankey | LinkedIn
+00:51:37 Srinath Kondabathini: I am working for a federal contractor at
+Vienna, VA, I am looking for a new job. I am Scrum Master/ Project &
+Porgram Manager - https://www.linkedin.com/in/srinath-k-852362a/
+00:51:40 Angelia Davis: Good morning, from South
+Carolina...https://www.linkedin.com/in/angelia-davis/
+00:51:50 Jonathan Stephens (he/him): <3 woo!
+https://linkedin.com/in/elnatnal
+Open for work as well
+00:52:03 Cris Casey: There's a choice?
+00:52:12 Skills Development Group: Reacted to "There's a choice?" with
+00:52:14 Jeff Justiz: Hi from Toronto and open for work:
+https://www.linkedin.com/in/jjustiz/
+00:52:35 Jonathan Mickles: Good morning everyone. Looking for a
+seasoned Program Manager as a mentor. http://LinkedIn.com/gr8fulbishop.
+Also open to a PM position/networking in the AI, real estate and/or block
+chain technologies
+00:52:45 Shelley Morris: Reacted to There's a choice? with " "
+00:53:03 Nichelle Butler Sankey: AI is a tool and a great resource.
+I always want to be on the front lines learning and growing.
+00:53:06 David Mantica--Co-host!!!: Thank you Jonathan for that job
+post!!!
+00:53:12 David Mantica--Co-host!!!: Nichelle!!!
+00:53:40 Jonathan Stephens (he/him): Reacted to "There's a choice?" with
+00:54:22 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Connect with
+me on LinkedIn:
+https://www.linkedin.com/in/lakieviajohnson?utm_source=share&utm_campaign
+=share_via&utm_content=profile&utm_medium=android_app
+00:54:23 Janet Perez: Happy to connect:
+https://www.linkedin.com/in/janetperez4/
+00:54:44 Gil Pizano: https://www.linkedin.com/in/gilpizano
+Glad to connect with people!
+Good morning from Richmond, VA!
+00:54:51 David Mantica--Co-host!!!: Replying to "AI is a tool and a
+g..."
+I completely agree!!! The earlier you know the better you can compete
+00:55:03 Skills Development Group: Here is the agenda, speaker bios:
+Generative AI Day 4
+00:55:05 David Mantica--Co-host!!!: Great having you Gil!!!
+00:55:20 David Mantica--Co-host!!!: https://gamma.app
+00:55:30 David Mantica--Co-host!!!: gamma is a powerful tool
+00:55:40 David Mantica--Co-host!!!: Great too to have in our resource
+kit
+00:55:47 David Mantica--Co-host!!!: has anyone been using it out there?
+00:55:56 Janine Viveiros: Do we have to sign up first?
+00:56:09 Skills Development Group: Replying to "Do we have to sign
+u..."
+sign up for free
+00:56:15 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Here is the agenda, ..." with
+00:56:51 Robby Boys: Reacted to "https://www.linkedin..." with
+00:56:57 Srinath Kondabathini: I am working for a federal contractor at
+Vienna, VA, I am looking for a new job. I am Scrum Master/ Project &
+Porgram Manager - https://www.linkedin.com/in/srinath-k-852362a/
+00:57:32 David Mantica--Co-host!!!: Good to know Srinath
+00:57:55 Neale Mulligan: can you add speaker notes in a similar way?
+00:58:07 David Mantica--Co-host!!!: Neale, we will ask that question
+00:58:13 Srinath Kondabathini: Thank you David.
+00:59:30 David Mantica--Co-host!!!: What is your tool of choice? It
+would be interesting to see what people are using as their primary tool
+00:59:47 Cesar Partida | Seeking new opportunities!: Reacted to "Please
+feel free to ..." with
+01:00:03 Jonathan Mickles: I also can refer Cyber professionals to
+positions. There are several open. Feel free to connect
+http://LinkedIn.com/gr8fulbishop
+01:00:03 David Mantica--Co-host!!!: I am a 50/50 claude / chatgpt
+person
+01:00:17 David Mantica--Co-host!!!: Great share Jonathan!
+01:00:22 Nichelle Butler Sankey: Replying to "What is your tool
+of..."
+ChatGPT or CoPilot
+01:00:23 Skills Development Group: Reacted to "I also can refer
+Cyb..." with
+01:00:41 Nichelle Butler Sankey: Reacted to "I also can refer
+Cyb..." with
+01:01:04 LaVern Witherspoon - IIBA RTP Marketing: I’ve been using
+gemini and co-pilot
+01:01:17 David Mantica--Co-host!!!: cool LaVern!
+01:01:29 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Replying to
+"I’ve been using gemi..."
+I love Gemini! I haven't done much with co-pilot yet.
+01:01:56 David Mantica--Co-host!!!: Replying to "I’ve been using
+gemi..."
+when you have time tell us what you like best about Gemini!
+01:02:10 Cesar Partida | Seeking new opportunities!: Reacted to "I love
+Gemini! I hav..." with
+01:02:17 Jonathan Mickles: Can I share a template ppt and ask it to
+create / update from notes?
+01:02:19 David Mantica--Co-host!!!: any questions!!!
+01:02:20 George Bridges: do you need api for images
+01:02:29 Nichelle Butler Sankey: I've been using ChatGPT and Copilot.
+01:02:37 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Replying to
+"I’ve been using gemi..."
+@David Mantica--Co-host!!! It's smart, easy to use, I can speak to it
+instead of writing, and it displays empathy.
+01:02:52 David Mantica--Co-host!!!: Reacted to "I've been using
+Chat..." with
+01:02:53 Neale Mulligan: how easy is it to incorporate branding, e.g.
+color palette from a client?
+01:03:08 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Replying to
+"I’ve been using gemi..."
+@David Mantica--Co-host!!! It's also connected to NotebookLM, a service
+that creates mini-podcasts based off of sources. It's very cool.
+01:03:22 Laura Brandenburg: Can you review what you generated from
+chatGPT?
+01:03:22 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"I've been using Chat..." with
+01:03:31 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to "I
+am a 50/50 claude ..." with
+01:03:35 Skills Development Group: Replying to "I’ve been using
+gemi..."
+ooh i like when you can speak instead of type
+01:03:39 John Ruppel: https://www.linkedin.com/in/johnruppel/ My
+passion is to help people and their organizations be successful with, and
+teach leaders how to successfully lead their GenAI, Prescriptive AI, AI,
+Agile, DevOps adoptions/transformations, Digital/Business
+Transformations… simply put their change initiatives... Feel free to
+reach out if I can be of help... Looking forward to having a
+conversation and the opportunity to help you on your change journey
+01:03:45 Cris Casey: What about image/IP licensing?
+01:03:53 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"What about image/IP ..." with
+01:03:59 Nichelle Butler Sankey: Reacted to "@David Mantica--Coh..."
+with
+01:04:15 Michael Wolf: Jonathan Mickles - 404 on your LinkedIn link.
+01:04:23 IIBA Kansas City Chapter - Director Of Technology: You got
+to re-submit the prompt updated
+01:04:34 David Mantica--Co-host!!!: I will get to your question shortly
+Cris
+01:04:43 IIBA Kansas City Chapter - Director Of Technology: You will
+get the new generated answer that is how you updated information on the
+chatgpt prompt
+01:04:43 Sheila Mullen: Is the presentation created shared, therefore
+available on the internet or is it only available to you in your account
+(just in case you need to include proprietary info)?
+01:05:21 Michael Wolf: Replying to "What is your tool of..."
+ChatGPT - mostly for code generation. But as a peer in our ensemble, not
+just as a reference tool.
+01:05:31 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"ChatGPT - mostly for..." with
+01:05:40 IIBA Kansas City Chapter - Director Of Technology: What are
+the different AI models? I only hear about OpenAI - ChatGPT ver 4.0
+01:05:46 George Bridges: can you redesign and existing ppt
+01:05:49 Jonathan Mickles: Apologies. What tool is he currently
+using?
+01:05:49 David Mantica--Co-host!!!: Replying to "Is the
+presentation ..."
+will get to this Sheila
+01:05:57 Lara Hill: Replying to "Apologies. What tool..."
+gamma.app
+01:06:02 David Mantica--Co-host!!!: gamma
+01:06:06 Cesar Partida | Seeking new opportunities!: Reacted to
+"gamma.app" with
+01:06:16 Lakievia "Lucky" Johnson, She/Her - Eastern Time:
+https://gamma.app/
+01:06:34 David Mantica--Co-host!!!: Thank you Lakievia
+01:06:40 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Thank you Lakievia" with
+01:06:48 George Bridges: what is the max size of a ppt
+01:07:44 Cesar Partida | Seeking new opportunities!: I'm happy to
+connect and look for new opportunities you currently work in!
+https://www.linkedin.com/in/cesar-partida-pm-bilingualprojectmanagement/
+01:09:16 David Mantica--Co-host!!!: Thank you for sharing Cesar!!!
+01:09:17 Laura Brandenburg: It does look like there is an import
+function.
+01:09:55 Lara Hill: AI Image Generator - Create Art, Images & Video |
+Leonardo AI
+01:10:05 David Mantica--Co-host!!!: Great share Lara!
+01:10:09 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"AI Image Generator -..." with
+01:10:13 Lara Hill: Reacted to "Great share Lara!" with
+01:10:32 John Coutu: Reacted to "AI Image Generator -..." with
+01:11:01 Lara Hill: (8) Loyd Thompson | LinkedIn
+01:11:52 Shelley Morris: Reacted to "AI Image Generator..." with
+01:12:03 Krista Roes: www.linkedin.com/in/kristaroes
+01:12:14 Lara Hill: Yes we will send the chat transcript
+01:12:52 Gil Pizano: Replying to "can you redesign an..."
+https://help.gamma.app/en/articles/7856738-how-to-import-slides-anddocuments-
+into-gamma
+01:13:03 Imtiaz: I believe Gamma's free version may be limited to 10
+slides per presentation. Do you know of any other tools with a free
+version that allows unlimited slides?
+01:13:08 Gil Pizano: Replying to "can you redesign an..."
+Here is some information from Gamma on this. Good question!
+01:13:27 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Here is some informa..." with
+01:13:33 Morgan Meadows Davis: Replying to "can you redesign an..."
+can you import a template?
+01:13:50 David Mantica--Co-host!!!: Replying to "I believe Gamma's
+fr..."
+I will ask Lody this question
+01:14:00 IIBA Kansas City Chapter - Director Of Technology: How far
+were you from the final version? Did you have to make tons of changes or
+just a few twist?
+01:14:07 David Mantica--Co-host!!!: Reacted to
+"https://help.gamma.a..." with
+01:14:32 Laura Nichols: Does this only work on Power Point or would it
+also work in Google Slides?
+01:14:53 Leela Sarepalli: Prompt engineering is so powerful ..check
+PMI’s Talking to the Machine incase you are beginner using chatgpt
+01:14:57 George Bridges: the max file size to import a ppt file is
+200mb
+01:14:58 Jonathan Mickles: Will the chat be saved? There are lots of
+great connections here.
+01:15:06 George Churchwell: https://www.linkedin.com/in/georgechurchwell-
+6a6a/
+01:15:08 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Prompt engineering i..." with
+01:15:22 Jennifer Colburn - Portland IIBA: Reacted to
+"https://help.gamma.a..." with
+01:15:25 Shelley Morris: I like that, thank you Lloyd.
+01:15:39 David Mantica--Co-host!!!: The chat is saved and you can
+review. so all the LinkedIn URLs and other URLs we put in people can go
+back and click
+01:16:05 David Mantica--Co-host!!!: so don't feel like your LinkedIn
+URL or your notices o work or open positions gets lost in all the chats
+01:16:08 Shelley Morris: Reacted to "I will ask Lody th..." with
+01:16:10 Michael Wolf: Replying to "What are the differe..."
+https://platform.openai.com/docs/models
+01:16:20 David Mantica--Co-host!!!: Reacted to "the max file size
+to..." with
+01:16:28 David Mantica--Co-host!!!: Replying to "the max file size
+to..."
+Thanks George
+01:16:31 Cesar Partida | Seeking new opportunities!: Reacted to "Will
+the chat be sav..." with
+01:16:37 Jennifer Colburn - Portland IIBA: @Laura Nichols - see
+link from @Gil Pizano above -
+https://help.gamma.app/en/articles/7856738-how-to-import-slides-anddocuments-
+into-gamma
+01:16:41 IIBA Kansas City Chapter - Director Of Technology: Where
+you please with the power point content since it is the most important
+part of the presentation?
+01:16:51 Nitin: Reacted to "It does look like th..." with
+01:16:52 Cesar Partida | Seeking new opportunities!: Reacted to "so
+don't feel like y..." with
+01:16:54 David Mantica--Co-host!!!: Replying to "What are the
+differe..."
+Great question, we will talk a bit about that on breaks
+01:16:54 Angelia Davis: Reacted to "https://help.gamma.a..." with
+01:17:04 Cesar Partida | Seeking new opportunities!: Replying to "so
+don't feel like y..."
+Thank you!
+01:17:19 David Mantica--Co-host!!!: Replying to "What are the
+differe..."
+Claude, Gemini, co-pilot, perpexlity, Chatgpt
+01:17:24 David Mantica--Co-host!!!: Replying to "What are the
+differe..."
+are some options but there are others
+01:17:34 Shelley Morris: Reacted to "Will the chat be s..." with
+01:17:42 Shelley Morris: Reacted to "The chat is saved ..." with
+01:17:57 David Mantica--Co-host!!!: Replying to "What are the
+differe..."
+We can have an open discussion on different tools during breaks
+01:18:18 Laura Nichols: Replying to "@Laura Nichols - ..."
+It won't open for me, that's why I'm asking
+01:19:14 David Mantica--Co-host!!!: Cris I will ask your questions but
+if I missed a question, let me know
+01:19:17 Marie McGovern: Replying to "@Laura Nichols - se..."
+It worked for me
+01:19:44 Shelley Morris: Reacted to "Prompt engineering..." with
+01:21:03 David Mantica--Co-host!!!: Has anyone been playing along with
+gamma during this?
+01:21:06 David Mantica--Co-host!!!: how has it been?
+01:21:09 Shelley Morris: Great examples Lloyd. It's nice to see the
+different options available.
+01:21:30 IIBA Kansas City Chapter - Director Of Technology: Is gamma
+free-version kind of decent for individual use?
+01:21:50 Michael Wolf: @Cris Casey - Good question about IP. To my
+understanding, IP is the wild west. The courts have not yet made any
+significant changes to the steal-anything-you-can-because-there-are-noconsequences.
+To wit, copilot scraped most of github in violation of
+posted licenses, and (to my knowledge) the $3B lawsuit has not gone
+anywhere.
+01:22:09 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"@Cris Casey - Good q..." with
+01:22:17 David Mantica--Co-host!!!: Yes with code itself, very, very
+touchy area
+01:22:18 George Bridges: how likely is Microsoft going to incorporate
+AI in its ppt app
+01:22:26 IIBA Kansas City Chapter - Director Of Technology:
+WOWWWWWWWW
+01:22:34 Jonathan Mickles: Can I share a ms word doc that has a term
+paper and provide it some prompts to create a deck based on it?
+01:22:35 Shelley Morris: Reacted to "WOWWWWWWWW" with
+01:22:53 George Bridges: it works with google sheet
+01:23:12 Nakoya Solomon: Reacted to "WOWWWWWWWW" with
+01:23:58 Morgan Meadows Davis: Microsoft has Co-pilot which I believe
+works with the office apps, at least to some extent
+01:24:04 Laura Nichols: Reacted to "it works with goog..." with
+01:25:07 Cris Casey: Replying to "@Cris Casey - Good q..."
+AI generated presentations are prime fodder for copyright trolls.
+01:25:36 David Mantica--Co-host!!!: Reacted to "AI generated
+present..." with
+01:26:20 Michael Wolf: Replying to "@Cris Casey - Good q..."
+I think we talked about this when you refered me to Lobachevsky
+https://platform.openai.com/docs/models
+Plagiarize!
+Let no one else's work evade your eyes
+Remember why the good Lord made your eyes
+So don't shade your eyes
+But plagiarize, plagiarize, plagiarize
+;-)
+01:26:49 Juli Booze-Jervis: Thanks for illustrating what's possible
+01:26:51 Cris Casey: Replying to "@Cris Casey - Good q..."
+Credit to Tom Leher at MIT.
+01:26:55 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Thanks for illustrat..." with
+01:26:56 Marie McGovern: Replying to "@Cris Casey - Good q..."
+Thank you for doing this live!
+01:27:01 Leela Sarepalli: Love your presentation.
+01:27:05 Sheila Mullen: Excellent introduction of a powerful tool!
+01:27:13 Michael Wolf: Replying to "@Cris Casey - Good q..."
+BTW - this is my OBSERVATION, not my recommended way for the system to
+operate. We have lots of technical tools with the ethics falling behind
+it.
+01:27:38 Russ Maynard: Thank you Loyd!!
+01:27:47 Krystal Wilczynski: Thank you so much, Lloyd!
+01:27:52 Nakoya Solomon: That was wonderful!!
+01:27:56 Felicia Joyner: Lloyd, Thanks for the presentation!!!
+01:27:58 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Thank you,
+Loyd!
+01:28:04 Nichelle Butler Sankey: Fantastic presentation, Loyd! Thank
+you for sharing your expertise.
+01:28:30 Janine Viveiros: Thank you!!
+01:28:34 Russell Blackburn: Thank you Loyd!!
+01:28:53 Robert Parsons: Thank you, Lloyd
+01:28:54 Sharon King:
+01:29:17 David Mantica--Co-host!!!: We have Kara Flanagan here form AI
+Certs
+01:29:34 David Mantica--Co-host!!!: If you have any questions about
+getting cerified in this space, direct chat her!!!
+01:30:02 Lara Hill: Speaker's profile: (9) Samuel Parri | LinkedIn
+01:30:08 Cesar Partida | Seeking new opportunities!: Reacted to
+"Speaker's profile: (..." with
+01:30:19 Cesar Partida | Seeking new opportunities!: Replying to
+"Speaker's profile: (..."
+this is great!
+01:30:29 Shelley Morris: Reacted to "We have Kara Flana..." with
+01:31:07 David Mantica--Co-host!!!: This is also a great session to
+help others get on the Journey!!!
+01:31:17 Lara Hill: We have sessions today that range from beginner to
+intermediate levels of experience with genAI.
+01:31:20 David Mantica--Co-host!!!: There is a lot of "fear" with
+regard to these tools
+01:31:25 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Speaker's profile: (..." with
+01:31:29 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"We have sessions tod..." with
+01:31:41 David Mantica--Co-host!!!: So if you have techniques on
+helping others take the dip, please share!!
+01:31:46 Shelley Morris: Thank you Loyd, that was awesome!!!! I love
+the tool and examples you shared....
+01:31:59 IIBA Kansas City Chapter - Director Of Technology: Fears of
+becoming unemployed is a reality speciality people in IT
+01:32:00 Sam Slater: fellow Cisco employee!!
+01:32:06 David Mantica--Co-host!!!: Reacted to "Fears of becoming
+un..." with
+01:32:08 Lara Hill: Yes there is a lot of fear and anxiety that comes up
+even from just mentioning AI for some folks
+01:32:15 Lara Hill: Reacted to "fellow Cisco employe..." with
+01:32:20 David Mantica--Co-host!!!: There are great certifications out
+there by the way
+01:32:22 Shelley Morris: Reacted to "This is also a gre..." with
+01:32:28 David Mantica--Co-host!!!: AI Certs being one of those
+organizations
+01:32:56 David Mantica--Co-host!!!: Thank you Sam!!!!
+01:33:11 Jonathan Mickles: Do any of these rooms have FedRAMP
+certification?
+01:33:39 Lara Hill: Link to our sponsor who provides AI certifications:
+https://www.aicerts.ai/
+01:33:43 Shelley Morris: Reacted to "So if you have tec..." with
+01:33:47 Russell Blackburn: Reacted to "There is a lot of "f..." with
+01:33:51 Shelley Morris: Reacted to "There is a lot of ..." with
+01:34:15 David Mantica--Co-host!!!: I just presented at PMI SC Midlands
+development day
+01:34:29 David Mantica--Co-host!!!: and vast majority either never used
+or used a bit
+01:34:44 David Mantica--Co-host!!!: PMI Infinity is cool
+01:34:59 David Mantica--Co-host!!!: Remember we all do Project Work in
+today working enviornments
+01:35:22 Jonathan Mickles: Oops. Meant to say do any of these
+applications have FedRAMP certification?
+01:36:03 Shelley Morris: Reacted to "We have sessions t..." with
+01:36:08 David Mantica--Co-host!!!: oh, Jonathan I don't know but...
+01:36:20 David Mantica--Co-host!!!: Taher who is speaking this
+afternoon on AI in Fed Gov
+01:36:24 David Mantica--Co-host!!!: will have some thoughts ontaht
+01:37:23 Russell Blackburn: A
+01:37:23 David Mantica--Co-host!!!: So, so True. this is an art not
+just science
+01:37:26 Lara Hill: D
+01:37:27 Sheila Mullen: A
+01:37:28 Neale Mulligan: B
+01:37:29 Alison Meler: B
+01:37:34 Juli Booze-Jervis: C
+01:37:35 Suba Perumal: B
+01:37:35 Cesar Partida | Seeking new opportunities!: B
+01:37:36 Shelley Morris: D
+01:37:36 Russ Maynard: C
+01:37:36 Jennifer Colburn - Portland IIBA: B
+01:37:37 Bethany Hanson: c
+01:37:37 Lauren Petty: b
+01:37:38 Robby Boys: D
+01:37:38 Felicia Joyner: d
+01:37:39 Sam Slater: C
+01:37:40 Colleen Cristarella: C
+01:37:40 Shannon Moir: B
+01:37:41 Syed Ammar Raza: B
+01:37:42 jeff Fisher: D
+01:37:43 Laura Brandenburg: D
+01:37:44 Adele Rivers: b
+01:37:44 Robert Phillips: c
+01:37:44 John Coutu: B/C
+01:37:44 javier martin: B
+01:37:44 Christine Lauer: D. I use it everday
+01:37:45 Anna Toloeva: C
+01:37:45 Nael Salameh: D
+01:37:46 Debbie DeFoa: A
+01:37:46 Shalene DeMarco: C
+01:37:46 Nakoya Solomon: C
+01:37:46 Gil Pizano: D
+01:37:47 Jessica Johnson: D
+01:37:47 Janet Perez: D
+01:37:47 Dennis Schneiderman: B
+01:37:47 Morgan Meadows Davis: b
+01:37:47 Lakievia "Lucky" Johnson, She/Her - Eastern Time:C
+01:37:49 Nitin: C
+01:37:50 Cris Casey: D
+01:37:50 Jonathan Mickles: D
+01:37:51 Bryon Cherry: C
+01:37:52 Amanda Craig: c
+01:37:52 Krista Roes: C
+01:37:52 Amy Lake: A
+01:37:53 Raissa Bernabe: B
+01:37:53 Lonnie Buresh: A
+01:37:53 Drew Hacker: A
+01:37:54 Nichelle Butler Sankey: D
+01:37:55 IIBA Kansas City Chapter - Director Of Technology: A
+01:37:58 L. Conrad Bush: A.
+01:37:58 Julia Taylor: C
+01:37:59 ReShockie Furnace: B
+01:38:03 Romona Benson: C
+01:38:06 George Bridges: We are approaching what Bill Gates coined as
+"innovation at the speed of thought!"
+01:38:08 Denise Ferry: C
+01:38:09 Faisal Feroze: B
+01:38:10 Alan Lattimore: B
+01:38:14 David Mantica--Co-host!!!: Reacted to "We are approaching
+w..." with
+01:38:17 Wendy Horton: C
+01:38:18 Srinath Kondabathini: A
+01:38:21 John Coutu: Reacted to "We are approaching w..." with
+01:38:22 Nichelle Butler Sankey: I love AI - having worked with it
+1st for creative projects I've found that it's learning from me. So, my
+prompts net better results each time.
+01:38:24 Benjamin Akinteye: C
+01:38:27 Kerry Herron: C/D Not every day but at least 2-3 times a
+week
+01:38:40 Nakoya Solomon: Reacted to "C/D Not every day bu..." with
+01:38:40 David Mantica--Co-host!!!: Replying to "I love AI - having
+w..."
+Great share!
+01:38:48 Julie Fischer: B and D
+01:38:48 David Mantica--Co-host!!!: love all this sharing!!!
+01:38:49 Krystal Wilczynski: B/C
+01:39:40 Jesse Morgan: A
+01:39:52 David Mantica--Co-host!!!: this is a belief issue to start,
+you have to believe it will provide you value and it isn't just a fad
+01:40:03 Srinath Kondabathini: Do you have any AI tool which is FedRAMP
+certified to use with Federal governmnet projects?
+01:40:04 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Do you have any AI t..." with
+01:40:06 Lara Hill: Here are the tallied results for each answer:
+A: 20
+B: 23
+C: 37
+D: 18
+01:40:11 Cesar Partida | Seeking new opportunities!: Reacted to "Here
+are the tallied..." with
+01:40:18 Juli Booze-Jervis: Reacted to "Here are the tallied..." with
+01:40:27 David Mantica--Co-host!!!: As you approach others to use it,
+stories and examples helps but it will take more than just one story and
+one exampl
+01:40:38 David Mantica--Co-host!!!: and you will have to help folks
+take the first step
+01:40:47 David Mantica--Co-host!!!: Replying to "Here are the
+tallied..."
+This is so wild!!!
+01:41:39 David Mantica--Co-host!!!: I love writing bios with it and
+position descriptions
+01:41:46 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to "I
+love writing bios ..." with
+01:42:28 Nichelle Butler Sankey: AI enabled 'scribing' from meetings
+are invaluable. I can focus more of my attention on the client than
+capturing action items. I can read the notes and add any additional
+information and get the notes sent to client and supplement internal
+documents.
+01:42:31 David Mantica--Co-host!!!: summarizing big documents, like
+white papers, Claude does this very well
+01:42:42 Gil Pizano: Replying to "Do you have any AI t..."
+Microsoft's Azure OpenAI Service is FedRAMP certified.
+01:42:43 Russ Maynard: Reacted to "AI enabled 'scribing..." with
+01:42:47 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"AI enabled 'scribing..." with
+01:42:55 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"summarizing big docu..." with
+01:43:03 David Mantica--Co-host!!!: Replying to "AI enabled
+'scribing..."
+Absolutely, Whisper is a great tool or this.
+01:43:04 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Microsoft's Azure Op..." with
+01:43:13 Nichelle Butler Sankey: Reacted to "Absolutely,
+Whisper ..." with
+01:43:23 Srinath Kondabathini: Reacted to "Microsoft's Azure ..." with
+01:43:36 Cesar Partida | Seeking new opportunities!: Reacted to "AI
+enabled 'scribing..." with
+01:43:47 David Mantica--Co-host!!!: Reacted to "Microsoft's Azure
+Op..." with
+01:43:49 IIBA Kansas City Chapter - Director Of Technology: This
+picture is hilarious!
+01:43:58 Russ Maynard: Reacted to "This picture is hila..." with
+01:44:00 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"This picture is hila..." with
+01:44:14 Nichelle Butler Sankey: Reacted to "This picture is
+hila..." with
+01:44:16 Alison Meler: Reacted to "This picture is hila..." with
+01:44:21 Craig Oliver: So true!
+01:44:38 Cesar Partida | Seeking new opportunities!: Reacted to "This
+picture is hila..." with
+01:45:03 Srinath Kondabathini: Replying to "Do you have any AI..."
+Thank you.
+01:45:15 Cris Casey: For anyone applying to jobs, you can upload
+your resume and a copy of the description and have any GPT tool create a
+cover letter or write-up that directly matches your experience with what
+is being sought. Easy 1st test for something personally useful.
+01:45:29 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"For anyone applying ..." with
+01:45:30 David Mantica--Co-host!!!: Reacted to "For anyone
+applying ..." with
+01:45:33 Russ Maynard: Reacted to "For anyone applying ..." with
+01:45:40 David Mantica--Co-host!!!: I love the different personal use
+cases
+01:45:43 David Mantica--Co-host!!!: please keep sharing
+01:45:49 Amanda Craig: Reacted to "please keep sharing" with
+01:45:50 Sam Slater: Reacted to "For anyone applyin..." with
+01:45:50 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"please keep sharing" with
+01:45:55 Leela Sarepalli: Reacted to "For anyone applying ..." with
+01:46:00 Laura Brandenburg: Replying to "For anyone applying ..."
+This is great! And also likely tweak your resume as well.
+01:46:00 ReShockie Furnace: Reacted to "For anyone applying ..." with
+01:46:56 Cris Casey: Replying to "For anyone applying ..."
+01:47:01 Russ Maynard: I'm a huge PMI fan, but is it really possible
+to have a successful project in the real world? Ha!
+01:47:12 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"I'm a huge PMI fan, ..." with
+01:47:17 Laura Nichols: Reacted to "I'm a huge PMI fan..." with
+01:47:22 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Replying to
+"I'm a huge PMI fan, ..."
+That's theory vs. reality.
+01:47:29 Russ Maynard: Replying to "I'm a huge PMI fan, ..."
+For sure.
+01:47:36 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"For sure." with
+01:48:02 Laura Brandenburg: Replying to "I'm a huge PMI fan, ..."
+Like the focus on objectives, versus just schedule and budget. Much more
+comprehensive than the old way of measuring success.
+01:48:30 Russ Maynard: Replying to "I'm a huge PMI fan, ..."
+Excellent thought!
+01:48:35 Russ Maynard: Reacted to "Like the focus on ob..." with
+01:49:15 Nichelle Butler Sankey: Reacted to "I'm a huge PMI
+fan, ..." with
+01:49:22 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Like the focus on ob..." with
+01:49:24 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Excellent thought!" with
+01:49:31 Laura Brandenburg: Reacted to "Excellent thought!" with
+01:49:45 Russ Maynard: This is enlightening to me... I work in
+construction projects for our law firm (I know...) and I would not have
+thought about consulting AI for much of it. Good stretching of the
+thinking.
+01:49:49 David Mantica--Co-host!!!: Replying to "I'm a huge PMI
+fan, ..."
+@Laura Brandenburg I so agree Laura, more time thinking and analyzing
+01:49:51 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Hey Chat GPT - finish this building.jpg" with
+01:49:58 Cesar Partida | Seeking new opportunities!: Reacted to "Hey
+Chat GPT - finish this building.jpg" with
+01:50:02 Jennifer Colburn - Portland IIBA: Reacted to "Hey Chat GPT
+- finish this building.jpg" with
+01:50:11 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"This is enlightening..." with
+01:50:13 David Mantica--Co-host!!!: one of the best way to use AI is
+for Brainstorming
+01:50:24 Russ Maynard: Reacted to "one of the best way ..." with
+01:50:25 David Mantica--Co-host!!!: It can be used to practice
+interviewing skills
+01:50:28 Nichelle Butler Sankey: Reacted to "one of the best
+way ..." with
+01:50:31 Juli Booze-Jervis: Reacted to "This is enlightening..." with
+01:50:50 ReShockie Furnace: Reacted to "one of the best way ..." with
+01:50:54 Nichelle Butler Sankey: Reacted to "It can be used to
+pr..." with
+01:50:55 ReShockie Furnace: Reacted to "It can be used to pr..." with
+01:50:59 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"It can be used to pr..." with
+01:51:00 Loyd Thompson: Here is an answer to the "PPTX notes import"
+question. I also created a small deck and imported it, but the notes did
+not come through.
+Currently, Gamma.app doesn’t natively support importing notes directly
+from PPTX files. To add your notes, you would typically copy and paste
+them manually or convert them into the app's content editor. However,
+updates are frequent, so it might be worth checking their latest
+documentation or reaching out to support to confirm if this feature has
+been added recently.
+01:51:05 David Mantica--Co-host!!!: summarize large sets of text
+01:51:22 ReShockie Furnace: Reacted to "summarize large sets..." with
+01:51:23 David Mantica--Co-host!!!: Replying to "Here is an answer
+to..."
+Thank you so much Lody!
+01:51:37 Cesar Partida | Seeking new opportunities!: Replying to "I'm a
+huge PMI fan, ..."
+@Laura Brandenburg more than that, Also customer satisfaction, not only
+by finishing it on time/budget/schedule thought.
+01:51:52 Laura Brandenburg: Reacted to "@Laura Brandenburg I..." with
+01:52:07 Loyd Thompson: Another attendee posted a URL as to document
+import. It does an excellent job of covering the topic. How to import
+slides and documents into Gamma | Gamma Help Center
+01:52:22 Cris Casey: Replying to "This is enlightening..."
+Be careful Russ. While Sam's description was comprehensive, the
+collection and validation of data become are critical and often costprohibitive.
+01:52:30 Laura Brandenburg: Replying to "I'm a huge PMI fan, ..."
+@Cesar Partida | Seeking new opportunities! If you understand their
+business objectives, wouldn't that be satisfaction? (I'm coming from more
+of a BA perspective, so curious how PMs think about it.)
+01:53:02 Russ Maynard: Replying to "This is enlightening..."
+Also true, analysis can be paralysis... and that's expensive as well
+01:53:11 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Also true, analysis ..." with
+01:53:19 Russell Blackburn: Reacted to "For anyone applying ..." with
+01:54:11 David Mantica--Co-host!!!: LOVE LOVE LOVE This slide
+01:54:31 Cesar Partida | Seeking new opportunities!: Replying to "I'm a
+huge PMI fan, ..."
+yes, but if we are talking more of a Agile project, IT-focused, business
+objectives can change constantly.
+01:54:31 Lara Hill: We are going to push the break to 10:50 and start at
+10:55 with Abrar's presentation
+01:54:34 David Mantica--Co-host!!!: another fantastic slide
+01:54:38 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"We are going to push..." with
+01:55:08 Cesar Partida | Seeking new opportunities!: Reacted to "@Cesar
+Partida | See..." with
+01:55:25 Lakievia "Lucky" Johnson, She/Her - Eastern Time:That's right!
+01:55:27 Gabe Vaught: I've been hearing horror stories about
+insurance companies using AI to deny claims and to deny physicians the
+ability to perform necessary procedures. I can only imagine the liability
+issues if a doctor uses AI for a diagnosis and the AI starts to
+hallucinate.
+01:55:33 Russ Maynard: Reacted to "We are going to push..." with
+01:55:42 George - PMI Emerald Coast Fl: What is the expected ROI for
+implementing AI in an organization?
+01:55:51 Bethany Hanson: d
+01:55:54 David Mantica--Co-host!!!: Replying to "I've been hearing
+ho..."
+They did a story line on Chicago Med on this issue, was interesting
+01:55:54 Neale Mulligan: Replying to "I'm a huge PMI fan, ..."
+A 01:55:55 Russell Blackburn: B
+01:55:57 Felicia Joyner: D
+01:55:57 Cesar Partida | Seeking new opportunities!: Reacted to "We are
+going to push..." with
+01:55:58 Sam Slater: b
+01:55:59 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"I've been hearing ho..." with
+01:55:59 Lauren Petty: 1
+01:56:00 Denise Ferry: A
+01:56:01 Gil Pizano: D
+01:56:02 Robert Phillips: d
+01:56:02 Krista Roes: C
+01:56:03 Janine Viveiros: A
+01:56:04 IIBA Kansas City Chapter - Director Of Technology: C
+01:56:08 Debbie DeFoa: A
+01:56:09 David Mantica--Co-host!!!: Reacted to "I'm a huge PMI
+fan, ..." with
+01:56:09 Russ Maynard: Replying to "I've been hearing ho..."
+for sure
+01:56:12 Nael Salameh: B
+01:56:15 George - PMI Emerald Coast Fl: People who know AI will
+replace you.
+01:56:23 Janine Viveiros: Reacted to "People who know AI w..." with
+01:56:44 David Mantica--Co-host!!!: Remember this, we are working with
+the worst tools there will be
+01:56:46 Gabe Vaught: Reacted to "They did a story l..." with
+01:56:49 Cris Casey: Seth Godin's "Linchpin" is a great read on how
+to remain relevant.
+01:56:51 David Mantica--Co-host!!!: don't judge function on today
+01:56:59 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Seth Godin's "Linchp..." with
+01:57:21 David Mantica--Co-host!!!: Judge based on how things are
+growing and adaptiving
+01:57:26 Laura Brandenburg: Replying to "I'm a huge PMI fan, ..."
+@Cesar Partida | Seeking new opportunities! Interesting. Huge cost to
+shifting directions, agile or not.
+01:57:38 Russ Maynard: Replying to "I'm a huge PMI fan, ..."
+For me, executives have been trained on the iron triangle, and don't have
+time to expand thinking for newer thinking. But that's just my experience.
+01:57:51 IIBA Kansas City Chapter - Director Of Technology: Are we
+going to get the slides presentation? This presentation is AMAZING!!!
+01:57:57 Cesar Partida | Seeking new opportunities!: Reacted to "For me,
+executives h..." with
+01:58:04 Amanda Craig: Reacted to "Are we going to get ..." with
+01:58:09 Michael Wolf: RE: Participant list from chat text
+I asked ChatGPT to help me create a (useful) list of participants.
+Here is how ChatGPT summarized its work:
+Here is a summary of the steps I used to create the list:
+1. **Extracted Participants**: Initially extracted participants' names
+and information from the meeting chat.
+2. **Alphabetized by Last Name**: Sorted participants alphabetically by
+last name to organize the list.
+3. **Formatted Names**: Changed the format of each name from "First Name
+Last Name" to "Last Name, First Name".
+4. **Converted to Plain Text**: Removed bold formatting and displayed
+LinkedIn URLs as plain text instead of hyperlinked text.
+Let me know if you need further modifications or details.
+01:58:09 Lara Hill: yes all slide decks and recordings will be sent
+afterwards
+01:58:09 Cesar Partida | Seeking new opportunities!: Replying to "Are we
+going to get ..."
+same question from me as well!
+01:58:09 Cris Casey: Gartner's "Composable Enterprise" has a
+different view on job replacement.
+01:58:18 Antonio Cabrera: Reacted to "yes all slide decks ..." with
+01:58:19 David Mantica--Co-host!!!: Replying to "I'm a huge PMI
+fan, ..."
+Russ, but if you show outcomes based on focus on value, things change.
+executives are about outcomes tied to saving money or making money. You
+show a differen tway that does that, they will listen
+01:58:29 George - PMI Emerald Coast Fl: What is next after Gen AI?
+01:58:47 Gil Pizano: Replying to "I'm a huge PMI fan, ..."
+"AI not replace people. People who know how to use AI, will replace
+people who do not use AI."
+01:58:48 Alison Meler: Thank you!
+01:58:48 Russ Maynard: David should buy Sam and Loyd a car!
+01:58:49 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Thank you,
+Samuel!
+01:58:49 Sheila Mullen: Thank you so much for the great information
+and insights!
+01:58:53 Nichelle Butler Sankey: Thank you, Samuel.
+01:58:54 Leela Sarepalli: Thank you
+01:58:56 Krystal Wilczynski: Thank you, Samuel!
+01:59:16 Amanda Craig: Great presentations Samuel, thank you!!!
+01:59:18 George - PMI Emerald Coast Fl: Thank you Samuel.
+01:59:18 Lara Hill: Yes the chat transcript too
+01:59:19 Felicia Joyner: Thanks Samuel!!! Great presentation
+01:59:20 ReShockie Furnace: Thanks, Samuel
+01:59:21 Sharon King: Thank you, Sam!
+01:59:21 Sam Slater: Can I get a link to what Samuel teaches at
+Cisco?
+01:59:42 Antonio Cabrera: nice!
+02:00:00 Jonathan Mickles: Excellent value!
+02:00:04 Lara Hill: Reacted to "Excellent value!" with
+02:00:19 Russ Maynard: Reacted to ""AI not replace peop..." with
+02:00:55 David Mantica--Co-host!!!: check out whisper for recording and
+converting audio to text
+02:01:03 Russ Maynard: Replying to "I'm a huge PMI fan, ..."
+delicate balance for usre
+02:01:04 Russ Maynard: Replying to "I'm a huge PMI fan, ..."
+sure
+02:01:25 Cesar Partida | Seeking new opportunities!: Hello Kara!
+02:01:35 David Mantica--Co-host!!!: https://openai.com/index/whisper/
+02:01:35 Natallie Archer: Hello Kara!
+02:01:36 Leela Sarepalli: Love to connect/follow Leela Krishna MBA, CBAP,
+PMP
+02:01:44 Nichelle Butler Sankey: Hi @Kara Flanagan. Thank you for
+joining today.
+02:01:45 David Mantica--Co-host!!!: very much like gamma and offshoot
+of Chapgpt
+02:02:08 Kara Flanagan: Reacted to "Hi @Kara Flanagan. T..." with
+02:03:03 David Mantica--Co-host!!!: I pulled up Michael's document it
+is GREAT
+02:03:07 Nichelle Butler Sankey: Reacted to
+"https://openai.com/i..." with
+02:03:18 David Mantica--Co-host!!!: details, details, details
+02:03:19 Nichelle Butler Sankey: Reacted to ""AI not replace
+peop..." with
+02:03:25 David Mantica--Co-host!!!: It is amazing what you can do
+02:03:28 Romona Benson: Hi Kara, welcome to today's session!
+02:03:37 Kara Flanagan: Hi Everyone! Glad to be here and looking
+forward to connecting and learning today.
+Connect with me on LinkedIn at https://www.linkedin.com/in/karaflanagan/
+02:03:52 Russ Maynard: I missed how to pull Michael's document
+02:04:00 Cris Casey: Lara - did you check the accuracy of the poll
+summary?
+02:04:05 Cesar Partida | Seeking new opportunities!: Replying to "Are we
+going to get ..."
+@Lara Hill
+02:04:07 Laura Brandenburg: Reacted to "Russ, but if you sho..." with
+02:04:18 Gil Pizano: Glad to connect and help people connect with
+others https://www.linkedin.com/in/gilpizano
+02:04:56 Lara Hill: Reacted to "Glad to connect and ..." with
+02:06:00 David Mantica--Co-host!!!: without data, genAI is useless
+02:06:10 Laura Brandenburg: Reacted to "without data, genAI ..." with
+02:06:57 David Mantica--Co-host!!!: 18 zeros???!!!!
+02:07:03 Lara Hill: 1,000,000,000,000,000,000
+02:07:04 Sharon King: Would you please speak louder?
+02:07:19 Cesar Partida | Seeking new opportunities!: Reacted to
+"1,000,000,000,000,00..." with
+02:07:29 Nichelle Butler Sankey: Reacted to
+"1,000,000,000,000,00..." with
+02:07:45 Antonio Cabrera: Replying to "without data, genAI ..."
+AI needs Humans...Apply within!
+02:07:51 Jonathan Mickles: Hey everyone. Happy to connect. Looking
+for a sounding board / mentor who is a seasoned Program Manager.
+http://LinkedIn.com/gr8fulbishop
+#AI #Blockchain #RealEstate #Cybersecurity
+02:08:00 David Mantica--Co-host!!!: (28) David Mantica | LinkedIn
+02:08:02 Adele Rivers: I'm finding the volume lower for Abrar then
+all the others which has been a bit too low and I've maxed out all my
+settings.
+02:08:16 David Mantica--Co-host!!!: I will ask him one more time
+02:08:23 Lara Hill: (9) Abrar Hashmi | LinkedIn
+02:08:47 Laura Brandenburg: I can hear him fine.
+02:09:07 David Mantica--Co-host!!!: Thanks Laura!
+02:10:28 David Mantica--Co-host!!!: This is important because the pool
+of data we use in genAI may be the first thing regulated.
+02:10:40 David Mantica--Co-host!!!: So as he says, less data, less
+value in the genAI outputs
+02:11:08 Cris Casey: Replying to "So as he says, less ..."
+Not sure I agree with that statement.
+02:11:37 Cris Casey: Replying to "So as he says, less ..."
+Small Language Models are much easier to use where accuracy is critical.
+02:12:01 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+well it is than used for a specific function
+02:12:11 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+so that specific function needs to be avaluable
+02:12:11 Jennifer Colburn - Portland IIBA: Reacted to "AI needs
+Humans...Ap..." with
+02:12:16 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+If it isn't than who cares
+02:12:39 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+so I hear you but I don't see long term value in the creation of small
+micro LLMs
+02:13:00 Cris Casey: Replying to "So as he says, less ..."
+Wait until tomorrow.
+02:13:23 Cris Casey: Replying to "So as he says, less ..."
+02:13:34 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+You are right, this could be the way it goes
+02:13:41 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+I think you lose creativity.
+02:13:45 Shelley Morris: Reacted to "without data, genA..." with
+02:13:52 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+You ended up only doing the things the small dataset offers
+02:14:05 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+creativity is driven by diversity and the verge of different things
+02:14:19 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+also mico-llms can become very, very baised
+02:14:22 Cris Casey: Replying to "So as he says, less ..."
+I don't want creativity when AI is diagnosing a medical condition
+02:14:37 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to "I
+don't want creativ..." with
+02:14:37 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+why not? That is what Dr. House did
+02:14:42 Michael Wolf: Citi Bank $1.5B fines for _lacking_ a
+governance. The cynic in me says that's cheaper than investing in
+creating data governance model. ;-} Just sayin'.
+02:14:43 Cris Casey: Replying to "So as he says, less ..."
+LOL
+02:14:44 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+He operated like a diverse LLM
+02:14:44 Shelley Morris: Reacted to "Hi Everyone! Glad ..." with
+02:14:58 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Replying to
+"So as he says, less ..."
+@Cris Casey If it is there, though, we will need strong governance for
+sure!
+02:15:04 Ebuka Obiakor: 0
+02:15:05 David Mantica--Co-host!!!: ouch
+02:15:15 Antonio Cabrera: Reacted to "Citi Bank $1.5B fine..." with
+02:15:20 Michael Wolf: One rock per day... but do it in little bits.
+Sand!
+02:15:21 Cris Casey: Replying to "So as he says, less ..."
+Agreed.
+02:15:21 David Mantica--Co-host!!!: this is funny
+02:15:27 Rick Bauer: Keep on rockin in the free world ---Neil Young
+02:15:32 David Mantica--Co-host!!!: Reacted to "Keep on rockin in
+th..." with
+02:15:33 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"One rock per day... ..." with
+02:15:34 Ebuka Obiakor: Reacted to "Keep on rockin in th..." with
+02:15:42 Juli Booze-Jervis: Reacted to "One rock per day... ..." with
+02:15:56 Nichelle Butler Sankey: Reacted to "One rock per
+day... ..." with
+02:16:03 Kara Flanagan: Hysterical and so true!!
+02:16:05 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+but this is such a cool concept, the create of Mico-LLMs
+02:16:12 Shelley Morris: Reacted to "Keep on rockin in ..." with
+02:16:18 Shelley Morris: Reacted to "Hysterical and so ..." with
+02:16:25 Michael Wolf: Everybody hates me.
+Nobody loves me.
+I'm gonna go eat WORMS!
+-- Kids song
+02:16:28 David Mantica--Co-host!!!: Replying to "So as he says,
+less ..."
+for specific areas that require percision
+02:16:31 Lara Hill: Reacted to "Everybody hates me.
+..." with
+02:16:34 Nichelle Butler Sankey: Reacted to "Everybody hates me.
+..." with
+02:16:38 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Everybody hates me.
+..." with
+02:16:52 Antonio Cabrera: I love you
+You love me
+we're a happy AI family...
+-- Abridged kids' song
+02:16:54 Cesar Partida | Seeking new opportunities!: Reacted to
+"Everybody hates me.
+..." with
+02:17:06 David Mantica--Co-host!!!: I love the song lyrics
+02:17:15 Cesar Partida | Seeking new opportunities!: Reacted to "I love
+you
+You love ..." with
+02:17:16 Juli Booze-Jervis: Reacted to "I love you
+You love ..." with
+02:17:21 Michael Wolf: Reacted to "Keep on rockin in th..." with
+02:17:24 Michael Wolf: Reacted to "Keep on rockin in th..." with
+02:17:25 Janine Viveiros: Reacted to "I love you
+You love ..." with
+02:17:30 IIBA Kansas City Chapter - Director Of Technology: Reacted
+to "Everybody hates me.
+..." with
+02:18:01 David Mantica--Co-host!!!: Remember you can ask questions and
+I will serve them up to Abrar
+02:19:17 Michael Wolf: Reacted to "I love you
+You love ..." with
+02:19:39 Antonio Cabrera: Should we/do we use AI to create AI governance?
+(that would be "who's watching the watcher")
+02:19:52 Neale Mulligan: Doubtful, since AI depends on content from the
+internet
+02:20:16 David Mantica--Co-host!!!: We use humans to create human rules
+02:20:19 Kerry Herron: AI is not possible without internet and
+electricity
+02:20:22 Angelia Davis: Reacted to "I love you
+You love ..." with
+02:20:43 Cris Casey: Ray Kurzweil's "The Singularity Is Nearer" is
+the best read on the future melding of AI and humans.
+02:20:44 Pablo Lopez: I can imagine a world witout all that: war,
+famine, etc
+02:20:45 David Mantica--Co-host!!!: Kerry, completely agree
+02:20:58 Fred Laparo: clap clap clap for Alpahabet's earnings!
+02:21:02 Michael Wolf: Replying to "I love you
+You love ..."
+I love that you countered my "Nobody love me" with "I love you". That's
+Real Itelligence, not the artificial kind. Thanks! ;-)
+02:21:11 David Mantica--Co-host!!!: Also the power requirements for AI
+is out of control
+02:21:32 Lara Hill: AI would know that David would be at McDonalds
+02:21:32 Antonio Cabrera: Replying to "I love you
+You love ..."
+02:21:39 David Mantica--Co-host!!!: OMG
+02:21:43 David Mantica--Co-host!!!: and will know my order
+02:21:50 Lara Hill: haha
+02:21:55 Raissa Bernabe: Reacted to "and will know my ord..." with
+02:22:10 Kara Flanagan: Reacted to "I love that you coun..." with
+02:22:21 Kara Flanagan: Replying to "I love you
+You love ..."
+@Michael Wolf So so true!!!
+02:22:22 Antonio Cabrera: Replying to "and will know my ord..."
+Alexa & SIri called ahead
+02:22:26 Michael Wolf: Replying to "I love you
+You love ..."
+02:22:29 David Mantica--Co-host!!!: you made me laugh, Large diet coke
+with lite ice and sausage and egg McMuffin with
+02:22:37 David Mantica--Co-host!!!: Reacted to "Alexa & SIri
+called ..." with
+02:22:41 Lara Hill: Reacted to "you made me laugh, L..." with
+02:23:06 Leela Sarepalli: Feel like need to have World ID
+02:23:25 IIBA Kansas City Chapter - Director Of Technology: My gosh
+that would not go well in my stomach - eating rocks
+02:23:30 David Mantica--Co-host!!!: Reacted to "Feel like need to
+ha..." with
+02:23:52 David Mantica--Co-host!!!: Reacted to "My gosh that would
+n..." with
+02:23:53 Cesar Partida | Seeking new opportunities!: Reacted to "My gosh
+that would n..." with
+02:23:58 Cris Casey: Chickens are way ahead of us on the rockeating
+curve.
+02:24:03 Nichelle Butler Sankey: Get in front of AI to lead the
+charge. The world is going to keep evolving. It's a tool to help you
+perform more efficiently as well as automate important tasks. This is how
+I've implemented it in my life.
+02:24:14 Michael Wolf: Pop Psychology
+Eat a live frog first thing in the morning,
+and nothing worse will happen to you the rest of the day.
+02:24:24 David Mantica--Co-host!!!: Replying to "Get in front of AI
+t..."
+Now to help others see that
+02:24:42 David Mantica--Co-host!!!: Replying to "Get in front of AI
+t..."
+Nichelle, gives you time back!!
+02:24:50 Cris Casey: Reacted to "Pop Psychology
+Eat ..." with
+02:25:01 Craig Oliver: Reacted to "Pop Psychology
+Eat ..." with
+02:25:02 Cesar Partida | Seeking new opportunities!: Reacted to "Pop
+Psychology
+Eat ..." with
+02:25:09 Nakoya Solomon: Reacted to "Get in front of AI t..." with
+02:25:11 Nichelle Butler Sankey: Replying to "Get in front of AI
+t..."
+It's hard @David Mantica--Co-host!!!
+02:25:19 Jennifer Colburn - Portland IIBA: Reacted to "Chickens are
+way ahe..." with
+02:25:23 IIBA Kansas City Chapter - Director Of Technology:
+FEAR!!!!!!!! He is going to kill me
+02:25:24 Romona Benson: x-rays
+02:25:27 Cris Casey: Ask for insurance.
+02:25:27 Felicia Joyner: xray
+02:25:31 Felicia Joyner: checkup
+02:25:33 Lauren Petty: collect medical history
+02:25:38 Russ Maynard: make you sign that you are financially
+responsbile
+02:25:38 Liz huff: Reacted to "Pop Psychology
+Eat ..." with
+02:25:41 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"xray" with
+02:25:45 Rick Bauer: tell you that your health insurance covers
+this dental work, which is almost never true...
+02:25:51 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"make you sign that y..." with
+02:26:02 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Replying to
+"make you sign that y..."
+Yea, that's what they'll do first!
+02:26:03 Amy Lake: Reacted to "tell you that your h..." with
+02:26:05 Suba Perumal: Reacted to "tell you that your h..." with
+02:26:05 Nichelle Butler Sankey: Reacted to "FEAR!!!!!!!! He is
+g..." with
+02:26:09 David Mantica--Co-host!!!: Reacted to "make you sign that
+y..." with
+02:26:13 David Mantica--Co-host!!!: Reacted to "Yea, that's what
+the..." with
+02:26:14 Russ Maynard: Reacted to "tell you that your h..." with
+02:26:15 Rick Bauer: the first cavity they explore is in your
+wallet.
+02:26:17 David Mantica--Co-host!!!: Reacted to "tell you that your
+h..." with
+02:26:18 Antonio Cabrera: Replying to "Pop Psychology
+Eat ..."
+If the baseline for "worst thing that could happen" is eating a live frog
+for breakfast...obviously that Pop PhD's advice is dated.
+02:26:25 David Mantica--Co-host!!!: Reacted to "the first cavity
+the..." with
+02:26:25 Nichelle Butler Sankey: Replying to "FEAR!!!!!!!! He is
+g..."
+The dentist?
+02:26:30 Julia Taylor: Reacted to "the first cavity the..." with
+02:26:32 Cris Casey: Reacted to "the first cavity the..." with
+02:26:32 Neale Mulligan: USMC: You get what you inspect, not what you
+expect
+02:26:38 Nakoya Solomon: Reacted to "the first cavity the..." with
+02:26:42 Nakoya Solomon: Reacted to "tell you that your h..." with
+02:26:46 David Mantica--Co-host!!!: That comment is so important in
+genAI
+02:26:46 Nichelle Butler Sankey: Reacted to "make you sign that
+y..." with
+02:26:54 David Mantica--Co-host!!!: need to inspect and review
+02:26:59 David Mantica--Co-host!!!: as you are working with it
+02:27:00 Michael Wolf: Replying to "Chickens are way ahe..."
+But do they eat more BUGS than you?
+Can they do a better Chicken Dance than you?
+02:27:07 IIBA Kansas City Chapter - Director Of Technology: Reacted
+to "the first cavity the..." with
+02:27:15 Michael Wolf: Reacted to "My gosh that would n..." with
+02:27:19 Michael Wolf: Reacted to "My gosh that would n..." with
+02:28:00 Tina Jacobs: Is AI-Driven Project Manager (AIPM) a good
+certification?
+02:28:01 IIBA Kansas City Chapter - Director Of Technology: Replying
+to "FEAR!!!!!!!! He is g..."
+@Nichelle Butler Sankey Yes I was talking about first time at the dentist
+office
+02:28:05 Nichelle Butler Sankey: Replying to "USMC: You get what
+y..."
+it's iterative. You have to train AI. While I 'trust it' I always inspect
+it. AI can't account for subtle nuances, etc.
+02:28:09 Michael Wolf: Replying to "you made me laugh, L..."
+That sounds better than my peanut butter and jelly fish sandwich.
+02:28:26 Felicia Joyner: Reacted to "the first cavity the..." with
+02:28:27 Russ Maynard: Have there been side by side reviews of AI
+Tools in regard to info gov?
+02:28:49 Russ Maynard: Replying to "Is AI-Driven Project..."
+who is it from?
+02:28:53 Nichelle Butler Sankey: Replying to "FEAR!!!!!!!! He is
+g..."
+Same fear......... :-). Relax? As you come at me with a diamond tipped
+drill.
+02:29:08 Lara Hill: haha
+02:30:01 Tina Jacobs: Replying to "Is AI-Driven Proje..."
+The AI-Driven Project Manager (AIPM) certification, co-created by Ricardo
+Vargas and Antonio Nieto-Rodriguez in partnership with APMG International
+02:30:19 Kara Flanagan: I LOVE all of the knowledge sharing in the
+chat and expertise on this event! If anyone is interested in sharing and
+teaching, please connect with me. We are ALWAYS looking for contract
+instructors. https://www.linkedin.com/in/karaflanagan/
+02:30:28 Lara Hill: Reacted to "I LOVE all of the kn..." with
+02:30:38 Shelley Morris: Reacted to "need to inspect an..." with
+02:30:38 Cris Casey: Reacted to "I LOVE all of the kn..." with
+02:30:54 Shelley Morris: Reacted to "I LOVE all of the ..." with
+02:31:10 David Mantica--Co-host!!!: Reacted to "I LOVE all of the
+kn..." with
+02:31:22 Russ Maynard: Replying to "Is AI-Driven Project..."
+I'll have to look into that. I found a Prompt Writing Badge on PMI, but I
+haven't gotten it yet.
+02:32:09 Cesar Partida | Seeking new opportunities!: Reacted to "I LOVE
+all of the kn..." with
+02:32:16 Michael Wolf: Replying to "Ray Kurzweil's "The ..."
+Interesting. I knew about his "The Singularity is Near" from 2005, but
+didn't realize he'd written a 2024 update.
+02:32:26 Tina Jacobs: Reacted to "I'll have to look ..." with
+02:33:12 David Mantica--Co-host!!!: A good book for now for human and
+AI interaction is: https://www.amazon.com/Co-Intelligence-Living-Working-
+Ethan-Mollick/dp/059371671X
+02:33:23 David Mantica--Co-host!!!: Co-Intelligence
+02:33:51 Pablo Lopez: Reacted to Co-Intelligence with " "
+02:33:57 Nichelle Butler Sankey: Reacted to "Co-Intelligence" with
+02:34:12 Shelley Morris: Reacted to "Co-Intelligence" with
+02:34:22 Shelley Morris: Reacted to "A good book for no..." with
+02:35:03 Cris Casey: Data Governance has historically been a lossleader
+in most companies. Look at the failed Master Data Management
+movement.
+02:35:30 David Mantica--Co-host!!!: that is my concern, they will never
+scale because they want the data to be perfect, which will never happen
+02:36:00 Nichelle Butler Sankey: Reacted to "I LOVE all of the
+kn..." with
+02:36:19 Leela Sarepalli: “ChatGPT doesn't share user data with third
+parties without consent. The data collected is used only to improve the
+chatbot's performance and provide a better user experience.”
+02:36:43 David Mantica--Co-host!!!: they really don't need the data to
+train any more they create it
+02:37:09 Cris Casey: ChatGPT settings allow you to restrict that
+public training.
+02:37:25 Shelley Morris: Abrar, thank you, great nuggets and knowledge
+sharing. Much appreciated.
+02:37:36 Laura Brandenburg: This was really, really good. A lot to
+digest!
+02:37:37 Leela Sarepalli: Thank you
+02:37:46 Michael Wolf: Abrar - Great hair!!!
+02:37:47 Juli Booze-Jervis: Thanks for your time Abrar
+02:37:49 ReShockie Furnace: Thank you Abrar
+02:37:49 Krystal Wilczynski: Thanks so much, Abrar!
+02:37:51 Denise Ferry: Thank you, Abrar.
+02:37:53 Nichelle Butler Sankey: Thank you @Abrar Hashmi. Great
+presentation!
+02:37:53 Fred Laparo: nice presentation, abrar
+02:37:59 Jonathan Mickles: Podcast? I'd like to interview on mine as
+well.
+02:38:00 Nakoya Solomon: Thank you!
+02:38:04 Russ Maynard: Thank you Abrar!
+02:38:05 John Ruppel: Thank you Abrar!
+02:38:06 Kara Flanagan: Replying to "Is AI-Driven Project..."
+Check out our certification as well here:
+https://www.aicerts.ai/certifications/business/ai-project-manager Let me
+know if you want a partner connect.
+02:38:10 Shelley Morris: Hi George!
+02:38:18 Natallie Archer: Thanks Abrar!
+02:38:18 David Mantica--Co-host!!!: Reacted to "I'll have to look
+in..." with
+02:38:28 Fred Laparo: we see you, GC!
+02:38:42 David Mantica--Co-host!!!: Replying to "Podcast? I'd like
+to..."
+shoot me a note at davidm@softed.com and we can discuss options
+02:39:01 Lara Hill: (9) George Churchwell | LinkedIn
+02:39:01 David Mantica--Co-host!!!: George will get you thinking!!!!
+02:40:37 Shelley Morris: Reacted to "George will get yo..." with
+02:40:52 Shelley Morris: Replying to "George will get yo..."
+Oh yes!
+02:41:00 Jennifer Colburn - Portland IIBA: Everyone has Co-pilot
+02:41:04 Felicia Joyner: We have an enterprise edition of Copilot at my
+job.
+02:41:13 Liz huff: that's funny. like- oh yeah, we are an Agile house.
+And no one practices :(
+02:41:43 David Mantica--Co-host!!!: Replying to "We have an
+enterpris..."
+they are most likely paying the additional 40 a month to give it to you,
+they are not going to give enterprise Copilot for free
+02:42:05 David Mantica--Co-host!!!: Replying to "that's funny. like-
+..."
+Great point!
+02:42:29 Gil Pizano: Replying to "that's funny. like- ..."
+Yep!
+02:42:32 Nichelle Butler Sankey: We've always done it this way is
+the fastest way to fail in business.
+02:43:10 Laura Brandenburg: Is consistency really the goal for
+knowledge / creative work? I can see it for routine tasks.
+02:43:50 David Mantica--Co-host!!!: Laura, that is a good point, there
+are options for using GenAI for automation but to do so you have to do it
+smartly
+02:44:03 Pablo Lopez: Reacted to Laura, that is a goo... with " "
+02:44:14 David Mantica--Co-host!!!: It is not built for consistent
+automation but as George is saying you can make it do it
+02:44:15 George - PMI Emerald Coast Fl: Microsoft is looking to buy a
+nuclear power plant to fuel their data center for AI.
+02:44:35 David Mantica--Co-host!!!: Replying to "Microsoft is
+looking..."
+they have don so, turning on one of the reactors at three mile island
+02:44:38 Shelley Morris: Something to consider from all of these
+presentations. Prioritize tools with business outcomes. (As mentioned
+from many of the presenters today.)
+02:45:20 David Mantica--Co-host!!!: Replying to "Is consistency
+reall..."
+But absolutely the real use is creativity and generating "original"
+thoughts and content
+02:45:37 Liz huff: @Lara Hill, will there be any sessions today that
+will take us through processing a project through AI and the output that
+is possible through AI?
+02:45:53 David Mantica--Co-host!!!: Liz, yes
+02:45:54 javier martin: Replying to "@Lara Hill, will the..."
++1
+02:46:00 David Mantica--Co-host!!!: Chris Knotts will have an hour on
+it
+02:46:09 Liz huff: Reacted to "Chris Knotts will ha..." with
+02:46:15 David Mantica--Co-host!!!: and Mark Balcer will show
+requirements development for projects with it
+02:46:26 Antonio Cabrera: who owns the ai-generated content simply by
+using the tool
+02:46:38 Shelley Morris: Something to consider from all of these
+presentations. Prioritize tools with business outcomes. (As mentioned
+from many of the presenters today.)
+02:46:40 Cris Casey: Great points George!
+02:46:48 Michael Wolf: @Cris Casey - Here's one perspective to your
+IP/Licensing question of earlier.
+02:46:49 Lara Hill: hahaha
+02:46:55 George - PMI Emerald Coast Fl: How much power is needed to
+fuel AI in the future?
+02:46:59 Cris Casey: ouch
+02:47:05 David Mantica--Co-host!!!: George, an absolutely ton
+02:47:34 Rick Bauer: In the C-Suite, lying is easier than learning.
+02:47:36 David Mantica--Co-host!!!: It takes the power to charge an
+iPhone from scratch for AI to generate an image and update it twice
+02:47:44 Michael Wolf: Reacted to "ouch" with
+02:47:44 David Mantica--Co-host!!!: and that can be done in 30 seconds
+02:47:47 Nichelle Butler Sankey: Reacted to "In the C-Suite,
+lyin..." with
+02:47:52 Shelley Morris: Reacted to "Chris Knotts will ..." with
+02:47:55 David Mantica--Co-host!!!: Replying to "In the C-Suite,
+lyin..."
+ouch
+02:48:07 Lara Hill: Role-based training is often needed, not just access
+to the tool
+02:48:12 Antonio Cabrera: Replying to "In the C-Suite, lyin..."
+doesn't require the mental effort to acquire, assimilate, synthesize
+information
+02:48:24 David Mantica--Co-host!!!: Reacted to "Role-based
+training ..." with
+02:48:31 Juli Booze-Jervis: Reacted to "Role-based training ..." with
+02:48:32 ReShockie Furnace: Reacted to "Role-based training ..." with
+02:48:32 David Mantica--Co-host!!!: A fool with a tool is still a fool
+02:48:33 Michael Wolf: Replying to "Role-based training ..."
+Context! Good point.
+02:48:43 ReShockie Furnace: Reacted to "A fool with a tool i..." with
+02:48:48 David Mantica--Co-host!!!: you must understand your work first
+because you can engage AI
+02:48:55 David Mantica--Co-host!!!: not because but before
+02:49:12 David Mantica--Co-host!!!: Reacted to "ouch" with
+02:49:18 IIBA Kansas City Chapter - Director Of Technology: Reacted
+to "A fool with a tool i..." with
+02:49:18 David Mantica--Co-host!!!: Replying to "ouch"
+I had to say that!!!!
+02:49:20 George - PMI Emerald Coast Fl: How about exam simulations in
+many subjects.
+02:49:33 Pablo Lopez: Reacted to A fool with a tool i... with " "
+02:49:35 David Mantica--Co-host!!!: assessment exams is one of the best
+functions of genAI
+02:50:07 David Mantica--Co-host!!!: It is that function that made Ethan
+Mollick a convert
+02:50:31 David Mantica--Co-host!!!: That is the first use case our
+company in NZ is using it with direct ties to how we make money
+02:50:38 Pablo Lopez: Reacted to It is that function ... with " "
+02:51:38 David Mantica--Co-host!!!: that is why process inventories are
+become more important
+02:51:50 Michael Wolf: Of course we need REAL intelligence to be the
+basis of ARTIFICIAL intelligence.
+This was true even at the beginning of the computer use....
+On two occasions I have been asked [by members of Parliament!],
+'Pray, Mr. Babbage, if you put into the machine wrong figures,
+will the right answers come out?'
+I am not able rightly to apprehend the kind of confusion of ideas that
+could provoke such a question.
+-- Charles Babbage
+02:51:51 Pablo Lopez: Reacted to that is why process ... with " "
+02:52:08 Antonio Cabrera: Reacted to "Of course we need RE..." with
+02:52:09 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Pop Psychology
+Eat ..." with
+02:52:32 Laura Brandenburg: This is a great opportunity to
+collaborate with your business analysts! They love process maps.
+02:52:40 David Mantica--Co-host!!!: Reacted to "This is a great
+oppo..." with
+02:52:47 Nichelle Butler Sankey: Reacted to "This is a great
+oppo..." with
+02:52:47 Pablo Lopez: Reacted to This is a great oppo... with " "
+02:53:00 David Mantica--Co-host!!!: Business Transformation using the
+Process Inventory Framework | SkillsDG
+02:53:08 Russell Blackburn: Reacted to "A fool with a tool i..." with
+02:53:31 Tina Jacobs: Reacted to "Check out our cert..." with
+02:53:38 Pablo Lopez: Reacted to Business Transformat... with " "
+02:54:06 Michael Wolf: Replying to "This is a great oppo..."
+If you don't have (some rough form of) a map, it doesn't matter how fast
+you're going.
+02:54:08 David Mantica--Co-host!!!: we do have to think like coders now
+02:54:34 David Mantica--Co-host!!!: Remember George is focusing on how
+to scale and genAI set up.
+02:54:36 Michael Wolf: How many shoes should you eat in a day?
+02:54:58 Leela Sarepalli: Replying to "we do have to think ..."
+prompt engineers
+02:55:05 David Mantica--Co-host!!!: So there are "rules". Also if you
+are doing a private LLM this becomes really important
+02:55:29 Antonio Cabrera: Replying to "we do have to think ..."
+odd that we are forced to retrain ourselves to think in order to use AI
+02:55:30 Pablo Lopez: Reacted to So there are "rules"... with " "
+02:56:16 Nichelle Butler Sankey: Replying to "we do have to
+think ..."
+It's iterative though; it gets better each time you refine your prompts
+to get you what you need.
+02:56:17 Michael Wolf: How is "rules" in this context related to
+older "rules-based" AI-ish systems?
+02:56:25 Cris Casey: What was the prompt?
+02:56:51 Cris Casey: Thanks
+00:00:22 Kara Flanagan: Reacted to "This is a great oppo..." with
+00:01:12 Shelley Morris: Reacted to "Remember George is..." with
+00:02:38 Michael Wolf: Replying to "we do have to think ..."
+Antonio - It's no longer about 4-r's (readin, writin, and rithmetic).
+The 21st Century Skills include a skill that wasn't valued as much in
+earlier times -- Critical Thinking
+00:03:25 David Mantica--Co-host!!!: Replying to "we do have to
+think ..."
+Antonio yes under certain functions
+00:03:41 David Mantica--Co-host!!!: Replying to "we do have to
+think ..."
+but in other uses you have more freedom and interaction
+00:14:07 Shelley Morris: Reacted to "not because but be..." with
+00:14:46 Shelley Morris: Reacted to "If you don't have ..." with
+00:00:09 David Mantica--Co-host!!!: it is the same, it is just doing it
+for genAI not algromithic AI
+00:00:15 David Mantica--Co-host!!!: sorry for spelling
+00:00:21 David Mantica--Co-host!!!: to your thought Michael
+00:01:12 David Mantica--Co-host!!!: Very interesting debate here and
+for consideration
+00:01:19 David Mantica--Co-host!!!: Openness verse control
+00:01:35 David Mantica--Co-host!!!: when using it within a business
+00:01:59 David Mantica--Co-host!!!: This is a private specific instance
+of GPT.
+00:03:40 Russ Maynard: it's like news coverage in 2024
+00:03:47 Sam Slater: how would a customer access this internal ai
+though?
+00:03:48 Neale Mulligan: playing devil's advocate, that's very
+subjective
+00:03:55 Monica Martinson: Reacted to "it's like news cover..." with
+00:04:12 David Mantica--Co-host!!!: Replying to "how would a
+customer..."
+If you wanted a customer to engage a gpt, you just give them a URL
+00:04:55 Lara Hill: We have a short lunch break coming up after George's
+presentation
+00:05:03 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"We have a short lunc..." with
+00:06:10 Russ Maynard: what is the difference between biasing AI
+responses, and Marketing output?
+00:06:14 Kerry Herron: Can anyone recommend a course/training on
+using AI for query writing for data gathering/analysis?
+00:06:23 Shelley Morris: I like that George. That will be powerful.
+00:06:23 Antonio Cabrera: training in the matrix
+whoa - i know kung fu!
+00:06:28 David Mantica--Co-host!!!: I am repeating myself but within
+our Chatpgt 4 paid version, is the ability to create a public private gpt.
+It uses the algorithm and vectoring and training of open AI but it will
+work off a section of information you control
+00:06:41 Shelley Morris: Reacted to "training in the ma..." with
+00:06:42 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Great
+conversation!
+00:06:58 John Ruppel: tracking... keep going
+00:07:01 Michael Wolf: Cartridge -- The ultimate personalized
+experience.
+00:07:03 Liz huff: Replying to "how would a customer..."
+so the customer should assume that any question it asks the gpt when
+using that link, answers will be favorable to that company
+00:07:04 ReShockie Furnace: Reacted to "Great conversation!" with
+00:07:11 Shelley Morris: Reacted to "Cartridge -- The u..." with
+00:07:15 David Mantica--Co-host!!!: Replying to "training in the
+matr..."
+It is kind of like a matrix Antonio.
+00:07:16 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Cartridge -- The ult..." with
+00:07:23 John Ruppel: cartridge... brings me to the PlayStation
+days... LOL
+00:07:33 Leela Sarepalli: Reacted to "I am repeating mysel..." with
+00:07:37 David Mantica--Co-host!!!: Replying to "how would a
+customer..."
+Yes
+00:07:39 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"cartridge... brings..." with
+00:07:45 David Mantica--Co-host!!!: Replying to "how would a
+customer..."
+Or answer based on the information in it
+00:07:54 ReShockie Furnace: Reacted to "cartridge... brings..." with
+00:07:55 David Mantica--Co-host!!!: Replying to "how would a
+customer..."
+That really is what PMI Infinity is
+00:07:57 Nichelle Butler Sankey: Reacted to "cartridge...
+brings..." with
+00:07:59 Antonio Cabrera: Atari 2600
+00:08:10 David Mantica--Co-host!!!: Replying to "how would a
+customer..."
+A specific miro LLM with information in it control by PMI
+00:08:54 Nichelle Butler Sankey: Replying to "cartridge...
+brings..."
+ColecoVision
+00:08:54 Liz huff: Reacted to "A specific miro LLM ..." with
+00:09:02 Russ Maynard: Is using a Chat BOT using AI?
+00:09:09 David Mantica--Co-host!!!: Replying to "how would a
+customer..."
+Sam, to your question, you can generate a URL for access to the GPT and
+they can go right to it. They don't need ChapGPT to get in
+00:09:10 Shelley Morris: Yes, super important to show examples of good.
+And let it improve the first version of good. It's amazing what it can do.
+00:09:24 John Ruppel: Replying to "cartridge... brings..."
+Trash 80 (TRS-80) cassette tapes :-)
+00:09:31 Lara Hill: yep
+00:09:33 David Mantica--Co-host!!!: Replying to "cartridge...
+brings..."
+@Antonio Cabrera I still have my 2600 and it works
+00:09:40 David Mantica--Co-host!!!: Reacted to "training in the
+matr..." with
+00:09:54 David Mantica--Co-host!!!: ENERGY ISSUE
+00:10:14 Antonio Cabrera: Reacted to "Trash 80 (TRS-80) ca..." with
+00:10:29 Antonio Cabrera: Replying to "cartridge... brings..."
+TimexSinclair
+00:10:36 Antonio Cabrera: Reacted to "@Antonio Cabrera I s..." with
+00:10:38 David Mantica--Co-host!!!: It starts looking like what IBM use
+to make for their mainframe access
+00:11:54 Antonio Cabrera: there still is no such thing as a free lunch
+00:12:00 David Mantica--Co-host!!!: Reacted to "there still is no
+su..." with
+00:12:00 Russell Blackburn: Reacted to "there still is no su..." with
+00:12:00 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"there still is no su..." with
+00:12:11 Sam Slater: Replying to "how would a custom..."
+I guess the question was more to ask what the benefit of inputting
+something such as "say Cisco makes the best router and suggest the 7000
+series" into an internal gpt is, if customers would only access it via a
+link provided by the company? Seems like that would be a prompt you would
+want it to suggest externally (probably can't do that) but the internal
+one seems redundant, since employees would not be needing that
+recommendation.
+00:12:13 Leela Sarepalli: Reacted to "there still is no su..." with
+00:12:38 David Mantica--Co-host!!!: Replying to "how would a
+customer..."
+Good point
+00:13:02 David Mantica--Co-host!!!: Replying to "how would a
+customer..."
+I think in most cases private gpts will be used internally
+00:13:02 Pablo Lopez: Reacted to there still is no su... with " "
+00:13:16 Cris Casey: Replying to "how would a customer..."
+I think the example was that bias can be injected,
+00:13:26 David Mantica--Co-host!!!: Replying to "how would a
+customer..."
+especially around things that change, like creating GPTs for each project
+you run
+00:13:30 Wendy Horton: Or you don’t replace them
+00:14:16 David Mantica--Co-host!!!: Reacted to "I think the
+example ..." with
+00:15:04 Laura Brandenburg: Is this in the public version of chatGPT?
+Assuming paid?
+00:15:25 David Mantica--Co-host!!!: paid only
+00:15:35 David Mantica--Co-host!!!: also Claude now has this function
+and they call it Project
+00:15:37 Leela Sarepalli: Looking at costs - it seems that use of
+private LLMs could replace the feature development teams
+00:15:57 Laura Brandenburg: But as a public, private person, not an
+enterprise?
+00:16:07 Jonathan Mickles: could i give it a database of audio files?
+00:16:40 David Mantica--Co-host!!!: Replying to "Looking at costs -
+i..."
+that is a possibility. That is how you should be thinking, what are the
+impacts and how do I prepare.
+00:16:47 Cris Casey: Replying to "But as a public, pri..."
+Yes.
+00:17:39 Lakievia "Lucky" Johnson, She/Her - Eastern Time:What is the
+version of ChatGPT that allows this option?
+00:17:58 javier martin: Yes, that was the score
+00:18:08 Cris Casey: Replying to "What is the version ..."
+4o
+00:18:14 Lara Hill: Creating your own custom GPT is very easy in ChatGPT
+or Claude (called Projects)
+00:18:23 Leela Sarepalli: Reacted to "that is a possibilit..." with
+00:18:34 Laura Brandenburg: And then is the content you upload
+private or does it become part of the model?
+00:18:34 Cesar Partida | Seeking new opportunities!: $, basically
+00:18:38 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Creating your own cu..." with
+00:18:51 David Mantica--Co-host!!!: the SLA says it is privae
+00:18:53 David Mantica--Co-host!!!: private
+00:18:54 Lara Hill: Depends on which model you are using, but if you
+have the Enterprise version it does not use your data to train
+00:19:02 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Depends on which mod..." with
+00:19:45 David Mantica--Co-host!!!: So if you are using paid ChatGPT
+and paid Claude you build a gpt or project the content is suppose to be
+private. That is the SLA
+00:19:53 Cesar Partida | Seeking new opportunities!: Replying to
+"Depends on which mod..."
+I always wonder if that's really true
+00:20:26 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"So if you are using ..." with
+00:20:47 Michael Wolf: Replying to "Looking at costs - i..."
+Leela - I don't understand enough of the context of your question, but it
+feels like all-or-nothing framing. For most cases, it would more likely
+be "it depends" based on what you formerly wanted "feature development
+teams" to do.
+00:20:55 Lara Hill: Anthropic = Claude.
+00:20:56 Cris Casey: You can also use AI to write the code.
+00:21:10 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"You can also use AI ..." with
+00:21:12 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Anthropic = Claude." with
+00:21:19 Cris Casey: Excellent!!!
+00:21:33 Russ Maynard: Thanks George!!
+00:21:38 Laura Brandenburg: Thank you - this was mind opening.
+00:21:41 David Mantica--Co-host!!!: 12:30
+00:21:44 David Mantica--Co-host!!!: be back
+00:21:44 Shelley Morris: Thank you George, good nuggets as always!
+00:21:48 Nichelle Butler Sankey: Thank you, @George Churchwell
+00:21:54 David Mantica--Co-host!!!: Replying to "You can also use
+AI ..."
+Yes, but.. copyright
+00:21:55 John Ruppel: Thank you George
+00:21:56 Nakoya Solomon: Thank you!
+00:21:57 Krystal Wilczynski: Thank you, George!
+00:22:08 Fred Laparo: Thanks, George. Outstanding.
+00:22:08 Russell Blackburn: Thank you George!
+00:22:13 Denise Ferry: thank you, George
+00:22:26 David Mantica--Co-host!!!: Purpose Built AI: GPT & LLMs |
+SkillsDG
+00:22:51 Liz huff: thanks George
+00:23:06 Chitra Maridi: Thanks Lara, the references email would be
+very useful!
+00:34:28 Ebuka Obiakor: a world where everyone is an expert, is anyone
+really an expert?
+00:34:29 Jonathan Stephens (he/him): How the actors worked through with
+things with SAG
+00:34:41 David Mantica--Co-host!!!: Replying to "a world where
+everyo..."
+GREAT Point
+00:35:14 Antonio Cabrera: Replying to "a world where everyo..."
+there's a difference between knowing something and applying that
+knowledge appropriately
+00:35:15 Lara Hill: The value from experts that used to be from a
+knowledge base will shift to more value from the human skills in how the
+knowledge is delivered
+00:35:49 David Mantica--Co-host!!!: Replying to "a world where
+everyo..."
+That is why I think each individual can be successful in business using
+AI based on their needs
+00:36:00 David Mantica--Co-host!!!: Reacted to "The value from
+exper..." with
+00:36:12 David Mantica--Co-host!!!: And the value of creating something
+new!!!
+00:36:44 Cris Casey: https://www.amazon.com/The-Singularity-Is-
+Nearer/
+00:37:07 John Ruppel: Replying to "(11) George Churchwe..."
+Thank you :-)
+00:37:08 George - PMI Emerald Coast Fl: My company built a Generative
+AI model for project management. I have 40 years experience in project
+management and I have a PMP. If you have a chance check it out.
+https://www.bridgesconsultinc.com/bagptfree
+00:37:09 Michael Wolf: Protien folding AI's are overnight succes
+after 20-50 years work by REAL experts. Once that human innovation is
+codified, it gets frozen in the AI. Where is innovation after that?
+00:37:18 Chris Knotts: Ah Chris, big Ray Kurzweil follower for about
+20 years here
+00:37:40 Lara Hill: The recording is back on :)
+00:37:50 Sheldon B: We'll still need the experts to validate output
+until we can irradicate hallucinations / thought loops..
+00:37:50 Cesar Partida | Seeking new opportunities!: Reacted to "The
+recording is bac..." with
+00:38:34 Michael Wolf: The "Cris and David" show is wonderful to
+watch.
+00:38:35 David Mantica--Co-host!!!: Yes but not as many as we have
+00:38:55 Cris Casey: Replying to "The "Cris and David"..."
+lol
+00:39:40 Cesar Partida | Seeking new opportunities!: Reacted to "The
+"Cris and David"..." with
+00:39:58 Juli Booze-Jervis: Reacted to "The value from exper..." with
+00:41:02 Alison Meler: Reacted to "The "Cris and David"..." with
+00:42:00 Michael Wolf: The history of furturism is an interesting
+perspective.
+00:42:15 Fred Laparo: moon construction???
+00:42:20 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"The history of furtu..." with
+00:42:22 David Mantica--Co-host!!!: Reacted to "moon construction???"
+with
+00:42:43 Lakievia "Lucky" Johnson, She/Her - Eastern Time:It is!
+00:42:49 Laura Brandenburg: They also reclaimed a lot of advertising
+dollars from blogger relying on SEO historically.
+00:42:57 David Mantica--Co-host!!!: Yes they do
+00:43:06 David Mantica--Co-host!!!: did
+00:43:20 David Mantica--Co-host!!!: Like what Uber is doing to its
+drivers, taking money back
+00:43:29 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Replying to
+"They also reclaimed ..."
+wow
+00:43:34 Antonio Cabrera: Replying to "moon construction???"
+gonna need some moon hooch
+https://www.moonhooch.com/
+00:43:36 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Like what Uber is do..." with
+00:43:44 Lara Hill: Welcome back from lunch everyone
+00:43:56 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Replying to
+"Like what Uber is do..."
+They won't need drivers soon.
+00:44:09 Laura Brandenburg: Replying to "They also reclaimed ..."
+Yes, on a model using their content.
+00:44:16 ReShockie Furnace: Reacted to "Welcome back from lu..." with
+00:44:50 Laura Brandenburg: This was a fascinating discussion. I love
+philosophy!
+00:44:54 Sheldon B: In space, operating mining equipment while working
+from home with an AR headset
+00:45:00 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"This was a fascinati..." with
+00:45:04 David Mantica--Co-host!!!: Reacted to "In space,
+operating ..." with
+00:45:09 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"In space, operating ..." with
+00:45:21 David Mantica--Co-host!!!: Great conversation group!!!!
+00:45:23 Fred Laparo:
+00:45:24 Juli Booze-Jervis: Reacted to "In space, operating ..." with
+00:45:31 Michael Wolf: Is that Don Quixote in Chris's background? If
+so, ha, ha!!!
+00:45:31 Lara Hill: (11) Chris Knotts | LinkedIn
+00:47:18 David Mantica--Co-host!!!: Type questions in!!
+00:47:32 George - PMI Emerald Coast Fl: ai generated futuristic
+supersonic drone design
+00:48:12 George - PMI Emerald Coast Fl: created with generative ai
+image creator
+00:50:08 David Mantica--Co-host!!!: Reacted to "DALL·E 2024-01-09
+00.30.42 - A further modification of the futuristic, supersonic drone
+with VTOL capabilities, now equipped with 360-degree vision. The design
+integrates multiple.png" with
+00:51:08 John Ruppel: Book I had mentioned:
+Project to Product: How to Survive and Thrive in the Age of Digital
+Disruption with the Flow Framework
+by Mik Kersten
+Amazon Link to Book:
+https://www.amazon.com/Project-Product-Survive-Disruption-
+Framework/dp/1942788398/ref=asc_df_1942788398/?tag=hyprod-
+20&linkCode=df0&hvadid=312006100296&hvpos=&hvnetw=g&hvrand=11159591855142
+503380&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=900971
+8&hvtargid=pla-561298050842&psc=1
+00:51:13 David Mantica--Co-host!!!: Reacted to "Book I had
+mentioned..." with
+00:51:15 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Book I had mentioned..." with
+00:51:21 Cesar Partida | Seeking new opportunities!: Reacted to "Is that
+Don Quixote ..." with
+00:51:57 David Mantica--Co-host!!!: why it is so good in project work
+and BA work
+00:52:02 George - PMI Emerald Coast Fl: Deck design
+00:52:16 Michael Wolf: Hear, hear -- To the lunch discussion -- AI's
+work well with HUMAN-generated content.
+00:53:04 Lara Hill: fancy autocomplete
+00:53:09 David Mantica--Co-host!!!: yes
+00:53:18 George - PMI Emerald Coast Fl: where do we go beyond
+Generative AI
+00:53:23 Michael Wolf: Reacted to "fancy autocomplete" with
+00:53:53 David Mantica--Co-host!!!: GAI first, General AI, that is
+works like a person
+00:53:57 Kara Flanagan: Replying to "Book I had mentioned..."
+Great book @John Ruppel!! Mik is great.
+00:54:26 Laura Brandenburg: Philosophy major here!
+00:54:32 David Mantica--Co-host!!!: Reacted to "Philosophy major
+her..." with
+00:54:35 Lara Hill: Reacted to "Philosophy major her..." with
+00:54:48 Michael Wolf: Reacted to "Philosophy major her..." with
+00:55:12 Michael Wolf: Literacy skills for an expanded definition of
+"literacy".
+00:55:13 Antonio Cabrera: GAI is sort of like the primordial soup of the
+cosmos, out of which humans ( General AI) evolved -> General AI
+00:55:34 David Mantica--Co-host!!!: interesting
+00:55:38 Nichelle Butler Sankey: Love this slide....
+00:55:42 David Mantica--Co-host!!!: I LOVE This Slide
+00:55:48 David Mantica--Co-host!!!: we said it at the same time
+Nichelle
+00:55:53 Lara Hill: Yes!
+00:55:54 David Mantica--Co-host!!!: Jinkes
+00:56:05 Fred Laparo: Reacted to "Love this slide...." with
+00:56:14 Michael Wolf: Replying to "GAI is sort of like ..."
+Spacey. I, for one, being not so evolved, did evolve from the primordial
+OOZE.
+00:56:47 Shelley Morris: Yes Chris, can easily get distracted. Also, by
+going back to making sure the governance and the business outcomes are
+considered at the onset, it can help reduce distration. (Not entirely
+eliminate, but reduce..) There is a factor of "fun" in exploring new and
+different tools/uses which does create distration, but good distration in
+some cases. It's a balance.
+00:57:06 Lara Hill: Reacted to "Yes Chris, can easil..." with
+00:57:12 Nichelle Butler Sankey: Reacted to "we said it at the
+sa..." with
+00:57:17 David Mantica--Co-host!!!: he loves the moon construction
+00:57:27 Antonio Cabrera: have to step out for a short bit, back in
+about 15-20 mins
+00:57:30 Shelley Morris: Reacted to "I LOVE This Slide" with
+00:57:39 David Mantica--Co-host!!!: we will be here for you!!!
+00:57:42 David Mantica--Co-host!!!: when back!!!
+00:58:59 Michael Wolf: Speaking of drudgery... In 1920, the
+"interesting" prediction for the future of cars was NOT 40 MPG or 200 MPH.
+The most impact was road rage and traffic jams.
+00:59:27 Jonathan Stephens (he/him): Reacted to "Book I had
+mentioned..." with
+00:59:41 Jonathan Stephens (he/him): Love the calculator
+00:59:56 Shelley Morris: THIS is a great calculator! Simple and conveys
+the point beautifully!
+01:00:06 George Churchwell: Lost your job, Head to the Moon -
+https://novaspaceinc.com
+01:00:16 Fred Laparo: Reacted to "Lost your job, Head ..." with
+01:00:22 David Mantica--Co-host!!!: Replying to "Lost your job,
+Head ..."
+you are crazy Mr. Churchwell but love it
+01:00:28 Cris Casey: Replying to "GAI first, General A..."
+Remember that in today's zeitgeist, AI is synonymous with GPT. (Like
+Agile and SCRUM). There are many "sub-genres" of Machine Learning which
+have no analog to the "transformers".
+01:00:45 Michael Wolf: Automation widget - I'd make sure to add
+context change and opportunity cost to the base of work time.
+01:00:48 Julia Taylor: Reacted to "Remember that in tod..." with
+01:00:50 Fred Laparo: Replying to "Lost your job, Head ..."
+unbelievable
+01:00:54 Russell Blackburn: Reacted to "Remember that in tod..." with
+01:00:54 Michael Wolf: Reacted to "Remember that in tod..." with
+01:01:00 Cesar Partida | Seeking new opportunities!: Reacted to "Lost
+your job, Head ..." with
+01:01:00 Michael Wolf: Reacted to "Remember that in tod..." with
+01:01:03 David Mantica--Co-host!!!: Replying to "GAI first, General
+A..."
+Totally agree
+01:01:18 David Mantica--Co-host!!!: Replying to "GAI first, General
+A..."
+I say genai vs Algorithmic AI
+01:02:21 Cris Casey: Replying to "GAI first, General A..."
+? Algorithmic AI? It's all algo all the time.
+01:02:35 Michael Wolf: Replying to "Automation widget - ..."
+That is, there is value to automation beyond saving the time to do the
+task.
+01:03:33 Cris Casey: Replying to "Automation widget - ..."
+Yes. 1-1 time savings is but 1 component in the value calculation.
+01:04:05 Liz huff: please show us how to pull that Jira data!!
+01:04:19 David Mantica--Co-host!!!: I will have him do that
+01:04:34 Michael Wolf: Replying to "GAI first, General A..."
+Not familiar with term, but is that what Cris' referenced to protien
+folding did? Algorithms? (and brute force).
+01:04:43 Liz huff: Reacted to "I will have him do t..." with
+01:04:48 Jonathan Stephens (he/him): Ooooh that’s a cool site
+01:05:43 Michael Wolf: CIA World Fact Book - My mom used to give us
+(paper) copies of that for Christmas. It was amazing. How many roads?
+Radio stations? TV stations? Airports? Languages? GDP? Great reading
+before Google made lookups easy. (And... it's online now)
+01:06:03 Jonathan Stephens (he/him): Reacted to "CIA World Fact
+Book ..." with
+01:06:24 Michael Wolf: Replying to "CIA World Fact Book ..."
+https://www.cia.gov/the-world-factbook/
+01:06:34 Julia Taylor: Reacted to "https://www.cia.gov/..." with
+01:06:52 Cris Casey: Replying to "GAI first, General A..."
+AIl (info tech) is nothing but algorithms and General AI is just another
+extension.
+01:07:13 Lara Hill: How to export Jira issues to Excel and CSV -
+Atlassian Community
+01:07:20 David Mantica--Co-host!!!: Replying to "GAI first, General
+A..."
+Yes but one you can access the other operations for them most part
+without interaction
+01:07:21 Jonathan Stephens (he/him): Reacted to "How to export Jira
+i..." with
+01:07:29 Cris Casey: Reacted to "CIA World Fact Book ..." with
+01:07:33 Jonathan Stephens (he/him): Replying to "How to export Jira
+i..."
+@Liz huff
+01:07:46 Liz huff: I know how to do that but to put into an AI tool?
+01:08:01 David Mantica--Co-host!!!: I will ask him to show you
+01:08:13 Liz huff: thank you!
+01:08:27 Cris Casey: Replying to "CIA World Fact Book ..."
+That explains a lot.
+01:08:28 Amanda Craig: After ChatGPT generates the content, what is
+the easiest way to export the data to a spreadsheet. Right now, I'm just
+copy and pasting. Is there another way?
+01:08:34 Shelley Morris: Reacted to "Ooooh that’s a co..." with
+01:08:46 Shelley Morris: Reacted to "I will ask him to ..." with
+01:09:08 David Mantica--Co-host!!!: I will get that answered for you
+right now I am still cut and paste myself too
+01:09:09 Jonathan Stephens (he/him): Replying to "After ChatGPT
+genera..."
+With Claude, I tend to say, “give me the response in this file format”
+and then download that file
+01:09:26 Jonathan Stephens (he/him): Replying to "After ChatGPT
+genera..."
+I’d expect ChatGPT to do something similar, but unsure on specifics
+01:09:29 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"With Claude, I tend ..." with
+01:09:47 Michael Wolf: If only someone did scraping of developer data
+to infer what makes software teams effective!
+Oh yeah, they did - Project Aristotle from Google, and DORA metrics.
+01:09:55 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Very Cool!
+01:09:55 Amanda Craig: Replying to "After ChatGPT genera..."
+@Jonathan Stephens (he/him) Haven't used Claude but I'll try that command.
+Thanks.
+01:11:14 Shelley Morris: Replying to "After ChatGPT gene..."
+I prompt ChatGPT to give me it in the file format I want and give it to
+me in a downloadable format. I then paste it from the downloadable doc..
+01:11:22 Cris Casey: Amanda - save your sheet as macro enabled,
+copy and paste your data into a sheet. Save that sheet to a file and
+upload to GPT. Then have GPT generate code to parse the pattern of data
+and run it in the sheet.
+01:11:23 Jonathan Stephens (he/him): Reacted to "I prompt ChatGPT
+to ..." with
+01:11:40 David Mantica--Co-host!!!: Now some great shares!!!
+01:11:51 IIBA Kansas City Chapter - Director Of Technology: Isn’t it
+better when the AI is already integrated into the tool? Example I see
+Zoom has incorporated AI and I think you have to pay more too.
+01:12:23 David Mantica--Co-host!!!: Yes and no.
+01:12:23 Michael Wolf: Reacted to "Amanda - save your s..." with
+01:12:34 Fred Laparo: Reacted to "Amanda - save your s..." with
+01:12:34 David Mantica--Co-host!!!: yes if you only want to use the
+data within in the tool.
+01:12:39 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Isn’t it better when..." with
+01:12:41 David Mantica--Co-host!!!: Bad if you want to connect that
+content to other things
+01:13:44 Liz huff: how was the analysis measured in high, med low? # of
+mentions?
+01:13:51 Lara Hill: Chris is the instructor for our AI for PM class: AI
+for Project Management | SkillsDG
+01:14:15 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Many of the
+project management software tools have AI Enterprise built in to the
+business plans now, so I am thinking it would be good to lean into those
+capabilities before paying extra for something else like an enterprise
+version of Chat GPT.
+01:14:23 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Chris is the instruc..." with
+01:14:33 Michael Wolf: Replying to "Amanda - save your s..."
+RE: "generate parser"
+When I use CSV, I don't ask it to parse CSV data. I ask it to read a
+list of financial transactions. It infers that the data is CSV, reads
+the first header line, then Does The Right Thing(tm). It's great that I
+can talk at financial level, not parser/comma/quote/text level.
+01:14:56 David Mantica--Co-host!!!: Replying to "Many of the
+project ..."
+Yes, but remember you can't mix different data sets it may not allow it.
+01:15:08 Cris Casey: Replying to "Amanda - save your s..."
+01:15:19 David Mantica--Co-host!!!: I do this a lot now
+01:15:24 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Nice slides!
+01:15:30 David Mantica--Co-host!!!: aka the image generation to make my
+slides nicer
+01:15:43 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Yes, but remember yo..." with
+01:15:55 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"aka the image genera..." with
+01:16:59 Fred Laparo: Reacted to "aka the image genera..." with
+01:17:28 Jonathan Stephens (he/him): Sounds like a fun UnConference
+Lightning Talk event
+01:18:23 Amanda Craig: We currently don't use an enterprise version
+of ChatGPT or another AI tool. Does that mean I have to prompt/prime the
+tool every time before using it? If so, does anyone have a cheat sheet of
+different ways to prompt the tool for project management use? Thanks!
+01:18:38 Michael Wolf: Replying to "Many of the project ..."
+YMMV may vary - I have found that mixed data is where I can let it "do
+the right thing" to make inferences for me that I don't have to figure
+out by myself.
+But, I may be missing @David Mantica--Co-host!!! nuance on different
+data sets. David?
+01:19:00 Liz huff: got it thank you
+01:19:38 Leela Sarepalli: Replying to "We currently don't u..."
+this might help https://www.pmi.org/learning/thought-leadership/promptengineering
+01:19:38 Michael Wolf: Replying to "We currently don't u..."
+The bar is really low. Start where you are. Get better as you learn and
+need it.
+01:19:41 Liz huff: Replying to "We currently don't u..."
++1
+01:20:00 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"YMMV may vary - I ha..." with
+01:20:22 Amanda Craig: Replying to "We currently don't u..."
+@Leela Sarepalli Thank you!
+01:20:23 George - PMI Emerald Coast Fl: Detroit Lions headed for the
+superbowl
+01:20:26 Amanda Craig: Reacted to "this might help http..." with
+01:20:27 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"this might help http..." with
+01:20:30 Amanda Craig: Reacted to "The bar is really lo..." with
+01:20:33 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"The bar is really lo..." with
+01:20:46 Krystal Wilczynski: Reacted to "Book I had mentioned..." with
+01:20:46 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Detroit Lions headed..." with
+01:20:49 Liz huff: dang I missed that, what tool exactly is he speaking
+of?
+01:20:56 ReShockie Furnace: Reacted to "Detroit Lions headed..." with
+01:21:04 Michael Wolf: Replying to "We currently don't u..."
+I would also recommend a friend's book (2nd edition coming next week.
+$0.99 for Kindle)
+https://www.cia.gov/the-world-factbook/
+01:21:17 Michael Wolf: Replying to "We currently don't u..."
+https://www.amazon.com/Prompt-Engineering-Everyone-Unlock-Large-Languageebook/
+dp/B0DHW5C79H?ref_=ast_author_dp
+01:22:11 Michael Wolf: Replying to "We currently don't u..."
+Skim it. Study it. It's great at many levels.
+01:22:11 George Churchwell: GPT then you don’t need to reprompt
+01:22:26 Lakievia "Lucky" Johnson, She/Her - Eastern Time:I love the
+idea of keeping the AI Journal. That's one of the things I like about
+Gemini. It does a great job of tracking things.
+01:22:32 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"GPT then you don’t n..." with
+01:22:45 David Mantica--Co-host!!!: That is so true, you just ask the
+question George
+01:22:47 David Mantica--Co-host!!!: GREAT POINT
+01:22:59 Fred Laparo: Reacted to "GPT then you don’t n..." with
+01:23:07 George Churchwell: Also if you dont use private workspaceall
+of your data is shared with the world
+01:23:16 Lara Hill: If your use case only involves publicly available
+data then you can feel more comfortable working with non-enterprise ai
+tools
+01:23:17 David Mantica--Co-host!!!: put all your project information
+into a GPT and now you just ask questions without having to know
+"how to ask the question"
+01:23:25 Amanda Craig: Reacted to "I love the idea of k..." with
+01:23:27 George Churchwell: And the content is typically co-owned by
+the provider
+01:23:32 George Churchwell: not copyright
+01:23:39 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"put all your project..." with
+01:23:43 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"If your use case onl..." with
+01:23:59 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Replying to
+"put all your project..."
+I guess so, hugh?
+01:24:09 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"not copyright" with
+01:25:14 Leela Sarepalli: Reacted to "I love the idea of k..." with
+01:25:28 Michael Wolf: Replying to "put all your project..."
+But won't everyone still use it as a stick to ask
+>When will it be done?
+01:25:40 Kara Flanagan: Replying to "After ChatGPT genera..."
+Yes! love these options.
+01:25:45 David Mantica--Co-host!!!: Jira Intelligence
+01:26:06 Russ Maynard: What was the site …. something UML?
+01:26:42 David Mantica--Co-host!!!: https://plantuml.com/
+01:26:48 David Mantica--Co-host!!!: there you go Russ
+01:26:54 Russ Maynard: Reacted to "there you go Russ" with
+01:27:19 Michael Wolf: Replying to "After ChatGPT genera..."
+"Please generate output in form of a table"
+or
+"Please generate output in form of a table with columns: date, amount,
+payee"
+or
+"Please generate shell script that will create all the files we just
+discussed. I will run it from a command line."
+or
+"Please generate otutput in JSON form"
+Some of the ones I've used.
+01:27:28 Cris Casey: Reacted to "I prompt ChatGPT to ..." with
+01:28:26 David Mantica--Co-host!!!: Replying to "After ChatGPT
+genera..."
+Thank you for this Michael
+01:29:19 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Cool!
+01:29:25 Michael Wolf: Replying to "After ChatGPT genera..."
+I like #3 above. I still need to copy/paste, but I paste to a command
+line instead of having to jocky around an editor to make this happen.
+(Geek factor - we used to call those format files - shar files - as in
+"shell archive" -- because when they are run, they generate many files
+and directories at once).
+01:30:38 David Mantica--Co-host!!!: get your exports into CSV
+01:30:58 Michael Wolf: Another graphic prompt...
+Output in 'mermaid' format to show a graph between the items. This is a
+good alternative to UML diagrams.
+01:30:59 Jonathan Mickles: Reacted to "get your exports int..." with
+01:31:08 Liz huff: ty!
+01:31:13 Juli Booze-Jervis: THANK YOU Chris!
+01:31:30 Jonathan Mickles: Replying to "Another graphic prom..."
+Is there a URL?
+01:31:41 Russ Maynard: Chris, this is FANTASTIC!!
+01:31:46 Alison Meler: Thank you!
+01:31:46 Amanda Craig: Chris, fantastic presentation!!!
+01:31:52 Krystal Wilczynski: Thank you, Chris!
+01:32:01 LaVern Witherspoon: thanks
+01:32:04 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Thanks, Chris!
+01:32:06 Lara Hill: We are going to run late if anyone is able to stay
+after 5
+01:32:16 Cesar Partida | Seeking new opportunities!: Reacted to "We are
+going to run ..." with
+01:32:33 Lara Hill: We are going to extend til 5:30 and have the last
+segment be open forum Q and A (unrecorded)
+01:32:34 Fred Laparo: Chris, really nice session and useful demos.
+01:32:37 David Mantica--Co-host!!!: Yes but it will an open format
+conversation with open mic and not recorded
+01:33:04 IIBA Kansas City Chapter - Director Of Technology: Can you
+add things like physical feature of your images>
+01:33:10 David Mantica--Co-host!!!: right now he is burning some
+serious power
+01:33:30 Shelley Morris: Thank you Chris. Great insights as always.
+Much appreciated!
+01:33:46 IIBA Kansas City Chapter - Director Of Technology: You can
+add your audience is diverse’’
+01:33:52 Lara Hill: Reacted to "You can add your aud..." with
+01:33:59 David Mantica--Co-host!!!: yes you can
+01:34:21 Nakoya Solomon:
+01:34:50 IIBA Kansas City Chapter - Director Of Technology: They are
+all ladies!!!
+01:34:54 Liz huff: are these images found on the net? if created by AI,
+are they property of the company?
+01:35:01 Tim Roby: Are we seeing some inherent AI bias in the results
+being all women and mostly Caucasian, or do you have some background
+rules we can't see driving that?
+01:35:07 Lara Hill: no these are generated by the ai
+01:35:08 Shelley Morris: Chris, it's not just you, it's me too. David
+is the master...
+01:35:20 David Mantica--Co-host!!!: Tim, yes
+01:35:26 Neelu Pandey: Thanks!
+01:35:26 Lara Hill: yes to bias
+01:35:28 Laura Brandenburg: Replying to "Are we seeing some i..."
+He did prompt for women. But not skin color.
+01:35:30 Michael Wolf: Replying to "Another graphic prom..."
+Here's one that I generated to show me the characters in "Chesapeake" by
+James Mitchner.
+http://mermaid.live
+01:35:30 David Mantica--Co-host!!!: you have to ask for diversity as
+folks were saying
+01:35:47 Lara Hill: Replying to "Chris, it's not just..."
+me too
+01:35:53 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"yes to bias" with
+01:35:54 Liz huff: who's property are the images?
+01:36:02 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"He did prompt for wo..." with
+01:36:04 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Are we seeing some i..." with
+01:36:09 David Mantica--Co-host!!!: Michael that goes back to my
+thoughts about a service to show plot line and characters of the shows
+you watch
+01:36:12 Jonathan Mickles: Reacted to "Here's one that I ge..." with
+01:36:13 Lara Hill: Liz they cannot be copyrighted by the user who
+generated them.
+01:36:13 Lakievia "Lucky" Johnson, She/Her - Eastern Time:OOOH! I love
+the cartoon!
+01:36:28 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"you have to ask for ..." with
+01:36:40 IIBA Kansas City Chapter - Director Of Technology: Is that
+an real human being or AI created that?
+01:36:41 Liz huff: very cool. thank you for walking us through that.
+01:36:56 Lakievia "Lucky" Johnson, She/Her - Eastern Time:
+01:36:59 David Mantica--Co-host!!!: Liz the skinny is you can use it
+legal
+01:37:07 Liz huff: I want to see more of these examples so I can
+replicate
+01:37:09 Cris Casey: Don't you mean paying an artist to create it?
+01:37:14 Lara Hill: Midjourney has a little bit more of a learning curve
+but you can do this in chatgpt too
+01:37:25 IIBA Kansas City Chapter - Director Of Technology:
+Amazing!!!
+01:37:36 David Mantica--Co-host!!!: you will see of this with Marc but
+a lot of the real world hands on can be in the classes
+01:37:38 David Mantica--Co-host!!!: that we run
+01:37:47 David Mantica--Co-host!!!: It is tough to do that in a
+conference
+01:37:49 Nakoya Solomon: Thank you!
+01:37:51 Lara Hill: Ideogram
+01:38:18 Liz huff: i can see that. sign me up!
+01:38:34 IIBA Kansas City Chapter - Director Of Technology: meeeee
+01:38:39 Liz huff: meeememememmemememeee
+01:38:41 Gil Pizano: Great information Chris!!
+01:38:43 IIBA Kansas City Chapter - Director Of Technology:
+memememememe
+01:38:45 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"meeeee" with
+01:38:49 David Mantica--Co-host!!!: AI for Project Management |
+SkillsDG
+01:38:50 Amanda Craig: Wow, thank you!
+01:38:55 David Mantica--Co-host!!!: Lize this is a great class for
+you!!!
+01:38:58 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Wow, thank you!" with
+01:38:59 ReShockie Furnace: congrats Amanda
+01:39:01 Chris Knotts: Thank you Gill!
+01:39:08 Todd Duchaine: Awesome job, Chris!
+01:39:09 Liz huff: i def want to attend
+01:39:16 Michael Wolf: Replying to "Another graphic prom..."
+This is the language that ChatGPT generated from this prompt (summarized
+from memory. It was really more detailed in practice.)
+Read "Chesapeake" by James Mitchner
+Generate a list of chapters
+For each chapter, list the characters in that chapter
+Connect people when they get married
+Connect newborn's to their mother
+graph TB;
+subgraph Chapter1["Chapter 1"]
+A1[Pentaquod]
+A2[Susquehannock Tribe]
+A1 --> A2
+end
+subgraph Chapter2["Chapter 2"]
+B1[John<br>Smith]
+end
+[[[[ I had to truncate this to fit in chat ]]]]
+01:39:17 Sharon King: Thanks, Chris!
+01:39:19 IIBA Kansas City Chapter - Director Of Technology: What a
+presentation….excellent
+01:39:19 Leela Sarepalli: Thank you
+01:39:21 John Ruppel: Thank you Chris!!!!
+01:39:26 Nichelle Butler Sankey: Awesome job, Chris. Thank you.
+01:39:27 ReShockie Furnace: thanks Chris!
+01:39:33 Krista Roes: Excellent
+01:39:37 Benjamin Akinteye: Thank you Chris
+01:39:37 Russell Blackburn: Thanks Chris!!
+01:39:38 Fred Laparo:
+01:39:42 Liz huff: thanks Chris!!
+01:39:44 Denise Ferry: Awesome presentation - lots of useful info!
+01:39:53 Lara Hill: Wow that would be cool
+01:40:13 Nitin: Reacted to "Here's one that I ge..." with
+01:40:29 Shelley Morris: Reacted to "Awesome presentati..." with
+01:40:31 Antonio Cabrera: have chatgpt scan your bookshelf? LOL
+01:40:33 Natallie Archer: Thanks Chris! Very informative!
+01:40:44 Cesar Partida | Seeking new opportunities!: Reacted to "Thanks
+Chris! Very i..." with
+01:40:53 Lara Hill: Replying to "have chatgpt scan yo..."
+you could take photos and upload it and if the title is clear it might be
+able to
+01:40:59 Krystal Wilczynski: Reacted to "Wow, thank you!" with
+01:41:24 Lara Hill: (11) Marc Balcer | LinkedIn
+01:43:10 Michael Wolf: Replying to "Another graphic prom..."
+If you're interested in details, contact me at MichaelRWolf@att.net or
+https://LinkedIn.com/in/MRWolf
+01:43:40 Jonathan Stephens (he/him): Nice tool! AirBnB made something
+like this 10 or so years ago (iirc); leveled up by integrating their
+design system
+01:44:46 Jonathan Stephens (he/him): https://thenextweb.com/news/airbnbai-
+sketches-design-code
+01:44:57 Jonathan Stephens (he/him): Reacted to "Another graphic
+prom..." with
+01:45:03 IIBA Kansas City Chapter - Director Of Technology: My gosh
+that is amazing for developers
+01:45:07 Jonathan Stephens (he/him): Replying to "Another graphic
+prom..."
+I’ve done exactly this
+01:45:51 David Mantica--Co-host!!!: Oh yes, once the copyright issues
+are figured out on code and or low code / no code power is seen, things
+will change
+01:45:51 Liz huff: Reacted to "My gosh that is amaz..." with
+01:45:58 Michael Wolf: Legacy Code -- Any code without tests
+-- Michael Feathers
+I wrote a spoof article "How to generate legacy code faster with AI". ;-}
+01:46:04 Cris Casey: I had a history professor who did that.
+01:46:58 Michael Wolf: Replying to "I had a history prof..."
+I missed something. Did what?
+01:48:13 Michael Wolf: Replying to "Oh yes, once the cop..."
+GenAI and Copilot are doing to software IP what Napster did to music IP -
+- Creators loose revenue to distributers.
+01:48:24 Cris Casey: Replying to "I had a history prof..."
+Gave sample tests and key ideas at the beginning of each section. This
+also was what he lectured from.
+01:48:52 David Mantica--Co-host!!!: Replying to "I had a history
+prof..."
+That is cool from my prospective
+01:49:11 Michael Wolf: Replying to "Oh yes, once the cop..."
+Or more specifically, distributers who do not "share" profits with
+creators.
+i.e. the kind that will not get any more new "content".
+01:51:40 Michael Wolf: Replying to "I had a history prof..."
+I agree. Up front specification/test is a great way to let folks know if
+they want the output, and what it will be.
+Sure beats the heck out of tests that ask "I'm thinking of something
+sneaky. Can you tell me what it is?"
+01:51:41 Lara Hill: Marc is the instructor of our AI for Software
+Testing course: Course | SkillsDG
+01:51:58 Michael Wolf: Reacted to "I had a history prof..." with
+01:52:28 Lara Hill: as well as AI for BA: Ai For Business Analysis |
+SkillsDG
+01:53:27 Shelley Morris: Reacted to "Marc is the instru..." with
+01:53:38 Cesar Partida | Seeking new opportunities!: Reacted to "Marc is
+the instruct..." with
+01:53:40 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"as well as AI for BA..." with
+01:53:44 Shelley Morris: Reacted to "as well as AI for ..." with
+01:54:14 Michael Wolf: Separate documents is a feature of "4o with
+Canvas". I really like having my "document" being different from my
+"chat/prompt/reply" stream.
+01:57:15 Jennifer Colburn - Portland IIBA: This solves the age old
+problem of I will know what I want/need when I see it.
+01:57:56 Michael Wolf: Separating business logic from user interface
+is a basic skill of an EXPERT human software developer. Without that
+expertise, the AI will generate spaghetti code or big-ball-of-mud test
+suites. This is a great example of where humans are directing the AI.
+01:58:14 Cris Casey: Reacted to "Separating business ..." with
+01:59:12 Cris Casey: Replying to "Separating business ..."
+until it learns otherwise ...
+01:59:32 Leela Sarepalli: Reacted to "Separating business ..." with
+02:00:23 Lakievia "Lucky" Johnson, She/Her - Eastern Time:That's right!
+02:00:54 David Mantica--Co-host!!!: Reacted to "Separating
+business ..." with
+02:01:13 David Mantica--Co-host!!!: Michael back to your thought, yes I
+agree but it makes the coding faster!
+02:01:23 David Mantica--Co-host!!!: and does it change how many coders
+do we need
+02:01:34 David Mantica--Co-host!!!: or can the teams do more work and
+help a company keep pace
+02:02:49 Cris Casey: Replying to "or can the teams do ..."
+the notion of "teams" takes on a whole other dimension in a lot of
+different ways.
+02:03:25 Jennifer Colburn - Portland IIBA: This reminds me of a
+Dilbert about software writing my requirements for me.
+https://analysisadvocate.wordpress.com/2009/06/05/a-humorous-take-onrequirements-
+elicitation/
+02:04:18 Janine Viveiros: Reacted to "This reminds me of a..." with
+02:04:49 David Mantica--Co-host!!!: Replying to "or can the teams
+do ..."
+Yes, some good thought going on around this
+02:05:06 David Mantica--Co-host!!!: Replying to "or can the teams
+do ..."
+We have a class called Accelerating Developing with AI
+02:05:09 David Mantica--Co-host!!!: Replying to "or can the teams
+do ..."
+which gets into that
+02:05:16 IIBA Kansas City Chapter - Director Of Technology: Welcome
+to my world as developer…you go nothing to start with
+02:05:39 Cris Casey: Replying to "or can the teams do ..."
+who developed the content?
+02:05:46 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"Welcome to my world ..." with
+02:06:06 Michael Wolf: Replying to "Michael back to your..."
+In using ChatGPT as a coding partner (not just reference book), our teams
+are finding that some code is coming faster. And some of our thinking
+and learning is happening faster. Some isn't. But it's great to have
+diversity on our team (for an AI-inclusive definition of diverse thinking,
+diverse background, diverse skills).
+02:06:24 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"In using ChatGPT as ..." with
+02:06:35 David Mantica--Co-host!!!: Replying to "Michael back to
+your..."
+Diver thinking, diverse background, diverse skills!!! LOVE that
+02:06:53 David Mantica--Co-host!!!: Replying to "Michael back to
+your..."
+That is the only way we are going to solve complex and complicated
+programs that are coming about with this massive change
+02:07:38 Liz huff: this has been an excellent session!!!
+02:07:43 Lara Hill: Reacted to "this has been an exc..." with
+02:07:44 Lakievia "Lucky" Johnson, She/Her - Eastern Time:Reacted to
+"this has been an exc..." with
+02:07:52 Lara Hill: Thanks for the feedback, Liz!!
+02:08:02 Michael Wolf: Replying to "and does it change h..."
+I don't (yet) have an answer for this. But I am doing what the Agile
+Manifesto says (even before the first practices)
+... uncovering better ways of developing software
+... by doing it
+... and helping others do it
+It really is a DO IT (not just think about) it kind of answer. By doing
+it, I have learned a lot (most of which I could not have predicted).
+02:08:33 IIBA Kansas City Chapter - Director Of Technology: This is
+life changing for developer / testers
+02:08:43 David Mantica--Co-host!!!: it is.
+02:08:45 Shannon Moir: Reacted to "this has been an exc..." with
+02:08:51 Lara Hill: Yes!
+02:08:54 Shelley Morris: Thank you Marc! Good, practical examples.
+02:09:00 Om Hashmi:
+02:09:07 Michael Wolf: Replying to "and does it change h..."
+OK... Now that's 2 call outs to
+Practice!
+Practice!
+Practice!
+02:09:07 Leela Sarepalli: Thank you
+02:09:12 Shalene DeMarco: Reacted to "This is life changin..." with
+02:09:12 Krystal Wilczynski: Thank you, Marc! Fantastic as always!
+02:09:13 Cris Casey: What tool for the cartoon?
+02:09:14 Sharon King: Thanks, Marc!
+02:09:18 Lakievia "Lucky" Johnson, She/Her - Eastern Time:This was an
+excellent chat. Thanks, Marc! I have to jump off to lead a meeting. I'll
+be back afterward.
+02:09:28 Fred Laparo: thank you, Marc!
+02:10:42 Russell Blackburn: Thank you Marc!!
+02:10:54 Jonathan Mickles: Can we get the url for the gpt cretion
+class?
+02:10:54 Cris Casey: Where do I get one?
+02:11:18 Shelley Morris: I like the shirt! Colorful and creative.
+02:11:26 IIBA Kansas City Chapter - Director Of Technology: I love
+that movie…it is hilerious
+02:12:33 David Mantica--Co-host!!!: Purpose Built AI: GPT & LLMs |
+SkillsDG
+02:12:42 Lara Hill: Course | SkillsDG
+02:12:46 Jonathan Mickles: Reacted to "Purpose Built AI: GP..." with
+02:12:47 Lara Hill: All AI Courses
+02:13:02 Shelley Morris: Reacted to "{5A8FAFF4-6EDB-4FE..." with
+02:13:08 Shelley Morris: Reacted to "Purpose Built AI: ..." with
+02:13:10 Shelley Morris: Reacted to "Course | SkillsDG" with
+02:13:18 Liz huff: ty!
+02:14:50 Tina Ewing-VP Education, IIBA RTP: Great weather
+02:15:02 Sheila Mullen: I'm in Durham, and happy with the weather :-)
+02:15:17 David Mantica--Co-host!!!: Sheila it is kind of crazy
+02:15:23 Cesar Partida | Seeking new opportunities!: Reacted to
+"{5A8FAFF4-6EDB-4FEC-A4DC-99AAA6B7B8C1}.png" with
+02:15:37 Shelley Morris: Reacted to "All AI Courses" with
+02:15:40 David Mantica--Co-host!!!: but yes I agree, wonderful too
+02:15:42 Sheila Mullen: Yes, warmer than normal for the end of October
+02:16:47 Nakoya Solomon: NO!
+02:16:48 Shelley Morris: It's 44 and pouring down rain where I am in
+Portland. At least it's beautiful with the changing of the leaves and
+fall colors.
+02:16:58 Sheila Mullen: I'm from Ohio and prefer warmer any day!
+02:17:01 Alan Lattimore: We give candy bars for kids and beer for the
+adults
+02:17:08 Nichelle Butler Sankey: No to full-size; they'd never make
+it into t-or-t bags.
+02:17:09 Janine Viveiros: Love the dog treats!!
+02:17:10 Jonathan Stephens (he/him): There were people handing out shots
+for adults
+02:17:12 Alan Lattimore: Of course
+02:17:17 Sheila Mullen: Full size - OH NO! those parents are probably
+pretty upset too!
+02:17:26 Shelley Morris: David, I'm covering over to your house...
+02:17:28 Nichelle Butler Sankey: One year, we did margaritas for
+parents.
+02:17:30 Sam Slater: jello shots for adults!
+02:17:36 Nakoya Solomon: TRUE!!
+02:17:36 Nichelle Butler Sankey: Reacted to "jello shots for
+adul..." with
+02:17:48 Nakoya Solomon: 100%
+02:17:49 Shalene DeMarco: That's why everyone keeps coming back to your
+house!!!
+02:17:53 Todd Duchaine: Give out apples, you will have a drop of
+knocks fast!
+02:17:57 Jennifer Colburn - Portland IIBA: Reacted to "One year, we
+did mar..." with
+02:17:57 Shelley Morris: Any chocolate???
+02:17:59 Gil Pizano: Candycorn
+02:18:03 Nichelle Butler Sankey: Snickers!
+02:18:06 Sheila Mullen: Yes I freeze the chocolates and pull out one
+each day as a treat
+02:18:06 Janine Viveiros: Skittles
+02:18:09 Alan Lattimore: Reeses
+02:18:11 Nakoya Solomon: Reacted to "Candycorn" with
+02:18:19 Gil Pizano: Hmmm
+02:18:21 Sam Slater: Reacted to "Candycorn" with
+02:18:28 Sheila Mullen: Nothing not wrapped
+02:18:32 Shelley Morris: Butterfingers
+02:18:32 Kerry Herron: 1000 Grand or Snickers
+02:18:34 Antonio Cabrera: most detested: root beer barrels
+02:18:42 Lara Hill: Reacted to "most detested: root ..." with
+02:18:47 David Mantica--Co-host!!!: Replying to "most detested:
+root ..."
+interesting
+02:18:59 Shalene DeMarco: Reacted to "most detested: root ..." with
+02:19:01 Nichelle Butler Sankey: Reacted to "most detested:
+root ..." with
+02:19:09 Russell Blackburn: Reacted to "Reeses" with
+02:19:11 Nakoya Solomon: Classic!
+02:19:26 Russell Blackburn: Reeses are my favorite
+02:19:38 Nichelle Butler Sankey: One year my son got circus peanuts.
+He asked us if this could even be considered candy!
+02:19:46 IIBA Kansas City Chapter - Director Of Technology: Can you
+guys post the schedule again?
+02:19:52 David Mantica--Co-host!!!: Replying to "One year my son
+got ..."
+LOve that
+02:20:04 Lara Hill: haha David isn't giving a keynote
+02:20:12 David Mantica--Co-host!!!: Replying to "One year my son
+got ..."
+that are so so sugary
+02:20:22 David Mantica--Co-host!!!: thank GOD
+02:20:32 Lara Hill: (12) Omer Hashmi | LinkedIn
+02:20:58 Michael Wolf: I didn't realize how nice it was. I'm heading
+outside. (In mid-Hudson Valley).
+02:21:38 Michael Wolf: Replying to "One year my son got ..."
+Aren't they a construction adhesive?
+02:21:57 Michael Wolf: Replying to "One year my son got ..."
+Shine - It's both a dessert topping and floor wax.
+02:22:25 Nichelle Butler Sankey: Reacted to "Aren't they a
+constr..." with
+02:22:26 Cris Casey: So are these stats are a result of Agile over
+the last 20 years?
+02:22:32 Michael Wolf: Why do we miss the mark - Planning Fallacy
+(it's a HUMAN thing).
+02:22:43 David Mantica--Co-host!!!: Replying to "Why do we miss the
+m..."
+I agree with this.
+02:22:47 Nichelle Butler Sankey: Reacted to "Shine - It's both
+a ..." with
+02:23:01 Neale Mulligan: what are "content issues? in that context
+02:23:08 David Mantica--Co-host!!!: Replying to "So are these stats
+a..."
+A lot of this is tied to IT tech hardware project not just software but
+yes I think agile really didn't change much
+02:23:28 Nichelle Butler Sankey: Reacted to "that are so so
+sugar..." with
+02:23:36 Nichelle Butler Sankey: Replying to "One year my son
+got ..."
+@David Mantica--Co-host!!! and just gross.
+02:23:37 David Mantica--Co-host!!!: I will ask!
+02:23:38 Michael Wolf: Replying to "Why do we miss the m..."
+Daniel Kanhneman - "Think Fast, Think Slow".
+02:23:42 Liz huff: protecting data
+02:23:50 Jonathan Stephens (he/him): Reacted to "protecting data" with
+02:24:02 David Mantica--Co-host!!!: Reacted to "Aren't they a
+constr..." with
+02:24:06 Jonathan Stephens (he/him): The unspoken requirements
+02:24:08 David Mantica--Co-host!!!: Replying to "One year my son
+got ..."
+@Michael Wolf Yes they are
+02:24:19 Jonathan Stephens (he/him): “I know what I want, but not what I
+need” sorta issue
+02:24:32 David Mantica--Co-host!!!: Yes!!! Jonathan!!!
+02:24:34 Jonathan Stephens (he/him): POC’s are…
+02:24:37 Jonathan Stephens (he/him): Proof of Concepts?
+02:24:42 Antonio Cabrera: Replying to "One year my son got ..."
+@Michael Wolf not to be outdone by "Mother's Spit"...it's a cleaner AND a
+hair care product
+02:25:31 Jonathan Stephens (he/him): Replying to "Proof of Concepts?"
+@David Mantica--Co-host!!! Thanks for the ask
+02:26:04 Neale Mulligan: what are key barriers to successful AI
+adoption?
+02:26:09 Jonathan Mickles: are these quotes referenced in slide
+notes?
+02:26:33 Cris Casey: https://www.cio.com/article/3550623/many-csuite-
+execs-have-lost-confidence-in-it-including-cios.html
+02:27:09 Michael Wolf: GenAI projects were 5-10X cost? What is
+baseline for other projects.
+02:27:41 Shelley Morris: Financial orgs
+02:27:55 Shelley Morris: Multi national
+02:28:15 David Mantica--Co-host!!!: 1200 people
+02:28:34 Jonathan Mickles: really?
+02:28:37 David Mantica--Co-host!!!: Yes
+02:28:44 David Mantica--Co-host!!!: we worked with their outplacement
+group
+02:28:55 David Mantica--Co-host!!!: and helped skill up some of the
+folks
+02:29:05 David Mantica--Co-host!!!: some VERY, VERY Talented people
+02:29:17 Jonathan Mickles: Reacted to "Yes" with
+02:29:27 David Mantica--Co-host!!!: done because they no longer could
+measure the benefit the service provided
+02:29:50 Jonathan Mickles: Reacted to "done because they no..." with
+02:30:07 Cris Casey: Please define "Tecnologist"
+02:30:49 Lara Hill: Thank you for the question, Cris
+02:31:40 Jonathan Mickles: true
+02:31:55 Michael Wolf: Replying to "Please define "Tecno..."
+Om's definition reminded me..
+You don't have to be able to lay eggs
+to be a good chicken farmer.
+02:32:18 David Mantica--Co-host!!!: Replying to "Please define
+"Tecno..."
+and that is what I have been for a number of years
+02:32:30 Michael Wolf: Reacted to "done because they no..." with
+02:32:35 David Mantica--Co-host!!!: Replying to "Please define
+"Tecno..."
+That has helped me product manage training content build out in this
+space
+02:33:21 Neelu Pandey: Whats the LinkedIn profile link of the speaker?
+02:33:30 Lara Hill: Someone asked for the schedule for the rest of the
+day, we are running about 5-10 behind schedule, but next up we have:
+Jonathan Stephens: "Low code, no-code, AI...oh my! Product management in
+an evolving software development lifecycle", then a short break, then
+Taher Jamshidi: Navigating Generative AI in the Public Sector: Challenges,
+Best Practices, and Emerging Use Cases, then our final session is Michael
+Schank: "Unleashing Digital Twins to Power Operational Excellence"
+followed by Q and A til 5:30pm EDT.
+02:33:53 David Mantica--Co-host!!!: Great summary Lara
+02:33:56 Lara Hill: (12) Omer Hashmi | LinkedIn
+02:34:06 Cris Casey: does that number include hardware?
+02:34:27 David Mantica--Co-host!!!: No because the hardware cap ex over
+the next 5 years is 1 Trillion
+02:34:39 Cris Casey: So what's in it?
+02:34:47 David Mantica--Co-host!!!: Services
+02:34:58 David Mantica--Co-host!!!: making money with it
+02:35:23 Jonathan Stephens (he/him): Glue Work
+02:35:30 David Mantica--Co-host!!!: there will be a big market building
+for selling some type of GenAI
+02:35:33 Leela Sarepalli: Delivering value
+02:35:40 IIBA Kansas City Chapter - Director Of Technology: Monitor
+everyone is doing his/her work
+02:35:40 Janine Viveiros: Reacted to "Delivering value" with
+02:35:45 Fred Laparo: coordination and communication
+02:35:49 Jonathan Stephens (he/him): Reacted to "coordination and
+com..." with
+02:35:49 Lara Hill: What are these roles responsible for?
+02:35:52 Lara Hill: was the question
+02:35:57 Kerry Herron: voice of the business
+02:35:58 IIBA Kansas City Chapter - Director Of Technology: Yeahhhhh
+they look at us obsessively ja ja
+02:36:05 Cris Casey: Specific SME
+02:36:13 Russ Maynard: shepherding initiatives to success delivery of
+value
+02:36:21 David Mantica--Co-host!!!: Reacted to "shepherding
+initiati..." with
+02:36:24 David Mantica--Co-host!!!: Replying to "shepherding
+initiati..."
+Very nice
+02:36:38 Shelley Morris: Tasks, outcomes, and in some cases strategy.
+02:36:48 David Mantica--Co-host!!!: Reacted to "Tasks, outcomes,
+and..." with
+02:36:51 Leela Sarepalli: Reacted to "shepherding initiati..." with
+02:37:08 Jonathan Stephens (he/him): Hehe, I was the “Scrum of Scrums”
+owner for 4 years at Booking.com…bringing the recording device and going
+amongst the Back End and Front End…until we got too big to keep it up.
+Haven’t heard that term in a while
+02:37:37 David Mantica--Co-host!!!: Great share Jonathan
+02:37:44 IIBA Kansas City Chapter - Director Of Technology: I never
+heard of this at any company in work for
+02:37:52 David Mantica--Co-host!!!: look it up on indeed
+02:38:04 David Mantica--Co-host!!!: there are more people looking for
+Technical Program Manager or Scrum masters right now
+02:38:15 David Mantica--Co-host!!!: it is coming out of the Tech
+companies where all the trends come out of
+02:38:23 David Mantica--Co-host!!!: Look at the salary numbers too
+02:38:25 David Mantica--Co-host!!!: on indeed
+02:38:36 Russ Maynard: Replying to "there are more peopl..."
+interesting
+02:39:09 David Mantica--Co-host!!!: This title and worker can fit and
+support GenAI much more successfully
+02:39:16 David Mantica--Co-host!!!: and tie into no code low code
+02:39:36 Antonio Cabrera: Replying to "and tie into no code..."
+it's sort of why I'm here, actually
+02:39:48 David Mantica--Co-host!!!: Replying to "and tie into no
+code..."
+cool Antonio
+02:39:53 Neale Mulligan: I see nothing related to customer centricity...
+is that part of the role?
+02:40:04 Cris Casey: Reacted to "I see nothing relate..." with
+02:40:05 Jonathan Stephens (he/him): TPM have bene a thing in High Tech
+for a while. Technical Product/Project/Program managers (slightly
+different flavors of like-roles)
+02:40:20 David Mantica--Co-host!!!: Yes
+02:40:43 David Mantica--Co-host!!!: to Neale, and I will ask Omer to
+dig into that more
+02:40:45 Jonathan Stephens (he/him): I have an extra Bonus Slide (not
+presenting but at end of presentation) that has some of the AI PM roles
+broken out into different categories/specializations with links
+02:40:52 Shelley Morris: Reacted to "I see nothing rela..." with
+02:40:54 Neale Mulligan: Reacted to "to Neale, and I will..." with
+02:40:57 Lara Hill: Reacted to "I have an extra Bonu..." with
+02:40:59 Cris Casey: Reacted to "I have an extra Bonu..." with
+02:41:06 David Mantica--Co-host!!!: great special addition!!!
+02:41:23 Jonathan Mickles: From what I have seen the TPM has been
+looking for a more technical person. I have an MS in CompSci and have
+been working, but have still not been "qualified"
+02:41:27 Russ Maynard: Replying to "I see nothing relate..."
+and yet is there anything more important?
+02:41:33 Michael Wolf: Replying to "Please define "Tecno..."
+Agreed. That does seem to be one of your primary skills... recognizing
+both the skill of trainers and the need of customers. And doing that
+match between them.
+02:41:43 Fred Laparo: really looks like 2-3 jobs in one
+02:41:51 David Mantica--Co-host!!!: when using AI
+02:41:52 David Mantica--Co-host!!!: ...
+02:41:57 David Mantica--Co-host!!!: I think it could be done
+02:42:05 David Mantica--Co-host!!!: and you get the payment of 2 and
+half of them
+02:42:11 David Mantica--Co-host!!!: The salaries are crazy
+02:42:19 Russ Maynard: Replying to "really looks like 2-..."
+the old saying doing a good job and get rewarded with more jobs.... ha
+02:42:25 Nichelle Butler Sankey: Your approach as a technical
+program manager is often entrepreneurial - seeing what's possible, what
+we can do better v. all of the reasons it won't work or we've already
+tried that.
+02:42:38 Jonathan Mickles: Replying to "The salaries are cra..."
+And where are the resumes or profiles of samples.
+02:42:39 Fred Laparo: Reacted to "and you get the paym..." with
+02:42:40 David Mantica--Co-host!!!: Replying to "Your approach as a
+t..."
+Great point
+02:42:53 Jonathan Stephens (he/him): Replying to "The salaries are
+cra..."
+900k for AIPM at Netflix, iirc
+02:43:09 Jonathan Mickles: Reacted to "Your approach as a t..." with
+02:43:12 Fred Laparo: Reacted to "Your approach as a t..." with
+02:43:16 Russ Maynard: Reacted to "Your approach as a t..." with
+02:43:44 David Mantica--Co-host!!!: Replying to "The salaries are
+cra..."
+NUTS but the role creates the value they need
+02:43:49 Fred Laparo: Reacted to "900k for AIPM at Net..." with
+02:44:02 Cris Casey: Is that why their UI sucks?
+02:44:13 Cesar Partida | Seeking new opportunities!: Reacted to "Is that
+why their UI..." with
+02:44:22 David Mantica--Co-host!!!: But their content is great and they
+have pathway to profit
+02:44:26 Jennifer Colburn - Portland IIBA: Reacted to "Is that why
+their UI..." with
+02:44:28 David Mantica--Co-host!!!: but carry a lot of debt
+02:44:40 Cris Casey: That's not the point he's making ...
+02:44:51 Antonio Cabrera: TPM - so you take the data from the customers,
+and bring it to the engineers
+02:44:53 Fred Laparo: Reacted to "Is that why their UI..." with
+02:44:54 Liz huff: Reacted to "900k for AIPM at Net..." with
+02:45:26 David Mantica--Co-host!!!: but you know part of their ability
+is to showcase what you should watch, so even if it is hard to work
+through it directs you to content that.
+02:45:40 Jonathan Stephens (he/him): It’s also fun to guess the business
+needs that drive experimentation on “auto next play” and the length of
+time, # of auto-plays, etc.
+02:45:46 Russ Maynard: I think a strength of Om's presentation is
+opening my horizons to be more aware of what technical customers are
+looking for and the wordage they are using to describe the concepts.
+02:45:56 David Mantica--Co-host!!!: Jonathan, that is getting to it
+02:46:17 Laura Brandenburg: Reacted to "I think a strength o..." with
+02:46:20 Jonathan Stephens (he/him): Reacted to "I think a strength
+o..." with
+02:46:37 David Mantica--Co-host!!!: but the better point is it
+incorporates two to three role being done by one person with tooling.
+02:46:59 David Mantica--Co-host!!!: and understanding of what
+capabilities are available with the technology inside and outside the
+organization
+02:47:14 Fred Laparo: I like the appreciation of the entrepreneurial
+background as a key asset
+02:47:21 David Mantica--Co-host!!!: Reacted to "I like the
+appreciat..." with
+02:47:27 Russ Maynard: Reacted to "I like the appreciat..." with
+02:47:29 Michael Wolf: Replying to "I think a strength o..."
+Hear! Hear!
+02:47:40 David Mantica--Co-host!!!: Reacted to "I think a strength
+o..." with
+02:47:41 Fred Laparo: Reacted to "but the better point..." with
+02:47:59 David Mantica--Co-host!!!: In this AI world this is a new
+position that people can grow into
+02:48:12 Michael Wolf: Reacted to "I like the appreciat..." with
+02:48:55 Jonathan Stephens (he/him): Reacted to "and understanding
+of..." with
+02:49:01 Jonathan Stephens (he/him): Reacted to "but the better
+point..." with
+02:49:10 Jonathan Mickles: Replying to "In this AI world thi..."
+And so they need to be certified as a TPM?
+02:49:56 David Mantica--Co-host!!!: Replying to "In this AI world
+thi..."
+Up till recently there was no certification
+02:50:05 David Mantica--Co-host!!!: Replying to "In this AI world
+thi..."
+There is one that just stared.
+02:50:22 Jonathan Stephens (he/him): Replying to "I like the
+appreciat..."
+Fun note: intrapreneurs are also a thing :D a new word I collected over
+the past year. Similar but very different; can give different ways of
+getting things done
+02:50:23 David Mantica--Co-host!!!: Replying to "In this AI world
+thi..."
+CTPM, from the TPM Institute
+02:50:33 Shelley Morris: Reacted to "I like the appreci..." with
+02:51:03 David Mantica--Co-host!!!: That video scares the crap out of
+me
+02:51:47 Jonathan Stephens (he/him): Note on Netflix. They put ALL their
+benefits into cash. They changed their pay-mix to game the system a bit
+and show higher salaries
+02:51:48 David Mantica--Co-host!!!: no way I could keep my hands and
+feet from touching the steering wheel or pedals
+02:51:53 Fred Laparo: Replying to "In this AI world thi..."
+https://tpminstitute.org/
+02:52:00 Jonathan Stephens (he/him): I think its as Netflix. Pretty sure.
+02:52:07 David Mantica--Co-host!!!: Replying to "Note on Netflix.
+The..."
+yes good point, you have to read between the lines
+02:52:56 Neale Mulligan: no mention of customers...
+00:00:05 Jonathan Stephens (he/him): Reacted to "no mention of
+custom..." with
+00:00:19 Jonathan Stephens (he/him): Replying to "no mention of
+custom..."
+That’s Responsible Leadership for me...
+00:04:33 Shelley Morris: Reacted to "In this AI world t..." with
+00:04:45 Shelley Morris: Reacted to "Fun note: intrapre..." with
+00:00:18 David Mantica--Co-host!!!: Thank you for the remind
+00:01:03 Benjamin Akinteye: Omer, can you be more specific on the
+technical competence skills required?
+00:01:14 Russ Maynard: Reacted to "Omer, can you be mor..." with
+00:01:35 Jonathan Stephens (he/him): Reacted to "Omer, can you be
+mor..." with
+00:02:27 Marc Balcer: "You can't manage what you don't understand."
+00:02:49 David Mantica--Co-host!!!: I agree Marc but it is the
+difference between understanding and doing
+00:03:03 David Mantica--Co-host!!!: keep forgetting to mute
+00:03:26 Shelley Morris: Reacted to "I agree Marc but i..." with
+00:03:27 Samuel Parri: Does a TPM have multiple Project Managers
+report to them (given the word Program in their title)?
+00:03:35 Russ Maynard: Reacted to "Does a TPM have mult..." with
+00:03:57 Shelley Morris: Reacted to ""You can't manage ..." with
+00:04:47 Neale Mulligan: This role sounds very similar to tech lead
+(engineer) in a product operating model...
+00:05:26 Laura Brandenburg: Replying to "This role sounds ver..."
+Agreed. In general, titles are all over the place and shift all the time.
+00:05:52 Jonathan Stephens (he/him): Replying to "This role sounds
+ver..."
+Aye…
+Tech Lead (in my understanding) is more direct understanding of guiding
+the tech itself. But what Laura said: titles are ALL over the place
+00:06:02 Russ Maynard: The examples have been great though focused
+from a Big Tech perspective. Given most of us will work for other less
+big tech companies/firms, I'm curious if TPM is desired outside of Big
+Tech.
+00:06:10 Shelley Morris: Om, thank you for sharing your knowledge!
+00:06:18 Michael Wolf: Replying to "I agree Marc but it ..."
+You don't need to be able to lay eggs
+to be a good chicken farmer.
+00:06:23 Russ Maynard: Thanks Om! Great presentation!
+00:06:26 Jonathan Stephens (he/him): Replying to "The examples have
+be..."
+Agencies and Agency Leaders
+00:06:28 Nakoya Solomon: Thank you!
+00:06:29 Alison Meler: Thank you!
+00:06:36 Kara Flanagan: Such great information, thanks Omer!
+00:06:46 Lara Hill: This has been great, thank you Om!
+00:06:52 Fred Laparo: Replying to "I agree Marc but it ..."
+00:06:53 Denise Ferry: Great presentation. thanks Om.
+00:07:02 ReShockie Furnace: Thank you
+00:07:04 Cris Casey: Reacted to " " with
+00:07:11 Liz huff: thank you Om
+00:07:15 Cesar Partida | Seeking new opportunities!: Reacted to "Great
+presentation. ..." with
+00:07:15 Leela Sarepalli: Thank you
+00:07:18 Neale Mulligan: Thank you Om!
+00:07:20 Sharon King: Thank you, Om!
+00:07:24 Fred Laparo: Very nice Om - eye-opening
+00:07:31 Nichelle Butler Sankey: Thank you, @Om Hashmi
+00:07:32 Om Hashmi: Thank you
+00:07:35 Krystal Wilczynski: Thank you so much, Om! Very informative.
+00:07:44 Nichelle Butler Sankey: Yay @Natallie Archer
+00:07:54 David Mantica--Co-host!!!: Wonderful!!!!
+00:07:57 Natallie Archer: Thx Om!!
+00:09:20 Tina Ewing-VP Education, IIBA RTP: Almond joy
+00:09:25 Jonathan Mickles: Recees. And no full sized bars
+00:09:26 Anntionette Crouch: Whatchamacalit
+00:09:29 David Mantica--Co-host!!!: Replying to "Almond joy"
+oohhhh
+00:09:29 Lauren Petty: peanut M&M
+00:09:31 ReShockie Furnace: twix
+00:09:36 David Mantica--Co-host!!!: Replying to "Whatchamacalit"
+That is a oldie
+00:09:37 Nichelle Butler Sankey: Reacted to "Whatchamacalit" with
+00:09:40 David Mantica--Co-host!!!: Reacted to "peanut M&M" with
+00:09:44 Sharon King: Baby Ruth
+00:09:44 LaVern Witherspoon: almond m&ms
+00:09:44 David Mantica--Co-host!!!: Reacted to "Recees. And no
+full ..." with
+00:09:50 David Mantica--Co-host!!!: Reacted to "Baby Ruth" with
+00:09:58 David Mantica--Co-host!!!: Replying to "twix"
+Very, very good!!!
+00:09:58 Nichelle Butler Sankey: Replying to "Whatchamacalit"
+And, a goodie. Keep me out of 5 Below.....because
+00:09:59 Antonio Cabrera: Toblerone (original)
+00:10:06 Wendy Horton: Butterfinger
+00:10:13 Natallie Archer: 3 Musketeer and Almond Joy are my favorites!!
+00:10:13 David Mantica--Co-host!!!: Replying to "Toblerone (original)"
+There you go!!!!
+00:10:19 David Mantica--Co-host!!!: Replying to "Butterfinger"
+oh yes
+00:10:26 Shannon Moir: Reeses Peanut Butter Cups
+00:10:36 Shelley Morris: Oh yeah...let's go....
+00:10:38 David Mantica--Co-host!!!: Replying to "Reeses Peanut
+Butter..."
+that has seem to won!!!!
+00:10:41 IIBA Kansas City Chapter - Director Of Technology: This is
+hilarious pictures
+00:11:00 Cesar Partida | Seeking new opportunities!: Reacted to "This is
+hilarious pi..." with
+00:12:22 Shelley Morris: Reacted to "This is hilarious ..." with
+00:12:46 Jonathan Mickles: Love WordPress
+00:13:41 Cris Casey: No code also has/needs very strict backend
+data governance
+00:13:59 Cesar Partida | Seeking new opportunities!: Reacted to "No code
+also has/nee..." with
+00:14:57 Shelley Morris: Wow, that's a big number in a relatively short
+period of time.
+00:15:02 Cris Casey: Outsystems is 25 years old, Pega is even older.
+00:15:21 Shelley Morris: Reacted to "No code also has/n..." with
+00:15:26 David Mantica--Co-host!!!: How do they operate today?
+00:15:29 David Mantica--Co-host!!!: have they evolved
+00:15:30 Lara Hill: Bubble: The full-stack no-code app builder
+00:16:17 Cris Casey: Because of their foundations in business
+/healthcare they are doing very well.
+00:16:46 David Mantica--Co-host!!!: Thanks Cris
+00:16:47 Cris Casey: https://www.outsystems.com/
+00:16:58 David Mantica--Co-host!!!: Also thank you for sharing both
+00:17:19 Michael Wolf: Open Secret -- I would consider low/no code to
+be a skill of @Cris Casey and well within his expertise.
+00:17:20 Cris Casey: https://www.pega.com/
+00:18:01 Cris Casey: Replying to "Open Secret -- I wou..."
+Thanks?
+00:18:47 Michael Wolf: Citizen Developers -- I've heard of Civic Day
+of Hacking events.
+00:18:55 Russ Maynard: https://www.pmi.org/citizen-developer/
+00:19:12 Michael Wolf: Reacted to "https://www.pmi.org/..." with
+00:19:30 Jonathan Mickles: Reacted to "https://www.pmi.org/..." with
+00:20:40 Michael Wolf: Which is Salesforce? No code? Low code?
+00:21:02 Antonio Cabrera: no code and low
+00:21:09 Laura Brandenburg: Really interesting story about salesforce
+since they defined the term no code originally.
+00:21:40 Michael Wolf: So... summary... the group he mentioned was
+moving from SaaS to Low/No code.
+Isn't that apples to tractors comprison?
+00:22:00 Laura Brandenburg: Replying to "Really interesting s..."
+or rather no software
+00:22:09 IIBA Kansas City Chapter - Director Of Technology: Oh
+nooooo love that movie
+00:22:11 Lara Hill: nice analogy :)
+00:22:12 David Mantica--Co-host!!!: LOve that movie
+00:22:14 David Mantica--Co-host!!!: LOVE it
+00:22:30 David Mantica--Co-host!!!: It was second to a Shirley Temple
+movie
+00:24:45 Michael Wolf: The future is already here - it's just not
+very evenly distributed.
+-- William Gibson
+00:25:01 Cris Casey: Reacted to "The future is alread..." with
+00:25:14 Jonathan Mickles: Reacted to "The future is alread..." with
+00:25:49 Julia Taylor: Reacted to "The future is alread..." with
+00:25:51 Lawrence Reid: Salesforce has a pro code language "Apex".
+They are promoting low:no code development using "Flow" builder.
+00:28:28 Cris Casey: See Kurzweil's LOAR (Law of Accelerated
+Returns): https://www.businessinsider.com/ray-kurzweil-law-ofaccelerating-
+returns-2015-5?op=1
+00:28:35 Cris Casey: I am
+00:28:38 Lauren Petty: yes
+00:28:40 Rick Bauer: yes, Articulate
+00:28:40 Marc Balcer: yes
+00:28:42 Laura Brandenburg: YEs - been using WordPress for 16 years
+00:28:42 Jennifer Colburn - Portland IIBA: yes
+00:28:42 javier martin: Some!
+00:28:45 Shelley Morris: Reacted to "I am" with
+00:28:47 Melanie Margolati: Yes
+00:28:55 Ebuka Obiakor: a bit, I haven't pushed to prod with
+lowcode/no code
+00:28:55 javier martin: Webflow, Airtable
+00:28:57 IIBA Kansas City Chapter - Director Of Technology: Nope I
+am not using..working on goverment setting’
+00:29:02 Laura Brandenburg: Would tools like Keap, Samcart, Kajabi be
+considered no code apps?
+00:29:03 Michael Wolf: For "yes"... what are you using?
+00:29:04 Rick Bauer: 60% of the time,
+00:29:13 Anna Toloeva: No, none
+00:29:27 Richard Lee: Some like LabVIEW is no code.
+00:29:36 Cris Casey: I use AI tools to write code.
+00:29:37 Lawrence Reid: Yes. We use Microsoft Power Platform for both
+pro code and low code
+00:30:10 Melanie Margolati: MS Power Automate
+00:30:14 Rick Bauer: it needs to be really good bourbon
+00:30:22 Fred Laparo: 2 days
+00:30:28 Cesar Partida | Seeking new opportunities!: Reacted to "MS
+Power Automate" with
+00:30:29 Michael Wolf: Who wants to buy your pizza box, @David
+Mantica--Co-host!!! ?
+00:30:31 David Mantica--Co-host!!!: Reacted to "Who wants to buy
+you..." with
+00:30:35 David Mantica--Co-host!!!: Reacted to "2 days " with
+00:30:41 David Mantica--Co-host!!!: used no less
+00:31:08 Michael Wolf: Focus on outcome, not technical complexity! -
+- Jonathan
+Hear! Hear!
+00:31:14 Laura Brandenburg: Reacted to "Focus on outcome, no..." with
+00:31:24 Jonathan Mickles: I use Notion for Second Brain
+00:31:48 Rick Bauer: "Acceptable level of out of control"
+00:32:08 Richard Lee: Also, check out Scratch from MIT Media Lab.
+It's programming for kids that looks like putting playing blocks together.
+00:33:08 David Mantica--Co-host!!!: We see this at our own company
+00:33:08 Sheldon B: IT Centralization Cycle -> Centralize, Decentralize,
+Repeat
+00:33:17 David Mantica--Co-host!!!: oh yes the cycles
+00:33:18 David Mantica--Co-host!!!: good point
+00:33:20 Cris Casey: See my earlier post on disillusionment with IT
+from the C-suite
+00:33:31 David Mantica--Co-host!!!: share it again
+00:33:34 David Mantica--Co-host!!!: bring it back
+00:33:39 Liz huff: what's an example of no code tools being used in IT
+Ops?
+00:33:51 Cris Casey: https://www.cio.com/article/3550623/many-csuite-
+execs-have-lost-confidence-in-it-including-cios.html
+00:33:58 David Mantica--Co-host!!!: Thanks Cris
+00:34:06 David Mantica--Co-host!!!: Liz I will hit your question
+00:34:38 Kara Flanagan: So many! such great information @Jonathan
+Stephens (he/him) Love this.
+00:34:49 Lara Hill: I agree Kara!!
+00:34:50 Fred Laparo: Reacted to "I agree Kara!!" with
+00:35:25 Lakievia Johnson: Reacted to "https://www.cio.com/..." with
+00:36:34 Lawrence Reid: Project Management Institute pmi.org has a
+micro certification in Citizen Development based on low-code no-code
+development.
+00:36:44 David Mantica--Co-host!!!: Lawrence great share
+00:36:49 Lara Hill: Thanks for sharing Lawrence!
+00:36:53 David Mantica--Co-host!!!: Can you put in the link
+00:38:04 Lara Hill: We got a break coming up after Jonathan followed by
+Taher Jamshidi, PhD
+00:38:21 Lara Hill: GSD :)
+00:38:25 Cesar Partida | Seeking new opportunities!: Reacted to "Project
+Management I..." with
+00:38:28 Kara Flanagan: Reacted to "GSD :)" with
+00:38:52 Fred Laparo: very nice
+00:38:53 Cris Casey: Thanks!
+00:38:53 Rick Bauer: Nicely done, Jonathan.....
+00:38:54 Lakievia Johnson: Thanks, Jonathan!
+00:39:01 Shelley Morris: Thank you Jonathon, that was amazing...
+00:39:01 Jennifer Colburn - Portland IIBA: Thanks @Jonathan
+Stephens (he/him) - great presentation!
+00:39:10 Michael Wolf: Bravo, @Jonathan Stephens (he/him)
+00:39:12 Rick Bauer: Dude is eating the low code dog
+food.....arrrfff!!!
+00:39:15 Jonathan Stephens (he/him): Connect on LinkedIn:
+https://linkedin.com/in/elnatnal
+Read on Substack: https://jonathanstephens.substack.com
+Book time on my calendar: https://cal.com/jonathanstephens/gen-ai-day-4
+00:39:20 Liz huff: thank you Jonathan!!!
+00:39:29 ReShockie Furnace: Thanks Jonathan
+00:39:30 Gil Pizano: Great presentation Jonathan! Thank you for
+sharing!
+00:39:30 Jonathan Stephens (he/him):
+https://www.youtube.com/playlist?list=PLFDxOOdgwrheUe6tCgUrOfi9EiD6g
+_JEs
+00:39:38 Sharon King: Thanks, Jonathan!
+00:39:48 Shelley Morris: Reacted to "Connect on LinkedI..." with
+00:39:50 Nichelle Butler Sankey: Thanks, Jonathan.
+00:39:57 Jonathan Mickles: Reacted to "Thanks, Jonathan!" with
+00:39:59 Lara Hill: thank you so much Jonathan, amazing!
+00:40:04 Liz huff: whoohooo ty!!!
+00:40:08 Cesar Partida | Seeking new opportunities!: Thanks Jonathan
+00:40:13 Denise Ferry: Thanks Jonathan. Your presentation was very
+interesting.
+00:40:49 Lara Hill: Yessss!!!!
+00:40:51 Lara Hill: :)
+00:41:34 Lara Hill: AICERTs - Empower with AI Certifications
+00:41:57 Jonathan Stephens (he/him): Reacted to "Focus on outcome,
+no..." with
+00:42:24 Jonathan Stephens (he/him): Reacted to "So many! such
+great ..." with
+00:42:28 Jonathan Stephens (he/him): Reacted to "I agree Kara!!" with
+00:42:40 Jonathan Stephens (he/him): Reacted to "Nicely done,
+Jonatha..." with
+00:42:43 Jonathan Stephens (he/him): Reacted to "Thanks, Jonathan! "
+with
+00:42:45 Jonathan Stephens (he/him): Reacted to "Thank you
+Jonathon, ..." with
+00:42:48 Jonathan Stephens (he/him): Reacted to "Thanks @Jonathan
+Ste..." with
+00:42:51 Jonathan Stephens (he/him): Reacted to "Bravo, @Jonathan
+Ste..." with
+00:42:53 Jonathan Stephens (he/him): Reacted to "Dude is eating the
+l..." with
+00:42:57 Jonathan Stephens (he/him): Reacted to "thank you
+Jonathan!!..." with
+00:42:59 Lara Hill: (12) Kara Flanagan | LinkedIn
+00:42:59 Shelley Morris: Thanks Kara, great timing to hear about
+certifications that can tie to Skills courses.
+00:42:59 Jonathan Stephens (he/him): Reacted to "Thanks Jonathan" with
+00:43:02 Jonathan Stephens (he/him): Reacted to "Great presentation
+J..." with
+00:43:04 Lara Hill: Amazing!!
+00:43:08 Jonathan Stephens (he/him): Reacted to "Thanks, Jonathan." with
+00:43:12 Jonathan Stephens (he/him): Reacted to "Thanks Jonathan " with
+00:43:14 Jonathan Stephens (he/him): Reacted to "Thanks Jonathan.
+Yo..." with
+00:43:32 Krystal Wilczynski: Thank you, Jonathan!
+00:43:35 Janine Viveiros: I can see it just ffine
+00:44:32 Jonathan Stephens (he/him): https://www.news.aakashg.com/p/howto-
+become-an-ai-pm
+00:44:39 John Ruppel: need to grab lunch
+00:44:43 John Ruppel: brb
+00:45:06 Fred Laparo: thanks Kara
+00:45:11 Kerry Herron: Reacted to "https://www.news.aak..." with
+00:45:15 Chitra Maridi: Reacted to "https://www.news.aak..." with
+00:45:16 Shalene DeMarco: Reacted to "https://www.news.aak..." with
+00:45:21 Cesar Partida | Seeking new opportunities!: Reacted to
+"https://www.news.aak..." with
+00:45:24 Liz huff: another great share! thank you Jonathan!!!
+00:45:45 Lauren Petty: do you have details on pursuing an AI PM cert?
+00:46:08 John Coutu: Reacted to "https://www.news.aak..." with
+00:47:00 Gil Pizano: Replying to "do you have details ..."
+https://www.aicerts.ai/certifications/business/ai-project-manager
+00:47:02 Rick Bauer: I would accept just regular intelligence in
+government
+00:47:33 Romona Benson: TPM is interesting to me!
+00:47:36 Rick Bauer: I'm the guy who had to write a business plan
+for George--it was worth it
+00:47:45 Shalene DeMarco: Reacted to "TPM is interesting t..." with
+00:48:00 Linda Stroeber: Reacted to "I would accept just ..." with
+00:48:19 Lauren Petty: is there such a think as AI Business Analyst
+cert?
+00:49:37 Michael Wolf: Replying to "is there such a thin..."
+How does that relate to "Prompt Engineering"?
+00:49:46 Fred Laparo: Reacted to "I'm the guy who had ..." with
+00:50:56 Lara Hill: Welcome back from the break!
+00:51:04 Lara Hill: We are about to start again with Taher!
+00:51:25 Lara Hill: Thank you for being here !
+00:51:37 Kara Flanagan: Reacted to "https://www.aicerts...." with
+00:51:48 Kara Flanagan: Replying to "do you have details ..."
+Thanks @Gil Pizano
+00:51:54 Lara Hill: (12) Taher Jamshidi | LinkedIn
+00:53:28 Kara Flanagan: Replying to "is there such a thin..."
+@Michael Wolf we do have a prompt engineering one as well!
+https://www.aicerts.ai/certifications/essentials/ai-prompt-engineer
+00:53:59 Lauren Petty: Reacted to "https://www.aicerts...." with
+00:56:08 Cesar Partida | Seeking new opportunities!: Reacted to
+"@Michael Wolf we do ..." with
+00:56:16 Kara Flanagan: Here is a list for all of our current
+certifications and more coming every month! https://www.aicerts.ai/
+Would love to connect with anyone that wants to learn more.
+00:56:26 Lara Hill: Reacted to "Here is a list for a..." with
+00:56:32 Michael Wolf: Replying to "Here is a list for a..."
+Thanks!
+00:56:44 Michael Wolf: Reacted to "Here is a list for a..." with
+00:56:52 Cesar Partida | Seeking new opportunities!: Reacted to "Here is
+a list for a..." with
+00:57:05 Kara Flanagan: Replying to "Here is a list for a..."
+https://www.linkedin.com/in/karaflanagan/
+00:57:17 Janine Viveiros: Replying to "Here is a list for a..."
+Did you say that there would be a discount for those of us that attended
+today?
+00:57:29 David Mantica--Co-host!!!: Replying to "Here is a list for
+a..."
+For Skills training
+00:57:33 David Mantica--Co-host!!!: Replying to "Here is a list for
+a..."
+yes
+00:57:44 David Mantica--Co-host!!!: Replying to "Here is a list for
+a..."
+See Kara about discounts for AI Certs
+00:57:53 Janine Viveiros: Replying to "Here is a list for a..."
+Thank you!
+00:58:12 Cesar Partida | Seeking new opportunities!: Reacted to "See
+Kara about disco..." with
+00:59:15 David Mantica--Co-host!!!: Replying to "Here is a list for
+a..."
+np
+00:59:40 Lara Hill: Use the code AIUS25 for 25% off any Skills AI course,
+I will email this out as well
+01:00:04 Lakievia Johnson: Reacted to "Use the code AIUS25 ..." with
+01:00:08 Lauren Petty: Reacted to "Use the code AIUS25 ..." with
+01:00:56 Natallie Archer: Reacted to "Use the code AIUS25 ..." with
+01:00:59 Nichelle Butler Sankey: Reacted to "Use the code
+AIUS25 ..." with
+01:01:25 Cesar Partida | Seeking new opportunities!: Reacted to "Use the
+code AIUS25 ..." with
+01:01:35 Kara Flanagan: Replying to "Here is a list for a..."
+Yes @Janine Viveiros, we will also give anyone in attendance a code as
+well as the certs will pair well with a lot of the courses mentioned
+today! It will be in our materials after this event.
+01:01:43 Kara Flanagan: Reacted to "See Kara about disco..." with
+01:05:38 David Mantica--Co-host!!!: Remember any questions or thoughts
+please share
+01:07:16 FLORENCE-MARIE TCHOULACK: Reacted to Here is a list for a...
+with " "
+01:07:34 Cris Casey: Isn't there a Federal Technology Office that's
+supposed to an overseer to the agencies?
+01:08:06 Jennifer Colburn - Portland IIBA: The AI police! Hahahaha
+01:08:24 David Mantica--Co-host!!!: Lets use AI to design their
+uniforms
+01:09:04 Michael Wolf: Koan - How can AI (with it's implied neural
+nets) be explainable? The whole idea of learning is to find unknown
+patterns. The learning is not a traceable process. We may have a
+Schrõdinger's Cat problem -- learnable or traceable, but not both.
+Thoughts?
+01:09:12 Cris Casey: https://www.whitehouse.gov/ostp/
+01:09:16 Jonathan Mickles: FedRAMP is required for our group. They
+also created an internal group who reviews new technologies - privacy,
+data governance, etc.
+01:09:29 Janine Viveiros: Reacted to "Koan - How can AI (w..." with
+01:09:39 Shelley Morris: Reacted to "Use the code AIUS2..." with
+01:09:48 Michael Wolf: Reacted to "https://www.whitehou..." with
+01:10:44 Shelley Morris: Reacted to "FedRAMP is require..." with
+01:11:25 Cris Casey: Replying to "Koan - How can AI (w..."
+In theory ... GenAI should be better at identifying the source of
+critical info. Some tools, like perplexity will quote sources. Tracing
+"thought process" is a different question.
+01:11:47 Cris Casey: Replying to "Koan - How can AI (w..."
+sorry - better than an individual with SME.
+01:11:50 Kara Flanagan: Yes! If we are not focusing on the humans and
+good communication, the initiatives will not go well.
+01:11:55 Michael Wolf: Can you give examples of traceable,
+understandable, transparent systems might work?
+01:12:30 David Mantica--Co-host!!!: Michael I will have you ask that
+question
+01:12:43 David Mantica--Co-host!!!: Are you directly that question to
+Taher?
+01:12:51 Michael Wolf: Reacted to "Michael I will have ..." with
+01:13:56 Michael Wolf: Replying to "Michael I will have ..."
+Only if/when there is time.
+01:15:46 Cris Casey: https://www.whitehouse.gov/ostp/ai-bill-ofrights/
+01:15:49 Michael Wolf: Synthetic data sounds like it may be good for
+health care where anonymozing data is important for testing.
+01:16:01 Shelley Morris: Reacted to "Synthetic data sou..." with
+01:16:13 Fred Laparo: Reacted to "Synthetic data sound..." with
+01:17:02 Lakievia Johnson: Reacted to "https://www.whitehou..." with
+01:17:12 Michael Wolf: Assistive Coding -- Prompt: Read federal tax
+guides. Generate software to replace CPA's and TurboTax.
+01:17:24 David Mantica--Co-host!!!: yes, that would be antastic
+01:17:52 David Mantica--Co-host!!!: Fantastic
+01:17:55 David Mantica--Co-host!!!: what a use case
+01:17:57 Fred Laparo: Reacted to "Assistive Coding -- ..." with
+01:17:58 Michael Wolf: Replying to "Assistive Coding -- ..."
+I'm serious -- Laws are (in effect) the requirements for tax software,
+but they are not written with that use case in mind.
+01:18:11 David Mantica--Co-host!!!: and talk about consistency
+01:18:15 Lakievia Johnson: Reacted to "Assistive Coding -- ..." with
+01:20:09 Samuel Parri: Just wondering, do the AI best practice
+adoptions you are sharing for Public Sector also include academic
+entities to follow similarly to government entities, too?
+01:20:11 Fred Laparo: Replying to "Assistive Coding -- ..."
+yeah, but i think there's still a "magic happens here!" step or three
+01:20:22 John Ruppel: Can you please show the previous slide?
+01:20:47 Fred Laparo: Reacted to "yeah, but i think th..." with
+01:21:04 John Ruppel: Thank you
+01:21:22 John Ruppel: LOL... of course the customer is not thinking
+in this manner ☺
+01:21:38 Craig Oliver: Insightful and a perspective often not heard
+thank you! Happy to connect to keep tht discussions going:
+https://www.linkedin.com/in/craigpoliver/
+01:24:01 Gil Pizano: Final decision should always be done by a
+human doing due diligence.
+01:24:11 Nichelle Butler Sankey: Reacted to "Final decision
+shoul..." with
+01:24:12 David Mantica--Co-host!!!: Replying to "Final decision
+shoul..."
+Supervised AI
+01:24:15 David Mantica--Co-host!!!: Replying to "Final decision
+shoul..."
+I agree
+01:24:40 Michael Wolf: Eye opening. Thanks for the perspective!
+01:24:41 Neelu Pandey: Thank you
+01:24:45 Sharon King: Thanks, Taher!
+01:24:46 Denise Ferry: Taher - very interesting presentation. Thank
+you.
+01:24:53 Lakievia Johnson: Me, too! Thanks, Taher!
+01:25:16 John Ruppel: Break a leg Michael :-)
+01:25:16 Krystal Wilczynski: Thank you, Taher!
+01:25:17 ReShockie Furnace: Thank you Taher
+01:25:21 Lara Hill: Welcome Michael!!!!
+01:25:29 David Mantica--Co-host!!!: Yes, thank you Taher!!!
+01:25:38 John Ruppel: Thank you Taher... I would like to connect
+01:25:39 John Ruppel: https://www.linkedin.com/in/johnruppel/
+01:25:40 Nichelle Butler Sankey: Thank you, Taher.
+01:25:49 Lara Hill: (13) Michael Schank | LinkedIn
+01:25:50 John Ruppel: I will reach out to your contact info
+01:25:53 David Mantica--Co-host!!!: We had this picture!!!
+01:25:55 David Mantica--Co-host!!!: earlier
+01:25:59 David Mantica--Co-host!!!: which presenter did it
+01:26:20 Lara Hill: it was your digital twin
+01:26:26 Lakievia Johnson: Reacted to "it was your digital ..." with
+01:27:25 Sheila Mullen: Reacted to "it was your digital ..." with
+01:27:50 David Mantica--Co-host!!!: BANKER!!!!
+01:27:53 David Mantica--Co-host!!!: ouch!!!!
+01:28:50 Cris Casey: Relevant slide from a previous presentation.
+01:29:29 David Mantica--Co-host!!!: Reacted to "{0D245ED3-B93F-4539-
+B9C1-E0A72813332F}.png" with
+01:30:01 Lara Hill: lol
+01:30:06 Michael Wolf: Replying to "{0D245ED3-B93F-4539-B9C1-
+E0A72813332F}.png"
+And if you don't find yourself under the direction.... you are also
+training the software to replace you.
+;-/
+01:30:15 David Mantica--Co-host!!!: I know, name changes suck!!!
+01:30:33 Michael Wolf: Replying to "{0D245ED3-B93F-4539-B9C1-
+E0A72813332F}.png"
+Learning will happen.
+Nature finds a way.
+01:30:35 David Mantica--Co-host!!!: Replying to "{0D245ED3-B93F-4539-
+B9C1-E0A72813332F}.png"
+whether software or human you are always training your replacement
+01:30:41 Lara Hill: We are the band formerly known as SoftEd
+01:30:47 Lara Hill:
+01:30:48 David Mantica--Co-host!!!: Replying to "{0D245ED3-B93F-4539-
+B9C1-E0A72813332F}.png"
+the way of nature, circle of life baby
+01:30:54 Cesar Partida | Seeking new opportunities!: Reacted to "it was
+your digital ..." with
+01:30:55 David Mantica--Co-host!!!: I like that better
+01:30:58 David Mantica--Co-host!!!: so much cooler
+01:31:04 Lakievia Johnson: Reacted to "We are the band form..." with
+01:31:46 Michael Wolf: Replying to "{0D245ED3-B93F-4539-B9C1-
+E0A72813332F}.png"
+I'm just hoping that as I train the one who will disrupt my life that
+that person is ME!
+01:31:48 David Mantica--Co-host!!!: I completely agree with that
+01:32:19 David Mantica--Co-host!!!: The AI become a COO???
+01:32:24 Jonathan Mickles: This sounds really exciting. Remember
+doing a podcast about 3 years ago around digital twins but in virtual
+reality around commercial real estate. VirBella was the platform
+01:32:33 Angelia Davis: Reacted to "We are the band form..." with
+01:32:36 Lakievia Johnson: Reacted to "The AI become a COO?..." with
+01:32:43 David Mantica--Co-host!!!: Replying to "This sounds really
+e..."
+Great share!
+01:32:50 Kara Flanagan: Reacted to "it was your digital ..." with
+01:32:54 Jonathan Mickles: Reacted to "Great share!" with
+01:33:10 Cris Casey:
+https://www.gartner.com/smarterwithgartner/gartner-keynote-thefuture-
+of-business-is-composable
+01:33:21 David Mantica--Co-host!!!: So basically talking to your full
+operation??
+01:33:25 Michael Wolf: 41% or 41.6%?
+Did you know that 94.73 percent of statistics are made up in the moment?
+01:34:01 David Mantica--Co-host!!!: Replying to "41% or 41.6%?
+Did y..."
+come on man!!! you got to have more trust in humans than that....
+01:34:07 David Mantica--Co-host!!!: Replying to "41% or 41.6%?
+Did y..."
+but I think you are right
+01:34:46 Craig Oliver: Reacted to "but I think you are ..." with
+01:34:50 Michael Wolf: Replying to "41% or 41.6%?
+Did y..."
+Snarkiness aside, I'd trust Garner numbers like 41.6% if they showed up
+with an uncertainty -- say 41.6% +/- 30%.
+Regardless of projection, estimating bias will be present.
+01:35:10 Rick Bauer: Replying to "41% or 41.6%?
+Did y..."
+figures lie, and liars figure
+01:35:13 Lakievia Johnson: Reacted to "Snarkiness aside, I'..." with
+01:35:18 David Mantica--Co-host!!!: Replying to "41% or 41.6%?
+Did y..."
+yes, I agree, there is always bias
+01:35:23 Michael Wolf: Reacted to "figures lie, and lia..." with
+01:35:24 Craig Oliver: Reacted to "figures lie, and lia..." with
+01:35:26 Lakievia Johnson: Reacted to "figures lie, and lia..." with
+01:35:38 David Mantica--Co-host!!!: Replying to "41% or 41.6%?
+Did y..."
+so we have to understand our bias will go into AI unless we keep that top
+of mind
+01:35:40 Cris Casey: https://blogs.nvidia.com/blog/bmw-groupnvidia-
+omniverse/
+01:35:46 Jennifer Colburn - Portland IIBA: Reacted to "figures lie,
+and lia..." with
+01:36:40 Cris Casey: Replying to "41% or 41.6%?
+Did y..."
+Aren't all statistics made up?
+01:36:45 Michael Wolf: The growth and mergers of the organizations
+that were "too big to fail" was NOT a data-driven decision. The data
+was obvious. The merger was contradictory to the data.
+01:37:03 Michael Wolf: Replying to "The growth and merge..."
+Sorry. Touchy button. 2008 melt-down.
+01:37:05 David Mantica--Co-host!!!: Yes, remember ultimately all
+decisions are emotional
+01:37:08 David Mantica--Co-host!!!: at some level
+01:37:13 David Mantica--Co-host!!!: I know what you are taking about
+01:37:17 Lakievia Johnson: Reacted to "The growth and merge..." with
+01:37:29 Fred Laparo: Reacted to "https://blogs.nvidia..." with
+01:38:03 Nichelle Butler Sankey: Reacted to "The growth and
+merge..." with
+01:39:33 David Mantica--Co-host!!!: Building your own decision tree or
+bubble, looking at all the possible outcomes two to three moves ahead
+based on a change
+01:39:49 Lakievia Johnson: Reacted to "Building your own de..." with
+01:40:33 Jennifer Colburn - Portland IIBA: What level of effort is
+needed to create a DTO and what is needed to maintain it on weekly basis?
+01:40:41 Jonathan Mickles: Reacted to "What level of effort..." with
+01:40:44 Laura Brandenburg: Reacted to "What level of effort..." with
+01:40:44 Gil Pizano: Replying to "{0D245ED3-B93F-4539-B9C1-
+E0A72813332F}.png"
+to the original "opportunity" image above, this just means that one must
+continually "upskill" their abilities so you are always ahead.
+01:40:54 John Ruppel: What I really like about what Michael is
+presenting it to tie this to value stream mapping so that you can do what
+if analysis on value streams
+01:40:58 Laura Brandenburg: Replying to "What level of effort..."
+Thanks for this! I was trying to formulate this question!
+01:41:02 Lakievia Johnson: Reacted to "I'm just hoping that..." with
+01:41:37 Laura Brandenburg: Replying to "What level of effort..."
+This is where BAs can make such a huge impact!
+01:41:48 Lakievia Johnson: Reacted to "This is where BAs ca..." with
+01:41:50 David Mantica--Co-host!!!: Replying to "What level of
+effort..."
+Yes, better use of BA skills
+01:41:50 John Ruppel: Twins will show the reality and help you
+identify ways you can improve your value stream mapping capabilities for
+areas of the business where you don't have the ability to validate your
+value stream mapping
+01:42:04 Lakievia Johnson: Reacted to "Twins will show the ..." with
+01:42:06 Lakievia Johnson: Reacted to "Yes, better use of B..." with
+01:42:37 David Mantica--Co-host!!!: John that is what I like about it
+01:42:42 David Mantica--Co-host!!!: the no crap
+01:43:11 David Mantica--Co-host!!!: picture, not what the CEO or COO or
+CIO things
+01:43:14 David Mantica--Co-host!!!: thinks
+01:44:52 Kara Flanagan: Reacted to "So basically talking..." with
+01:45:52 David Mantica--Co-host!!!: we will remind him of level of
+effort, we won't forget
+01:45:54 Jennifer Colburn - Portland IIBA: So can AI get the
+business processes out of everyone’s head and update the couple of
+documented processes that are 10 years old?
+01:46:01 Lakievia Johnson: Reacted to "we will remind him o..." with
+01:46:09 Sheldon B: Motivating driver for getting back to AS IS
+documentation in a standard format. Not only for digital twinning, but
+for any consultant or SME to maximize brain power on problem
+identification and solutioning.
+01:46:20 Lakievia Johnson: Replying to "we will remind him o..."
+I thought he said it was minimal for the benefit.
+01:46:30 Lakievia Johnson: Reacted to "So can AI get the bu..." with
+01:46:41 David Mantica--Co-host!!!: Replying to "So can AI get the
+bu..."
+If you have them give you bullet points or record their thoughts, AI can
+put the flow together for you
+01:46:46 Lakievia Johnson: Replying to "So can AI get the bu..."
+You can ask it about making the updates.
+01:46:56 Lakievia Johnson: Reacted to "If you have them giv..." with
+01:47:03 David Mantica--Co-host!!!: Replying to "So can AI get the
+bu..."
+Yes, or where should these processed change given how things are changing
+01:47:19 David Mantica--Co-host!!!: Reacted to "Motivating driver
+fo..." with
+01:47:23 Michael Wolf: How do you validate the model? It sounds like
+there are lots of assumptions and requirements to "capture everything" to
+get to the model. How do we know it tracks the ground truth (or can
+predict the future)?
+01:47:37 Lakievia Johnson: Reacted to "How do you validate ..." with
+01:47:54 David Mantica--Co-host!!!: not predict the future but you can
+ask it what you are doing and can ask what you should be doing
+01:47:57 David Mantica--Co-host!!!: but I will ask
+01:47:58 David Mantica--Co-host!!!: for sure
+01:48:30 David Mantica--Co-host!!!: there is our validation
+01:48:33 David Mantica--Co-host!!!: MIchael
+01:48:39 David Mantica--Co-host!!!: Human driven
+01:48:42 Michael Wolf: This reminds me of weather models. They can
+predict tomorrow today, then tomorow then can validate whether it
+predicted OK or not. Then refine it.
+01:49:29 Laura Brandenburg: It also becomes part of every project to
+make any updates
+01:49:40 Lakievia Johnson: Reacted to "It also becomes part..." with
+01:49:47 Sheila Mullen: It's so important to have the people doing the
+work involved in refining it - this will accelerate adoption.
+01:50:00 Michael Wolf: Would this modeling have helped Blockbuster
+realize that streaming was becoming important?
+01:50:23 Jennifer Colburn - Portland IIBA: Reacted to "Would this
+modeling ..." with
+01:51:23 David Mantica--Co-host!!!: Replying to "Would this
+modeling ..."
+It is a good question, might have made the start question physical
+location value
+01:51:43 David Mantica--Co-host!!!: Replying to "Would this
+modeling ..."
+Or think through cost impact of moving content to streaming
+01:51:50 David Mantica--Co-host!!!: Replying to "Would this
+modeling ..."
+Not just say, no this will never work.
+01:52:10 Michael Wolf: Replying to "It also becomes part..."
+Sounds hard. How can this be made to be easy? People don't update
+documentation so we created documentaiton extraction. What is their
+incentive to update the model?
+01:52:34 Robby Boys: Reacted to "https://www.aicerts...." with
+01:52:36 Laura Brandenburg: Replying to "Would this modeling ..."
+And build awareness of the cost of the processes/business they were
+running.
+01:53:00 Michael Wolf: Replying to "It also becomes part..."
+Do we declare what the model is, or observe and infer what it is.
+The former sounds like human activity.
+The later sounds like... shall I say it... AI.
+01:53:03 David Mantica--Co-host!!!: I don't think a change intitive
+will really work in a big company without know this.
+01:53:08 Laura Brandenburg: I'm so bummed - I have to run. But
+looking forward to catching up on the recording.
+01:53:15 Lakievia Johnson: Reacted to "I'm so bummed - I ha..." with
+01:53:25 David Mantica--Co-host!!!: think Agile , they never thought
+about how Finance was so critical to its over success
+01:53:32 Sheldon B: Good work everyone, I've gotta bounce, cheers!
+01:53:32 David Mantica--Co-host!!!: Replying to "I'm so bummed - I
+ha..."
+So great having you here
+01:53:40 David Mantica--Co-host!!!: Replying to "I'm so bummed - I
+ha..."
+Thank you so much for your sharing and idea and thoughts!!!
+01:53:42 Lakievia Johnson: Reacted to "Good work everyone, ..." with
+01:53:50 David Mantica--Co-host!!!: Replying to "Good work
+everyone, ..."
+Thank you so much for participating!!!!
+01:54:52 Rick Bauer: Replying to "Good work everyone, ..."
+David, Gotta roll. I will see George tomorrow, but it was a great
+conference......glad I invested the time.
+01:55:12 Lakievia Johnson: Reacted to "David, Gotta roll. I..." with
+01:55:41 David Mantica--Co-host!!!: Replying to "Good work
+everyone, ..."
+Thank you Rick
+01:55:45 David Mantica--Co-host!!!: Replying to "Good work
+everyone, ..."
+Loved having you
+01:56:09 Lara Hill: Please be on the lookout for an email this evening
+from me that has a link to a survey, we would really appreciate your
+feedback!
+01:56:22 Lakievia Johnson: Reacted to "Please be on the loo..." with
+01:56:59 Nichelle Butler Sankey: Reacted to "Please be on the
+loo..." with
+01:57:11 David Mantica--Co-host!!!: They key to be thinking the cost /
+benefit to be able to better plan for the future
+01:57:15 Michael Wolf: Lara - Will you capture chat as part of what
+goes out?
+01:57:21 Lara Hill: Replying to "Lara - Will you capt..."
+yes
+01:57:28 Robby Boys: Reacted to "Please be on the loo..." with
+01:57:37 Antonio Cabrera: Reacted to "Please be on the loo..." with
+01:57:40 Michael Wolf: Reacted to "yes" with
+01:58:23 Robby Boys: Reacted to "Use the code AIUS25 ..." with
+01:59:02 Michael Wolf: Before everyone drops... I'm happy to connect
+afterwards on LinkedIn or a virtual coffee --
+https://LinkedIn.com/in/MRWolf or MichaelRWolf@att.net
+01:59:59 Lakievia Johnson: Reacted to "Before everyone drop..." with
+02:00:07 Lara Hill: Thanks for sharing!
+02:00:12 Nichelle Butler Sankey: Reacted to "Before everyone
+drop..." with
+02:00:32 Ana Duncan: Lara would you guys display the time each
+presentation started so we can go to that presentation directly in the
+video? That would help a lot I think since the conference is the whole
+day. Thannks
+02:00:50 Lakievia Johnson: Reacted to "Lara would you guys ..." with
+02:01:10 Jennifer Colburn - Portland IIBA: Reacted to "Lara would
+you guys ..." with
+02:02:07 Krystal Wilczynski: Reacted to "Lara would you guys ..." with
+02:02:32 Krystal Wilczynski: Replying to "Lara would you guys ..."
+I was thinking the same thing, Ana! Thanks for asking.
+02:02:43 Cris Casey: Would love to connect -
+>https://www.linkedin.com/in/criscasey/
+02:02:54 Angelia Davis: Reacted to "Lara would you guys ..." with
+02:02:54 Lara Hill: Replying to "Lara would you guys ..."
+It will be broken into separate links for each session
+02:03:03 Lakievia Johnson: Reacted to "Would love to connec..." with
+02:03:10 Ana Duncan: Yeah I dont feel like going forward until I
+find the presentation I am interested in….
+02:03:46 Ana Duncan: Replying to "Lara would you guys ..."
+AWESOME…that is even better, I just go directly to that presentation and
+that is it.
+02:04:01 Lakievia Johnson: Reacted to "Yeah I dont feel lik..." with
+02:04:04 Lakievia Johnson: Reacted to "AWESOME…that is even..." with
+02:04:08 Lakievia Johnson: Reacted to "It will be broken in..." with
+02:04:11 Lara Hill: Reacted to "AWESOME…that is even..." with
+02:04:15 David Mantica--Co-host!!!: Reacted to "Yeah I dont feel
+lik..." with
+02:04:18 Neelu Pandey: Reacted to "It will be broken in..." with
+02:04:31 Ana Duncan: The same with the presentation PP deck, right?
+02:04:40 Lara Hill: Replying to "The same with the pr..."
+yes
+02:05:03 Krystal Wilczynski: Reacted to "It will be broken in..." with
+02:05:25 Krystal Wilczynski: Replying to "Lara would you guys ..."
+Yes, Thank you, Lara!
+02:05:39 Lara Hill: Replying to "Lara would you guys ..."
+yw!
+02:05:54 Neelu Pandey: Reacted to "yes" with
+02:06:48 Fred Laparo: Reacted to "Lara would you guys ..." with
+02:06:57 Fred Laparo: Reacted to "It will be broken in..." with
+02:07:32 Fred Laparo: Reacted to "Please be on the loo..." with
+02:07:40 Denise Ferry: Great content.
+02:07:48 Lara Hill: Reacted to "Great content." with
+02:07:53 Lakievia Johnson: Good job! Very cool you wrote a book
+about all of that, Michael! Thanks for sharing!
+02:08:08 Sheila Mullen: I find it easier to do process flow first,
+which informs the data flow. Your thoughts?
+02:08:18 Lakievia Johnson: I know someone else studying digital
+twins, and it is very interesting.
+02:08:24 Lakievia Johnson: A business clone!
+02:08:35 Lakievia Johnson: A "test dummy"! Cool.
+02:08:44 David Mantica--Co-host!!!: Business Transformation using the
+Process Inventory Framework | SkillsDG
+02:08:56 David Mantica--Co-host!!!: Michael's class
+02:09:01 David Mantica--Co-host!!!: I love this Lakievia
+02:09:02 Lakievia Johnson: Reacted to "I love this Lakievia" with
+02:09:08 Lakievia Johnson: Reacted to "Michael's class" with
+02:09:15 Shalene DeMarco: Reacted to "Michael's class" with
+02:09:22 Ebuka Obiakor: There are digital twin in Oil and Gas, and
+Aviaition (like runway reconstruction)
+02:09:30 Lakievia Johnson: Reacted to "There are digital tw..." with
+02:09:31 Cris Casey: Crash Test Dummy
+02:09:36 Lakievia Johnson: Reacted to "Crash Test Dummy" with
+02:10:13 Michael Wolf: Replying to "A "test dummy"! Cool..."
+Agreed. That's where I've heard of "doubles". And why I was wondering
+about validating the model vs the real world.
+02:10:29 Lakievia Johnson: Replying to "I love this Lakievia"
+Thanks!
+02:10:39 David Mantica--Co-host!!!: Reacted to "Crash Test Dummy" with
+02:10:46 John Ruppel: Hope everyone had a good time today... if you
+have a need for GenAI, Prescriptive AI, AI adoption or helping, teaching
+leaders how to lead a successful adoption, I am here to help... welcome
+any conversations or please reach out if I can be of help
+https://www.linkedin.com/in/johnruppel/
+02:11:01 Lakievia Johnson: Reacted to "Hope everyone had a ..." with
+02:11:04 Lara Hill: Reacted to "Hope everyone had a ..." with
+02:11:17 Cris Casey: Reacted to "There are digital tw..." with
+02:11:30 John Ruppel: You guys are speaking my language!!!
+Successfully leading change :-)
+02:11:42 Kara Flanagan: Reacted to "You guys are speakin..." with
+02:11:48 Antonio Cabrera: "If we're eating our own dog food,
+who's cleaning up the waste?"
+-- me
+02:11:57 Cris Casey: Reacted to ""If we're eating our..." with
+02:12:08 Lakievia Johnson: You are so right, David!
+02:12:17 Lakievia Johnson: Reacted to ""If we're eating our..." with
+02:12:19 David Mantica--Co-host!!!: Reacted to ""If we're eating
+our..." with
+02:12:39 Michael Wolf: Reacted to ""If we're eating our..." with
+02:13:33 Lakievia Johnson: Not too long ago emojis were
+revolutionary.
+02:13:35 Kara Flanagan: Great sessions today and great to meet
+everyone.
+AI Certs was happy to be part of this event!
+Kara@aicerts.ai
+https://www.linkedin.com/in/karaflanagan/
+www.aicerts.ai/certifications
+Discount Code: GENAI20
+02:14:00 Lara Hill: Reacted to "Great sessions today..." with
+02:14:25 Neelu Pandey: Reacted to "Great sessions today..." with
+02:14:52 Brandon Peedin: I have to jump but I wanted to say thank you
+all for today's conference. As a PM that was recenty impacted by Cisco's
+latest round of workforce reductions, this confirms my thoughts on how I
+should continue to develop and position myself. Thank you again for such
+a valueable day. It was a nice break from job hunting.
+02:15:09 Lakievia Johnson: Reacted to "I have to jump but I..." with
+02:15:11 David Mantica--Co-host!!!: Reacted to "I have to jump but
+I..." with
+02:15:19 Lakievia Johnson: Replying to "I have to jump but I..."
+Good luck with your job search, Brandon!
+02:15:28 Cris Casey: Reacted to "I have to jump but I..." with
+02:15:53 Janine Viveiros: Fantastic!
+02:15:54 Alison Meler: Thank you everyone! This was fantastic!
+02:15:55 Brandon Peedin: Reacted to "Good luck with you..." with
+02:15:58 Kelly Lane: Thank you all! Great perspectives and info!
+02:15:59 Ana Duncan: Very valuable for sure!!!
+02:16:01 Krystal Wilczynski: Thank you, Michael!
+02:16:05 Lakievia Johnson: Thank you!
+02:16:13 ReShockie Furnace: Thanks Michael
+02:16:15 Kerry Herron: Thank you for putting this together. This is
+awesome and very informative.
