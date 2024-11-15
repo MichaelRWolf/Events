@@ -1,148 +1,106 @@
 * People
 
-** As numbered list
-
-1. Arhin, Nana - https://www.linkedin.com
-2. Blackburn, Russell - https://www.linkedin.com
-3. Bridges, George - https://www.linkedin.com
-4. Benson, Romona - https://www.linkedin.com
-5. Booze-Jervis, Juli
-6. Brandenburg, Laura - https://www.linkedin.com
-7. Boys, Robby - https://www.linkedin.com
-8. Butler Sankey, Nichelle
-9. Casey, Cris
-10. Coutu, John - https://www.linkedin.com
-11. Davis, Angelia - https://www.linkedin.com
-12. Duchaine, Todd
-13. Furnace, ReShockie - https://www.linkedin.com
-14. Herron, Kerry
-15. "Lucky" Johnson, Lakievia - https://www.linkedin.com
-16. King, Sharon
-17. Kondabathini, Srinath - https://www.linkedin.com
-18. Mantica, David
-19. Maynard, Russ - https://www.linkedin.com
-20. Mickles, Jonathan - https://www.linkedin.com
-21. Morgan, Jesse - https://www.linkedin.com
-22. Morris, Shelley
-23. Nichols, Laura
-24. Nichols, Laura
-25. Oliver, Craig - https://www.linkedin.com
-26. Partida, Cesar - https://www.linkedin.com
-27. Perez, Janet - https://www.linkedin.com
-28. Pizano, Gil - https://www.linkedin.com
-29. Roby, Tim
-30. Roby, Tim
-31. Ammar Raza, Syed
-32. Slater, Sam - https://www.linkedin.com
-33. Solomon, Nakoya - https://www.linkedin.com
-34. Stephens, Jonathan - https://www.linkedin.com
-35. Taylor, Julia - https://www.linkedin.com
-36. Mullen, Sheila
-37. Wolf, Michael - https://www.linkedin.com
-38. Witherspoon, LaVern - https://www.linkedin.com
-39. Imtiaz
-
-
-
-** As Table
-
-See instead: 
-file:/Users/michael/Events/2024-10-30_GenAI_Day/GenAI_Day_linkedin_addresses.org
-
-
-|--------------------------+--------------------------|
-| Angelia Davis            | https://www.linkedin.com |
-| Cesar Partida            | https://www.linkedin.com |
-| Craig Oliver             | https://www.linkedin.com |
-| Cris Casey               |                          |
-| David Mantica            |                          |
-| George Bridges           | https://www.linkedin.com |
-| Gil Pizano               | https://www.linkedin.com |
-| Imtiaz                   |                          |
-| Janet Perez              | https://www.linkedin.com |
-| Jesse Morgan             | https://www.linkedin.com |
-| John Coutu               | https://www.linkedin.com |
-| Jonathan Mickles         | https://www.linkedin.com |
-| Jonathan Stephens        | https://www.linkedin.com |
-| Juli Booze-Jervis        |                          |
-| Julia Taylor             | https://www.linkedin.com |
-| Kerry Herron             |                          |
-| LaVern Witherspoon       | https://www.linkedin.com |
-| Lakievia "Lucky" Johnson | https://www.linkedin.com |
-| Laura Brandenburg        | https://www.linkedin.com |
-| Laura Nichols            |                          |
-| Laura Nichols            |                          |
-| Michael Wolf             | https://www.linkedin.com |
-| Nakoya Solomon           | https://www.linkedin.com |
-| Nana Arhin               | https://www.linkedin.com |
-| Nichelle Butler Sankey   |                          |
-| ReShockie Furnace        | https://www.linkedin.com |
-| Robby Boys               | https://www.linkedin.com |
-| Romona Benson            | https://www.linkedin.com |
-| Russ Maynard             | https://www.linkedin.com |
-| Russell Blackburn        | https://www.linkedin.com |
-| Sam Slater               | https://www.linkedin.com |
-| Sharon King              |                          |
-| Sheila Mullen            |                          |
-| Shelley Morris           |                          |
-| Srinath Kondabathini     | https://www.linkedin.com |
-| Syed Ammar Raza          |                          |
-| Tim Roby                 |                          |
-| Tim Roby                 |                          |
-| Todd Duchaine            |                          |
-|--------------------------+--------------------------|
-
+|----------------------+---------------------------------------------------------------------|
+| Name                 | LinkedIn URL                                                        |
+|----------------------+---------------------------------------------------------------------|
+| Angelia Davis        | https://LinkedIn.com/in/angelia-davis/                              |
+| Cesar Partida        | https://LinkedIn.com/in/cesar-partida-pmbilingualprojectmanagement/ |
+| Craig Oliver         | https://LinkedIn.com/in/craigpoliver/                               |
+| Cris Casey           | https://LinkedIn.com/in/criscasey/                                  |
+| George Churchwell    | https://LinkedIn.com/in/georgechurchwell-6a6a/                      |
+| Gil Pizano           | https://LinkedIn.com/in/gilpizano                                   |
+| Janet Perez          | https://LinkedIn.com/in/janetperez4/                                |
+| Jeff Justiz          | https://LinkedIn.com/in/jjustiz/                                    |
+| Jesse Morgan         | https://LinkedIn.com/in/jesse-g-morgan                              |
+| John Ruppel          | https://LinkedIn.com/in/johnruppel/                                 |
+| Jonathan Mickles     | http://LinkedIn.com/gr8fulbishop                                    |
+| Jonathan Stephens    | https://LinkedIn.com/in/elnatnal                                    |
+| Julia Taylor         | https://LinkedIn.com/in/juliataylorcpc/                             |
+| Kara Flanagan        | https://LinkedIn.com/in/karaflanagan/                               |
+| Krista Roes          | https://LinkedIn.com/in/kristaroes                                  |
+| LaVern Witherspoon   | https://LinkedIn.com/in/lavernowitherspoon                          |
+| Lakievia Johnson     | https://LinkedIn.com/in/lakieviajohnson                             |
+| Laura Brandenburg    | https://LinkedIn.com/in/laurabrandenburg/                           |
+| Michael Wolf         | https://LinkedIn.com/in/MRWolf                                      |
+| Nakoya Solomon       | https://LinkedIn.com/in/nakoya-solomon-63b603a5                     |
+| Robby Boys           | https://LinkedIn.com/in/robby-boys-pmpb7820566/                     |
+| Romona Benson        | https://LinkedIn.com/in/romona-benson                               |
+| Russell Blackburn    | https://LinkedIn.com/in/russ-blackburn-maolpmp-70159812             |
+| Sam Slater           | https://LinkedIn.com/in/samanthaconlynslater/                       |
+| Srinath Kondabathini | https://LinkedIn.com/in/srinath-k-852362a/                          |
+|----------------------+---------------------------------------------------------------------|
 
 * Sessions
-** 9:00 Session - Kick-off
-*** People
+
+** Schedule
+
+|----+-------+-------------------+-------------------------------------------------------------------------------------|
+|    |  Time | Presenter         | Session Title                                                                       |
+|----+-------+-------------------+-------------------------------------------------------------------------------------|
+|  _ |  9:30 | David & Lara      | Welcome                                                                             |
+|  1 |  9:45 | Loyd Thompson     | Creating PowerPoint Presentations with Generative AI                                |
+|  2 | 10:15 | Samuel Parri      | Gen AI for Project Management: Getting started with AI Concepts, Tools, & Use Cases |
+|  _ | 10:45 |                   | Break / Networking / Open Forum                                                     |
+|  3 | 10:50 | Abrar Hashmi      | Empowering Data Governance with Generative AI                                       |
+|  4 | 11:20 | George Churchwell | Beyond the Hype: Navigating the Realities of Enterprise AI Adoption                 |
+|  _ | 12:05 |                   | Lunch Break                                                                         |
+|  5 | 12:25 | Chris Knotts      | Applied Generative AI for Project Management                                        |
+|  6 |  1:15 | Marc Balcer       | Inverting TDD - AI-Generated Tests as Specifications                                |
+|  _ |  1:55 |                   | Break / Networking / Open Forum                                                     |
+|  7 |  2:00 | Om Hashmi         | Bridging Innovation and Execution: The TPM's Role in Gen AI Projects                |
+|  8 |  2:45 | Jonathan Stephens | Low code, no-code, AI...oh my!                                                      |
+|  _ |  3:15 |                   | Break / Networking / Open Forum                                                     |
+|  9 |  3:30 | Taher Jamshidi    | Navigating Generative AI in the Public Sector                                       |
+| 10 |  4:00 | Michael Schank    | Unleashing Digital Twins to Power Operational Excellence                            |
+|  _ |  4:50 | David and Lara    | Q&A Session                                                                         |
+|  _ |  5:00 |                   | End                                                                                 |
+|----+-------+-------------------+-------------------------------------------------------------------------------------|
+
+
+** Session 0  | 9:30 | David & Lara      | Welcome 
+
+People
 - Lara
 - David Mantica  
 
-** 9:45 Session - Lloyd Thompson
 
-[[https://google.com][https://google.com]]
-
-
-
-** People 
+** Session 1 |  9:45 | Loyd Thompson     | Creating PowerPoint Presentations with Generative AI                                
+People 
 - Lloyd Thompson - Presenter
 
-gamma.app -
+gamma.app - A tool to help create presentations.  So what?  Who wants powerpoints?
+
+** Session 2 | 10:15 | Samuel Parri      | Gen AI for Project Management: Getting started with AI Concepts, Tools, & Use Cases 
+People
+- Samuel Parri
+
+** Session 3 | 10:50 | Abrar Hashmi      | Empowering Data Governance with Generative AI                                       
+People
+
+** Session 4 | 11:20 | George Churchwell | Beyond the Hype: Navigating the Realities of Enterprise AI Adoption                 
+People
+
+** Session 5 | 12:25 | Chris Knotts      | Applied Generative AI for Project Management                                        
+People
+
+** Session 6 |  1:15 | Marc Balcer       | Inverting TDD - AI-Generated Tests as Specifications                                
+People
 
 
+** Session 7 |  2:00 | Om Hashmi         | Bridging Innovation and Execution: The TPM's Role in Gen AI Projects                
+People
+
+** Session 8 |  2:45 | Jonathan Stephens | Low code, no-code, AI...oh my!                                                      
+People
 
 
-** - Samuel Parri - GenAI for Project Management
+** Session 9 |  3:30 | Taher Jamshidi    | Navigating Generative AI in the Public Sector                                       
+People
 
-
-
-** 11:30 - George Churchwell - Beyond the Hype: Navigating the Realities of Enterprise AI Adoption
+** Session 10 | 4:00 | Michael Schank    | Unleashing Digital Twins to Power Operational Excellence                            
+People
 
 
 * Follow-up
 
 * Agenda
-
-
-
-
-| Begin - End   | Presenter : Session Title                                                                         |
-|---------------+---------------------------------------------------------------------------------------------------|
-| 9:30 - 9:45   | David Mantica and Lara Hill: Welcome                                                              |
-| 9:45 - 10:15  | Loyd Thompson: Creating PowerPoint Presentations with Generative AI                               |
-| 10:15 - 10:45 | Samuel Parri: Gen AI for Project Management: Getting started with AI Concepts, Tools, & Use Cases |
-| 10:45 - 10:50 | Break / Networking / Open Forum                                                                   |
-| 10:50 - 11:20 | Abrar Hashmi: Empowering Data Governance with Generative AI                                       |
-| 11:20 - 12:05 | George Churchwell: Beyond the Hype: Navigating the Realities of Enterprise AI Adoption            |
-| 12:05 - 12:25 | Lunch Break                                                                                       |
-| 12:25 - 1:15  | Chris Knotts: Applied Generative AI for Project Management                                        |
-| 1:15 - 1:55   | Marc Balcer: Inverting TDD - AI-Generated Tests as Specifications                                 |
-| 1:55 - 2:00   | Break / Networking / Open Forum                                                                   |
-| 2:00 - 2:45   | Om Hashmi: Bridging Innovation and Execution: The TPM's Role in Gen AI Projects                   |
-| 2:45 - 3:15   | Jonathan Stephens: Low code, no-code, AI...oh my!                                                 |
-| 3:15 - 3:30   | Break / Networking / Open Forum                                                                   |
-| 3:30 - 4:00   | Taher Jamshidi: Navigating Generative AI in the Public Sector                                     |
-| 4:00 - 4:50   | Michael Schank: Unleashing Digital Twins to Power Operational Excellence                          |
-| 4:50 - 5:00   | David Mantica and Lara Hill: Q&A Session                                                          |
-
