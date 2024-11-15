@@ -1,3 +1,5 @@
+#! /usr/bin/env uv
+
 import sys
 import re
 
@@ -53,5 +55,4 @@ def process_chat_messages(input_stream, output_stream):
 
 
 if __name__ == "__main__":
-    # Read from stdin and write to stdout
     process_chat_messages(sys.stdin, sys.stdout)

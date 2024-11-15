@@ -1,38 +1,3 @@
-** Table
-
-|----------------------+---------------------------------------------------------------------|
-| Name                 | LinkedIn URL                                                        |
-|----------------------+---------------------------------------------------------------------|
-| Angelia Davis        | https://LinkedIn.com/in/angelia-davis/                              |
-| Cesar Partida        | https://LinkedIn.com/in/cesar-partida-pmbilingualprojectmanagement/ |
-| Craig Oliver         | https://LinkedIn.com/in/craigpoliver/                               |
-| Cris Casey           | https://LinkedIn.com/in/criscasey/                                  |
-| George Churchwell    | https://LinkedIn.com/in/georgechurchwell-6a6a/                      |
-| Gil Pizano           | https://LinkedIn.com/in/gilpizano                                   |
-| Janet Perez          | https://LinkedIn.com/in/janetperez4/                                |
-| Jeff Justiz          | https://LinkedIn.com/in/jjustiz/                                    |
-| Jesse Morgan         | https://LinkedIn.com/in/jesse-g-morgan                              |
-| John Ruppel          | https://LinkedIn.com/in/johnruppel/                                 |
-| Jonathan Mickles     | http://LinkedIn.com/gr8fulbishop                                    |
-| Jonathan Stephens    | https://LinkedIn.com/in/elnatnal                                    |
-| Julia Taylor         | https://LinkedIn.com/in/juliataylorcpc/                             |
-| Kara Flanagan        | https://LinkedIn.com/in/karaflanagan/                               |
-| Krista Roes          | https://LinkedIn.com/in/kristaroes                                  |
-| LaVern Witherspoon   | https://LinkedIn.com/in/lavernowitherspoon                          |
-| Lakievia Johnson     | https://LinkedIn.com/in/lakieviajohnson                             |
-| Laura Brandenburg    | https://LinkedIn.com/in/laurabrandenburg/                           |
-| Michael Wolf         | https://LinkedIn.com/in/MRWolf                                      |
-| Nakoya Solomon       | https://LinkedIn.com/in/nakoya-solomon-63b603a5                     |
-| Robby Boys           | https://LinkedIn.com/in/robby-boys-pmpb7820566/                     |
-| Romona Benson        | https://LinkedIn.com/in/romona-benson                               |
-| Russell Blackburn    | https://LinkedIn.com/in/russ-blackburn-maolpmp-70159812             |
-| Sam Slater           | https://LinkedIn.com/in/samanthaconlynslater/                       |
-| Srinath Kondabathini | https://LinkedIn.com/in/srinath-k-852362a/                          |
-|----------------------+---------------------------------------------------------------------|
-
-
-** Text
-
 00:45:59 Russell Blackburn: www.linkedin.com/in/russ-blackburn-maolpmp- 70159812
 00:46:20 Michael Wolf: EST - Michigan, New York, Florida - Technomad - https://LinkedIn.com/in/MRWolf
 00:47:52 Laura Brandenburg: Happy to connect with you all on LinkedIn: https://www.linkedin.com/in/laurabrandenburg/
