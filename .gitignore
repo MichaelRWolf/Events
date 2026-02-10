@@ -1,0 +1,17 @@
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Finder icon file (must be named exactly "Icon\r")
+Icon?
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# macOS volume files
+.Spotlight-V100
+.Trashes
+.fseventsd
+
