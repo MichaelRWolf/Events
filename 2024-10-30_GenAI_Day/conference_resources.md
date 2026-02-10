@@ -2,10 +2,6 @@
 
 See https://us.skillsdg.com/generative-ai-day-4-the-recordings-resources
 
-
-
-
-
 ## Scraped Contents
 
 GenAI Day 4:

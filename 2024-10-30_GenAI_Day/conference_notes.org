@@ -1,20 +1,42 @@
 * People
+** Speakers
 
-|----------------------+---------------------------------------------------------------------|
-| Name                 | LinkedIn URL                                                        |
+|-------------------+----------------------------------------------------+---------|
+|                   |                                                    | Session |
+|-------------------+----------------------------------------------------+---------|
+| Loyd Thompson     | https://www.linkedin.com/in/loyd-thompson-289360a/ |       1 |
+| Samuel Parri      | https://www.linkedin.com/in/samuel-parri/          |       2 |
+| Abrar Hashmi      | https://www.linkedin.com/in/abrarhashmi/           |       3 |
+| George Churchwell | https://LinkedIn.com/in/georgechurchwell-6a6a/     |       4 |
+| Chris Knotts      | https://www.linkedin.com/in/chris-knotts/          |       5 |
+| Marc Balcer       | https://www.linkedin.com/in/marcbalcer/            |       6 |
+| Om Hashmi         | https://www.linkedin.com/in/omhashmi/              |       7 |
+| Jonathan Stephens | https://LinkedIn.com/in/elnatnal                   |       8 |
+| Taher Jashidi     | https://www.linkedin.com/in/taher-jamshidi/        |       9 |
+| Michael Schank    | https://www.linkedin.com/in/michael-schank/        |      10 |
+|-------------------+----------------------------------------------------+---------|
+
+
+** Businesses
+
+|-------------------------+-----------------------------------------------------|
+| Mt. Tam Innovations     | https://www.linkedin.com/company/mt-tam-innovations |
+| Sills Development Group |                                                     |
+|-------------------------+-----------------------------------------------------|
+
+** Shared their LinkedIn profile
+
 |----------------------+---------------------------------------------------------------------|
 | Angelia Davis        | https://LinkedIn.com/in/angelia-davis/                              |
 | Cesar Partida        | https://LinkedIn.com/in/cesar-partida-pmbilingualprojectmanagement/ |
 | Craig Oliver         | https://LinkedIn.com/in/craigpoliver/                               |
 | Cris Casey           | https://LinkedIn.com/in/criscasey/                                  |
-| George Churchwell    | https://LinkedIn.com/in/georgechurchwell-6a6a/                      |
 | Gil Pizano           | https://LinkedIn.com/in/gilpizano                                   |
 | Janet Perez          | https://LinkedIn.com/in/janetperez4/                                |
 | Jeff Justiz          | https://LinkedIn.com/in/jjustiz/                                    |
 | Jesse Morgan         | https://LinkedIn.com/in/jesse-g-morgan                              |
 | John Ruppel          | https://LinkedIn.com/in/johnruppel/                                 |
 | Jonathan Mickles     | http://LinkedIn.com/gr8fulbishop                                    |
-| Jonathan Stephens    | https://LinkedIn.com/in/elnatnal                                    |
 | Julia Taylor         | https://LinkedIn.com/in/juliataylorcpc/                             |
 | Kara Flanagan        | https://LinkedIn.com/in/karaflanagan/                               |
 | Krista Roes          | https://LinkedIn.com/in/kristaroes                                  |
@@ -29,6 +51,166 @@
 | Sam Slater           | https://LinkedIn.com/in/samanthaconlynslater/                       |
 | Srinath Kondabathini | https://LinkedIn.com/in/srinath-k-852362a/                          |
 |----------------------+---------------------------------------------------------------------|
+
+** Highlights
+
+What stood out about speakers?
+- Loyd Thompson           :: Kinda nerdy.  Did a feature walk through of a tool.
+- Samuel Parri            :: Religious.  Right.  Preachy.  Crucifix on wall.
+- Abrar Hashmi            :: Consultancy co-founder.  AI.  PHL.
+- George Churchwell       :: Folksy.  Fay.  Smiley.  Justoposing fields.  Herndon.  Mt Tam.  Strategy.
+- Chris Knotts            :: Didactic language pattern.  Meta.  Cross-discipline exploration
+- Marc Balcer             :: Models.  AI Generated Tests as Specification.  Worked w/ Martin Fowler
+- Om Hashmi               :: PHL.
+- Jonathan Stephens       :: 
+- Taher Jashidi           :: 
+- Michael Schank          :: 
+
+
+
+** Chat analysis by ChatGPT
+
+https://chatgpt.com/share/673ceb1d-e6f0-8009-b16f-fe2c5a194b63
+
+
+| Person's Name                          | Original comment count | Reaction count |
+|----------------------------------------|------------------------|----------------|
+| David Mantica--Co-host!!!              | 450                    | 47             |
+| Michael Wolf                           | 128                    | 21             |
+| Lara Hill                              | 106                    | 18             |
+| Cris Casey                             | 92                     | 13             |
+| Shelley Morris                         | 81                     | 50             |
+| Nichelle Butler Sankey                 | 64                     | 29             |
+| Jonathan Stephens (he/him)             | 60                     | 28             |
+| Cesar Partida                          | 51                     | 32             |
+| Lakievia Johnson                       | 50                     | 37             |
+| Russ Maynard                           | 45                     | 13             |
+
+
+
+
+| Count | Name                                              |
+|-------+---------------------------------------------------|
+|   450 | David Mantica--Co-host!!!                         |
+|   128 | Michael Wolf                                      |
+|   107 | Lara Hill                                         |
+|   103 | Lakievia "Lucky" Johnson, She/Her - Eastern Time  |
+|    93 | Cris Casey                                        |
+|    81 | Shelley Morris                                    |
+|    64 | Nichelle Butler Sankey                            |
+|    61 | Jonathan Stephens (he/him)                        |
+|    52 | Cesar Partida - Seeking new opportunities!        |
+|    50 | Lakievia Johnson                                  |
+|    45 | Russ Maynard                                      |
+|    40 | Laura Brandenburg                                 |
+|    39 | Fred Laparo                                       |
+|    38 | IIBA Kansas City Chapter - Director Of Technology |
+|    37 | Jonathan Mickles                                  |
+|    34 | Liz huff                                          |
+|    32 | Antonio Cabrera                                   |
+|    25 | Kara Flanagan                                     |
+|    22 | ReShockie Furnace                                 |
+|    22 | John Ruppel                                       |
+|    21 | Leela Sarepalli                                   |
+|    19 | Jennifer Colburn - Portland IIBA                  |
+|    18 | Nakoya Solomon                                    |
+|    17 | Krystal Wilczynski                                |
+|    16 | Gil Pizano                                        |
+|    14 | Rick Bauer                                        |
+|    14 | Neale Mulligan                                    |
+|    14 | Janine Viveiros                                   |
+|    13 | Sheila Mullen                                     |
+|    13 | Russell Blackburn                                 |
+|    13 | George - PMI Emerald Coast Fl                     |
+|    13 | Amanda Craig                                      |
+|    11 | Juli Booze-Jervis                                 |
+|    10 | Sam Slater                                        |
+|    10 | Pablo Lopez                                       |
+|     9 | Sharon King                                       |
+|     9 | Lauren Petty                                      |
+|     9 | Denise Ferry                                      |
+|     8 | Srinath Kondabathini                              |
+|     8 | Skills Development Group                          |
+|     8 | Felicia Joyner                                    |
+|     7 | Shalene DeMarco                                   |
+|     7 | Robby Boys                                        |
+|     7 | Kerry Herron                                      |
+|     7 | George Bridges                                    |
+|     7 | Alison Meler                                      |
+|     6 | Neelu Pandey                                      |
+|     6 | Natallie Archer                                   |
+|     6 | Julia Taylor                                      |
+|     6 | George Churchwell                                 |
+|     6 | Craig Oliver                                      |
+|     5 | javier martin                                     |
+|     5 | Sheldon B                                         |
+|     5 | Romona Benson                                     |
+|     5 | John Coutu                                        |
+|     5 | Ebuka Obiakor                                     |
+|     5 | Angelia Davis                                     |
+|     5 | Ana Duncan                                        |
+|     4 | Tina Jacobs                                       |
+|     4 | Laura Nichols                                     |
+|     4 | Krista Roes                                       |
+|     4 | Alan Lattimore                                    |
+|     3 | Wendy Horton                                      |
+|     3 | Todd Duchaine                                     |
+|     3 | Suba Perumal                                      |
+|     3 | Shannon Moir                                      |
+|     3 | Nitin                                             |
+|     3 | Morgan Meadows Davis                              |
+|     3 | Lawrence Reid                                     |
+|     3 | LaVern Witherspoon - IIBA RTP Marketing           |
+|     3 | Benjamin Akinteye                                 |
+|     2 | Tina Ewing-VP Education, IIBA RTP                 |
+|     2 | Tim Roby                                          |
+|     2 | Samuel Parri                                      |
+|     2 | Robert Phillips                                   |
+|     2 | Robert Parsons                                    |
+|     2 | Richard Lee                                       |
+|     2 | Raissa Bernabe                                    |
+|     2 | Om Hashmi                                         |
+|     2 | Nael Salameh                                      |
+|     2 | Melanie Margolati                                 |
+|     2 | Marie McGovern                                    |
+|     2 | Marc Balcer                                       |
+|     2 | Loyd Thompson                                     |
+|     2 | LaVern Witherspoon                                |
+|     2 | Jesse Morgan                                      |
+|     2 | Janet Perez                                       |
+|     2 | Gabe Vaught                                       |
+|     2 | Debbie DeFoa                                      |
+|     2 | Chris Knotts                                      |
+|     2 | Chitra Maridi                                     |
+|     2 | Brandon Peedin                                    |
+|     2 | Bethany Hanson                                    |
+|     2 | Anna Toloeva                                      |
+|     2 | Amy Lake                                          |
+|     2 | Adele Rivers                                      |
+|     1 | jeff Fisher                                       |
+|     1 | Syed Ammar Raza                                   |
+|     1 | Nana Arhin                                        |
+|     1 | Monica Martinson                                  |
+|     1 | Lonnie Buresh                                     |
+|     1 | Linda Stroeber                                    |
+|     1 | L. Conrad Bush                                    |
+|     1 | Kelly Lane                                        |
+|     1 | Julie Fischer                                     |
+|     1 | Jessica Johnson                                   |
+|     1 | Jeff Justiz                                       |
+|     1 | Imtiaz                                            |
+|     1 | Faisal Feroze                                     |
+|     1 | FLORENCE-MARIE TCHOULACK                          |
+|     1 | Drew Hacker                                       |
+|     1 | Dennis Schneiderman                               |
+|     1 | Colleen Cristarella                               |
+|     1 | Christine Lauer                                   |
+|     1 | Bryon Cherry                                      |
+|     1 | Anntionette Crouch                                |
+
+
+*** Summary of posts
+
 
 * Sessions
 
@@ -78,7 +260,18 @@ People
 People
 
 ** Session 4 | 11:20 | George Churchwell | Beyond the Hype: Navigating the Realities of Enterprise AI Adoption                 
+ 
+https://www.youtube.com/watch?v=lYo8wo9tnnU&feature=youtu.be&themeRefresh=1
+
+
 People
+- George Churchwell - practical overview of state of AI.  Insights on training.
+
+Ideas
+- 
+
+
+
 
 ** Session 5 | 12:25 | Chris Knotts      | Applied Generative AI for Project Management                                        
 People
@@ -103,4 +296,165 @@ People
 
 * Follow-up
 
-* Agenda
+** LinkedIn
+
+*** speakers
+
+Thank you so much for presenting at GenAI day last month.  Your material opened up possibilities (beyond my use in programming) and will help my active job search.
+
+Let's connect on LinkedIn.  And... over a virtual coffee if you'd like to share ideas.
+
+Best, 
+Michael
+
+**** To Do
+
+
+**** New Connection Request
+| Loyd Thompson     | https://www.linkedin.com/in/loyd-thompson-289360a/ |  1 |
+| Samuel Parri      | https://www.linkedin.com/in/samuel-parri/          |  2 |
+| Abrar Hashmi      | https://www.linkedin.com/in/abrarhashmi/           |  3 |
+| George Churchwell | https://LinkedIn.com/in/georgechurchwell-6a6a/     |  4 |
+| Om Hashmi         | https://www.linkedin.com/in/omhashmi/              |  7 |
+| Jonathan Stephens | https://LinkedIn.com/in/elnatnal                   |  8 |
+| Taher Jashidi     | https://www.linkedin.com/in/taher-jamshidi/        |  9 |
+| Michael Schank    | https://www.linkedin.com/in/michael-schank/        | 10 |
+
+
+**** Message to existing Connection
+| Chris Knotts | https://www.linkedin.com/in/chris-knotts/ | 5 |
+| Marc Balcer  | https://www.linkedin.com/in/marcbalcer/   | 6 |
+
+**** Follow-up to accepted connection request
+
+TODO
+- [ ] Abrar Hashmi - Consulting opportunities.
+- [ ] George Churchwell - Fingers in pies.
+- [X] Chris Knotts - Cross-discipline consulting/training.
+- [X] Marc Balcer - TDD-enabled thinking
+- [ ] Michael Schank - "Digital Transformation Success".  Playful humility.
+
+ 
+*** they connected to me
+
+I hope that you enjoyed GenAI day last month.  Honing AI skills will be helpful as I search for new roles that build on my/real/human intelligence from previous roles (developer, trainer, coach, consultant).  
+
+My biggest use has been as a trusted team member for software team ensembles.   How have you used it?  
+
+I'd welcome a zoom call if you'd like to trade insights.
+
+Best,
+Michael
+
+Accepted their LinkedIn connection
+- Russel Maynard :: construction and law firms
+- Todd Duchaine :: training for SoftEd
+- Krista Rose :: data munging at Predicive Data Lab
+- Benjamin Akinteye :: post-Agile.  Training (college).
+- Julia Taylor :: CIA Fact Book
+- Neelu Pandey :: template unchanged
+- Lauren Brandenburg :: skipped
+- Nana Arhin :: template unchanged
+  
+
+
+*** I connect to them
+
+I was inspired by last month's GenAI day.  You?
+
+Until now, I've used it extensively in mob programming.  I expect to use it in my (active) job search.
+
+Let's connect on LinkedIn.  And... over a virtual coffee if you'd like trade insights for technical and business uses.
+
+Best,
+Michael
+
+
+* Correspondences
+
+** George Churchwell
+
+*** ChatGPT suggestion #1
+
+```text
+
+Hi George,
+
+Your session on aligning AI with organizational goals was incredibly inspiring. I was especially struck by your strategic focus on bridging technical innovation with measurable ROI—a challenge I’ve often encountered in emerging fields where clear metrics haven’t yet evolved.
+
+Much of my career has been dedicated to helping teams and organizations turn big ideas into tangible outcomes. Whether it’s fostering collaboration, training teams, or building frameworks for adopting new technologies, I’ve always focused on implementation—ensuring that visions like yours come to life in ways that deliver real value.
+
+I’d love to explore how our complementary skills could align toward this shared vision. Would you be open to a quick conversation? Or, if there’s someone in your network who might benefit from my perspective, I’d greatly appreciate a connection.
+
+Looking forward to hearing from you!
+
+Best,
+Michael
+
+```
+
+*** ChatGPT suggestion #2
+
+Thank you for the kind response earlier—I'd love to explore "The Real State of AI for Business" with you.
+
+One aspect of your talk that really struck me was your focus on aligning AI with measurable ROI and organizational goals. It’s a challenge I’ve encountered often in my work, especially in industries where clear metrics and frameworks are still emerging.
+
+Where your strategic insights lay the groundwork for visionary possibilities, my strengths are in implementation—helping teams and organizations turn those ideas into actionable, scalable outcomes. I’d love to chat about how our complementary perspectives might overlap or even support your efforts.
+
+Let me know when a virtual coffee works for you—I’m excited to learn more!
+
+Best regards,
+Michael
+
+
+
+**
+
+
+
+* Generate OPA Table
+
+** Goal Definition and Task Breakdown
+
+```mark-down
+### Goal Definition and Task Breakdown for Generating the OPA Table
+
+#### Goal Definition
+To identify actionable opportunities from GenAI Day session transcripts, align them with your skills, values, and interests, and create a structured **Opportunity, Practice, Advantage (OPA)** table. This will help you target conversations and potential roles that match your strengths and aspirations.
+
+---
+
+#### Task Breakdown
+
+**Step 1: Extract Opportunities**
+- Review the session transcripts for speakers (e.g., George Churchwell, Samuel Parri, Michael Schank, etc.).
+- Identify specific challenges, gaps, or needs mentioned by each speaker.
+- Focus on opportunities requiring technical, communication, and exploratory skills relevant to your background.
+
+**Step 2: Align Opportunities with Your Skills**
+- Match the identified opportunities with your:
+  - **Skills**: Training, coaching, technical implementation, Agile facilitation, and collaboration.
+  - **Values**: Fostering learning cultures, delivering measurable value, and promoting team alignment.
+  - **Interests**: Exploring GenAI, improving team dynamics, and developing innovative solutions.
+
+**Step 3: Populate the OPA Table**
+- For each speaker and opportunity:
+  - **Opportunity**: Describe the gap, challenge, or need identified in the session.
+  - **Practice**: Highlight the skills, methods, or tools you bring to address the opportunity.
+  - **Advantage**: Explain the benefits your involvement could deliver, both for the organization and the broader vision.
+
+**Step 4: Present the OPA Table**
+- Display the table with columns:
+  - **Speaker**
+  - **Opportunity**
+  - **Practice**
+  - **Advantage**
+
+**Step 5: Select Promising Entries**
+- You will review the OPA table and select the most relevant opportunities that align with your goals.
+
+**Step 6: Craft Tailored LinkedIn Messages**
+- Create short, compelling LinkedIn messages for the selected opportunities.
+- Highlight your complementary skills and alignment with the speaker’s vision.
+
+```

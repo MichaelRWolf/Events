@@ -1,17 +1,20 @@
-#! /usr/bin/env uv
+#! /usr/bin/env uv run
+"""Join multi-line chat messages into single"""
 
 import sys
 import re
 
+
 def does_start_with_timestamp(line):
     """
-    Checks if the line starts with a sequence of non-space characters that can be parsed as a timestamp.
+    Check if the line starts with a timestamp.
 
     Parameters:
         line (str): The line to check.
 
     Returns:
         bool: True if the line starts with a timestamp, False otherwise.
+
     """
     # Extract the sequence of non-space characters at the beginning of the line
     match = re.match(r"^\S+", line)
@@ -22,9 +25,10 @@ def does_start_with_timestamp(line):
             return True
     return False
 
+
 def process_chat_messages(input_stream, output_stream):
     """
-    Processes multi-line chat messages to join them into single-line entries.
+    Processmulti-line chat messages to join them into single-line entries.
 
     Parameters:
         input_stream: The input stream to read the chat messages from.
