@@ -1,0 +1,11 @@
+Spring Name,Address,Plus Code,Miles from New Orleans LA,Miles from Crystal River FL,Magnitude,Flow Rate (Mgal/day),Rollover Text
+Crystal River,"123 NW US Highway 19, Crystal River, FL 34428","9C6H+3X Crystal River, FL",300,0,First,300,"300 MG/day (Magnitude 1), 300 miles from NOLA"
+Wakulla Spring,"465 Wakulla Park Dr, Wakulla Springs, FL 32327","7C6X+3X Wakulla Springs, FL",285,15,First,253,"253 MG/day (Magnitude 1), 285 miles from NOLA"
+Rainbow Springs,"19158 SW 81st Pl Rd, Dunnellon, FL 34432","9C8H+3Q Dunnellon, FL",240,60,First,233,"233 MG/day (Magnitude 1), 240 miles from NOLA"
+Jackson Blue Spring,"5461 Blue Springs Rd, Marianna, FL 32446","8F5H+3X Marianna, FL",175,125,First,173,"173 MG/day (Magnitude 1), 175 miles from NOLA"
+Madison Blue Spring,"8300 NE State Road 6, Lee, FL 32059","3H9V+FQ Lee, FL",190,110,First,168,"168 MG/day (Magnitude 1), 190 miles from NOLA"
+Morrison Springs,"874 Morrison Springs Rd, Ponce de Leon, FL 32455","M34W+MQ Ponce de Leon, FL",160,140,Second,48,"48 MG/day (Magnitude 2), 160 miles from NOLA"
+Pitt and Sylvan Springs,"4825 State Park Rd, Vernon, FL 32462","3JX8+5H Vernon, FL",155,145,Second,40,"40 MG/day (Magnitude 2), 155 miles from NOLA"
+Ponce de Leon Springs,"2860 State Park Rd, Ponce de Leon, FL 32455","9C7H+3X Ponce de Leon, FL",175,125,Second,14,"14 MG/day (Magnitude 2), 175 miles from NOLA"
+Vortex Spring,"1517 Vortex Springs Ln, Ponce de Leon, FL 32455","9C7H+3X Ponce de Leon, FL",220,140,Second,25,"25 MG/day (Magnitude 2), 220 miles from NOLA"
+Cypress Spring,"Vernon, FL 32462","3JX8+5H Vernon, FL",215,145,Second,65,"65 MG/day (Magnitude 2), 215 miles from NOLA"
