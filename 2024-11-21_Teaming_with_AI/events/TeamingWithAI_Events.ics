@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:These open online events provide a relaxed forum for informal discussions on various topics related to AI and teamwork. Participants can share experiences\, discuss challenges\, and explore new ideas in AI-enabled teamwork.
+DTEND:20241201T235959Z
+DTSTART:20241201T000000Z
+SUMMARY:Backstage Monthly Meetups
+UID:8779a343-60cd-4be9-a6dc-ae7045e4ee82@8779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:These 30-minute sessions cover topics related to 'Teaming with AI\,' including introductions to key insights from the whitepaper\, interviews with community members and experts\, and discussions on specific topics or case studies.
+DTEND:20241215T235959Z
+DTSTART:20241215T000000Z
+SUMMARY:LinkedIn Live Sessions
+UID:5d73f415-bf2d-41bb-80cf-fa80ad32331b@5d73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This conference focuses on new developments and expert perspectives in AI-enabled teamwork\, delving into emerging topics and challenges in the field.
+DTEND:20241123T235959Z
+DTSTART:20241121T000000Z
+SUMMARY:Winter Unconference (Global)
+UID:9b79d656-6882-4a60-b176-f7da15380a6b@9b79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This unconference-style event focuses on presenting and critically examining the latest Teaming with AI whitepaper. Participants will discuss new questions\, identify next steps\, and collaboratively shape the future direction of AI-enabled teamwork research and practice. Registration starts in January 2025.
+DTEND:20250531T235959Z
+DTSTART:20250401T000000Z
+SUMMARY:Spring Unconference
+UID:c051f2cd-0f5b-43b6-8adf-4f88774ea697@c051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Part of a larger AI-focused festival\, this event aims to situate Teaming with AI within the broader AI landscape. It offers curated\, in-depth sessions and opportunities for attendee contributions\, fostering cross-pollination of ideas and expanding the community's scope. Registration starts in April 2025.
+DTEND:20250731T235959Z
+DTSTART:20250701T000000Z
+SUMMARY:AI Camp @ nue.digital Festival
+UID:e48c9b62-c703-46d3-a64c-d7002e8a0b07@e48c.org
+END:VEVENT
+END:VCALENDAR

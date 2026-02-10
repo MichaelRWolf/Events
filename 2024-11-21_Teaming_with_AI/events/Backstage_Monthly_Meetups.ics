@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:These open online events provide a relaxed forum for informal discussions on various topics related to AI and teamwork. Participants can share experiences\, discuss challenges\, and explore new ideas in AI-enabled teamwork.
+DTEND:20241201T235959Z
+DTSTART:20241201T000000Z
+SUMMARY:Backstage Monthly Meetups
+UID:5770704c-f8db-4d16-97ad-46b1a9660a75@5770.org
+END:VEVENT
+END:VCALENDAR

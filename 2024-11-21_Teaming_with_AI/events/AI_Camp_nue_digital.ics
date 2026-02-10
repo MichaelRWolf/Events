@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Part of a larger AI-focused festival\, this event aims to situate Teaming with AI within the broader AI landscape. It offers curated\, in-depth sessions and opportunities for attendee contributions\, fostering cross-pollination of ideas and expanding the community's scope. Registration starts in April 2025.
+DTEND:20250731T235959Z
+DTSTART:20250701T000000Z
+SUMMARY:AI Camp @ nue.digital Festival
+UID:93d9bf53-ac9d-4738-a933-338471b5c0b9@93d9.org
+END:VEVENT
+END:VCALENDAR

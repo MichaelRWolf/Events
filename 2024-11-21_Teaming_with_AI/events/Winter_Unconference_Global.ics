@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:This conference focuses on new developments and expert perspectives in AI-enabled teamwork\, delving into emerging topics and challenges in the field.
+DTEND:20241123T235959Z
+DTSTART:20241121T000000Z
+SUMMARY:Winter Unconference (Global)
+UID:23f0fb52-038b-44b2-b907-321cb2841ba6@23f0.org
+END:VEVENT
+END:VCALENDAR
