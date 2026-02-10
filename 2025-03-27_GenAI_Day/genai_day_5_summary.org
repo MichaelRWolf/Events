@@ -1,0 +1,438 @@
+# GenAI Day 5 — Event Summary
+March 27, 2025
+
+## Event Theme
+**From Policy to Practice – Building AI-Enabled Enterprises**
+
+---
+
+## 📅 Agenda
+
+| Session | Presenter         | Title                                                            |
+|---------+-------------------+------------------------------------------------------------------|
+|       1 | Chris Knotts      | AI Adoption in Real Organizations                                |
+|       2 | Laura Mahalel     | Meet Your Power Tool for Personalized Learning with GenAI Agents |
+|       3 | Julio Fernandez   | From Zero to Generative Pre-trained Transformer                  |
+|       4 | Dr. Kenya Oduor   | Human-AI Interaction: AI as a Teammate, Not Just a Tool          |
+|       5 | Dr. Mark Lane     | AI With Ambition: Why Agentic Systems Are Business Critical      |
+|       6 | Jessica Katz      | Agile Programming With AI Agents                                 |
+|       7 | Lara Hill         | How AI Tools Can Accelerate Personalized Learning                |
+|       8 | George Churchwell | Bridging Business Goals and Technical Feasibility with GenAI     |
+|       9 | Marc Balcer       | Building the AI-Enabled Enterprise: Strategy, Culture, Execution |
+|      10 | Andy Cooper       | From Policy to Practice: Enabling GenAI at Scale                 |
+|      11 | Zaki Medina       | Prompt Engineering and the Future of Knowledge Work              |
+
+---
+
+## 👥 Contacts
+
+| Name              | Company                  | LinkedIn Profile                                    |
+|-------------------+--------------------------+-----------------------------------------------------|
+| Dana Dorroh       | One Source of NC         | https://www.linkedin.com/in/onesourcenc/            |
+| Julio Fernandez   | Skills Development Group | https://www.linkedin.com/in/socialjulio/            |
+| Lara Hill         | Skills Development Group | https://www.linkedin.com/in/larahill/               |
+| Marc Balcer       | Skills Development Group | https://www.linkedin.com/in/marcbalcer/             |
+| Mark Lane         | Skills Development Group | https://www.linkedin.com/in/mark-lane-phd/          |
+| Andy Cooper       | Skills Development Group | https://www.linkedin.com/in/andy766cooper/          |
+| George Churchwell | Mt Tam Innovations       | https://www.linkedin.com/in/george-churchwell-6a6a/ |
+| Chris Knotts      | Skills Development Group | https://www.linkedin.com/in/chris-knotts/           |
+| Laura Mahalel     |                          | https://www.linkedin.com/in/lauracanemahalel/       |
+| Kenya Oduor       |                          | https://www.linkedin.com/in/kenyaoduor/             |
+| Jessica Katz      |                          | https://www.linkedin.com/in/jessica-katz/           |
+| Zaki Medina       |                          | https://www.linkedin.com/in/zakimedina/             |
+
+---
+
+## 🏢 Companies
+
+| Company Name             | Website              | LinkedIn Profile                                           |
+|--------------------------+----------------------+------------------------------------------------------------|
+| Skills Development Group | https://skillsdg.com | https://www.linkedin.com/company/skills-development-group/ |
+| Mt Tam Innovations       |                      |                                                            |
+| One Source of NC         |                      |                                                            |
+
+---
+
+## 🗒️ Notes
+
+### Raw Notes File (`notes.org`)
+```
+* People
+
+<2025-03-27 Thu> 
+
+
+Dana Dorroh
+LinkedIn: https://www.linkedin.com/in/onesourcenc/
+Company: One Source of NC
+
+Julio Fernandez
+LinkedIn: https://www.linkedin.com/in/socialjulio/
+
+Lara Hill
+LinkedIn: https://www.linkedin.com/in/larahill/
+
+Marc Balcer
+LinkedIn: https://www.linkedin.com/in/marcbalcer/
+
+Mark Lane
+LinkedIn: https://www.linkedin.com/in/mark-lane-phd/
+
+Andy Cooper
+LinkedIn: https://www.linkedin.com/in/andy766cooper/
+
+
+George Churchwell
+LinkedIn: https://www.linkedin.com/in/george-churchwell-6a6a/
+Company: Mt Tam Innovations
+
+* Companies
+
+Skills Development Group - https://www.linkedin.com/company/skills-development-group/
+
+
+* Links
+
+https://skills-group-org.zoom.us/w/89164598453?tk=Mzqvr9C88qkhkgMN9qtI6G74YD9hZT95-_2GoNXf6s8.DQcAAAAUwp_MtRZfRWpvendNMVNPeU5QNURlMTRWYjF3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=nS5bTa0h38ziwxA9I7RvY3TszrqNAg.1
+
+https://skillsdg.com/us/learning-hub/webinars/go-beyond-chat-gpt-with-ai-agents-sell-more-market-smarter-and-support-better
+
+https://www.icloud.com/notes/note/UHJpdmF0ZTo6Tm90ZXM6OmN1cnJlbnRVc2VyOjozQ0I5NDlBQi1BNzQ3LTRBOUItQTFEOS0xQ0NBOTY0M0Y3MTY=
+
+https://skills-group-org.zoom.us/w/89164598453?tk=Mzqvr9C88qkhkgMN9qtI6G74YD9hZT95-_2GoNXf6s8.DQcAAAAUwp_MtRZfRWpvendNMVNPeU5QNURlMTRWYjF3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=nS5bTa0h38ziwxA9I7RvY3TszrqNAg.1
+
+
+
+
+* Sessions
+
+** Session 1 - 9:30 - Chris Knott
+https://www.linkedin.com/in/chris-knotts/
+Skills Development Group
+Raleigh NC
+
+
+Quote: "Amazing how fast the wallets will open".
+
+** Session 2 - 10:00 - Laura Mahalel 
+https://www.linkedin.com/in/LauraCaneMahalel/
+Company: #OpenToWork
+
+
+Say: Ma Ha Lel
+
+Technical Educator in FinTech.  NYC.  Jersey City.
+
+Was laid off about a year ago.  May connect on state of training for future.
+
+** Session 3 - Julio Fernandez
+LinkedIn: https://LinkedIn.com/in/socialJulio 
+Company: Cisco
+email: julio@socialJulio.com
+Location: St George UT
+
+
+Very open to networking.  Very open personality.  Great top-10 list.
+
+** Session 4 - Kenya Oduor
+Company: Mt Tam Innovation
+Locaiton: Raleigh-Durham-Chapel Hill NC
+LinkedIn: https://www.linkedin.com/in/kenyaoduor/
+
+Was open and facilitating in her session.
+
+Video.  LinkedIn contacts.  High EQ.
+
+See: Lean Geeks
+    See: Dana Dorroh, One Source of NC
+    https://www.linkedin.com/in/onesourcenc/    
+
+
+
+*** LinkedIn posting
+
+https://www.linkedin.com/posts/kenyaoduor_usercentereddesign-humancentereddesign-customerexperience-activity-7285670920180883457-8a78?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAADxzIBUUakc3o7MptwunFkY9GeiKZrIN8
+
+
+```text Hear! Hear! I, too, got trapped in Dropbox's "information
+hiding upsell". If they were (malevolently) thinking "Hah! Once they
+get here, ther's no way out", they were deceived. I am out. It wasn't
+an up-sell, it was an out-sell.
+
+Because I have a passion for #UX (User eXperience), and a sense that I
+am a partner with the teams that develop the tools I use, my first
+instinct was to share my experience and suggest an improvement.
+```
+
+
+
+
+
+
+Having a passion for #UX (User eXperience) and a desire to become a partner with the teams that develop tools I use.
+
+
+, I almost wrote them a suggestion that they improve their flow, but then I realized that the flow wasn't (mere excusable) ignorance (of my experience), but worse... it was (unexcusable) malevolence by limiting my freedom to choose my experience.
+
+
+
+Aside -- I see that your profile highlights NN/g 
+
+
+
+P.S.  I see that you've highlighted NN/g.  Nice!  I've followed them for decades now.  And... just to counter-balance your bad Dropbox experience, I'd like to point out the well-done experience of reading their newsletter.  I have always had the feeling that they valued what's most important to me -- my time and focus -- by providing multiple levels of engagement for me that _I_ can choose.  Yes, NN/g "signposts" the various ways I can engage their content (versus Dropbox giving us only 1 choice -- their choice).
+
+
+
+For example, when I receive their newsletter, depending on my day, I can invest:
+
+ 3 seconds by reading the well-distilled Subject to get an industry buzz alert
+
+20 seconds by reading the (again, well-distilled) 3 sentence summary that is well placed at the top of the article
+
+more time -- and they estimate that UP FRONT for me -- to read the whole article
+
+
+
+Their newsletters are always wonderful, but I don't always have the time to read them, so it's great that they give me "signposts" so that I can direct my most important resources -- time and focus -- at a level that _I_ choose (with their support).
+
+** Session 5 - Dr Mark Lane
+Company: Cisco
+Location: Tampa FL
+LinkedIn: https://www.linkedin.com/in/mark-lane-phd/
+
+** Session - 1:00 - Zaki Medina
+
+LinkedIn: https://www.linkedin.com/in/zakimedina/
+
+<2025-05-21 Wed> Course -- https://skillsdg.com/us/learning-hub/webinars/go-beyond-chat-gpt-with-ai-agents-sell-more-market-smarter-and-support-better
+
+
+
+** Session - Jessica Katz
+LinkedIn: https://www.linkedin.com/in/jeskatz/
+Company: #OpenToWork
+Company: PolyLabor
+
+** Session - 2:00 - Omer Hashmi
+
+** Session - George Churchwell
+https://www.linkedin.com/in/george-churchwell-6a6a/
+
+
+** 4:00 Session - Andy Cooper
+Skils Development Group
+Wellington New Zealand
+https://www.linkedin.com/in/andy766cooper/
+
+Story about running out of tokens while exploring a problem with an ELT member
+Q: What does this mean?
+A: You are now a power user.
+
+Story about 90-minute AI challenge.
+Andy - "You're Fired"
+Me - There is not credible eviddence that anyone ever learned anything helpful on "The Apprentice".
+```
+
+---
+
+### Full Agenda Source (`agenda.org`)
+```
+** Announcement
+5th GenAI Day:
+From Policy to Practice - Building AI-Enabled Enterprises
+Hero Banner
+Is your organization ready to move beyond AI experimentation to true enterprise enablement? 
+Join industry leaders and practitioners for a full day of practical insights on building AI-enabled enterprises that scale.
+ 
+Collaboration is Key.
+Learn how leading organizations are moving from restrictive policies to enabling frameworks, integrating AI across their technology stack, and transforming their culture to thrive in the age of AI. Get actionable strategies for implementation, governance, and risk management that you can put to work immediately.
+
+Why Attend?
+
+Get practical frameworks for enterprise AI implementation
+Learn from real-world case studies and implementation stories
+Network with peers tackling similar challenges
+Earn 7 PDUs/CDUs while gaining valuable insights
+Get access to presentation materials and event recordings
+Whether you're just starting your enterprise AI journey or looking to scale your existing initiatives, this event will give you the strategies and tools you need to succeed.
+
+Included with your $59 ticket purchase:
+
+Access recordings of all sessions (over 7 hours)
+Presentation slides in .pdf format
+Chat transcript
+AI tools resource guide
+25% off any Skills Development Group AI course through June 2025
+istock_portrait_team
+Purchase for $59
+
+** Sessions
+*** Chris Knotts: “AI Adoption in Real Organizations”
+
+Will they let us use it?
+Will I let them use it?
+How do big orgs roll out AI compliantly?
+What does use policy look like?
+What's the business strategy for AI?
+Are there AI frameworks I can use?
+How do I scale safely and what are the common roadblocks?
+These are just a few of the questions I've been thinking a lot about lately, and a lot of our customers have too. In this session I'll go over the answers we are finding to deal with some of them.
+
+During my time I'll focus on two things: first, what adoption looks like out there in the world right now, but also how to guide your own org's adoption. These are fascinating management questions and the answers, though often not easy, are out there. 
+
+Without adoption, there's no value. This is especially true with AI. Of course, if we're going to get out past the shallows of early adoption and really see enterprise value at scale, there are a lot of strategic considerations. Clarifying and prioritizing your strategic considerations are the keys to creating a useful adoption plan, and that's how we'll frame this presentation. I'm so happy to be speaking at our fifth GenAI day, and I'll see you there.
+
+*** Laura Mahalel: “Meet Your Power Tool for Personalized Learning & Productivity”
+
+AI is like an e-bike for the mind—helping you go farther, faster. But how do you make it work for your specific needs? In this session, we’ll cut through the hype and show you how to personalize AI as your on-demand tutor, workflow optimizer, and strategic research assistant. Walk away with real-world applications for making AI your most valuable tool in project management and business analysis—boosting both learning and productivity instantly.
+
+ 
+*** Julio Fernandez: “From Zero to Generative Pre-trained Transformers (GPT) in Five Steps”
+
+Generate your own GPT — no technical background required!
+
+Discover five simple steps to create a GPT you can start using today: identify a problem, gather relevant data, set up the GPT model, craft powerful prompts, and test for reliable results. You’ll learn how to leverage OpenAI’s Generative Pre-trained Transformers to streamline workflows, minimize repetitive tasks, and make better decisions in any industry. You’ll also understand how GPTs can simplify everyday life.
+
+ 
+*** Dr. Kenya Oduor: "Human-AI Interaction: AI as a Teammate, Not Just a Tool"
+ 
+As AI becomes increasingly embedded in decision-making processes, its effectiveness hinges on how well it understands and collaborates with human users. This talk explores a human factors approach to evaluating AI’s utility and feasibility, emphasizing its role as a partner rather than a passive tool. We will examine how AI can engage in meaningful dialogue with users, support decision-making through transparency and adaptability, and enhance human performance rather than replace it. Attendees will gain insights into designing AI systems that foster trust, usability, and effective collaboration.
+
+ 
+*** Dr. Mark Lane: "AI With Ambition: Why Agentic Systems Are Business's Next Competitive Battleground"
+
+While most organizations are still experimenting with basic AI tools, industry leaders are quietly deploying something far more powerful: autonomous AI agents that think, plan, and solve complex problems with minimal supervision. Dr. Mark Lane, at the forefront of this transformation, reveals why agentic AI represents such a dramatic competitive advantage and how it's reshaping entire business models. This session demystifies the technology for non-technical listeners while providing substantive insights for AI practitioners. Dr. Lane addresses the practical implementation challenges, ethical considerations that keep executives awake at night, and what businesses must do now to avoid falling behind in this next wave of digital transformation.
+
+ 
+
+*** Zaki Medina: “Go Beyond ChatGPT with AI Agents: Sell More, Market Smarter, & Support Better”
+
+AI is evolving beyond ChatGPT and simple chatbots—AI agents can now autonomously prospect leads, craft marketing campaigns, and handle customer support like never before. But how can you harness them for your business?
+
+We'll explore...
+
+What AI Agents Are & How They Work
+Real-World AI Use Cases in Sales, Marketing & Customer Success
+Actionable Insights from Real-world AI Agents
+Discover how AI agents can boost revenue, automate workflows, and create seamless customer experiences. Whether you're in sales, marketing, or customer success, this session will provide practical takeaways to help you get ahead.
+
+ 
+
+*** Jessica Katz: Beyond the Hype: What GenAI Can’t Do (and How That Helps You Shine!)
+
+GenAI is transforming the way we work, but it has limits—and that’s a good thing! While AI can automate, summarize, and generate content, it still lacks the human creativity, judgment, and strategic thinking that make you invaluable. This session explores what GenAI can’t do and how those gaps present an opportunity to amplify your unique skills. Learn how to use AI as a tool to refine your expertise, communicate your value, and showcase what makes you irreplaceable.
+
+ 
+
+*** Omer Hashmi: “TPMs as AI-Value Catalysts – Bridging Business Goals with Technical Feasibility”
+
+Technical Program Managers (TPMs) play a pivotal role in ensuring that Gen AI programs drive real business value, not just technical innovation. To do this, TPMs must bridge the gap between business objectives and AI model feasibility, translating strategic goals into high-impact AI use cases while ensuring the underlying technology can deliver scalable, reliable solutions. This requires a deep understanding of AI model architectures, data pipeline constraints, and enterprise scalability challenges. TPMs must assess feasibility early—evaluating whether fine-tuning large language models, implementing retrieval-augmented generation (RAG), or leveraging API-based AI solutions best align with business needs. By proactively identifying risks, optimizing AI workflows, and driving cross-functional collaboration, TPMs ensure that AI initiatives move beyond proof-of-concept to enterprise-wide adoption, delivering measurable impact in efficiency, cost savings, and customer experience.
+
+ 
+
+*** George Churchwell: “AI Training Development- What you did not know”
+
+How to harness AI-powered tools and GPTs can slash content creation costs by 60-80% without sacrificing quality. I’ll show you exactly how to get consistent, scalable results using cutting-edge tools like ChatGPT Marketplace, Gemini Deep Research, NotebookLLM, and Gamma AI. We'll also discuss how to overcome common AI pitfalls. Whether you're building training programs, Sales Enablement or scaling content production, this session will give you the AI competitive edge you need.
+
+ 
+
+Marc Balcer: "Generative AI in Agile Programming: From Automation to Collaboration"
+
+Over the last few Generative AI Days, we’ve seen how AI can augment our work as business analysts and software testers. Of course, there’s the elephant in the room—if AI can just write code, do we need analysts, testers, or even programmers? Yes, we still need them—but as editors with lots of content, not just writers staring at blank pages.
+
+After experiencing the initial joy of seeing code written by AI for carefully chosen toy projects, the real question emerges: how does AI fit into Agile programming in practice? In this talk, I’ll explore how AI can support test-driven development, automate test generation, improve code quality, and act as an intelligent teammate.
+
+We’ll look at how AI can enhance unit testing, refactor code, suggest meaningful test cases, and even turn user stories into executable tests. Whether you’re an early adopter or a skeptic, this session will focus on practical ways to integrate AI into Agile development while keeping programmers, testers, and analysts at the center of the process.
+
+ 
+
+*** Andy Cooper: “The AI Movement at Skills Group: Building an AI-Enabled Organization Through Cultural Transformation”
+
+In this presentation, Andy will discuss how Skills Group has approached AI adoption through a people-first lens, focusing on cultural transformation and capability building.
+
+Key topics include: 
+
+Formation and evolution of the AI Acceleration Team - a cross-functional initiative driving AI adoption
+Practical examples of AI integration across different business units
+Building an AI-friendly culture through policy development and training
+Measurable impacts and success stories from 2024
+Lessons learned and strategies for scaling AI adoption
+Vision for 2025 and beyond
+Drawing from Skills Group's experience of increasing AI tool adoption from 0% to over 10% of staff in less than a year, Andy will share practical insights on fostering responsible AI adoption while maintaining alignment with organizational values.
+
+This session will be valuable for:
+
+Leaders driving digital transformation
+Learning & Development professionals
+Those interested in building AI capabilities across large organizations
+Anyone looking to implement responsible AI adoption at scale
+
+** People
+*** Chris Knotts
+Principal Consultant,
+Chris is an experienced leader in enterprise technology with over two decades in training, coaching, and emergent technology enablement, particularly in project management. He excels in creating transformative technology training programs focused on software development, data environments, and agile methodologies. His expertise encompasses enterprise software engineering, advanced analytics, data engineering, and the application of AI and machine learning in business.
+
+*** Dr. Kenya Oduor
+CEO and Founder, Lean Geeks
+Dr. Kenya Oduor is the CEO and Founder of Lean Geeks, a firm focused on evaluating, defining, and designing complex ecosystems that include people, processes, and technology. She holds a PhD in Human Factors Psychology/Industrial Engineering and has 20+ years of experience conducting user and market research, information synthesis / sensemaking, and collaborative solution design. She has hired, led, and mentored individuals in user experience, business analysis, and product owner roles to name a few. Dr. Kenya’s expertise is in assessing and understanding people and their environments or processes, to provide efficient and cost-effective solutions for challenging and complex problems. She is a passionate change agent that works to define strategic solutions for organizations in need.
+
+*** Dr. Mark Lane
+AI Strategy & Innovation, Learn@Cisco
+Dr. Mark A. Lane is a distinguished AI innovation consultant and thought leader specializing in agentic AI systems and large language model architectures. With a Ph.D. in Finance, an MBA, and extensive technical credentials including expertise in Python programming, he brings a unique blend of business acumen and technical depth to the rapidly evolving AI landscape. Currently serving as Leader of Strategy & Innovation at Learning at Cisco, Dr. Lane leads cutting-edge AI initiatives that transform how organizations implement and scale intelligent systems. His hands-on experience designing and implementing AI projects spans multiple industries, where he has consistently delivered solutions that balance innovation with practical business outcomes. Dr. Lane's entrepreneurial background includes founding or leading several startup companies as CEO or CTO, providing him with real-world insights into how AI technologies can drive business transformation. His academic career spans over 20 years of university-level teaching in subjects ranging from entrepreneurship and corporate finance to advanced valuation methodologies. A respected author in the AI community, Dr. Lane recently published "Agentic AI Handbook: Design Patterns" – the definitive guide to building reliable, trustworthy AI agents using structured design approaches. This groundbreaking work establishes a comprehensive framework for creating AI systems that reason effectively, maintain context, and deliver consistent results. Beyond his technical expertise, Dr. Lane is known for his ability to translate complex AI concepts into accessible insights that resonate with both technical and non-technical audiences. His presentations combine theoretical frameworks with practical examples, leaving audiences with actionable strategies for navigating the rapidly evolving AI landscape.
+
+*** George Churchwell
+Director Generative AI Solutions
+As a visionary in AI LLMs, Prompt Engineering, and AI for Excellence, George has used AI to create new and innovative solutions, including purpose-built GPTs.  His creation of AI applications, from sales intelligence scripts targeting a $1 billion market to AI-assisted eLearning content for Cisco, underscores a unique blend of technical prowess and strategic insight. His journey from launching startups to guiding them to successful exits is a testament to his unwavering passion for strategic innovation and steadfast commitment to team building. 
+
+*** Laura Mahalel
+AI Generalist | Founder, BKAC.AI
+Laura helps professionals and organizations create custom AI and tech solutions to expand their capabilities and stay competitive in a rapidly evolving world. A seasoned tech communicator with a background in top tech and finance firms, she specializes in making complex technology accessible, practical, and engaging. Known for her inclusive approach, she fosters collaboration and continuous learning, driving impactful results that help teams thrive in fast-changing landscapes. When she’s not demystifying AI, you’ll find her teaching yoga and promoting balance—on and off the mat.
+
+*** Zaki Medina
+AI Innovator | Generative AI Speaker | Tech Strategist
+Zaki Medina is a passionate technologist and AI strategist with 17+ years of experience helping businesses harness the power of AI, cloud, and data to drive real-world impact. He’s worked with Fortune 100 companies, startups, and industrial giants, shaping AI-driven strategies that have generated $1B in value. Zaki has a knack for making complex AI concepts accessible and actionable, whether he's advising executives, training sales teams, or speaking at global events. As a former Microsoft AI Business School Instructor, he’s helped healthcare, energy, and manufacturing leaders integrate AI into their operations. Zaki is always at the forefront of Generative AI, AI-driven automation, and intelligent systems. He’s not just about theory—he’s about making AI work for people, businesses, and industries in a way that delivers results.Curious about where AI is heading? Want to talk about Agentic AI or how to integrate AI into your business? Let’s connect!
+
+*** Omer Hashmi
+Co-Founder, TPM Institute
+Om Hashmi is an agile enthusiast and entrepreneur, dedicated to empowering enterprises, teams, and individuals to achieve sustainable and healthy agility. With experience providing training, coaching, and consulting to over 1,500 professionals, Om has a proven track record of optimizing business processes, leading to more efficient operations and significant cost savings. Beginning a career in process design and consulting, Om has managed projects of all sizes and played a key role in multi-million-dollar initiatives. Drawing from diverse global experiences, Om brings a hands-on, results-driven approach to every challenge, ensuring impactful outcomes for clients.
+
+*** Marc Balcer
+Knowledge Engineer, Skills Development Group
+Marc is a recognized expert in information technology and software development, with notable contributions including the creation of TAME, a platform for software test specification and generation. He's also co-authored seminal books on software design and architecture. Marc's agile journey began in 1998, leading a groundbreaking project for a major financial services firm that emphasized adaptability and customer-centricity. Believing in the agile philosophy of experimentation and continuous learning, he remains hands-on in putting theory into practice. 
+
+*** Jessica Katz
+Facilitator and Coach
+A highly experienced and passionate Agile coach and trainer, currently working as a Senior Agile Coach at SoftEd in the United States. With over 20 years of experience in the IT industry, Jessica has a proven track record of delivering successful Agile transformations for numerous Fortune 500 companies across various sectors. She is a Certified Scrum Trainer and has trained and coached thousands of individuals, teams, and organizations on Agile principles and practices.
+
+*** Julio Fernandez
+Principal AI Consultant, Cisco
+Julio Fernandez is the Founder & Principal AI Consultant at AgentesPymes.com, where he helps businesses use Artificial Intelligence to automate tasks, improve decision-making, and enhance customer experiences. He began his career in the mid-90s, guiding newspapers through the transition from print to online publishing. His digital expertise led him to develop digital strategies at Oracle, IBM, and, most recently, at Cisco, where he introduced AI and Generative Pre-trained Transformers (GPTs) to the marketing organization within Cisco's Learning and Certifications team. Complementing his technical expertise, Julio also worked at Ogilvy, a leading global advertising and marketing agency, advising clients in the healthcare, energy, and tourism industries (including the Secretaría de Turismo of Mexico) on content creation, search engine optimization, and social media outreach. Today, Julio leads a team that offers comprehensive AI consulting, development, and training services. Many of his GPT-based assistants are freely available on the OpenAI ChatGPT Store, enabling organizations to adopt AI solutions immediately. AgentesPymes.com provides resources in Spanish, reflecting Julio's commitment to making AI accessible to diverse communities and expanding its potential to benefit people worldwide.
+
+*** Andy Cooper
+Group Manager, Global Markets
+My passion comes from supporting and partnering with organizations to design transformation, coaching, and training programs that create innovative, agile cultures. Having worked with government departments, major insurers, banks, and Fortune 10 companies in Asia, the United States and Europe, I know there isn't a one-size-fits-all approach. So, co-creation is the key.
+
+*** Lara Hill
+VP Marketing
+Lara has spent 15 years leading marketing strategy for various ecommerce and tech startups, emphasizing adaptability and value delivery. Her focus extends to advocating for AI literacy and ethical AI practices, ensuring a balanced integration of technology with a human touch in marketing strategies. She consults with organizations to assist leaders in strategically enhancing their digital presence through personal branding and content creation.
+
+*** David Mantica
+VP and General Manager
+Fueled by his passion for developing empowered knowledge workers, David helps companies develop their teams through training and coaching, equipping them with the critical skills needed to work effectively in a volatile, uncertain, complex and ambiguous (VUCA) world. With over 30 years of experience and more than 700 speaking engagements, he has inspired better work practices in all areas of business.
+
+
+** Sponsors
+- Skills Development Group
+- MT Tam Innovations
+- PMI North Carolina
+- PMI Dallas  
+- IIBA Portland Metro
+- IIBA Raleigh
+- IIBA Bluegrass
+- IIBA Orange County CA
+
+** End Stuff
+Terms and ConditionsPrivacy PolicyCookies Policy
+© 2025 Skills Development Group
+```

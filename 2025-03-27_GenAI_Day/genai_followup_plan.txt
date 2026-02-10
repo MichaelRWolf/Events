@@ -1,0 +1,28 @@
+Goal:
+-----
+Follow up professionally with speakers and sponsors from a 1-day Generative AI conference as part of an active job search. Leverage the event to build connections and identify potential opportunities in the emerging field of GenAI, with a focus on not sounding needy but reestablishing income after a long layoff.
+
+Tasks:
+------
+1. Extract and normalize the agenda into a structured table:
+   - Columns: Session Number & Time, Presenter Name, Title
+
+2. Extract people and companies mentioned in the notes:
+   - For people: name, company, LinkedIn profile
+   - For companies: name, website or LinkedIn profile
+
+3. Create two canvases for reference and further development:
+   - Agenda Table (session schedule)
+   - Contacts Table (people + orgs with relevant metadata)
+
+4. Annotate missing data (TODO list):
+   - Identify which people are missing company info, LinkedIn, or company websites
+
+5. Enrich contacts where possible:
+   - Match names to companies and LinkedIn URLs
+   - Add websites for known companies (e.g. Skills Development Group)
+
+6. Maintain both canvases with updates from new file uploads
+
+7. Provide support for follow-up strategy:
+   - Optional: Draft outreach messages, prioritize contacts, track response status
