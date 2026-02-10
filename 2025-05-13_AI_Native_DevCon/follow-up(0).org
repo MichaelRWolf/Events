@@ -1,0 +1,70 @@
+
+# AI Native DevCon - 2025-05-13
+
+
+[![Eric Simons - AI Native Dev Con](https://tse4.mm.bing.net/th?id=OIP.28MuajIoxolS78jCbyOTBQHaD4\&pid=Api)](https://ai-native-devcon.heysummit.com/speakers/eric-simons/)
+
+
+
+
+[AI Native DevCon 2025 Replays](https://ai-native-devcon-2025.heysummit.com/replays/)
+
+| Time (ET) | Speaker(s)                        | LinkedIn | Title                                                                  | Video                                                |                                                                                                                                                                                                           |
+| --------- | --------------------------------- | -------- | ---------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11:00 AM  | Mathias Biilmann (Netlify)        |          | The New Frontier in AI Development: Why Agent Experience (AX) Matters  | [Watch](https://www.youtube.com/watch?v=ZCvjs7pZbxU) |                                                                                                                                                                                                           |
+| 11:35 AM  | Nimrod Kor & Nimrod Hauser        |          | Building a Retrievable Codebase Memory Model                           | [Watch](https://www.youtube.com/watch?v=CLN_EIrqrTk) |                                                                                                                                                                                                           |
+| 12:10 PM  | Nick Taylor (Pomerium)            |          | Let’s Build a GitHub Copilot Extension!                                | [Watch](https://www.youtube.com/watch?v=ZCvjs7pZbxU) |                                                                                                                                                                                                           |
+| 12:45 PM  | Kyle Forster (RunWhen)            |          | AI for “The Other 70%” of Enterprise Engineering                       | [Watch](https://www.youtube.com/watch?v=CLN_EIrqrTk) |                                                                                                                                                                                                           |
+| 1:20 PM   | Guy Podjarny (Tessl)              |          | What is AI Native Development - and how can we prepare for the journey | [Watch](https://www.youtube.com/watch?v=ZCvjs7pZbxU) |                                                                                                                                                                                                           |
+| 1:55 PM   | Des Traynor (Intercom)            |          | Fireside Chat: Production-Ready Agentic AI                             | [Watch](https://www.youtube.com/watch?v=CLN_EIrqrTk) |                                                                                                                                                                                                           |
+| 2:30 PM   | Danny Allan (Snyk)                |          | The Role of Security in AI-Accelerated Code Generation                 | [Watch](https://www.youtube.com/watch?v=ZCvjs7pZbxU) |                                                                                                                                                                                                           |
+| 3:05 PM   | Gene Kim (IT Revolution)          |          | Chat-Oriented Programming and the Future of Software Delivery          | [Watch](https://www.youtube.com/watch?v=CLN_EIrqrTk) |                                                                                                                                                                                                           |
+| 3:40 PM   | Annie Vella (Westpac New Zealand) |          | Am I Still a Software Engineer If I Don't Write the Code?              | [Watch](https://www.youtube.com/watch?v=ZCvjs7pZbxU) |                                                                                                                                                                                                           |
+| 4:15 PM   | Josh Long (Broadcom)              |          | Bootiful Spring AI                                                     | [Watch](https://www.youtube.com/watch?v=CLN_EIrqrTk) | ([ainativedev.io][1], [AI Native DevCon - 2025 Spring Edition][2], [YouTube][3], [YouTube][4], [Meetup][5], [ainativedev.io][6], [AI Native DevCon 2024][7], [AI Native DevCon - 2025 Spring Edition][8]) |
+
+Please note that the LinkedIn column is left empty as per your request. Let me know when you're ready to fill in those details or if you need further assistance with this table.
+
+[1]: https://ainativedev.io/news/devcon-speakers?utm_source=chatgpt.com "The First Speaker Lineup for AI Native DevCon 2025 is Live!"
+[2]: https://ai-native-devcon-2025.heysummit.com/?utm_source=chatgpt.com "AI Native DevCon - 2025 Spring Edition"
+[3]: https://www.youtube.com/watch?v=ZCvjs7pZbxU&utm_source=chatgpt.com "AI Native DevCon | Keynote Stage - YouTube"
+[4]: https://www.youtube.com/watch?v=CLN_EIrqrTk&utm_source=chatgpt.com "AI Native DevCon | AI Tomorrow Track - YouTube"
+[5]: https://www.meetup.com/boulderjavausersgroup/events/307545087/?eventOrigin=find_page%24all&recId=86df8d53-5da7-414a-b36e-34a70b62a013&recSource=event-search&searchId=c89fc6cb-b83b-4cf8-91a9-49629b222a22&utm_source=chatgpt.com "AI Native DevCon - FREE virtual event, Tue, May 13, 2025, 9:10 AM"
+[6]: https://ainativedev.io/news/best-bits-devcon?utm_source=chatgpt.com "The Best Bits From AI Native DevCon Spring 2025"
+[7]: https://ai-native-devcon.heysummit.com/talks/what-is-ai-native-development-and-how-can-we-prepare-for-the-journey/?utm_source=chatgpt.com "What is AI Native Development - and how can we prepare for the journey"
+[8]: https://ai-native-devcon-2025.heysummit.com/schedule/?utm_source=chatgpt.com "Schedule - AI Native DevCon - 2025 Spring Edition"
+
+
+
+
+
+| Time  | Speaker(s)                                                                                                            | Title                                                                                                | Attended |
+|-------+-----------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+----------|
+| 11:00 | Simon Maple                                                                                                           | Master of Ceremonies                                                                                 | ALL      |
+|-------+-----------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+----------|
+| 11:00 | [Mathias Biilmann](https://www.linkedin.com/in/mathias-biilmann-christensen-a5a3805/)                                 | The New Frontier in AI Development: Why Agent Experience (AX) Matters                                | Yes      |
+| 11:10 | [Guy Podjarny](https://www.linkedin.com/in/guypo/)                                                                    | From Vibe Coding to AI Native Dev as a Craft                                                         | Yes      |
+| 11:45 | [Patrick Debois](https://www.linkedin.com/in/patrickdebois/) & [Amir Shevat](https://www.linkedin.com/in/amirshevat/) | What’s hot and what’s here to stay: Inside the AI-Native Tool Landscape                              | Yes      |
+| 12:25 | [Danny Allan](https://www.linkedin.com/in/dannyallan/)                                                                | The Age of Risky Software                                                                            | Yes      |
+| 13:05 | [Dru Knox](https://www.linkedin.com/in/dru-knox-6b57b830/)                                                            | Code-Centric Eval-First Development: Accelerating AI Features for Devs                               | Yes      |
+| 14:15 | Doug Finke                                                                                                            | The Model Context Protocol: A Universal Interface for AI-Native Development                          | Yes      |
+| 15:25 | [Annie Vella](https://www.linkedin.com/in/annievella/)                                                                | Am I Still a Software Engineer If I Don’t Write the Code?                                            | Yes      |
+| -     | [Kyle Forster](https://www.linkedin.com/in/kyforster/)                                                                | AI For "The Other 70%" Of Enterprise Engineering                                                     | Yes      |
+| -     | [Hubert Gregoire](https://www.linkedin.com/in/hgregoir/)                                                              | GENAI4dev , 6 month later - REX about deploying coPilot and Cursor to 80 dev since Oct 2024          | Yes      |
+| —     | Itamar Friedman[https://www.linkedin.com/in/itamarf/]                                                                 | From Code Completion to Multi-Agent Coding Workflows                                                 | Yes      |
+| —     | Scott Wierschem                                                                                                       | Using AI to Refactor Legacy Code: A Practical Guide                                                  | Some     |
+| —     | Gene Kim                                                                                                              | Vibe Coding (For Grownups)                                                                           | Some     |
+| —     | Ray Myers                                                                                                             | The Many Ends of Programming                                                                         | Some     |
+| —     | Roxane Fischer                                                                                                        | The Importance of Context in AI x Infra: Your Infra is a Graph                                       |          |
+| —     | Kambui Nurse                                                                                                          | Agentic workflow powered by Dagger                                                                   |          |
+| —     | Des Traynor                                                                                                           | Would Agentic Coders ever be production-grade? Learning's from Intercom's AI Agent Journey           |          |
+| —     | Nick Taylor                                                                                                           | Let's Create a GitHub Copilot Extension!                                                             |          |
+| —     | Nathan Peck                                                                                                           | Hubris, Hallucinations, and the Humbling Experience of AI Engineering                                |          |
+| —     | George Fahmy                                                                                                          | Reliable DevOps Agents for a Self-Driving Infrastructure                                             |          |
+| —     | Andrii Raikov                                                                                                         | AI-Driven Load Test Analysis: From Routine Toward Action                                             |          |
+| —     | Indu Chaube                                                                                                           | Leveraging AI Agents for Adaptive Real-Time API Optimization and On-the-Fly UI Refresh in Production |          |
+| —     | Rohit Ghumare                                                                                                         | Beyond Prompts: Giving AI Coders the Blueprints They Need with CreateMVPs.app                        |          |
+| —     | Josh Long                                                                                                             | Bootiful Spring AI                                                                                   |          |
+| —     | Nick Frolov                                                                                                           | Use of fine-tune in completion and agents                                                            |          |
+| —     | Anton Arhipov                                                                                                         | AI-assisted programming: from inline completions to agentic workflows                                | Brief    |
+| —     | Nimrod Kor & Nimrod Hauser                                                                                            | Building a Retrievable Codebase Memory Model                                                         |          |
+

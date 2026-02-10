@@ -1,0 +1,32 @@
+|-------+------------------------------+------------------------------------------------------------------------------------------------------+----------|
+|  Time | Speaker(s)                   | Title                                                                                                | Attended |
+|-------+------------------------------+------------------------------------------------------------------------------------------------------+----------|
+|       | [[https://www.linkedin.com/in/simonmaple/][Simon Maple]]                  | Co-host                                                                                              |          |
+|       | [[https://www.linkedin.com/in/guypo/][Guy Podjarny]]                 | Co-host                                                                                              |          |
+| 11:00 | [[https://www.linkedin.com/in/mathias-biilmann-christensen-a5a3805/][Mathias Biilmann]]             | The New Frontier in AI Development: Why Agent Experience (AX) Matters                                | Yes      |
+| 11:10 | [[https://www.linkedin.com/in/guypo/][Guy Podjarny]]                 | From Vibe Coding to AI Native Dev as a Craft                                                         | Yes      |
+| 11:45 | [[https://www.linkedin.com/in/patrickdebois/][Patrick Debois]] & [[https://www.linkedin.com/in/amirshevat/][Amir Shevat]] | What’s hot and what’s here to stay: Inside the AI-Native Tool Landscape                              | Yes      |
+| 12:25 | [[https://www.linkedin.com/in/dannyallan/][Danny Allan]]                  | The Age of Risky Software                                                                            | Yes      |
+| 13:05 | [[https://www.linkedin.com/in/dru-knox-6b57b830/][Dru Knox]]                     | Code-Centric Eval-First Development: Accelerating AI Features for Devs                               | Yes      |
+| 14:15 | [[https://www.linkedin.com/in/douglasfinke/][Doug Finke]]                   | The Model Context Protocol: A Universal Interface for AI-Native Development                          | Yes      |
+| 15:25 | [[https://www.linkedin.com/in/annievella/][Annie Vella]]                  | Am I Still a Software Engineer If I Don’t Write the Code?                                            | Yes      |
+|       | [[https://www.linkedin.com/in/kyforster/][Kyle Forster]]                 | AI For "The Other 70%" Of Enterprise Engineering                                                     | Yes      |
+|       | [[https://www.linkedin.com/in/hgregoir/][Hubert Gregoire]]              | GENAI4dev , 6 month later - REX about deploying coPilot and Cursor to 80 dev since Oct 2024          | Yes      |
+|       | [[https://www.linkedin.com/in/itamarf/][Itamar Friedman]]              | From Code Completion to Multi-Agent Coding Workflows                                                 | Yes      |
+| 16:15 | Josh Long                    | Bootiful Spring AI                                                                                   | Not yet  |
+|       | Scott Wierschem              | Using AI to Refactor Legacy Code: A Practical Guide                                                  | Some     |
+|       | Gene Kim                     | Vibe Coding (For Grownups)                                                                           | Some     |
+|       | Ray Myers                    | The Many Ends of Programming                                                                         | Some     |
+|       | Roxane Fischer               | The Importance of Context in AI x Infra: Your Infra is a Graph                                       |          |
+|       | Kambui Nurse                 | Agentic workflow powered by Dagger                                                                   |          |
+|       | Des Traynor                  | Would Agentic Coders ever be production-grade? Learning's from Intercom's AI Agent Journey           |          |
+|       | Nick Taylor                  | Let's Create a GitHub Copilot Extension!                                                             |          |
+|       | Nathan Peck                  | Hubris, Hallucinations, and the Humbling Experience of AI Engineering                                |          |
+|       | George Fahmy                 | Reliable DevOps Agents for a Self-Driving Infrastructure                                             |          |
+|       | Andrii Raikov                | AI-Driven Load Test Analysis: From Routine Toward Action                                             |          |
+|       | Indu Chaube                  | Leveraging AI Agents for Adaptive Real-Time API Optimization and On-the-Fly UI Refresh in Production |          |
+|       | Rohit Ghumare                | Beyond Prompts: Giving AI Coders the Blueprints They Need with CreateMVPs.app                        |          |
+|       | Nick Frolov                  | Use of fine-tune in completion and agents                                                            |          |
+|       | Anton Arhipov                | AI-assisted programming: from inline completions to agentic workflows                                | Brief    |
+|       | Nimrod Kor & Nimrod Hauser   | Building a Retrievable Codebase Memory Model                                                         |          |
+|-------+------------------------------+------------------------------------------------------------------------------------------------------+----------|
