@@ -1,0 +1,86 @@
+* Links
+
+The ChatGPT...
+https://chatgpt.com/g/g-yGRicsT64-gen-ai-day-4-gpt-october-30-2024?utm_campaign=GenAI%20Day%20Conference%20US&utm_medium=email&_hsenc=p2ANqtz-8uc6LwJDXw_forr60zV6kZDsUS8lurOkQC6epOHv6kMuADDORO78zoZIKVWlSIJIynvGPaq_SEPKuB9BZtQUuqP8QplQ&_hsmi=334139954&utm_content=334139954&utm_source=hs_email
+
+Who took up time...
+https://docs.google.com/spreadsheets/d/1s5EtqRgIY0LFdxiLH1iB21kTGIHYozMvJCB42cCAVVM/edit?gid=164698564#gid=164698564
+
+
+* Voice-To-Text
+
+** Files
+
+
+- GMT20241030-154841_Recording.transcript.vtt.txt
+- GMT20241030-184141_Recording.transcript.vtt.txt
+- GMT20241030-125133_Recording.transcript.vtt.txt
+
+** Pivot Tables
+
+https://docs.google.com/spreadsheets/d/1s5EtqRgIY0LFdxiLH1iB21kTGIHYozMvJCB42cCAVVM/edit?gid=164698564#gid=164698564
+
+
+|-------------------------------+-----------------+-------------------+----------+-----|
+| Co-hosts                      | SUM of Duration | SUM of Word Count | HH:MM:SS | WPM |
+|-------------------------------+-----------------+-------------------+----------+-----|
+| David Mantica--Co-host!!!     |            2806 |              8921 | 00:46:46 | 191 |
+| Lara Hill                     |             844 |              2467 | 00:14:04 | 175 |
+|                               |                 |                   |          |     |
+|-------------------------------+-----------------+-------------------+----------+-----|
+| Sponsors                      | SUM of Duration | SUM of Word Count | HH:MM:SS | WPM |
+|-------------------------------+-----------------+-------------------+----------+-----|
+| Kara Flanagan                 |             185 |               486 | 00:03:05 | 158 |
+|                               |                 |                   |          |     |
+|-------------------------------+-----------------+-------------------+----------+-----|
+| Speakers                      | SUM of Duration | SUM of Word Count | HH:MM:SS | WPM |
+|-------------------------------+-----------------+-------------------+----------+-----|
+| Chris Knotts                  |            2912 |              8897 | 00:48:32 | 183 |
+| Michael Schank                |            2385 |              6854 | 00:39:45 | 172 |
+| George Churchwell             |            2225 |              6170 | 00:37:05 | 166 |
+| Om Hashmi                     |            2003 |              5492 | 00:33:23 | 165 |
+| Taher Jamshidi                |            1792 |              4276 | 00:29:52 | 143 |
+| Loyd Thompson                 |            1703 |              4538 | 00:28:23 | 160 |
+| Samuel Parri                  |            1666 |              3267 | 00:27:46 | 118 |
+| Abrar Hashmi                  |            1604 |              4709 | 00:26:44 | 176 |
+| Marc Balcer                   |            1589 |              4449 | 00:26:29 | 168 |
+| Jonathan Stephens (he/him)    |            1459 |              3759 | 00:24:19 | 155 |
+|                               |                 |                   |          |     |
+|-------------------------------+-----------------+-------------------+----------+-----|
+| Attendees                     | SUM of Duration | SUM of Word Count | HH:MM:SS | WPM |
+|-------------------------------+-----------------+-------------------+----------+-----|
+| Cris Casey                    |             305 |               710 | 00:05:05 | 140 |
+| Michael Wolf                  |             170 |               551 | 00:02:50 | 194 |
+| John Ruppel                   |              61 |               210 | 00:01:01 | 207 |
+| George - PMI Emerald Coast Fl |              35 |               103 | 00:00:35 | 177 |
+| Rick Bauer                    |              34 |                68 | 00:00:34 | 120 |
+| Natallie Archer               |               4 |                 9 | 00:00:04 | 135 |
+| Srinath Kondabathini          |               1 |                 3 | 00:00:01 | 180 |
+|                               |                 |                   |          |     |
+|-------------------------------+-----------------+-------------------+----------+-----|
+|-------------------------------+-----------------+-------------------+----------+-----|
+| Grand Total                   |           23783 |             65939 | 06:36:23 | 166 |
+|-------------------------------+-----------------+-------------------+----------+-----|
+
+
+* Hallucinated Speaker List
+
+David Mantica - "Effective Communication in Virtual Meetings"
+
+Michael Wolf - "Exploring Technology Trends in 2024"
+
+Lara Hill - "Professional Growth in a Digital World"
+
+Cris Casey - "Adding Humor to Technical Discussions"
+
+Shelley Morris - "Fostering Inclusivity Through Reactions"
+
+Nichelle Butler Sankey - "Collaboration Tools and Best Practices"
+
+Jonathan Stephens - "Diversity in Professional Challenges"
+
+Cesar Partida - "Engaging Through Reactions in Group Chats"
+
+Lakievia Johnson - "Community Building in Online Discussions"
+
+Russ Maynard - "Problem-Solving Approaches in Technical Conversations"

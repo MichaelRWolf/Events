@@ -1,0 +1,4018 @@
+WEBVTT
+
+1
+00:00:00.330 --> 00:00:02.029
+Om Hashmi: On that technical element.
+
+2
+00:00:02.080 --> 00:00:12.929
+Om Hashmi: And then these other elements of fundamentals of good project and program management communication, financial acumen, running projects programs like you're running an actual business.
+
+3
+00:00:13.300 --> 00:00:14.890
+Om Hashmi: becoming strategic.
+
+4
+00:00:17.450 --> 00:00:18.869
+Om Hashmi: Those skill sets.
+
+5
+00:00:18.870 --> 00:00:26.459
+David Mantica--Co-host!!!: Hey? 2 comments. One give you a 5 min warning, but 2, you know some of the comments. Here is, where is the customer in that.
+
+6
+00:00:27.890 --> 00:00:28.649
+Om Hashmi: Where is the one?
+
+7
+00:00:28.650 --> 00:00:30.140
+David Mantica--Co-host!!!: Where is the customer?
+
+8
+00:00:30.300 --> 00:00:34.080
+David Mantica--Co-host!!!: And this key ingredients? Where? Where does the customer engagement fit
+
+9
+00:00:34.210 --> 00:00:43.559
+David Mantica--Co-host!!!: under emotional intelligence or communication? Effectiveness? And what do you. What does? Who? Which type of customer does the technical program manager engage.
+
+10
+00:00:43.560 --> 00:00:51.260
+Om Hashmi: Oh, great, great question. So across the 3 pieces that you see in the middle, emotional intelligence, communication, effectiveness, and financial acumen.
+
+11
+00:00:51.850 --> 00:00:56.920
+Om Hashmi: those those are the 3 areas where the customer fits from the role of a technical program management perspective.
+
+12
+00:00:57.140 --> 00:01:11.810
+Om Hashmi: So when we say the word customer in the world of a Tpm, you're thinking about it from 2 perspectives. One, you're thinking about your internal customers, the business sponsors, the stakeholders that have actually initiated a 3 million dollar investment to improve the call center average call time
+
+13
+00:01:12.320 --> 00:01:17.780
+Om Hashmi: right? That's the internal. That's where the communication effectiveness, the financial acumen comes into picture
+
+14
+00:01:18.090 --> 00:01:26.070
+Om Hashmi: when we talk about the emotional intelligence. This is where, putting yourself in the role of your end customer, your end users. They may be internal, they may be external.
+
+15
+00:01:26.320 --> 00:01:28.709
+Om Hashmi: That's where that role comes in. Great caller.
+
+16
+00:01:29.000 --> 00:01:46.620
+David Mantica--Co-host!!!: So the customer mindset is there. It's just, you know. It's 1 of the things that you know you don't even. It's at some point in the Sdlc world. That's such an old term. But it's you have to have customer centricity across any type of role. So another question, this is a good one, too. Can you break out some of the technical competencies? I know it's kind of hard.
+
+17
+00:01:46.620 --> 00:01:59.919
+David Mantica--Co-host!!!: but it's like something like you should understand what Co. How coding works right? You should have a understanding of how compiling works right? You should be able to understand. So keep going on that mindset.
+
+18
+00:01:59.920 --> 00:02:06.829
+Om Hashmi: What I would do is the following, so thank you for that question. There's 2 elements. I would 1st broadly categorize this question under
+
+19
+00:02:06.920 --> 00:02:11.320
+Om Hashmi: understanding, high level system design and then understanding low-level system design.
+
+20
+00:02:11.390 --> 00:02:15.520
+Om Hashmi: When we talk about high level system design start thinking about things like architecture.
+
+21
+00:02:15.530 --> 00:02:17.540
+Om Hashmi: monolithic verses.
+
+22
+00:02:18.390 --> 00:02:25.889
+Om Hashmi: microservices, start thinking about things along the lines of database and data storage start thinking about the likes of
+
+23
+00:02:25.910 --> 00:02:27.010
+Om Hashmi: networking.
+
+24
+00:02:27.240 --> 00:02:31.980
+Om Hashmi: start thinking about security scalability. These are high level system, design principles.
+
+25
+00:02:33.410 --> 00:02:41.570
+Om Hashmi: low level design is more at the levels of object oriented programming to your point from earlier. David, how do you write code? How do you read code?
+
+26
+00:02:41.770 --> 00:02:47.290
+Om Hashmi: What is the overall complexity in reading or writing, or designing an application or a system?
+
+27
+00:02:48.030 --> 00:02:49.490
+Om Hashmi: Your biggest takeaway
+
+28
+00:02:49.700 --> 00:02:51.809
+Om Hashmi: from all of this is
+
+29
+00:02:52.280 --> 00:03:00.980
+Om Hashmi: this role of a technical program manager is a key bridge in successfully upskilling and learning how to get to
+
+30
+00:03:01.290 --> 00:03:07.030
+Om Hashmi: better execution of technical programs, especially generative AI driven projects.
+
+31
+00:03:07.870 --> 00:03:15.140
+Om Hashmi: Right? So because there is going to be a ton of investment across small medium, large size enterprises
+
+32
+00:03:15.200 --> 00:03:16.619
+Om Hashmi: in this space.
+
+33
+00:03:17.210 --> 00:03:23.869
+Om Hashmi: and if you can walk away with the opportunity and ability to learn upscale and be able to add value
+
+34
+00:03:23.900 --> 00:03:26.559
+Om Hashmi: so that they can realize their gains.
+
+35
+00:03:26.660 --> 00:03:29.829
+Om Hashmi: their return on investment faster, cheaper, better.
+
+36
+00:03:29.890 --> 00:03:31.540
+Om Hashmi: You're in a very good spot.
+
+37
+00:03:32.480 --> 00:03:33.860
+Om Hashmi: What's happening next?
+
+38
+00:03:34.300 --> 00:03:37.490
+Om Hashmi: This skill set for Tpms is growing. The technology.
+
+39
+00:03:37.490 --> 00:03:47.030
+David Mantica--Co-host!!!: Homer real quick. There's another question. This is from Sam, which I think is good from a hierarchical standpoint, you know, from a Pmi perspective. You have a project specialist
+
+40
+00:03:47.210 --> 00:03:50.990
+David Mantica--Co-host!!!: who, a project manager will be working with multiple project specialists.
+
+41
+00:03:51.100 --> 00:04:13.710
+David Mantica--Co-host!!!: the specialists we've working with project team members. Then you have a program manager who's looking over multiple projects and those program managers are connecting in with the the project managers. Then you have the portfolio manager who's he? Or she is looking over the monstrosity. How does does a Tpmi have project people reporting to them, working with them? How does that work.
+
+42
+00:04:13.710 --> 00:04:18.260
+Om Hashmi: The good question also. So from an organizational hierarchy perspective, it may differ.
+
+43
+00:04:18.470 --> 00:04:22.250
+Om Hashmi: But the way I like to always look at this role of a Tpm is.
+
+44
+00:04:22.280 --> 00:04:30.340
+Om Hashmi: It's meant to be an upskillment of either your existing project or program managers. So their existing roles and hierarchy and and
+
+45
+00:04:30.350 --> 00:04:35.220
+Om Hashmi: dotted lines in your org structure, and then in the direct lines in your org structure still exist.
+
+46
+00:04:35.290 --> 00:04:36.590
+Om Hashmi: and they get maintained.
+
+47
+00:04:36.750 --> 00:04:37.460
+David Mantica--Co-host!!!: Okay.
+
+48
+00:04:37.460 --> 00:04:45.530
+Om Hashmi: Most organizations are using this role in lieu of not in addition to a scrum master, not in addition to a project manager
+
+49
+00:04:45.620 --> 00:04:49.390
+Om Hashmi: right in larger tech organizations. Those that I've been a part of
+
+50
+00:04:49.450 --> 00:05:01.549
+Om Hashmi: this role sits on top of some of the larger enterprise programs. This role sits on top of maybe a multitude of some project managers that might be handling certain components within a large scale program.
+
+51
+00:05:02.070 --> 00:05:03.340
+Om Hashmi: So could we both
+
+52
+00:05:03.900 --> 00:05:07.930
+Om Hashmi: depends really on the size and magnitude of the organization and the program itself.
+
+53
+00:05:08.650 --> 00:05:10.640
+Om Hashmi: So what we covered
+
+54
+00:05:11.210 --> 00:05:17.659
+Om Hashmi: the ability and the role and the importance of a Tpm in running complex Gen. AI initiatives.
+
+55
+00:05:17.830 --> 00:05:23.560
+Om Hashmi: making sure that you get involved. Making sure you recognize the different technology upskill yourselves.
+
+56
+00:05:23.840 --> 00:05:32.779
+Om Hashmi: So as part of this, we do a 3 half day workshop on technical program management. It's the only one of its kind in the world.
+
+57
+00:05:33.060 --> 00:05:37.840
+Om Hashmi: We've already trained and certified several 100 people in this space.
+
+58
+00:05:37.970 --> 00:05:42.520
+Om Hashmi: And we've received incredible feedback. The entire team of instructors is based
+
+59
+00:05:42.700 --> 00:05:47.030
+Om Hashmi: out of technical organizations. Like, I said before, with the Microsoft, the Googles.
+
+60
+00:05:47.120 --> 00:05:49.690
+Om Hashmi: the Metas, the Amazons of the world.
+
+61
+00:05:50.400 --> 00:05:53.840
+Om Hashmi: And if he was interested in learning more
+
+62
+00:05:53.900 --> 00:05:55.720
+Om Hashmi: or utilizing Laura's
+
+63
+00:05:56.590 --> 00:05:59.979
+Om Hashmi: 20% discount code, send us an email.
+
+64
+00:06:00.240 --> 00:06:04.540
+Om Hashmi: scan the QR code to see check out the next available workshop.
+
+65
+00:06:04.690 --> 00:06:07.420
+Om Hashmi: and I appreciate any questions you might have at this point.
+
+66
+00:06:08.160 --> 00:06:14.100
+David Mantica--Co-host!!!: So one question is, are Tpms going to be desired outside the big tech firms?
+
+67
+00:06:14.150 --> 00:06:15.950
+David Mantica--Co-host!!!: What are your thoughts on that?
+
+68
+00:06:16.820 --> 00:06:21.910
+Om Hashmi: Absolutely 100%. And I'll tell you why I say this with so much confidence. One
+
+69
+00:06:22.010 --> 00:06:24.919
+Om Hashmi: capital one just laid the foundation of it 2 years ago.
+
+70
+00:06:25.220 --> 00:06:31.739
+Om Hashmi: They've already removed every single agile and traditional Pm role that they had. They've already started replacing
+
+71
+00:06:31.800 --> 00:06:32.870
+Om Hashmi: actively.
+
+72
+00:06:32.920 --> 00:06:40.690
+Om Hashmi: If you search today, capital, one technical program manager. I'm pretty sure you'll find double digit job opportunities at capital. One same.
+
+73
+00:06:40.690 --> 00:06:57.690
+David Mantica--Co-host!!!: Seeing this as the new Accelerated team, Tpm with AI in the middle, driving accelerated teams to get stuff complex things done faster without as much oversight, and you know the the orchestration side of it.
+
+74
+00:06:58.370 --> 00:07:05.430
+David Mantica--Co-host!!!: All right. Ohm, thank you very much, Laura. Do we jump right into no code? Low code. What's the skinny.
+
+75
+00:07:07.250 --> 00:07:24.349
+Lara Hill: Yeah, so thank you so much. While we're waiting for Jonathan. I see you're here already. But just one moment before we turn it over. I do want to do another drawing for a free course from Skills development group. So I'm just going to pick from our list of attendees.
+
+76
+00:07:25.890 --> 00:07:28.010
+Lara Hill: Natalie. Archer.
+
+77
+00:07:28.190 --> 00:07:36.010
+Lara Hill: Natalie, are you here in the room today? We have a free course for you. If you are here to receive it must be present to win.
+
+78
+00:07:36.010 --> 00:07:36.990
+Natallie Archer: Yes, ma'am.
+
+79
+00:07:36.990 --> 00:07:39.789
+Lara Hill: Shut us. Oh, yay, you are here!
+
+80
+00:07:39.790 --> 00:07:40.500
+Natallie Archer: Okay.
+
+81
+00:07:40.660 --> 00:07:42.599
+Natallie Archer: Yeah. Hi, America.
+
+82
+00:07:42.600 --> 00:07:45.859
+Lara Hill: I'll send you a message about beaming that course.
+
+83
+00:07:45.860 --> 00:07:46.869
+Natallie Archer: Okay. Thank you.
+
+84
+00:07:47.040 --> 00:07:52.369
+Lara Hill: Great. So next up we have. Jonathan. Are you ready to go?
+
+85
+00:07:54.550 --> 00:07:57.930
+Lara Hill: I believe he's sharing his screen and.
+
+86
+00:07:58.140 --> 00:07:59.724
+Jonathan Stephens (he/him): And I muted myself.
+
+87
+00:08:00.120 --> 00:08:02.870
+Lara Hill: Yay, okay. Now you're ready.
+
+88
+00:08:04.510 --> 00:08:06.190
+Jonathan Stephens (he/him): You can see my screen.
+
+89
+00:08:07.510 --> 00:08:07.940
+Om Hashmi: Not yet.
+
+90
+00:08:07.940 --> 00:08:11.310
+Lara Hill: I can see it trying to start, and I'm sure it will.
+
+91
+00:08:11.640 --> 00:08:12.949
+Lara Hill: Yeah, there we go.
+
+92
+00:08:13.540 --> 00:08:14.710
+Jonathan Stephens (he/him): Okay.
+
+93
+00:08:15.600 --> 00:08:16.730
+Jonathan Stephens (he/him): So
+
+94
+00:08:20.010 --> 00:08:21.030
+Jonathan Stephens (he/him): okay.
+
+95
+00:08:26.960 --> 00:08:28.970
+Jonathan Stephens (he/him): yeah, it's not working right? Oh.
+
+96
+00:08:28.970 --> 00:08:38.120
+David Mantica--Co-host!!!: Oh, man, always stuff like this happens. Give a second. Now we can take a breath here as you work through the challenge.
+
+97
+00:08:38.289 --> 00:08:40.520
+David Mantica--Co-host!!!: I definitely want to hear this. So
+
+98
+00:08:41.159 --> 00:08:44.149
+David Mantica--Co-host!!!: we're we're cheering for you to fix up.
+
+99
+00:08:44.840 --> 00:08:47.050
+Jonathan Stephens (he/him): I think you'll just have to deal with
+
+100
+00:08:47.690 --> 00:08:49.420
+Jonathan Stephens (he/him): not seeing it in the.
+
+101
+00:08:50.340 --> 00:08:51.320
+David Mantica--Co-host!!!: Full screen.
+
+102
+00:08:51.600 --> 00:08:52.630
+Jonathan Stephens (he/him): Normal way.
+
+103
+00:08:52.630 --> 00:08:53.460
+David Mantica--Co-host!!!: That's fine!
+
+104
+00:08:53.900 --> 00:08:55.689
+Jonathan Stephens (he/him): You'll just see some of my notes.
+
+105
+00:08:55.690 --> 00:08:59.220
+David Mantica--Co-host!!!: It gives us a little bit of a brain rest, too, by the way.
+
+106
+00:08:59.800 --> 00:09:07.770
+David Mantica--Co-host!!!: and we can finish the candy discussion. I didn't see everybody respond, okay, there we go some point. I want to hear everybody's candy choice.
+
+107
+00:09:08.070 --> 00:09:12.590
+David Mantica--Co-host!!!: I would take a 3 musketeer bar any day of the week. Oh, baby. They're good.
+
+108
+00:09:13.940 --> 00:09:14.799
+David Mantica--Co-host!!!: all right. You ready?
+
+109
+00:09:14.800 --> 00:09:16.300
+Jonathan Stephens (he/him): Right? Yes.
+
+110
+00:09:17.150 --> 00:09:25.140
+Jonathan Stephens (he/him): so welcome. We've heard a lot about generative AI today. But we're going to talk about something a little bit different.
+
+111
+00:09:25.240 --> 00:09:30.069
+Jonathan Stephens (he/him): And that's no code, low code. And how they intersect with generative AI
+
+112
+00:09:31.410 --> 00:09:42.370
+Jonathan Stephens (he/him): it's interesting, because what we've what a lot of the talks today have been is getting into the Gen. AI tools and digging in into how to use those tools from the sort of
+
+113
+00:09:42.560 --> 00:09:44.110
+Jonathan Stephens (he/him): the raw
+
+114
+00:09:44.840 --> 00:09:45.950
+Jonathan Stephens (he/him): Gen. AI
+
+115
+00:09:46.080 --> 00:09:49.771
+Jonathan Stephens (he/him): tools rather than what we can use them as
+
+116
+00:09:51.180 --> 00:09:53.830
+Jonathan Stephens (he/him): in product development and what all is being made.
+
+117
+00:09:54.480 --> 00:09:57.600
+Jonathan Stephens (he/him): So we're gonna define what they are.
+
+118
+00:09:58.190 --> 00:10:02.680
+Jonathan Stephens (he/him): We're gonna see how they intersect with Gen. AI.
+
+119
+00:10:02.830 --> 00:10:06.440
+Jonathan Stephens (he/him): Look at their popularity in terms of what is the actual market
+
+120
+00:10:06.970 --> 00:10:14.450
+Jonathan Stephens (he/him): dive into a few case studies, and then look at where to start, and then we'll just do a review and random.
+
+121
+00:10:16.660 --> 00:10:32.444
+Jonathan Stephens (he/him): So along the way we'll go, from the sort of apprehensive lions and tigers and bears. Oh, my to oh, my! By the end of this, so hopefully, you'll be able to transition away from the apprehension and unknown into excitement and
+
+122
+00:10:33.310 --> 00:10:38.949
+Jonathan Stephens (he/him): Seeing the possibilities. The growth mindset that one of the earlier speakers today talked about.
+
+123
+00:10:40.230 --> 00:10:45.289
+Jonathan Stephens (he/him): So Hi, I'm Jonathan. I've spent around 17 years building stuff on the Internet
+
+124
+00:10:47.060 --> 00:11:04.129
+Jonathan Stephens (he/him): working for all sorts of different clients. Spent a decade scaling, booking.com where I started as a ux designer, but I was leading. I led the as a manager managers, the product development of the growth org.
+
+125
+00:11:04.220 --> 00:11:08.730
+Jonathan Stephens (he/him): the localization org, and then the Api
+
+126
+00:11:09.090 --> 00:11:20.944
+Jonathan Stephens (he/him): web and native app platforms for booking.com partners. Right now, I'm an independent consultant helping teams and companies design and make products better
+
+127
+00:11:23.990 --> 00:11:24.770
+Jonathan Stephens (he/him): definitions.
+
+128
+00:11:25.860 --> 00:11:26.940
+Jonathan Stephens (he/him): So
+
+129
+00:11:27.720 --> 00:11:34.440
+Jonathan Stephens (he/him): our current state of development and how software has been made is in the full. What we're calling full code.
+
+130
+00:11:34.680 --> 00:11:54.740
+Jonathan Stephens (he/him): Full code is where you have to start from the ground up. Starting from like, even. I've got this URL, and putting on a server somewhere, and I have to figure out how to change the Dns to put something there and then put code there and then add some front end to it, and then make it all work and hope it's safe somewhere, right? There's lots of process and lots of coordination for that.
+
+131
+00:11:55.330 --> 00:11:57.989
+Jonathan Stephens (he/him): But a subset of that is low code.
+
+132
+00:11:58.180 --> 00:12:07.510
+Jonathan Stephens (he/him): And then a subset of low code is no code. And Laura asked this earlier about what do I call it? Is it low code, or is it no code or what?
+
+133
+00:12:08.078 --> 00:12:15.800
+Jonathan Stephens (he/him): It's both low code is no code is low code, but there is some differentiation in the market.
+
+134
+00:12:16.090 --> 00:12:18.030
+Jonathan Stephens (he/him): and we'll see what those are now.
+
+135
+00:12:19.080 --> 00:12:29.530
+Jonathan Stephens (he/him): So no code is a way of developing software using visual logic. And these are with interfaces that you have drag and drop tools, pre-built templates and simple stuff.
+
+136
+00:12:29.620 --> 00:12:49.110
+Jonathan Stephens (he/him): Let's if you've ever built or used wordpress wordpress is technically a no code tool. They've been around for a long while. It's a lot more on the Cms side of things, the content management system, simple websites. But now that we're at a point of development
+
+137
+00:12:49.140 --> 00:12:56.589
+Jonathan Stephens (he/him): and software dev and web development that we can sort of move beyond just Cms's and start to do on more app development?
+
+138
+00:12:58.240 --> 00:13:06.699
+Jonathan Stephens (he/him): and what's cool is that the whole idea is to democratize development, allowing people to make their own software for what they need
+
+139
+00:13:07.256 --> 00:13:09.243
+Jonathan Stephens (he/him): think of it as
+
+140
+00:13:10.340 --> 00:13:26.069
+Jonathan Stephens (he/him): The way a typewriter is to writing right? So we used to go from a chisel on stone to writing with dipping your ink in your quill to now typing on your computer. And so it makes that simpler in terms of the mechanics.
+
+141
+00:13:27.870 --> 00:13:31.270
+Jonathan Stephens (he/him): It's the fastest out of the 3 to build with
+
+142
+00:13:31.280 --> 00:13:49.839
+Jonathan Stephens (he/him): very cheap compared to like hiring a dev or taking the time to learn program yourself. Easy to maintain. And it prototype simplifies prototyping, but it's less customizable. You're less admin. So you're sort of locked into whatever platform or tool you're using.
+
+143
+00:13:49.870 --> 00:13:52.540
+Jonathan Stephens (he/him): and you have to rely on that platform.
+
+144
+00:13:52.860 --> 00:14:03.149
+Jonathan Stephens (he/him): They may have an update, and it breaks everything you never know. And then there's also a scalability challenge. But that's also becoming less of a con, but it still is. Now
+
+145
+00:14:05.290 --> 00:14:10.959
+Jonathan Stephens (he/him): there's all sorts of use cases, and we'll see later on. But Bubble.
+
+146
+00:14:11.070 --> 00:14:29.649
+Jonathan Stephens (he/him): one of the big no code platforms says, a lot of their work comes from social platforms or marketplaces business automation. And there's like over 3.3 million apps developed on bubbles. No code platform. They've been doing it for more than 10 years now, I think.
+
+147
+00:14:30.980 --> 00:14:32.970
+Jonathan Stephens (he/him): so it's kind of endless.
+
+148
+00:14:34.560 --> 00:14:44.150
+Jonathan Stephens (he/him): And each of these no cool, no code tools. Specifically, they have 3 primary phases, sections, parts.
+
+149
+00:14:44.200 --> 00:14:48.069
+Jonathan Stephens (he/him): features, whatever but parts to developing a thing.
+
+150
+00:14:48.160 --> 00:14:55.019
+Jonathan Stephens (he/him): you have to have the database. So basically, where do I put the data that people input, where do I take it out?
+
+151
+00:14:55.070 --> 00:14:58.469
+Jonathan Stephens (he/him): You have to make the interface. How do I interact with the thing?
+
+152
+00:14:58.500 --> 00:15:04.679
+Jonathan Stephens (he/him): And then you have to have the logic when I press this thing that happens, the if this, then that mentality
+
+153
+00:15:07.380 --> 00:15:09.500
+Jonathan Stephens (he/him): so low code is a bit different.
+
+154
+00:15:09.770 --> 00:15:24.190
+Jonathan Stephens (he/him): it's more developed as a way to help developers speed up their development. So as a hybrid development approach, you still have visual programming tools. You still have reusable components and customizable templates. But it needs a bit more
+
+155
+00:15:24.420 --> 00:15:29.039
+Jonathan Stephens (he/him): coding and very much more knowledge. And and that software development.
+
+156
+00:15:29.300 --> 00:15:31.580
+Jonathan Stephens (he/him): either language or or
+
+157
+00:15:32.190 --> 00:15:37.190
+Jonathan Stephens (he/him): concepts. Low code is much more like Ikea furniture.
+
+158
+00:15:37.210 --> 00:15:51.829
+Jonathan Stephens (he/him): It can be a pain in the butt to make, and you can figure it out and mess it all up and take it apart. Put it back together again because you did miss the screw, but it's a heck of a lot easier than building a tree from building a table from scratch.
+
+159
+00:15:53.240 --> 00:15:54.690
+Jonathan Stephens (he/him): so it it
+
+160
+00:15:55.010 --> 00:15:57.900
+Jonathan Stephens (he/him): simplifies it. But it doesn't take away the work.
+
+161
+00:15:57.970 --> 00:16:00.889
+Jonathan Stephens (he/him): There's still more manual work in there.
+
+162
+00:16:01.950 --> 00:16:14.060
+Jonathan Stephens (he/him): So because of that ability to do your own code. That's more customizable. It's still faster to build and create than full code and maintain. And it saves developers. Tons of time.
+
+163
+00:16:14.470 --> 00:16:16.089
+Jonathan Stephens (he/him): Cons.
+
+164
+00:16:16.770 --> 00:16:26.929
+Jonathan Stephens (he/him): some of them need at least very basic coding skills. Other needs more advanced. You still don't have control as much as you would if you just own all the code and make it yourself.
+
+165
+00:16:28.270 --> 00:16:35.070
+Jonathan Stephens (he/him): it's much more expensive than no code, mostly because of size and scale, is very different than no code projects.
+
+166
+00:16:35.080 --> 00:16:40.009
+Jonathan Stephens (he/him): and it's not designed for accessibility. They tend to be designed for productivity.
+
+167
+00:16:43.482 --> 00:16:48.187
+Jonathan Stephens (he/him): Again, tons of different things to use. But a lot of the
+
+168
+00:16:49.190 --> 00:17:15.500
+Jonathan Stephens (he/him): low code tends to be more complex challenges. So customer customer Portals, looking at an employee portal. So how do I work with the Cx. And ex of a place. There's the IoT enabled applications and big orchestration of bits. But what's really interesting, I think, for the Pm. Pm. Multiple P's M side of things
+
+169
+00:17:15.500 --> 00:17:32.259
+Jonathan Stephens (he/him): is how they're being used to migrate legacy systems. So they act as a stopgap so that you can develop the next thing and sort of link the old, old code and legacy and swap it out in a lot easier and and better state.
+
+170
+00:17:33.710 --> 00:17:35.519
+Jonathan Stephens (he/him): So side by side
+
+171
+00:17:36.020 --> 00:17:46.380
+Jonathan Stephens (he/him): that covers sort of what we've talked about, right? The target user for no code or non developers, non tech people, low code developers and power users of tech.
+
+172
+00:17:47.960 --> 00:17:53.239
+Jonathan Stephens (he/him): what's fun is in the target users. There's this new thing that's becoming a more thing.
+
+173
+00:17:53.786 --> 00:18:08.270
+Jonathan Stephens (he/him): Called citizen developers. There is. It's similar to like citizen scientists of of how you do science as a citizen and keeping track of the weather change, and how that does, and to report it, and developers are taking control. And it.
+
+174
+00:18:08.450 --> 00:18:13.566
+Jonathan Stephens (he/him): citizen developers are using no code tools to make things for their own
+
+175
+00:18:14.150 --> 00:18:20.260
+Jonathan Stephens (he/him): town or city, or whatever it may be, or doing it for fun and enabling others.
+
+176
+00:18:22.300 --> 00:18:23.840
+Jonathan Stephens (he/him): yes, that's
+
+177
+00:18:24.970 --> 00:18:30.169
+Jonathan Stephens (he/him): and this is goes back to what Owen was talking about now as well.
+
+178
+00:18:30.920 --> 00:18:35.830
+Jonathan Stephens (he/him): because of the easy to learn for both, for more, no code than low code, but
+
+179
+00:18:36.360 --> 00:18:55.580
+Jonathan Stephens (he/him): because it's generally easier to learn. It's much easier to build really quick, rapid prototypes, and you have proof of concepts that you can test and get in front of customers, test it out and figure out if it's worth it, to invest in a more complex and home brewed and home built full code option.
+
+180
+00:18:57.380 --> 00:18:58.550
+Jonathan Stephens (he/him): Generally
+
+181
+00:18:58.630 --> 00:19:02.759
+Jonathan Stephens (he/him): complexity goes down as you go down. The inheritance
+
+182
+00:19:02.850 --> 00:19:09.059
+Jonathan Stephens (he/him): so full code is most complex. No code is the least same with costs, same with, etc.
+
+183
+00:19:10.530 --> 00:19:11.400
+Jonathan Stephens (he/him): I've heard.
+
+184
+00:19:11.400 --> 00:19:12.950
+David Mantica--Co-host!!!: Would be, how much
+
+185
+00:19:13.160 --> 00:19:15.900
+David Mantica--Co-host!!!: robust is there a robustness, loss
+
+186
+00:19:17.200 --> 00:19:19.279
+David Mantica--Co-host!!!: into what you can do.
+
+187
+00:19:20.940 --> 00:19:30.509
+Jonathan Stephens (he/him): It depends. I mean one. How do you find robustness? 2. There's more than 4, 300. 5,400. No code apps out there.
+
+188
+00:19:30.550 --> 00:19:34.058
+Jonathan Stephens (he/him): all with very different specializations.
+
+189
+00:19:36.420 --> 00:19:39.539
+David Mantica--Co-host!!!: Tell me, why won't more organizations move to it? Then.
+
+190
+00:19:40.270 --> 00:19:41.380
+Jonathan Stephens (he/him): Why won't.
+
+191
+00:19:41.380 --> 00:19:42.809
+David Mantica--Co-host!!!: Why don't they move to it?
+
+192
+00:19:43.890 --> 00:19:57.130
+Jonathan Stephens (he/him): There are cases there was, I forget exactly which company, but they just canceled all their salesforce contracts and workday contracts and everything else, because they said they would build their own no code tools to replace them.
+
+193
+00:19:57.380 --> 00:20:01.569
+Jonathan Stephens (he/him): because it's more custom fit to their workflow processes rather than
+
+194
+00:20:02.490 --> 00:20:03.400
+Jonathan Stephens (he/him): What.
+
+195
+00:20:03.400 --> 00:20:04.140
+David Mantica--Co-host!!!: Interesting.
+
+196
+00:20:04.140 --> 00:20:05.640
+Jonathan Stephens (he/him): Suppliers, Designed.
+
+197
+00:20:05.640 --> 00:20:08.449
+David Mantica--Co-host!!!: Okay. Do you hear that? Do you see that as a trend.
+
+198
+00:20:11.390 --> 00:20:18.190
+Jonathan Stephens (he/him): It's I think that's in the same line of trend as firing everybody, because AI will replace all the riders sort.
+
+199
+00:20:18.190 --> 00:20:21.009
+David Mantica--Co-host!!!: This is so interesting, because what you think.
+
+200
+00:20:21.280 --> 00:20:24.379
+David Mantica--Co-host!!!: what you're saying here is that there's a box right? And.
+
+201
+00:20:24.380 --> 00:20:24.770
+Jonathan Stephens (he/him): This is.
+
+202
+00:20:24.770 --> 00:20:27.729
+David Mantica--Co-host!!!: About this, too, and you can pick pick a box you want to play in.
+
+203
+00:20:27.930 --> 00:20:31.840
+David Mantica--Co-host!!!: But if you don't like the boxes you're playing, and you can try to build your own box.
+
+204
+00:20:33.540 --> 00:20:44.359
+Jonathan Stephens (he/him): yes. And it especially works with the small medium businesses. And that's sort of the target use as well and with the robustness of the tools. You can do a lot.
+
+205
+00:20:44.660 --> 00:20:49.879
+David Mantica--Co-host!!!: And what would they consider salesforce? Are they the Force language? Is it no code or low code?
+
+206
+00:20:50.010 --> 00:20:51.919
+David Mantica--Co-host!!!: What would you say they consider it to be?
+
+207
+00:20:52.530 --> 00:20:53.930
+David Mantica--Co-host!!!: That's a question from the group.
+
+208
+00:20:56.410 --> 00:21:08.210
+Jonathan Stephens (he/him): well, salesforce itself is a Crm, so it's Sas. However, they also have their own low code platform to be able to integrate and develop more closely into their ecosystem called.
+
+209
+00:21:08.210 --> 00:21:08.790
+David Mantica--Co-host!!!: Yeah, that's.
+
+210
+00:21:08.790 --> 00:21:09.430
+Jonathan Stephens (he/him): Person.
+
+211
+00:21:09.430 --> 00:21:11.180
+David Mantica--Co-host!!!: So you call it low code. Then.
+
+212
+00:21:11.700 --> 00:21:17.899
+Jonathan Stephens (he/him): That side. They probably have a no code solution. So we are building a Crm, or if you're
+
+213
+00:21:17.930 --> 00:21:19.410
+Jonathan Stephens (he/him): like a form
+
+214
+00:21:19.550 --> 00:21:35.760
+Jonathan Stephens (he/him): for intake and customer sort of reach out side of things that could be considered a no code website, right? Because you're just sort of generate. My form gives me a URL. I can send it out and link to it, and then it goes directly in there, and then I can go
+
+215
+00:21:36.120 --> 00:21:37.609
+Jonathan Stephens (he/him): through my workflow processes.
+
+216
+00:21:37.610 --> 00:21:42.320
+David Mantica--Co-host!!!: Yeah, like with Hubspot, we're coding landing pages. You can do no code landing pages.
+
+217
+00:21:42.530 --> 00:21:43.130
+Jonathan Stephens (he/him): In the brain.
+
+218
+00:21:44.050 --> 00:21:47.009
+Jonathan Stephens (he/him): The same with, that's where a lot of tools are going.
+
+219
+00:21:49.220 --> 00:21:52.549
+Jonathan Stephens (he/him): So what happens when they're combined with generative AI.
+
+220
+00:21:54.410 --> 00:21:55.430
+Jonathan Stephens (he/him): So
+
+221
+00:21:55.860 --> 00:22:00.649
+Jonathan Stephens (he/him): this is the moment where Dorothy steps out into the technicolor world of Oz.
+
+222
+00:22:00.650 --> 00:22:01.250
+David Mantica--Co-host!!!: There it is!
+
+223
+00:22:02.310 --> 00:22:04.320
+David Mantica--Co-host!!!: 1936, reference.
+
+224
+00:22:04.510 --> 00:22:05.490
+Jonathan Stephens (he/him): 39
+
+225
+00:22:07.100 --> 00:22:08.280
+Jonathan Stephens (he/him): and
+
+226
+00:22:08.600 --> 00:22:16.919
+Jonathan Stephens (he/him): it wasn't the 1st movie to be in second color, but it remains in the American Zeitgeist as like the 1st where it was because
+
+227
+00:22:16.940 --> 00:22:31.860
+Jonathan Stephens (he/him): of how much, how impactful the transition was to go from the black and white to this new to all this color, which is a new technology at the time, right color film wasn't a a thing
+
+228
+00:22:31.940 --> 00:22:34.259
+Jonathan Stephens (he/him): for the longest time even.
+
+229
+00:22:34.350 --> 00:22:36.200
+Jonathan Stephens (he/him): It's another talk on
+
+230
+00:22:36.250 --> 00:22:39.130
+Jonathan Stephens (he/him): the magic of cinema and and play. But
+
+231
+00:22:39.140 --> 00:22:50.390
+Jonathan Stephens (he/him): even how they had to do some special working and camera movements to make sure that the technicolor was shown right. It it's incredible, but
+
+232
+00:22:50.430 --> 00:23:00.170
+Jonathan Stephens (he/him): we don't see black and white color pictures anymore. We don't see black and white movies anymore unless there's clear intent of why and what they're trying to communicate.
+
+233
+00:23:00.500 --> 00:23:08.840
+Jonathan Stephens (he/him): And as I've researched for this talk, and as I've gone deeper, we're in that technicolor moment now.
+
+234
+00:23:09.340 --> 00:23:20.650
+Jonathan Stephens (he/him): technicolors a new thing, we're trying stuff out. And when you glue all that generative AI, together with the No code and low code, it software developments changed forever.
+
+235
+00:23:21.050 --> 00:23:25.790
+Jonathan Stephens (he/him): We're not going to be developing software and making things the same way. We have been
+
+236
+00:23:26.190 --> 00:23:27.240
+Jonathan Stephens (he/him): until now
+
+237
+00:23:29.140 --> 00:23:35.270
+Jonathan Stephens (he/him): so low code and no code like we said, visual development, reusable components and faster development.
+
+238
+00:23:35.460 --> 00:23:46.139
+Jonathan Stephens (he/him): Then you have low code and AI. And this is what a lot of the Github, copilot and coding assistant things are with code suggestion, automated testing and smarter debugging.
+
+239
+00:23:48.200 --> 00:23:49.689
+Jonathan Stephens (he/him): then you have an
+
+240
+00:23:50.480 --> 00:23:54.679
+Jonathan Stephens (he/him): the test driven development, those mark. I think it talked about as well.
+
+241
+00:23:54.800 --> 00:24:02.140
+Jonathan Stephens (he/him): Then you have the no code in AI, and these are intelligent templates. Right? So if I like this style of template and say
+
+242
+00:24:02.716 --> 00:24:09.693
+Jonathan Stephens (he/him): in natural language, I I like this template. But I'm actually a restaurant, not a
+
+243
+00:24:10.690 --> 00:24:12.040
+Jonathan Stephens (he/him): dog, Groomer.
+
+244
+00:24:12.070 --> 00:24:17.699
+Jonathan Stephens (he/him): Could you rework what I might need for that, and it would auto generate the ui from there.
+
+245
+00:24:20.420 --> 00:24:30.299
+Jonathan Stephens (he/him): And the future is today. All these things exist today and are being used in these ways. For rapid prototyping. And
+
+246
+00:24:30.420 --> 00:24:43.050
+Jonathan Stephens (he/him): what we had seen from again, I think it was Mark that it's shown the picture and working through how to get from the picture to what was read. And then how to develop that product. You can
+
+247
+00:24:43.070 --> 00:25:01.019
+Jonathan Stephens (he/him): make a workable, rapid prototype based off of sketches and get it in customers. See how it works, see where it could be improvement, etc. before going forward, a lot of the automation tools are trying to become are becoming more intelligent. So you have to make fewer decisions and make
+
+248
+00:25:01.410 --> 00:25:12.910
+Jonathan Stephens (he/him): that focus on critical decision making. But overall, it's democratizing development for a broader audience. So you can actually make your own tool for what you need it for your case.
+
+249
+00:25:16.250 --> 00:25:20.859
+Jonathan Stephens (he/him): Okay, but how popular are these? So what's the actual market look like?
+
+250
+00:25:21.960 --> 00:25:34.850
+Jonathan Stephens (he/him): So in 2020, Forester predicted that the market would grow to be 12 billion worth 12 billion by 2023 ended up at 13.2 billion
+
+251
+00:25:35.774 --> 00:25:41.119
+Jonathan Stephens (he/him): by the end of 2023. And they just released an import report this year
+
+252
+00:25:41.160 --> 00:25:48.060
+Jonathan Stephens (he/him): with 3 different possibilities. And this is specifically because of the of how does generative AI
+
+253
+00:25:48.400 --> 00:25:51.140
+Jonathan Stephens (he/him): when it gets thrown into the mix change things.
+
+254
+00:25:51.540 --> 00:25:55.249
+Jonathan Stephens (he/him): So 14.6 billion is where
+
+255
+00:25:55.690 --> 00:25:58.499
+Jonathan Stephens (he/him): generative AI and low code
+
+256
+00:25:58.630 --> 00:25:59.850
+Jonathan Stephens (he/him): don't mix
+
+257
+00:26:00.160 --> 00:26:05.110
+Jonathan Stephens (he/him): and low code tools get dropped off and generative AI wins.
+
+258
+00:26:05.790 --> 00:26:13.700
+Jonathan Stephens (he/him): 30 billion is the low code market stays the same and continues on what it's doing without much impact from generative AI.
+
+259
+00:26:14.120 --> 00:26:16.000
+Jonathan Stephens (he/him): The 50 billion question
+
+260
+00:26:16.530 --> 00:26:26.830
+Jonathan Stephens (he/him): is, if generative AI low code, and no code. Actually, pair really well, and companies get it done right. There's drastic more
+
+261
+00:26:26.920 --> 00:26:28.810
+Jonathan Stephens (he/him): possibilities for
+
+262
+00:26:28.970 --> 00:26:31.440
+Jonathan Stephens (he/him): larger market and a lot of money.
+
+263
+00:26:33.460 --> 00:26:36.689
+Jonathan Stephens (he/him): So Mendix, one of the
+
+264
+00:26:36.970 --> 00:26:38.970
+Jonathan Stephens (he/him): large enterprise, low code
+
+265
+00:26:39.830 --> 00:26:50.790
+Jonathan Stephens (he/him): companies did a 2024 state of low code, and I've linked to the 2021 low code as well. White paper. But
+
+266
+00:26:50.930 --> 00:26:56.849
+Jonathan Stephens (he/him): most of these companies that are in they sorry they interviewed around their
+
+267
+00:26:57.090 --> 00:27:05.840
+Jonathan Stephens (he/him): surveyed around 2,000 people across us Uk, Benelux and Japan
+
+268
+00:27:07.670 --> 00:27:16.380
+Jonathan Stephens (he/him): to see how they were using low code. And 98% of the companies they surveyed are using low code platform and tools.
+
+269
+00:27:16.530 --> 00:27:21.710
+Jonathan Stephens (he/him): and 80% of them are have improved tech teams productivity.
+
+270
+00:27:21.990 --> 00:27:23.220
+Jonathan Stephens (he/him): which is in
+
+271
+00:27:23.670 --> 00:27:25.090
+Jonathan Stephens (he/him): quite a bit like
+
+272
+00:27:25.771 --> 00:27:30.378
+Jonathan Stephens (he/him): same with reporting low code, OP reducing operational costs
+
+273
+00:27:31.410 --> 00:27:37.669
+Jonathan Stephens (he/him): And what was also interesting from this is how the coo is the primary
+
+274
+00:27:37.910 --> 00:27:46.289
+Jonathan Stephens (he/him): receiver or user, or or the topmost C-suite person that's interested in low code adoption.
+
+275
+00:27:46.754 --> 00:27:50.099
+Jonathan Stephens (he/him): In terms of who is driving change in the company.
+
+276
+00:27:52.011 --> 00:27:58.489
+Jonathan Stephens (he/him): Bubble. Another platform stated earlier, they had their own 2024 state of no code.
+
+277
+00:27:59.149 --> 00:28:01.269
+Jonathan Stephens (he/him): The people they surveyed.
+
+278
+00:28:01.390 --> 00:28:02.190
+Jonathan Stephens (he/him): or
+
+279
+00:28:02.880 --> 00:28:04.239
+Jonathan Stephens (he/him): on the on the
+
+280
+00:28:05.000 --> 00:28:06.090
+Jonathan Stephens (he/him): fly math.
+
+281
+00:28:07.810 --> 00:28:09.579
+Jonathan Stephens (he/him): 2540.
+
+282
+00:28:10.360 --> 00:28:11.679
+Jonathan Stephens (he/him): No other way around
+
+283
+00:28:12.700 --> 00:28:13.850
+Jonathan Stephens (he/him): 16,
+
+284
+00:28:14.360 --> 00:28:25.229
+Jonathan Stephens (he/him): 90, 80%, 80, 85% of the people surveyed said that by 2030 the majority of human developers will be using no code solutions.
+
+285
+00:28:25.570 --> 00:28:30.900
+David Mantica--Co-host!!!: Let me ask the group right now how many folks right now out there are using some form of low code? No code.
+
+286
+00:28:32.160 --> 00:28:34.479
+David Mantica--Co-host!!!: we say yes or no, we'd love to see it.
+
+287
+00:28:34.750 --> 00:28:35.660
+Jonathan Stephens (he/him): Yeah.
+
+288
+00:28:35.660 --> 00:28:37.689
+David Mantica--Co-host!!!: So Chris is saying. Yes, of course.
+
+289
+00:28:38.850 --> 00:28:39.450
+David Mantica--Co-host!!!: Alright.
+
+290
+00:28:39.450 --> 00:28:41.620
+Michael Wolf: And drop some names in the
+
+291
+00:28:41.760 --> 00:28:43.449
+Michael Wolf: Chad, as you're saying. Yes.
+
+292
+00:28:44.210 --> 00:28:46.699
+David Mantica--Co-host!!!: Looks like most people are using some form.
+
+293
+00:28:47.590 --> 00:28:52.229
+David Mantica--Co-host!!!: Yes. How about true coders like? Is there a true coder out there? And are they using
+
+294
+00:28:52.430 --> 00:28:56.739
+David Mantica--Co-host!!!: no code, no code, 20% of the time, 15% of the time.
+
+295
+00:29:00.120 --> 00:29:07.949
+David Mantica--Co-host!!!: So we have one true coder, and they don't have your name, because the way that it's set up, but doing government work. So they're doing none.
+
+296
+00:29:09.150 --> 00:29:15.790
+Jonathan Stephens (he/him): Yeah, I'm doing some government work now. Well, military work now, and some of the Devs are using the
+
+297
+00:29:16.770 --> 00:29:20.249
+Jonathan Stephens (he/him): using it to help support the Debbie. So.
+
+298
+00:29:20.250 --> 00:29:28.279
+David Mantica--Co-host!!!: See what's happened is you're you're gonna have to jump between your applications like, okay, if I'm working my work, if I'm working on my website. I'm gonna do low code. No code with.
+
+299
+00:29:28.280 --> 00:29:29.420
+Jonathan Stephens (he/him): Internet connectivity is big.
+
+300
+00:29:29.420 --> 00:29:44.110
+David Mantica--Co-host!!!: If I have a dev. If I have a e-commerce car, I would use shopify. So shopify low code, no code to connect in with Wordpress. Right? So then, if I'm you know, if I want to jump over and have marketing automation, I would jump in and add Hubspot to it.
+
+301
+00:29:44.430 --> 00:29:44.830
+Jonathan Stephens (he/him): Yes.
+
+302
+00:29:45.890 --> 00:29:53.980
+David Mantica--Co-host!!!: So this is what we're getting at. We're basically again, the fact when you really look at it, gen AI plus this, you could set up an Internet commerce business in the day.
+
+303
+00:29:55.583 --> 00:29:56.869
+Jonathan Stephens (he/him): Yes. Well.
+
+304
+00:29:56.870 --> 00:29:59.929
+David Mantica--Co-host!!!: Write the copy. Yeah, you I mean, you think about it.
+
+305
+00:29:59.930 --> 00:30:02.677
+Jonathan Stephens (he/him): You can set it up, you can.
+
+306
+00:30:03.070 --> 00:30:06.419
+David Mantica--Co-host!!!: I'm gonna sell all my used stuff on my desk right now. I could set up.
+
+307
+00:30:08.280 --> 00:30:09.230
+Jonathan Stephens (he/him): You'll sell.
+
+308
+00:30:09.460 --> 00:30:11.220
+David Mantica--Co-host!!!: If I had stripe right.
+
+309
+00:30:11.610 --> 00:30:13.399
+Jonathan Stephens (he/him): Yeah. Doesn't mean you'll sell anything but.
+
+310
+00:30:13.400 --> 00:30:14.709
+David Mantica--Co-host!!!: No, I might mess up.
+
+311
+00:30:14.710 --> 00:30:15.279
+Jonathan Stephens (he/him): Come on!
+
+312
+00:30:15.280 --> 00:30:15.750
+David Mantica--Co-host!!!: Bye, bye.
+
+313
+00:30:16.500 --> 00:30:20.019
+David Mantica--Co-host!!!: but that's my inventory right.
+
+314
+00:30:20.210 --> 00:30:31.150
+Jonathan Stephens (he/him): Yeah, well, and I also found interesting in Bubbles. Report is that as developers were using no code and there's no code developers now. And low code developers now.
+
+315
+00:30:31.190 --> 00:30:40.590
+Jonathan Stephens (he/him): but developers conversation with the product or the management counterparts are more focused on the outcomes than the technical complexity.
+
+316
+00:30:40.990 --> 00:30:48.540
+Jonathan Stephens (he/him): And I think that's a significant shift in in how the technology is forming the ways of working
+
+317
+00:30:49.160 --> 00:30:58.750
+Jonathan Stephens (he/him): Zapier in their own no code report this year. Their serve. Their sample size was much smaller. They're around 300 people
+
+318
+00:30:59.844 --> 00:31:00.930
+Jonathan Stephens (he/him): across the world.
+
+319
+00:31:00.950 --> 00:31:05.980
+Jonathan Stephens (he/him): and every department is using no code tools in some way.
+
+320
+00:31:06.600 --> 00:31:09.959
+Jonathan Stephens (he/him): I think, at least in the startup space notion is a big one
+
+321
+00:31:10.320 --> 00:31:16.209
+Jonathan Stephens (he/him): for just Hr. And and Company operations.
+
+322
+00:31:16.210 --> 00:31:19.530
+David Mantica--Co-host!!!: What about data governance? What about architecture?
+
+323
+00:31:19.620 --> 00:31:26.619
+David Mantica--Co-host!!!: What are what are some of the concerns as it looks? If I'm a CIO and I got this company. And all this stuff is happening.
+
+324
+00:31:26.650 --> 00:31:33.170
+David Mantica--Co-host!!!: Everybody's got these. I know. There's there's 35 different apps driving and doing coding in my company right now.
+
+325
+00:31:33.620 --> 00:31:34.330
+Jonathan Stephens (he/him): Yep.
+
+326
+00:31:34.810 --> 00:31:35.980
+Jonathan Stephens (he/him): what's your thought?
+
+327
+00:31:37.600 --> 00:31:38.640
+Jonathan Stephens (he/him): So
+
+328
+00:31:38.780 --> 00:31:41.259
+Jonathan Stephens (he/him): there's a lot about shadow it out there.
+
+329
+00:31:41.330 --> 00:31:44.350
+Jonathan Stephens (he/him): So the shadow it is the stuff that
+
+330
+00:31:44.400 --> 00:31:45.700
+Jonathan Stephens (he/him): people are using. But.
+
+331
+00:31:45.700 --> 00:31:47.380
+David Mantica--Co-host!!!: This is what we're talking about. Really, you're talking.
+
+332
+00:31:47.380 --> 00:31:48.960
+Jonathan Stephens (he/him): And there's legacy.
+
+333
+00:31:49.160 --> 00:31:50.000
+Jonathan Stephens (he/him): Yeah.
+
+334
+00:31:50.000 --> 00:31:56.619
+David Mantica--Co-host!!!: Rick talked about acceptable. Rick is talking about acceptable level of out of control. That's an interesting concept.
+
+335
+00:31:56.950 --> 00:32:02.909
+Jonathan Stephens (he/him): It's how much do you control the chaos rather than guiding it rather than sort of
+
+336
+00:32:03.340 --> 00:32:07.830
+Jonathan Stephens (he/him): adjusting with it? And this is where you can't just.
+
+337
+00:32:08.180 --> 00:32:09.999
+David Mantica--Co-host!!!: Go ahead, Rick. What, Rick? What you gonna say?
+
+338
+00:32:10.000 --> 00:32:19.089
+Rick Bauer: I would say the other. The other alternative is fascist CIO domination, which is guaranteed to crush
+
+339
+00:32:19.130 --> 00:32:23.279
+Rick Bauer: the creative spirit initiative and the speed to market.
+
+340
+00:32:23.470 --> 00:32:24.010
+David Mantica--Co-host!!!: Do you see?
+
+341
+00:32:24.010 --> 00:32:24.340
+Jonathan Stephens (he/him): That's.
+
+342
+00:32:24.340 --> 00:32:27.460
+David Mantica--Co-host!!!: Do you see? Do you see this changing, Rick? Do you see the moment.
+
+343
+00:32:27.460 --> 00:32:34.294
+Rick Bauer: Yeah, I I see. I see departments funding their own it because they're no longer
+
+344
+00:32:34.780 --> 00:32:41.780
+Rick Bauer: adopting the one size fits all and and a lot of cios are going to be
+
+345
+00:32:41.890 --> 00:32:45.220
+Rick Bauer: Ktlo, just keeping the lights on.
+
+346
+00:32:45.950 --> 00:32:47.450
+David Mantica--Co-host!!!: So interesting.
+
+347
+00:32:47.710 --> 00:32:49.700
+Rick Bauer: And yeah, anyway.
+
+348
+00:32:50.110 --> 00:32:58.469
+David Mantica--Co-host!!!: That was such a great share, Rick, thank you so much. Keep writing in, too. So keep going, Jonathan. That was. This is so interesting.
+
+349
+00:32:58.680 --> 00:33:06.990
+Jonathan Stephens (he/him): Yes, and one of the things that I think are are useful in terms of yes, the shadow it. But what you have said repeatedly, David.
+
+350
+00:33:08.260 --> 00:33:18.039
+Jonathan Stephens (he/him): this is the value. Add and the differentiator in terms of how you work. So if you can actually use some, no code tools and increase your productivity and sort of
+
+351
+00:33:18.090 --> 00:33:21.739
+Jonathan Stephens (he/him): make things happen just for your own work.
+
+352
+00:33:22.413 --> 00:33:36.860
+Jonathan Stephens (he/him): People have said here, I mean additional compensation, promotion positive recognition from leadership. So there's a lot of value in understanding what's out there, and how you might be able to plug it in, even if it's just for your personal.
+
+353
+00:33:36.880 --> 00:33:43.359
+Jonathan Stephens (he/him): your way of working. You create the tools that work best for you, and then they can go with you wherever you go.
+
+354
+00:33:43.520 --> 00:33:46.300
+Jonathan Stephens (he/him): and then, if you, if
+
+355
+00:33:46.380 --> 00:33:56.189
+Jonathan Stephens (he/him): you scale it up or add it into your company or organization. That's a different story. So there's also multiple levels of ways of working and utilizing no code in your daily tool.
+
+356
+00:33:57.090 --> 00:33:58.230
+Jonathan Stephens (he/him): So
+
+357
+00:33:59.500 --> 00:34:01.730
+Jonathan Stephens (he/him): there are a lot of tools.
+
+358
+00:34:02.489 --> 00:34:21.679
+Jonathan Stephens (he/him): Oh, that just on, only no code. It's collected more than 350 tools that you can use across back end blockchain calculators, game engines, IoT social media landing pages, knowledge bases, job boards. I mean, it's used
+
+359
+00:34:21.719 --> 00:34:23.820
+Jonathan Stephens (he/him): for all sorts of things.
+
+360
+00:34:24.218 --> 00:34:31.409
+Jonathan Stephens (he/him): And it goes back to, I think, where you just asked David, in terms of what about the architecture?
+
+361
+00:34:31.907 --> 00:34:38.450
+Jonathan Stephens (he/him): No code. I want to use for architecture. But if I can just press a button to roll out my code cool.
+
+362
+00:34:38.770 --> 00:34:47.579
+Jonathan Stephens (he/him): so you can also use it and put it into different aspects of the development lifecycle that actually could alleviate some work.
+
+363
+00:34:49.580 --> 00:34:50.729
+Jonathan Stephens (he/him): or at least.
+
+364
+00:34:51.330 --> 00:34:52.680
+Jonathan Stephens (he/him): yeah, we're
+
+365
+00:34:52.830 --> 00:34:56.129
+Jonathan Stephens (he/him): so what are some people making with this?
+
+366
+00:34:57.358 --> 00:35:00.650
+Jonathan Stephens (he/him): Bubble turns out just about everything.
+
+367
+00:35:01.170 --> 00:35:05.010
+Jonathan Stephens (he/him): They introduced a natural language process. Natural language
+
+368
+00:35:05.680 --> 00:35:14.409
+Jonathan Stephens (he/him): through generative AI ways of building apps. So you can just type in this sort of app that you're trying to build, and they'll build it out for you.
+
+369
+00:35:14.620 --> 00:35:15.315
+Jonathan Stephens (he/him): And
+
+370
+00:35:16.310 --> 00:35:21.569
+Jonathan Stephens (he/him): they're finding all sorts of language being used of. I need this sort of thing or that sort of thing.
+
+371
+00:35:22.285 --> 00:35:23.860
+Jonathan Stephens (he/him): But they don't have enough
+
+372
+00:35:23.970 --> 00:35:30.800
+Jonathan Stephens (he/him): data right now to to really have something greater than 10% of their customer searches.
+
+373
+00:35:32.170 --> 00:35:38.739
+Jonathan Stephens (he/him): So one of the tools that I found was really cool is New York City's COVID-19 mapping and Hotspot tracker.
+
+374
+00:35:38.910 --> 00:35:44.416
+Jonathan Stephens (he/him): it happened, and in April they were like, we need a solution. So this
+
+375
+00:35:45.420 --> 00:36:02.640
+Jonathan Stephens (he/him): no code platform called uncork, built out in a portal in 72 h. That enabled 8.4 million New Yorkers to self report COVID-19 data in 11 languages, coordinating Ppe donations and emergency food deliveries. It's really cool.
+
+376
+00:36:03.050 --> 00:36:05.910
+David Mantica--Co-host!!!: We got a 5 min warning, brother. 5 min warning.
+
+377
+00:36:05.910 --> 00:36:16.459
+Jonathan Stephens (he/him): Okay. A tool validated and created in 2 months, validated and tested over there 1.1 million pre-seed funding
+
+378
+00:36:17.256 --> 00:36:36.809
+Jonathan Stephens (he/him): Marty Margaritaville, managing cocktail recipes, no code app for a recipe management system on their cocktail recipes, 18% increase in profitability and of drinks because portion control 83% faster updates across their 1,000 locations or 100 plus locations.
+
+379
+00:36:37.270 --> 00:36:39.139
+Jonathan Stephens (he/him): So some of the tools.
+
+380
+00:36:40.360 --> 00:36:52.080
+Jonathan Stephens (he/him): a lot of talk today has been about Google and Microsoft, because that's what companies use. They each have their own low code, tools, power platform and app sheet for Microsoft Google respectively.
+
+381
+00:36:52.792 --> 00:37:03.249
+Jonathan Stephens (he/him): No code tech a place where you can find things, and specifically they have tools, but also guides and explainers and tutorials and just thoughts.
+
+382
+00:37:03.782 --> 00:37:05.947
+Jonathan Stephens (he/him): Only no code is another
+
+383
+00:37:06.910 --> 00:37:16.780
+Jonathan Stephens (he/him): congregate. They have a top 51 list. I've listed some of them here, but the links are in the thing to see it yourself.
+
+384
+00:37:17.408 --> 00:37:32.240
+Jonathan Stephens (he/him): What? Why I like to use these. There's so many out there they evaluate. They have descriptions of why they're choose things, etc, that can help you choose on your reason. Why do I want to go this way, or which way do I want to go?
+
+385
+00:37:33.272 --> 00:37:42.999
+Jonathan Stephens (he/him): Project management reports? I wanted something more catered to the actual audience. And and y'all so this is a site that
+
+386
+00:37:43.190 --> 00:37:49.970
+Jonathan Stephens (he/him): well, the whole purpose is to help you choose project management software by and for project managers
+
+387
+00:37:50.483 --> 00:37:55.680
+Jonathan Stephens (he/him): and these are their designations of each of their top platforms.
+
+388
+00:37:56.055 --> 00:37:59.070
+Jonathan Stephens (he/him): This is from Zapier best. No code app builder
+
+389
+00:37:59.190 --> 00:38:07.579
+Jonathan Stephens (he/him): software for beginners bubble for balance and power and easy ease of use, and they each have their own purpose.
+
+390
+00:38:08.440 --> 00:38:09.460
+Jonathan Stephens (he/him): So
+
+391
+00:38:10.030 --> 00:38:15.020
+Jonathan Stephens (he/him): options, you have more options today to get shit done or develop software
+
+392
+00:38:15.388 --> 00:38:17.619
+Jonathan Stephens (he/him): full code, low code and no code.
+
+393
+00:38:17.850 --> 00:38:21.670
+Jonathan Stephens (he/him): As you go down the inheritance, it reduces cost and complexity.
+
+394
+00:38:23.164 --> 00:38:28.150
+Jonathan Stephens (he/him): The future is today, rapid prototyping automation, democratized development
+
+395
+00:38:29.290 --> 00:38:32.639
+Jonathan Stephens (he/him): can make pretty much anything with no code and low code.
+
+396
+00:38:33.650 --> 00:38:35.000
+Jonathan Stephens (he/him): Oh, my.
+
+397
+00:38:35.810 --> 00:38:36.780
+Jonathan Stephens (he/him): thank you.
+
+398
+00:38:38.470 --> 00:38:39.160
+Jonathan Stephens (he/him): Okay.
+
+399
+00:38:40.100 --> 00:38:46.170
+David Mantica--Co-host!!!: A couple things here 1st off is that you know we're going to do this as a web seminar.
+
+400
+00:38:46.200 --> 00:38:50.029
+David Mantica--Co-host!!!: probably in a month or 2, Jonathan. So, folks, if they want to get
+
+401
+00:38:50.060 --> 00:39:19.600
+David Mantica--Co-host!!!: more time with Jonathan talking about this stuff, we want to do this as a web seminar. I just think you know, you start looking at this. And as we talked about the Gen. AI space, you can see fundamental shifts in how work is going to get done. So my thought really comes down to how much does a project manager need to know? How many of the tools should they be using? You know from a marketing perspective. I get it because we play a lot of those tools, but from a project it project management space. There's so many cool things that are going to be.
+
+402
+00:39:20.180 --> 00:39:31.449
+David Mantica--Co-host!!!: Yeah, dude is eating the low code dog food I am. I think there's some really interesting things that can happen here any any last thoughts before we bring Kara up to talk about AI certs.
+
+403
+00:39:32.340 --> 00:39:34.000
+David Mantica--Co-host!!!: Jonathan, any last thought.
+
+404
+00:39:34.550 --> 00:39:41.479
+Jonathan Stephens (he/him): I've dropped in some links. My! I've tried to fill my presentation with as many links so that you can follow up yourself.
+
+405
+00:39:41.600 --> 00:39:55.110
+Jonathan Stephens (he/him): I added, have a calendar invite here. If you do want to talk following up for today, you can go ahead and book time on my calendar. And I made a Youtube playlist with around 30 videos that I
+
+406
+00:39:55.540 --> 00:39:59.100
+Jonathan Stephens (he/him): used for researching and and all that fun stuff for this.
+
+407
+00:39:59.840 --> 00:40:02.440
+David Mantica--Co-host!!!: Excellent. So we have
+
+408
+00:40:02.710 --> 00:40:09.549
+David Mantica--Co-host!!!: Kara with AI certs, we have our break. And then we're finishing off with AI and government and digital twins. So
+
+409
+00:40:09.630 --> 00:40:13.820
+David Mantica--Co-host!!!: please stick with us, Kara. The floor is yours. Do you need to share anything.
+
+410
+00:40:15.183 --> 00:40:20.559
+Kara Flanagan: I can probably just talk through it and then share the slides later.
+
+411
+00:40:21.680 --> 00:40:23.419
+Kara Flanagan: Yeah. So wow.
+
+412
+00:40:24.120 --> 00:40:35.689
+Kara Flanagan: this is such great sessions today. Great work. Everybody. Hey? I'm Kara Flanagan. I've been in the it training industry for 20 years. Great to see some familiar faces today.
+
+413
+00:40:37.450 --> 00:40:45.139
+Kara Flanagan: I really believe in turning fear and uncertainty into hope and opportunity. And we've heard a lot of that today. So I love it.
+
+414
+00:40:45.767 --> 00:40:59.229
+Kara Flanagan: Really, really exciting stuff. And you know, a lot of courses have been mentioned today, and I think that they are really fantastic. And AI certs.
+
+415
+00:40:59.770 --> 00:41:11.700
+Kara Flanagan: we are a role-based vendor, neutral AI and Blockchain Certification Company. We have 10 practice areas of
+
+416
+00:41:12.460 --> 00:41:25.190
+Kara Flanagan: and practice areas that we focus on with 34 different certifications in a lot of the areas that have been mentioned today, like project management developer, product product manager, like all of these things. And so.
+
+417
+00:41:25.380 --> 00:41:35.539
+Kara Flanagan: you know, taking training and reinforcing that with some of our certifications, I think, would be really valuable. And our purpose really is to promote the values of lifelong learning.
+
+418
+00:41:35.540 --> 00:41:55.620
+Kara Flanagan: And we want to do this by certifying a billion people. So to continue to grow that skills gap right to continue to close the growing skills gap. So really excited to talk with more of you, you know, in the upcoming days and months, but really glad to be here.
+
+419
+00:41:55.810 --> 00:42:06.810
+Kara Flanagan: I know that we don't have a lot of time, but I could actually, if you allow me to share, I can share just sort of our portfolio.
+
+420
+00:42:07.060 --> 00:42:10.240
+David Mantica--Co-host!!!: Yes, that would be great. I think it's worthwhile for folks to see that.
+
+421
+00:42:10.460 --> 00:42:14.199
+Kara Flanagan: Okay, I think you have to let me. It says that.
+
+422
+00:42:14.200 --> 00:42:16.749
+David Mantica--Co-host!!!: Yeah, it's Laura, are you there, Laura? Yes.
+
+423
+00:42:16.750 --> 00:42:20.060
+Lara Hill: Just clicked to make you co-host. So please try again.
+
+424
+00:42:20.060 --> 00:42:23.010
+David Mantica--Co-host!!!: And I'm not being lazy, but I don't have the capability. She.
+
+425
+00:42:23.010 --> 00:42:25.359
+Kara Flanagan: No, it's okay. It's okay.
+
+426
+00:42:27.590 --> 00:42:29.180
+Kara Flanagan: Okay.
+
+427
+00:42:29.420 --> 00:42:31.060
+Kara Flanagan: Are you seeing my Powerpoint? Yes.
+
+428
+00:42:31.060 --> 00:42:31.980
+David Mantica--Co-host!!!: It's coming!
+
+429
+00:42:33.690 --> 00:42:35.760
+David Mantica--Co-host!!!: It's coming! There it is!
+
+430
+00:42:36.330 --> 00:42:38.800
+Kara Flanagan: Okay, perfect.
+
+431
+00:42:39.100 --> 00:42:45.900
+Kara Flanagan: And oh, by the way, I use some of these new tools I learned today to increase my. So my my slides.
+
+432
+00:42:45.900 --> 00:42:46.990
+David Mantica--Co-host!!!: Oh, great!
+
+433
+00:42:47.580 --> 00:42:48.170
+Kara Flanagan: Thanks.
+
+434
+00:42:48.170 --> 00:42:48.980
+David Mantica--Co-host!!!: Brilliant.
+
+435
+00:42:49.740 --> 00:43:03.169
+Kara Flanagan: Yes, I've been waiting for marketing, and I think I can't remember who said it. But somebody said, You know you have. You wait, and you try to do these images. And I literally did a whole presentation today by using some of those skills and listening at the same time.
+
+436
+00:43:03.631 --> 00:43:16.629
+Kara Flanagan: But I just wanted to show our large portfolio of certifications so that you could see we have so many on a lot of the things, you know, and we have them in self paced.
+
+437
+00:43:16.630 --> 00:43:23.709
+David Mantica--Co-host!!!: Car. Can you click your screen and try to magnify by like 2? If you click the face of your screen, can you see magnification.
+
+438
+00:43:25.930 --> 00:43:32.829
+David Mantica--Co-host!!!: And so the screen you're working. Oh, no! With a right click on. Go back, slide. Can you? Right, click the screen and see magnification or no.
+
+439
+00:43:33.700 --> 00:43:34.820
+Kara Flanagan: Maybe
+
+440
+00:43:35.060 --> 00:43:36.919
+Kara Flanagan: yes. Is that.
+
+441
+00:43:37.507 --> 00:43:42.069
+David Mantica--Co-host!!!: It's not working out exactly where I wanted. That's okay. I just wanted to be able to see folks to see them.
+
+442
+00:43:42.570 --> 00:43:42.970
+Kara Flanagan: Okay.
+
+443
+00:43:42.970 --> 00:43:48.130
+David Mantica--Co-host!!!: Look closely, you can see that it's AI plus cloud. You see the different titles
+
+444
+00:43:48.560 --> 00:43:49.570
+David Mantica--Co-host!!!: for sure. Let's keep going.
+
+445
+00:43:49.570 --> 00:44:03.370
+Kara Flanagan: Yeah, there's so many like and so many that came up today. So definitely, pairs, really? Well, with a lot of the training you talked about. We'll be giving away a couple certifications and a discount in in the materials that go out after this. So
+
+446
+00:44:03.520 --> 00:44:05.469
+Kara Flanagan: yeah, thank you so much.
+
+447
+00:44:07.490 --> 00:44:08.639
+David Mantica--Co-host!!!: Look at that
+
+448
+00:44:10.160 --> 00:44:11.660
+David Mantica--Co-host!!!: all right.
+
+449
+00:44:11.670 --> 00:44:13.969
+David Mantica--Co-host!!!: Any questions for Cara.
+
+450
+00:44:18.160 --> 00:44:23.120
+David Mantica--Co-host!!!: All right, Laura. Any we got a couple more minutes before we kick it back off.
+
+451
+00:44:23.560 --> 00:44:28.339
+Lara Hill: Yeah, I've got a couple of minutes. Here. Is anybody want to make any comments or
+
+452
+00:44:28.850 --> 00:44:32.950
+Lara Hill: questions? We have a great presenter coming up in just a moment.
+
+453
+00:44:33.530 --> 00:44:38.259
+Lara Hill: Be happy to welcome Taher Jamshidi to the stage.
+
+454
+00:44:41.100 --> 00:44:42.580
+Lara Hill: Let's see.
+
+455
+00:44:42.580 --> 00:44:44.989
+Michael Wolf: I'm missing. Is this an official break or not?
+
+456
+00:44:44.990 --> 00:44:49.100
+David Mantica--Co-host!!!: Yeah, give it. Give you a 3 to 5 min break. Yeah, we'll do an official break. Go for it.
+
+457
+00:44:50.620 --> 00:44:55.880
+Jonathan Stephens (he/him): I just dropped a linkedin. I didn't cover it in my presentation, but showed the slide.
+
+458
+00:44:56.731 --> 00:44:59.819
+Jonathan Stephens (he/him): If anyone's interested in becoming an aipm.
+
+459
+00:45:00.280 --> 00:45:04.369
+Jonathan Stephens (he/him): there's categories and different things that sort of are breaking down and
+
+460
+00:45:04.520 --> 00:45:05.790
+Jonathan Stephens (he/him): ways to get there.
+
+461
+00:45:05.790 --> 00:45:07.010
+David Mantica--Co-host!!!: Thank you, sir.
+
+462
+00:45:08.410 --> 00:45:09.170
+Lara Hill: Right.
+
+463
+00:45:16.150 --> 00:45:21.060
+Lara Hill: So I guess we'll get started again. 3, 30. That sounds good.
+
+464
+00:45:21.060 --> 00:45:24.039
+David Mantica--Co-host!!!: Let's do 3, 30, yeah, just a few more minutes, just to stretch out.
+
+465
+00:45:24.590 --> 00:45:25.839
+Lara Hill: Yeah, stretch. Break.
+
+466
+00:45:25.840 --> 00:45:33.700
+David Mantica--Co-host!!!: I know. I think you know Laura and I keep talking about it. Do we do? 2 half days, you know. You know. How much content do you want?
+
+467
+00:45:33.910 --> 00:45:53.009
+David Mantica--Co-host!!!: I think the nice thing is is that even as people move out, and in these are all recorded. So you go back and get information, and I do think the chat Gtp, the Gtp. We're going to be building for you is going to give you a lot of capability to be able to go back and pull information, but we do have to figure out how to break it up
+
+468
+00:45:53.190 --> 00:45:55.359
+David Mantica--Co-host!!!: lower with a few breaks. I think.
+
+469
+00:45:56.860 --> 00:46:07.530
+Lara Hill: I have a good question in the chat from Lauren for you, Kara, potentially. Do you have details on pursuing an AI Pm, cert, so project management.
+
+470
+00:46:13.670 --> 00:46:17.327
+Kara Flanagan: Absolutely. Yeah. I was just looking at that, and I will
+
+471
+00:46:17.700 --> 00:46:18.840
+Kara Flanagan: check it out.
+
+472
+00:46:21.000 --> 00:46:29.540
+Lara Hill: And feel free. Remember everyone you can direct message speakers. You can direct message participants so feel free to do that.
+
+473
+00:46:30.890 --> 00:46:34.160
+David Mantica--Co-host!!!: All right, 2 sessions left.
+
+474
+00:46:34.720 --> 00:46:36.929
+David Mantica--Co-host!!!: 2 important sessions left.
+
+475
+00:46:37.220 --> 00:46:38.400
+Lara Hill: Yes.
+
+476
+00:46:38.400 --> 00:46:42.470
+David Mantica--Co-host!!!: Yeah, I'm definitely very keen on hearing the AI in government. I'm not
+
+477
+00:46:42.620 --> 00:46:47.350
+David Mantica--Co-host!!!: well versed there. I want to hear some of the issues, the concerns. I'm really looking forward to
+
+478
+00:46:47.680 --> 00:46:49.380
+David Mantica--Co-host!!!: getting a better grasp.
+
+479
+00:46:58.940 --> 00:47:03.019
+David Mantica--Co-host!!!: Anything pop for anybody. Is there anything specific like, wow!
+
+480
+00:47:04.200 --> 00:47:14.540
+David Mantica--Co-host!!!: Regular intelligence? Any wow moments, any piece of information that sticks out in your in your head. I mean, the gamma stuff is great for me, because I do have to start using that tool.
+
+481
+00:47:15.340 --> 00:47:22.210
+David Mantica--Co-host!!!: I have to start using that tool. The low code. No code stuff just blows my mind as it relates to how come this hasn't scaled.
+
+482
+00:47:25.200 --> 00:47:27.780
+David Mantica--Co-host!!!: You need to get a grip.
+
+483
+00:47:34.950 --> 00:47:37.409
+David Mantica--Co-host!!!: Oh, tpm, I, someone's interested in
+
+484
+00:47:40.870 --> 00:47:44.450
+David Mantica--Co-host!!!: had to write a business plan for George. It was worth it. Okay.
+
+485
+00:47:49.310 --> 00:47:50.180
+David Mantica--Co-host!!!: any other thoughts.
+
+486
+00:47:50.180 --> 00:47:54.009
+Cris Casey: You say that the low code and no code is not scaling.
+
+487
+00:47:54.620 --> 00:47:59.230
+David Mantica--Co-host!!!: I just, you know, from enterprise perspective, Chris, I don't.
+
+488
+00:47:59.310 --> 00:48:12.940
+David Mantica--Co-host!!!: I don't see people saying, Hey, I need someone specific to work these tools. People are asking us to support them and helping them trans transition people into using the tools.
+
+489
+00:48:13.270 --> 00:48:17.790
+David Mantica--Co-host!!!: I mean, there's just no comment. Is it just so easy that it's just happening.
+
+490
+00:48:18.230 --> 00:48:19.100
+Rick Bauer: Should be.
+
+491
+00:48:19.583 --> 00:48:20.550
+David Mantica--Co-host!!!: What's that?
+
+492
+00:48:22.270 --> 00:48:27.029
+Cris Casey: It is, it is! That's the that's the whole beauty behind it.
+
+493
+00:48:28.090 --> 00:48:36.559
+Cris Casey: So there's like lots of you don't hear people saying, Oh, hey! We just put in an sap erp no
+
+494
+00:48:38.310 --> 00:48:41.890
+Cris Casey: So that Genesis is going on.
+
+495
+00:48:43.470 --> 00:48:44.300
+David Mantica--Co-host!!!: Okay.
+
+496
+00:48:44.490 --> 00:48:51.870
+Michael Wolf: So, Chris, I put a plug in for you, being a kind of expert on low code. No, code. What's your summary of what you see it scaling and
+
+497
+00:48:51.900 --> 00:48:53.330
+Michael Wolf: getting traction.
+
+498
+00:48:56.020 --> 00:48:57.030
+Michael Wolf: What are you saying.
+
+499
+00:48:57.030 --> 00:48:58.669
+David Mantica--Co-host!!!: Already does. He's saying
+
+500
+00:48:58.890 --> 00:49:00.330
+David Mantica--Co-host!!!: it's already loaded.
+
+501
+00:49:00.760 --> 00:49:06.459
+Cris Casey: The existing. The existing players in that space who have entrenched markets are going to do
+
+502
+00:49:06.470 --> 00:49:10.109
+Cris Casey: very well as they adopt AI
+
+503
+00:49:10.510 --> 00:49:21.089
+Cris Casey: into their development practices and into their products. Just like somebody said, Hey, you know, we've got AI that's built into Zoom or AI that's built into excel.
+
+504
+00:49:21.780 --> 00:49:26.460
+Cris Casey: Well, when you build AI into a low code or no code environment.
+
+505
+00:49:27.000 --> 00:49:29.720
+Cris Casey: you can think of it as amplifying
+
+506
+00:49:29.740 --> 00:49:35.830
+Cris Casey: in a much broader sense some of these point specific tools. So
+
+507
+00:49:36.900 --> 00:49:39.160
+Cris Casey: it's only going up like a rocket.
+
+508
+00:49:39.820 --> 00:49:40.900
+David Mantica--Co-host!!!: Excellent.
+
+509
+00:49:47.090 --> 00:49:51.430
+Cris Casey: But it's the citizen. It's the citizen developers who will drive it.
+
+510
+00:49:53.330 --> 00:49:56.600
+Cris Casey: Which kind of pushed the technologists out of the picture.
+
+511
+00:49:58.300 --> 00:50:04.669
+Cris Casey: Except for the back office or the behind the scenes behind the scenes things.
+
+512
+00:50:04.960 --> 00:50:16.569
+David Mantica--Co-host!!!: Yeah, there's so many different transitions, and that how things are gonna could go. But I also see the technologies helping people understand what they could do, and then be connecting different tools together, and different capabilities together.
+
+513
+00:50:17.580 --> 00:50:19.700
+Cris Casey: Yeah, but that's that's the same
+
+514
+00:50:19.960 --> 00:50:23.809
+Cris Casey: that assumes it's the same model that we've seen over the past.
+
+515
+00:50:24.140 --> 00:50:26.639
+Cris Casey: I don't know. 70 years since
+
+516
+00:50:26.650 --> 00:50:30.080
+Cris Casey: we started to look at information as something different.
+
+517
+00:50:30.340 --> 00:50:32.710
+Cris Casey: And the technologists have, you know.
+
+518
+00:50:33.210 --> 00:50:36.439
+Cris Casey: you see this in the stats from the previous presenters.
+
+519
+00:50:37.620 --> 00:50:46.669
+Cris Casey: Despite all this, the technology led projects and the things that are still controlled by it. The failure rate on these things is.
+
+520
+00:50:46.820 --> 00:50:53.359
+Cris Casey: it hasn't budged. The needle has not budged, not with Pmi, not with Agile.
+
+521
+00:50:53.600 --> 00:50:57.860
+Cris Casey: It's the failure. Rates remain constant.
+
+522
+00:50:58.500 --> 00:50:59.130
+David Mantica--Co-host!!!: All right.
+
+523
+00:50:59.960 --> 00:51:03.599
+David Mantica--Co-host!!!: We're going to keep talking about that at 5. Let's jump into it, Laura. Go ahead.
+
+524
+00:51:04.740 --> 00:51:14.690
+Lara Hill: Well, in the interest of time, I'd like to go ahead and turn it over to Taher Jamshini, who is joining us as here on the stage. Love to go ahead and have you introduce yourself.
+
+525
+00:51:15.540 --> 00:51:18.670
+Taher Jamshidi: Thank you. Thank you, Laura. Glad to be here.
+
+526
+00:51:19.690 --> 00:51:23.019
+Taher Jamshidi: Just gonna start my screen. And then I can
+
+527
+00:51:23.710 --> 00:51:25.501
+Taher Jamshidi: talk through that. So.
+
+528
+00:51:26.470 --> 00:51:38.779
+Taher Jamshidi: so yeah, thanks so much for for having me. It's it's it's great to be here, and especially being part of this generative AI Enterprise adoption. Conference.
+
+529
+00:51:39.010 --> 00:51:57.870
+Taher Jamshidi: Today's conference. As I was listening to focuses on enterprise applications of generative AI. But I'll be taking a different approach. My focus will be on how this technology can be leveraged specifically in the public sector, a space where the needs and challenges are unique compared to the private sector.
+
+530
+00:51:57.870 --> 00:51:58.860
+David Mantica--Co-host!!!: Yes.
+
+531
+00:51:59.947 --> 00:52:18.760
+Taher Jamshidi: By way of introduction, I lead Alpha AI, a consulting firm dedicated to helping government agencies, adopt forward thinking secure and impactful AI solutions. We believe that to achieve mission success, the public sector requires AI solutions that are both agile and reliable.
+
+532
+00:52:19.250 --> 00:52:39.289
+Taher Jamshidi: At Alpha AI. Our work centers on empowering public sector organizations through tailored AI and analytics solutions. We support digital transformation strategies, set up innovation hubs and deploy cutting edge tools that enable government agencies to lead confidently and stay prepared for the challenges ahead.
+
+533
+00:52:40.370 --> 00:52:54.079
+Taher Jamshidi: With that, let's start our discussion on navigating generative AI in the public sector. We'll look at the immense potential. This technology brings, as well as the challenges that come with implementing it securely and responsibly. In government settings.
+
+534
+00:52:54.460 --> 00:52:58.970
+Taher Jamshidi: Generative AI offers the public sector a potent tool.
+
+535
+00:52:59.000 --> 00:53:05.709
+Taher Jamshidi: one that can reshape government operations, but only if its deployment is thoughtfully managed.
+
+536
+00:53:05.740 --> 00:53:20.440
+Taher Jamshidi: Unlike commercial uses, public sector, applications must navigate a landscape where compliance, trust, and security are paramount, generative. AI could in principle streamline services and enable smarter decision making.
+
+537
+00:53:20.450 --> 00:53:25.310
+Taher Jamshidi: yet its true value will emerge only if risks are carefully calibrated
+
+538
+00:53:25.330 --> 00:53:29.400
+Taher Jamshidi: and benefits aligned with the unique demands of public missions
+
+539
+00:53:29.870 --> 00:53:51.000
+Taher Jamshidi: as project managers and implementation leaders. In this space. Your roles are critical. You're not just driving innovation. You're also responsible for ensuring these AI initiatives remain secure, compliant, and scalable. This responsibility is huge, especially in the public sector, where stakes are high and the implications are broad.
+
+540
+00:53:51.130 --> 00:53:55.340
+Taher Jamshidi: So here's a big question to keep in mind throughout this session.
+
+541
+00:53:55.740 --> 00:53:57.439
+Taher Jamshidi: Can generative AI
+
+542
+00:53:57.500 --> 00:54:04.929
+Taher Jamshidi: truly transform the public sector? Or are we potentially opening doors to risks that are beyond our control.
+
+543
+00:54:05.730 --> 00:54:09.689
+Taher Jamshidi: To answer this, let's break it down and walk through today's agenda.
+
+544
+00:54:09.740 --> 00:54:17.429
+Taher Jamshidi: Each part will explore practical approaches for navigating generative AI applications within the unique landscape of public sector work.
+
+545
+00:54:17.720 --> 00:54:34.849
+Taher Jamshidi: First, st we'll start by exploring the unique role of generative AI in the public sector. Generative AI is revolutionizing various industries. But the public sector has distinct needs and challenges. In this part. We'll highlight what sets this space apart and why a specialized approach is essential.
+
+546
+00:54:35.520 --> 00:54:48.009
+Taher Jamshidi: Next, we'll move into the 3 pillars of generative AI adoption in the public sector. These pillars provide a structured approach to ensure AI is not only effective but also secure and sustainable.
+
+547
+00:54:48.250 --> 00:54:51.970
+Taher Jamshidi: They will serve as our guide for responsible adoption.
+
+548
+00:54:52.520 --> 00:55:06.010
+Taher Jamshidi: In Part 3. We'll cover emerging use cases and potential impact. Here we'll discuss the specific applications of generative AI that could bring substantial benefit to public sector operations, transforming everything from citizen engagement
+
+549
+00:55:06.040 --> 00:55:08.400
+Taher Jamshidi: to internal processes.
+
+550
+00:55:08.760 --> 00:55:29.009
+Taher Jamshidi: And finally, we'll wrap up with a roadmap for responsible generative AI adoption. This roadmap will outline actionable steps for implementing generative AI that aligns with the values and mission of the public sector. With that, let's dive into part one and set the foundation for mission-driven AI in the public sector.
+
+551
+00:55:29.580 --> 00:55:37.880
+Taher Jamshidi: Generative AI offers a powerful tool for government agencies, one that could potentially reshape how public services are delivered.
+
+552
+00:55:37.900 --> 00:55:46.929
+Taher Jamshidi: But unlike in the commercial sector, where innovation can often move fast and with fewer constraints, public sector applications face a unique landscape
+
+553
+00:55:47.350 --> 00:55:55.010
+Taher Jamshidi: in this context. Agencies don't just want innovation. They need solutions that are compliant, trusted, and secure.
+
+554
+00:55:55.120 --> 00:55:57.040
+Taher Jamshidi: These aren't just boxes to check.
+
+555
+00:55:57.070 --> 00:56:05.089
+Taher Jamshidi: They're essential for maintaining public trust and meeting strict regulatory regulations that exist for a reason.
+
+556
+00:56:05.640 --> 00:56:19.209
+Taher Jamshidi: Generative AI could truly streamline services, allowing agencies to make smarter data, driven decisions. Imagine smoother citizen services or faster policy analysis all powered by I. But here's the catch.
+
+557
+00:56:19.380 --> 00:56:28.560
+Taher Jamshidi: This potential will only be realized if you carefully manage the risks and make sure that these benefits align with public sector missions.
+
+558
+00:56:29.170 --> 00:56:40.379
+Taher Jamshidi: Now, with these unique demands in mind, let's look 1st at the challenges generative AI brings, and then the opportunities that we need to address to unlock its full potential in the public sector.
+
+559
+00:56:41.540 --> 00:56:48.790
+Taher Jamshidi: There are some real concerns here which are unique to the responsibilities and standards required in government settings.
+
+560
+00:56:49.200 --> 00:57:00.110
+Taher Jamshidi: 1st up is data, privacy and security in the public sector. Agencies deal with sensitive information that requires strict controls on where and how data is processed.
+
+561
+00:57:00.250 --> 00:57:08.260
+Taher Jamshidi: Generative AI here has to operate under privacy and security protocols that go well beyond what's typically seen in the commercial world.
+
+562
+00:57:08.380 --> 00:57:24.300
+Taher Jamshidi: Many of these applications need in network data handling meaning that data should ideally stay within secure government control systems, not external cloud platforms. This means that technology should meet the standards like Fisma and Fedramp.
+
+563
+00:57:24.310 --> 00:57:37.630
+Taher Jamshidi: compliance is essential to avoid data breaches and keep sensitive information protected, and security is the backbone of generative AI deployment in this space, making it a core challenge. We need to address thoughtfully.
+
+564
+00:57:38.590 --> 00:57:42.099
+Taher Jamshidi: Then there's a challenge of ethics and public accountability
+
+565
+00:57:42.160 --> 00:57:49.999
+Taher Jamshidi: in the public sector. AI doesn't just impact the mission. It impacts citizen lives rights and access to services
+
+566
+00:57:50.080 --> 00:58:04.740
+Taher Jamshidi: here issues like AI bias and misinformation or black box decision making can really undermine public trust and even have legal consequences. Generative AI must maintain the highest ethical standards, often going further
+
+567
+00:58:04.780 --> 00:58:26.500
+Taher Jamshidi: than private sector applications, and to address this generative AI needs transparency and fairness built in. That's why we are seeing the use of explainable AI frameworks and bias detection tools. These help ensure outcomes are clear and unbiased. But achieving this level of accountability requires a rigorous approach that's unique to the public sector.
+
+568
+00:58:27.080 --> 00:58:32.650
+Taher Jamshidi: And finally, there's the issue of scalability and integration across agencies.
+
+569
+00:58:32.760 --> 00:58:40.810
+Taher Jamshidi: Generative AI for government use often needs to work across multiple departments which brings its own set of challenges.
+
+570
+00:58:40.890 --> 00:58:47.930
+Taher Jamshidi: a standardizing data, handling ensuring secure integrations and managing compliance across different policies.
+
+571
+00:58:48.060 --> 00:59:12.329
+Taher Jamshidi: Unlike the private sector, where scalability is often associated with growth, scalability in the public sector is often about adapting AI to meet the varied mandates of different agencies. This requires adaptable frameworks, such as market services, or for modularity and federated learning for secure decentralized data, training
+
+572
+00:59:12.500 --> 00:59:33.969
+Taher Jamshidi: together. These frameworks enable agencies to meet their specific compliance standards while collaborating effectively, adding a level of complexity. Again, that's not always present in commercial AI applications. So these are 3 of the core challenges we need to navigate. If you're going to make generative AI work effectively and responsibly in the public sector.
+
+573
+00:59:35.300 --> 00:59:51.429
+Taher Jamshidi: Now that we've covered the challenges, let's look at some of the exciting opportunities generative AI offers the public sector. These are the areas where AI can add real tangible value, helping government agencies operate more efficiently and serve the public better.
+
+574
+00:59:52.290 --> 01:00:07.679
+Taher Jamshidi: First, st let's talk about operational resilience and efficiency. Generative AI can take on a range of repetitive tasks, from drafting legal documents to pulling together complex regulatory data tasks that take up a lot of time and resources when done manually.
+
+575
+01:00:07.730 --> 01:00:11.059
+Taher Jamshidi: We're not just talking about marginal gains here. Studies
+
+576
+01:00:11.080 --> 01:00:30.319
+Taher Jamshidi: show that public sector could potentially save a lot of operational costs by using generative AI. The aim here is to build a government infrastructure that's more agile and responsive and infrastructure that can adjust quickly to public needs without being bogged down by traditional processes.
+
+577
+01:00:31.160 --> 01:00:35.150
+Taher Jamshidi: Next is enhanced public engagement and citizen services.
+
+578
+01:00:35.250 --> 01:00:46.509
+Taher Jamshidi: Generative AI enables agencies to interact with citizens in a more personalized, responsive way. Think of virtual assistants offering 24 7 support that adapt to each person's needs.
+
+579
+01:00:46.690 --> 01:00:54.219
+Taher Jamshidi: The main value here is about improving citizen satisfaction by providing services that feel accessible and tailored.
+
+580
+01:00:54.650 --> 01:01:03.869
+Taher Jamshidi: For example, with generative AI driven round the clock. Virtual assistants agencies can manage higher service volumes without constantly increasing their teams.
+
+581
+01:01:04.180 --> 01:01:09.799
+Taher Jamshidi: This is an opportunity for generative AI to help government be more transparent and accessible.
+
+582
+01:01:10.050 --> 01:01:13.040
+Taher Jamshidi: ultimately building greater public trust.
+
+583
+01:01:13.770 --> 01:01:35.039
+Taher Jamshidi: And finally, let's talk about data-driven policy and strategic planning generative AI's ability to analyze massive data sets quickly makes it a powerful tool for crafting policies. AI here can model scenarios, help generate actionable strategies and refine policies based on real data insights.
+
+584
+01:01:35.240 --> 01:01:36.330
+Taher Jamshidi: For instance.
+
+585
+01:01:36.410 --> 01:01:55.940
+Taher Jamshidi: agencies might use AI to tackle challenges like infrastructure planning public health responses, or even to support a national strategy focused on economic diversification. Generative AI lets agencies be proactive, aligning resources to changing priorities and making policies that are both responsive and strategic.
+
+586
+01:01:56.940 --> 01:02:00.600
+Taher Jamshidi: These opportunities show the enormous potential of generative AI.
+
+587
+01:02:00.660 --> 01:02:07.710
+Taher Jamshidi: And as we move forward we will see how these benefits can be realized responsibly in the public sector.
+
+588
+01:02:08.410 --> 01:02:09.210
+Taher Jamshidi: So
+
+589
+01:02:09.800 --> 01:02:11.140
+Taher Jamshidi: here's a big question.
+
+590
+01:02:11.460 --> 01:02:21.410
+Taher Jamshidi: how can we leverage generative AI's opportunities while managing its unique challenges in the public sector. It's a question that keeps coming up. And for good reason.
+
+591
+01:02:21.840 --> 01:02:40.649
+Taher Jamshidi: On one hand, we have these powerful opportunities. Generative AI can improve efficiency, engage citizens better and give us data, driven decision-making support to transform policymaking. But, on the other hand, we are navigating serious challenges, especially when it comes to data security, ethical, conscious considerations.
+
+592
+01:02:40.800 --> 01:02:44.780
+Taher Jamshidi: and the complexities of a scaling across different government departments.
+
+593
+01:02:44.930 --> 01:02:58.169
+Taher Jamshidi: So as we move into the next part. Let's look at a structured approach for making this work. We'll explore 3 fundamental pillars that can help us maximize the benefits of generative AI while keeping these challenges in check.
+
+594
+01:02:58.360 --> 01:03:07.910
+Taher Jamshidi: These pillars offer a roadmap, not just for successful deployment, but for responsible adoption that aligns with the public sector's mission.
+
+595
+01:03:09.340 --> 01:03:14.220
+Taher Jamshidi: Our 1st pillar is a strategic implementation and scalability
+
+596
+01:03:14.340 --> 01:03:27.200
+Taher Jamshidi: in the public sector. Scalability isn't just about expanding capabilities. It's about doing so with a strategic, careful approach that maximizes impact while managing resources effectively
+
+597
+01:03:29.000 --> 01:03:38.629
+Taher Jamshidi: generative. AI has a potential to add an estimated 967 billion dollars in productivity gains to the public sector by 2034.
+
+598
+01:03:39.000 --> 01:03:42.779
+Taher Jamshidi: This shows the incredible impact AI could have
+
+599
+01:03:42.910 --> 01:03:44.829
+Taher Jamshidi: if implemented thoughtfully.
+
+600
+01:03:44.960 --> 01:03:58.360
+Taher Jamshidi: But to truly capture this value agencies need a strategic approach. Starting with targeted pilot programs and a scalable modular architecture that support long-term.
+
+601
+01:03:58.390 --> 01:03:59.710
+Taher Jamshidi: flexible growth.
+
+602
+01:04:00.150 --> 01:04:12.900
+Taher Jamshidi: The journey to scalable generative AI in the public sector starts with targeted high impact pilot programs. These pilots focus on projects where the potential return is high, but the initial investment remains low.
+
+603
+01:04:13.140 --> 01:04:26.880
+Taher Jamshidi: Take a quick wins. Applications like document generations for internal use or synthesizing data for specific departments. These projects allow agencies to demonstrate value early on refining systems as they go
+
+604
+01:04:27.030 --> 01:04:38.919
+Taher Jamshidi: by building these early successes, agencies create a solid foundation, establish visibility, gain critical insights, and build momentum for larger, more ambitious rollouts down the line.
+
+605
+01:04:39.350 --> 01:04:55.639
+Taher Jamshidi: achieving scalability in the public sector, relies on a modular architecture, so flexibility is essential here given the diverse needs across agencies. A modular design allows agencies to integrate AI engines such as those for supply chain optimizations.
+
+606
+01:04:55.720 --> 01:04:58.909
+Taher Jamshidi: resource, forecasting or demand, modeling
+
+607
+01:04:58.990 --> 01:05:05.080
+Taher Jamshidi: incrementally rather than deploying everything at once or replacing entire systems.
+
+608
+01:05:05.490 --> 01:05:25.999
+Taher Jamshidi: For instance, in emergency management, a forecasting engine could project resource needs during crisis, while the supply chain optimization engine manages logistics for rapid response. Meanwhile a specialized AI agents operate at a higher level, managing multiple AI engines and assisting with key decision-making processes.
+
+609
+01:05:26.000 --> 01:05:37.590
+Taher Jamshidi: These agents monitor compliance and real-time data collection and coordinate between departments ensuring each AI component functions in alignment with the public sector standards.
+
+610
+01:05:37.800 --> 01:05:50.040
+Taher Jamshidi: This approach allows agencies to add or update engines and agents as requirements evolve, creating an adaptable AI infrastructure that supports mission critical goals.
+
+611
+01:05:50.540 --> 01:06:00.240
+Taher Jamshidi: distributing AI capabilities in this way agencies maintain a resilient scalable system that can adapt to shifting demands without unnecessary overhauls
+
+612
+01:06:00.340 --> 01:06:12.380
+Taher Jamshidi: in summary the strategic implementation with targeted pilots and modular design lays the groundwork for a sustainable, scalable AI system that can grow with the public sector's evolving needs.
+
+613
+01:06:13.580 --> 01:06:16.980
+Taher Jamshidi: Our second pillar is risk and compliance framework
+
+614
+01:06:17.430 --> 01:06:24.610
+Taher Jamshidi: in the public sector building. A strong foundation of trust and accountability is essential when implementing generative AI.
+
+615
+01:06:25.310 --> 01:06:38.770
+Taher Jamshidi: It is surprising. But only 15% of public sector entities currently have policies to address data inaccuracy in generative AI applications. That means the majority of agencies are potentially at risk.
+
+616
+01:06:39.000 --> 01:06:40.469
+Taher Jamshidi: as they lack
+
+617
+01:06:40.510 --> 01:06:47.250
+Taher Jamshidi: framework to prevent and manage AI inaccuracies. This is why a robust risk and compliance framework is essential.
+
+618
+01:06:47.930 --> 01:06:53.260
+Taher Jamshidi: Trust in AI is critical for public sector adoption, and while building trust takes time.
+
+619
+01:06:53.360 --> 01:06:56.640
+Taher Jamshidi: Transparency and explainability
+
+620
+01:06:56.690 --> 01:06:59.390
+Taher Jamshidi: are 2 essential 1st steps.
+
+621
+01:06:59.410 --> 01:07:00.830
+Taher Jamshidi: By forcing.
+
+622
+01:07:01.150 --> 01:07:22.099
+Taher Jamshidi: by by focusing on explainable AI agencies can create models where decisions are both understandable and traceable. This approach isn't just about technology. It's about ensuring that every AI driven decision is accessible and accountable, whether to the public or internal oversight bodies
+
+623
+01:07:22.380 --> 01:07:31.570
+Taher Jamshidi: over time. This transparency helps establish lasting trust by making AI decisions clear and open agencies can responsibly
+
+624
+01:07:31.600 --> 01:07:41.890
+Taher Jamshidi: expand AI's role into more critical applications without compromising public confidence. Think of it as laying groundwork for responsible growth.
+
+625
+01:07:41.990 --> 01:07:43.059
+Taher Jamshidi: Next, we have.
+
+626
+01:07:43.060 --> 01:07:44.125
+David Mantica--Co-host!!!: Hey? Is there
+
+627
+01:07:44.580 --> 01:07:59.639
+David Mantica--Co-host!!!: to hire? Is there any Federal agency that oversees this at this point? Anybody that's going to come in and say, all right, you gotta have this type of technology sealed to say that we can use this tool in our environments. Anything going on with that? At this point.
+
+628
+01:07:59.640 --> 01:08:25.470
+Taher Jamshidi: That's that's a very good question. And unfortunately the answer is, no, there is no single body that oversees that one of them, you know, one of one of the ways that are we're trying to get there is this second thing that I was going to talk about, which is missed this AI risk management framework that is trying to provide that framework for all the government agencies so they can use that while they're implementing these AI solutions.
+
+629
+01:08:25.470 --> 01:08:43.500
+Taher Jamshidi: But one of the advocacys that we are doing is that we probably need to have that single source of information, whether it's going to be NIST or another agency, or at the White House level, to come in and lay the foundations for everything that will enable the more use of generative AI
+
+630
+01:08:43.550 --> 01:08:50.019
+Taher Jamshidi: that are responsible and secure that can enable the agencies provide more services to citizens.
+
+631
+01:08:50.029 --> 01:08:55.839
+David Mantica--Co-host!!!: Do you see that happening? Any conversation, any chatter? I can use that chatter word? Maybe maybe not.
+
+632
+01:08:56.149 --> 01:09:17.219
+Taher Jamshidi: Yeah, I think it is happening. It might take some time, but there are some people at the Government that are actually advocating for this. We had some discussions with with them as well in the in the past, continuing this discussions as well, and there are some learnings that we can we can have looking at other government
+
+633
+01:09:17.219 --> 01:09:41.359
+Taher Jamshidi: agencies in other countries. Like, for example, Uk, they have the office of I think it's called AI, or it's part of their innovation that they have laid out the foundation for for how AI should be applied in the government. So we can use that I think Australia and New Zealand. They have another one. Us is a little bit behind.
+
+634
+01:09:41.359 --> 01:09:54.229
+Taher Jamshidi: but I think there are some learnings that we can do, or lessons learned that we don't want to do it again in terms of implementing an approach across government agencies for for better, more fruitful resolution.
+
+635
+01:09:57.010 --> 01:09:57.890
+David Mantica--Co-host!!!: Excellent.
+
+636
+01:09:59.950 --> 01:10:08.340
+Taher Jamshidi: So so the next one here is is that we have. We have risk management. Guided by NIST's AI risk management framework.
+
+637
+01:10:08.380 --> 01:10:15.669
+Taher Jamshidi: This framework offers a robust structure to help agencies identify and mitigate potential risks associated with AI deployment.
+
+638
+01:10:15.720 --> 01:10:24.220
+Taher Jamshidi: It's adaptable. So each agency can tailor it to meet its unique requirements and challenges. But it goes beyond implementation as agencies
+
+639
+01:10:24.230 --> 01:10:43.399
+Taher Jamshidi: work with this framework. They should also contribute feedback based on real world applications. This input. Can refine the framework, making it even more applicable to the unique challenges AI introduces in government settings. It's a collaborative approach to build, not just compliant, but resilient AI systems for public sector.
+
+640
+01:10:43.640 --> 01:10:57.960
+Taher Jamshidi: So together, explainability, transparency, and risk management create a foundation for responsible AI adoption. These steps ensure that AI used in the public sector is both trusted and accountable, ready to meet the sector's unique demands.
+
+641
+01:10:59.050 --> 01:11:19.890
+Taher Jamshidi: Our 3rd pillar is workforce empowerment and readiness in the public sector preparing the workforce is essential to maximize the impact of generative AI, ensuring that employees are equipped not just with skills but with a clear understanding of how AI can support and enhance public service goals.
+
+642
+01:11:22.440 --> 01:11:23.789
+Taher Jamshidi: Let's consider this
+
+643
+01:11:23.990 --> 01:11:30.629
+Taher Jamshidi: around 40% of public sector employees believe that generative AI will significantly change their roles.
+
+644
+01:11:30.870 --> 01:11:39.960
+Taher Jamshidi: This statistic speaks volume about the urgency to prepare the workforce equipping employees not only with technical skills
+
+645
+01:11:40.110 --> 01:11:48.009
+Taher Jamshidi: but with a deeper understanding of how AI can support their mission objectives. It's very important to to say that again.
+
+646
+01:11:48.030 --> 01:11:54.799
+Taher Jamshidi: not only with technical skills but with a deeper understanding of how AI can support their mission objectives.
+
+647
+01:11:55.010 --> 01:12:18.599
+Taher Jamshidi: So the 1st step in workforce readiness is comprehensive AI literacy and upskilling programs in the public sector. AI literacy isn't just about coding or technical knowledge. It's about empowering these employees to recognize AI opportunities relevant to their roles and understand best practices for managing AI projects both operationally and technically
+
+648
+01:12:19.420 --> 01:12:21.750
+Taher Jamshidi: by focusing on upscaling.
+
+649
+01:12:21.820 --> 01:12:31.339
+Taher Jamshidi: This approach builds confidence across tips, enabling public servants to integrate AI effectively into their workflows and drive agency goals forward.
+
+650
+01:12:31.970 --> 01:12:58.560
+Taher Jamshidi: The next element is creating dedicated roles to drive AI leadership and collaboration across agencies, roles like AI ethics, officers, cross-agency AI, liaisons or strategic AI advocates serve as key players in coordinating efforts. They help align AI initiatives, with agency goals, set standards and ensure that each AI driven mission objective supports broader public service goals
+
+651
+01:12:58.810 --> 01:13:10.069
+Taher Jamshidi: by establishing these rules. Agencies create a support system for AI driven transformation that spans departments enabling smoother implementation and consistent innovation.
+
+652
+01:13:10.220 --> 01:13:14.480
+Taher Jamshidi: So with these 2 elements in place, workforce empowerment and readiness
+
+653
+01:13:14.500 --> 01:13:16.620
+Taher Jamshidi: become more than just training.
+
+654
+01:13:16.800 --> 01:13:21.339
+Taher Jamshidi: they become the backbone of successful sustainable AI deployment in the public sector.
+
+655
+01:13:22.610 --> 01:13:31.300
+Taher Jamshidi: Now that we've explored the foundation pillars, let's shift our focus to the emerging use cases and potential impact of generative AI in the public sector.
+
+656
+01:13:31.390 --> 01:13:40.349
+Taher Jamshidi: This part will look at specific applications where generative AI is already creating value, and those with high potential for transformative impact.
+
+657
+01:13:40.550 --> 01:13:48.530
+Taher Jamshidi: Each of these examples represents applications that align with the public sector's broader goals and unique responsibilities.
+
+658
+01:13:48.550 --> 01:13:55.579
+Taher Jamshidi: These emerging use cases are either already making an impact or are just beginning to reveal their full potential.
+
+659
+01:13:57.470 --> 01:14:13.590
+Taher Jamshidi: First, st we have intelligence, synthesis, synthesis and analysis in areas like defense and national security, the ability to to the ability of generative AI to analyze and summarize large data sets is game changing.
+
+660
+01:14:13.620 --> 01:14:19.749
+Taher Jamshidi: It allows for rapid decision-making in critical operations where speed and accuracy are essential.
+
+661
+01:14:20.780 --> 01:14:24.300
+Taher Jamshidi: Next is knowledge, management, and policy formulation.
+
+662
+01:14:24.360 --> 01:14:32.309
+Taher Jamshidi: Generative AI makes it possible to retrieve and access vital information quickly streamlining the process of creating policies
+
+663
+01:14:32.470 --> 01:14:43.569
+Taher Jamshidi: and ensuring compliance. This is particularly useful for government agencies that with complex, ever-changing regulations and need reliable access to real-time information.
+
+664
+01:14:44.740 --> 01:14:46.060
+Taher Jamshidi: the 3rd one
+
+665
+01:14:46.080 --> 01:14:48.550
+Taher Jamshidi: is generative AI
+
+666
+01:14:48.690 --> 01:15:09.109
+Taher Jamshidi: for advancing training and simulation capabilities by generating synthetic data, enabling agencies to securely train both personnel and AI models without exposing sensitive information. This dual use of synthetic data is especially valuable in mission critical areas like defense, emergency response and healthcare.
+
+667
+01:15:09.470 --> 01:15:26.440
+Taher Jamshidi: The realistic scenario-based training is essential for personnel synthetic data creates safe environments for practicing responses to complex situations for AI models. It provides a controlled data set for model training and testing, allowing agencies to enhance AI systems.
+
+668
+01:15:26.640 --> 01:15:31.169
+Taher Jamshidi: accuracy and readiness while maintaining strict data security
+
+669
+01:15:32.470 --> 01:15:34.860
+Taher Jamshidi: in terms of citizen engagement.
+
+670
+01:15:35.140 --> 01:15:52.459
+Taher Jamshidi: AI. Powered virtual assistants are transforming public-facing services. These assistants make it easier for citizens to access information and interact with agencies, especially in high demand areas. While allowing human resources to focus on more complex tasks.
+
+671
+01:15:53.240 --> 01:15:58.219
+Taher Jamshidi: Another promising area is legal document drafting and policy writing.
+
+672
+01:15:58.440 --> 01:16:09.980
+Taher Jamshidi: Generative AI can automate the drafting of policies, regulations and contracts, streamlining administrative work while maintaining high standards for compliance and consistency.
+
+673
+01:16:11.050 --> 01:16:28.569
+Taher Jamshidi: Finally, we have assistive coding. Generative AI can support government software teams by generating code and documentation, accelerating secure application development. While this has an indirect impact, it still contributes to the efficiency of government. It functions
+
+674
+01:16:28.600 --> 01:16:41.129
+Taher Jamshidi: together. These use cases, highlight the diverse applications of generative AI in the public sector, offering solutions that range from high impact decision-making tools to efficiency gains in daily operations.
+
+675
+01:16:42.840 --> 01:17:03.530
+Taher Jamshidi: As we come to our final section. Let's talk about a roadmap for responsible generative AI adoption in the public sector. Today, we've covered the pillars of implementation, examined the unique challenges and opportunities generative AI brings and looked at specific use cases where it's already making a difference. Now it's time to tie it all together. This roadmap
+
+676
+01:17:03.570 --> 01:17:13.590
+Taher Jamshidi: outlines a clear path forward, a guide that ensures generative AI is deployed thoughtfully, ethically, and in alignment with public sector values.
+
+677
+01:17:13.900 --> 01:17:20.220
+Taher Jamshidi: With each step we aim to maximize AI's benefits while safeguarding public trust and accountability.
+
+678
+01:17:20.470 --> 01:17:26.290
+Taher Jamshidi: So let's walk through this roadmap designed to support an AI journey that truly enhances the mission and public trust.
+
+679
+01:17:27.430 --> 01:17:37.390
+Taher Jamshidi: So here's our roadmap for responsible generative AI adoption structured around the 3 pillars we've covered with practical steps to bring these ideas to life. First, st
+
+680
+01:17:37.770 --> 01:17:41.370
+Taher Jamshidi: initiate with targeted pilots for impact.
+
+681
+01:17:41.380 --> 01:17:50.199
+Taher Jamshidi: start by targeting high impact low-cost pilot programs. These focused projects are opportunities to achieve quick wins and early successes
+
+682
+01:17:50.460 --> 01:17:59.880
+Taher Jamshidi: which help refine systems before scaling. The aim here is to scale thoughtfully with a foundation of proven results.
+
+683
+01:18:00.360 --> 01:18:11.469
+Taher Jamshidi: then focus on scalable and flexible infrastructure. This approach allows specific AI engines and agents to operate within a flexible infrastructure.
+
+684
+01:18:11.840 --> 01:18:14.270
+Taher Jamshidi: adapting as needs evolve
+
+685
+01:18:14.320 --> 01:18:22.849
+Taher Jamshidi: this modularity ensures that AI can grow and change alongside agency goals maintaining flexibility and resilience.
+
+686
+01:18:23.970 --> 01:18:35.970
+Taher Jamshidi: Our second pillar risk and compliance framework is all about building trust through transparency AI in the public sector must be explainable and clear. So the public understands and trusts AI decisions
+
+687
+01:18:36.120 --> 01:18:44.649
+Taher Jamshidi: by prioritizing explainability and transparency agencies can progressively build trust. Opening the door to wider adoption.
+
+688
+01:18:44.870 --> 01:19:02.180
+Taher Jamshidi: additionally adopt and adapt a risk framework. The NIST AI risk management framework offers a structured approach of AI risk adopting and evolving this framework ensures. Agencies are not just compliant, but are actively improving. AI. Safety and accountability.
+
+689
+01:19:02.350 --> 01:19:08.269
+Taher Jamshidi: Real world feedback is essential to refine the framework to the unique demands of public sector work.
+
+690
+01:19:10.023 --> 01:19:16.429
+Taher Jamshidi: Our final pillar workforce empowerment and readiness recognizes that AI success hinges
+
+691
+01:19:16.490 --> 01:19:30.620
+Taher Jamshidi: unprepared teams, comprehensive AI literacy programs, empowers employees to identify and leverage AI applications relevant to their work, making them proactive. AI stewards, furthermore, establishing
+
+692
+01:19:30.980 --> 01:19:40.469
+Taher Jamshidi: specialized AI roles such as AI ethics, officers and advocates, foster cross-agency collaborations and leadership.
+
+693
+01:19:40.690 --> 01:19:50.730
+Taher Jamshidi: These roles are pivotal in driving responsible AI adoption, ensuring that AI initiatives align with each agency's mission and public sector standards.
+
+694
+01:19:51.090 --> 01:19:52.270
+Taher Jamshidi: This roadmap
+
+695
+01:19:52.510 --> 01:19:59.679
+Taher Jamshidi: provides a balanced approach for adopting generative AI in a way that's scalable, secure, and mission aligned.
+
+696
+01:20:00.080 --> 01:20:04.250
+Taher Jamshidi: allowing the public sector to leverage AI responsibly and effectively.
+
+697
+01:20:05.780 --> 01:20:26.389
+Taher Jamshidi: Well, thank you all for joining me today and for taking the time to explore the role of generative AI in the public sector. As we've seen, generative AI has enormous potential to support and transform public sector missions. But realizing this potential depends on a thoughtful approach grounded in trust and a commitment to public service values.
+
+698
+01:20:26.390 --> 01:20:30.039
+David Mantica--Co-host!!!: Can you bring back the can you bring back the last slide real quick?
+
+699
+01:20:30.040 --> 01:20:31.310
+Taher Jamshidi: Yes, absolutely.
+
+700
+01:20:31.450 --> 01:20:39.039
+David Mantica--Co-host!!!: What are you seeing from initial like? What are people initially asking you for? An agency comes to you? What are they saying.
+
+701
+01:20:40.983 --> 01:20:46.670
+Taher Jamshidi: Wait the conversations that we had usually start with. None of these.
+
+702
+01:20:46.750 --> 01:20:48.290
+Taher Jamshidi: They
+
+703
+01:20:48.880 --> 01:21:00.520
+Taher Jamshidi: I I wish they were following the roadmap. That's why we have the roadmap so that the conversations are are usually about some ideas that they have about huge big
+
+704
+01:21:00.550 --> 01:21:22.850
+Taher Jamshidi: initiatives that they have so completely the opposite of what I'm proposing here to initiate with targeted pilots for for impact. So they start with huge applications, and they want to to do that at once. I think that is, is a wrong way to do that. I think we have to start small, and then build and adapt and grow accordingly. There are some.
+
+705
+01:21:22.980 --> 01:21:24.559
+David Mantica--Co-host!!!: Then there's a lot of questions about.
+
+706
+01:21:24.560 --> 01:21:25.489
+Taher Jamshidi: Just just one more thing.
+
+707
+01:21:25.490 --> 01:21:26.050
+David Mantica--Co-host!!!: Okay. Good.
+
+708
+01:21:26.050 --> 01:21:49.730
+Taher Jamshidi: Some discussions that are happening for some more mature, that are want to be more more conservative in terms of using AI, that they start from risk management. So so those are usually good good conversations, but because of the nature of of those discussions they usually are, are very slow, and it will take time for them to digest all the information that they will receive through Rfi. Discussions that we have with other companies.
+
+709
+01:21:50.090 --> 01:22:06.890
+David Mantica--Co-host!!!: There was transparency conversation. We had some discussion there. Is it possible to offer transparency? And how much do you want to tell the public of what AI is doing, I mean, especially if you're giving it decision-making power in the Government. What are your thoughts? There.
+
+710
+01:22:08.467 --> 01:22:26.459
+Taher Jamshidi: So our our thought is that we need to the way we are building this this roadmap is that as you start small, and then you're building, you're building trust. So in the smaller applications, you can completely be transparent. You can explain how the decisions are being made.
+
+711
+01:22:26.460 --> 01:22:39.949
+Taher Jamshidi: And as you do that more and more, and interact with the citizens you build that trust. So the goal here is to get to the point that the citizens are trusting the AI use across
+
+712
+01:22:39.950 --> 01:23:07.430
+Taher Jamshidi: the government. So even if you are not going to be transparent, or you can't be transparent about an AI program that is deciding on a very important issue, but because you have that history of trusting it, you can still rely on that and be be okay without bringing some issues, but but the road to getting the full trust of the public and our citizens will be a long, windy road.
+
+713
+01:23:07.850 --> 01:23:24.160
+David Mantica--Co-host!!!: Yeah, absolutely. It's so interesting. When's going to be the 1st lawsuit based on AI making a regulatory decision. You know. All right, AI, we're going to sue AI for that decision right? But you know that's where we should go, you know, and also with the Go ahead.
+
+714
+01:23:24.780 --> 01:23:29.950
+Michael Wolf: Yeah, you withheld medical or didn't do this kind of funding.
+
+715
+01:23:30.540 --> 01:23:33.670
+Michael Wolf: Those are the kind of decisions that are being made. And how do you?
+
+716
+01:23:34.340 --> 01:23:35.829
+Michael Wolf: How do you do that.
+
+717
+01:23:36.850 --> 01:23:41.270
+David Mantica--Co-host!!!: But then Michael Michael had a great use case around taxes.
+
+718
+01:23:41.370 --> 01:23:46.250
+David Mantica--Co-host!!!: I mean AI could be done wonderfully to cut back the effort.
+
+719
+01:23:46.270 --> 01:23:51.540
+David Mantica--Co-host!!!: the frustration, the cost for the for Us. Constituents to do our taxes.
+
+720
+01:23:52.490 --> 01:23:58.499
+David Mantica--Co-host!!!: That'd be a really interesting one. Well, I mean, I greatly appreciate this. Go ahead, Michael.
+
+721
+01:23:58.500 --> 01:24:11.469
+Michael Wolf: Yeah, that was, actually, I've heard some country requires that when you write a law that requires taxing of people, you must write the software and make it freely available to the citizens to be able to comply with that.
+
+722
+01:24:12.190 --> 01:24:14.489
+Michael Wolf: It's a it's a cool structure.
+
+723
+01:24:16.880 --> 01:24:31.020
+David Mantica--Co-host!!!: This has been fantastic. So it's interesting to hear some of the adoptions what people are doing, you know where the best practices should be, and then some of the challenges that are faced out there. So thank you so much. Awesome.
+
+724
+01:24:31.260 --> 01:24:43.229
+Taher Jamshidi: Absolutely thanks so much for having me. I look forward to seeing some of these generative AI making a meaningful difference in the public sector.
+
+725
+01:24:44.120 --> 01:24:47.220
+David Mantica--Co-host!!!: Yes, I look forward to it as well. I can't wait to see it
+
+726
+01:24:47.670 --> 01:24:50.720
+David Mantica--Co-host!!!: all right. We got our last last, but not least.
+
+727
+01:24:50.910 --> 01:24:55.400
+David Mantica--Co-host!!!: fresh off a presentation at a conference in New York City.
+
+728
+01:24:55.620 --> 01:25:08.760
+David Mantica--Co-host!!!: I don't know if I want to talk to somebody who's from New York City, but I guess I'll accept only kidding fresh off a presentation in New York City. Jumping into the concept of digital twins.
+
+729
+01:25:09.590 --> 01:25:14.520
+David Mantica--Co-host!!!: We want to introduce Laura and I, Michael Shank, Michael, the floor is yours.
+
+730
+01:25:14.520 --> 01:25:18.750
+Michael Schank: Right I I get. I get cleanup for the day. I love it.
+
+731
+01:25:18.750 --> 01:25:19.700
+David Mantica--Co-host!!!: Yes.
+
+732
+01:25:20.309 --> 01:25:28.799
+Michael Schank: All right. So thanks everyone for joining. And and as David will attest, this is one thing I probably chew his ear off
+
+733
+01:25:28.990 --> 01:25:34.409
+Michael Schank: about most, because I think it is super powerful. And I think it is the future.
+
+734
+01:25:34.775 --> 01:25:56.799
+Michael Schank: So it's unleashing digital twin for an organization to power operational excellence. And I just want to comment on this this picture real quick. When I think of this topic, I think a minority report where he's got the screen, and he could see everything going on in the future, their whole pre-crime thing. And and I think that's kind of the the right visual to keep for this. I think it's.
+
+735
+01:25:56.990 --> 01:25:57.680
+David Mantica--Co-host!!!: Home.
+
+736
+01:25:58.150 --> 01:26:00.360
+Michael Schank: It's a fascinating topic. Yeah.
+
+737
+01:26:00.360 --> 01:26:08.420
+David Mantica--Co-host!!!: We had the same picture from another presenter. I'm gonna see if anybody can figure out who had it. And the Minority Port thing was actually talked about. Keep going.
+
+738
+01:26:09.390 --> 01:26:10.210
+Michael Schank: Well.
+
+739
+01:26:10.590 --> 01:26:11.929
+David Mantica--Co-host!!!: Yeah, I loved it. I love it.
+
+740
+01:26:11.930 --> 01:26:12.927
+Michael Schank: Not unique. Then
+
+741
+01:26:13.260 --> 01:26:14.690
+David Mantica--Co-host!!!: No, but it's cool.
+
+742
+01:26:14.690 --> 01:26:41.360
+Michael Schank: So unleashing digital twins. So a digital twin of an organization, I think, will revolutionize how organizations run. And the one thing I want you to take away from this is that. And it's not necessarily a new concept. It's a concept that has its roots in manufacturing because it's a physical environment. You map out what your factory does, and you use that to teach AI about the different nuances
+
+743
+01:26:41.360 --> 01:27:02.320
+Michael Schank: of your processes. But I think it's a new concept in the non-physical space. And I came from banking. So it's all kind of back office processes. So the one thing I want people to take away from this is that I think understanding your processes is a critical foundation for unlocking this ground.
+
+744
+01:27:02.320 --> 01:27:25.789
+Michael Schank: breaking potential. So just 3 things that I'll I'll go through here is is just a little bit of description of what a digital twin for an organization is, and how it can power operational excellence. What is? And then, second, how do you build that that process foundation to to capture this potential? And then a little bit about the conceptual architecture for actually building it
+
+745
+01:27:26.940 --> 01:27:30.849
+Michael Schank: alright. So a little bit about me. So I
+
+746
+01:27:31.170 --> 01:27:55.000
+Michael Schank: I had my roots in consulting, so I started. I had 13 years at Accenture, 10 at Ey. I did a stint at Bank of America for a couple of years, and then I was the head of process excellence for the Us. Retail bank at Citi, I started at Accenture is purely technology based. So I was a Java C plus plus programmer. I was a solution architect.
+
+747
+01:27:55.050 --> 01:28:18.390
+Michael Schank: I led large development programs. But then, when I went to ey, I started to get away from technology. And I got introduced to this topic called Business Architecture, where you map out everything that an organization does. And I thought it was just. It was a epiphany moment for me, because as a technologist, I really didn't have any idea what the business did. My focus was on delivering quality code, making sure
+
+748
+01:28:18.390 --> 01:28:31.220
+Michael Schank: it's on time. It was defect free all the things that a technologist thinks of, but when you really, you know. But but then, as I kind of progressed in my ey career, I branded myself as business architect, and I realized that
+
+749
+01:28:31.240 --> 01:28:39.800
+Michael Schank: it doesn't go far enough that you have to go into process. But I would go into many organizations, mainly financial services, and I would
+
+750
+01:28:40.090 --> 01:29:05.260
+Michael Schank: I would come across chaos and complexity that always held organizations back. And I just I as branding myself, I kind of developed this framework called process inventory, and I realized that it worked in every scenario. So defining a transformation strategy for an organization defining your your target state architecture doing risk management, really, everything.
+
+751
+01:29:05.565 --> 01:29:24.799
+Michael Schank: So I left the corporate workforce in March of last year, and I followed my calling, which is to write a book called Digital Transformation Success. So everything I talk about will be detailed in that book. I'm not here to sell you a book. I think it's more about the concept. But if you do like the concept. The book is there.
+
+752
+01:29:25.438 --> 01:29:43.591
+Michael Schank: And I also have my own. Consulting company where I help organizations stand up a process based capability and and build the process inventory and then utilize it for things like, I'm gonna describe here. And I'm rolling out a training through through
+
+753
+01:29:44.210 --> 01:29:47.980
+Michael Schank: David's company in early December, so I'm looking forward to.
+
+754
+01:29:47.980 --> 01:29:50.490
+David Mantica--Co-host!!!: Gills or soft Ed, whoever we call ourselves.
+
+755
+01:29:50.490 --> 01:29:52.460
+Michael Schank: You're chirping me up on the name, since you since.
+
+756
+01:29:52.460 --> 01:29:55.800
+David Mantica--Co-host!!!: It's crazy. Now, it's skills development group. That's what we changed to.
+
+757
+01:29:55.800 --> 01:29:56.390
+Michael Schank: Yeah.
+
+758
+01:29:57.030 --> 01:30:16.799
+Michael Schank: So so current state of AI and I, just, you know, obviously, you probably heard a bunch of that throughout the day, but, you know, reach, you know, organizations are still trying to grapple with how they do it. Obviously, how do you wall off the data? What are the regulations about it start thinking through the use cases.
+
+759
+01:30:17.133 --> 01:30:42.219
+Michael Schank: And and there's a lot of investment being put into this. But I I pulled this list of use cases from Ibm, and I think it's a probably maybe it's not a complete representation, but it's a good one. Obviously, Gen. AI could do code generation. It. It knows syntax of different coding languages. It could create it. It could help with product development sales and marketing, specifically looking at customer data and hyper personalization of communications and reach out
+
+760
+01:30:42.220 --> 01:30:50.810
+Michael Schank: project management generating, based on maybe past work, what the efforts are and and laying out project timelines.
+
+761
+01:30:51.150 --> 01:31:09.650
+Michael Schank: graphics and video designs. I won't go through the full list. But I think if I was going to characterize this, and and hopefully, I'm correct in this characterization, I think it's still on the periphery of processes like you could build Gen. AI engines that take in a lot of information like procedure documents and
+
+762
+01:31:09.650 --> 01:31:33.150
+Michael Schank: job aids and training. It could help answer questions. You could do chat bots, but it's still not integrated into how our businesses work day to day, and I found this survey, and Deloitte creates this quarterly Gen. AI. Report, and I thought it was fascinating because it speaks to kind of the thesis that I'm saying here, which is, I think, organizations, and you could see the top
+
+763
+01:31:34.193 --> 01:31:48.650
+Michael Schank: thing that people are looking for is, they want to deeply embed Gen. AI into their functions and processes. So I I think that's kind of exactly what this whole topic of digital twin does.
+
+764
+01:31:48.680 --> 01:32:16.110
+Michael Schank: So what is a digital twin, a digital twin of an organization is a dynamic virtual representation of an organization's process assets, people, systems, data. It's really a way to educate AI on everything your business does and all the resources that go into it. But then you could. So you create this model. And then you feed that model into a digital twin AI engine
+
+765
+01:32:16.463 --> 01:32:34.369
+Michael Schank: and then then you feed it. Some some data about how your how your processes work, real time or or whatever. But you could see. I put on the left hand side just just so you could understand kind of where this thing is. It's not necessarily a new concept, but I think it's new in the non-physical space.
+
+766
+01:32:34.711 --> 01:32:46.329
+Michael Schank: But the digital twin market is expected to reach 183 million, a billion by 2031, which is a growth rate of 41%. So it's a massive
+
+767
+01:32:46.460 --> 01:32:59.740
+Michael Schank: massive space and a massive opportunity. So what what can a digital twin do for you. It could help data driven decision making. So we could take all that information I mentioned about you know.
+
+768
+01:33:00.570 --> 01:33:14.469
+Michael Schank: what? What is the best way to answer a customer question, and it could help you do that. Also. It could give you information about how your organization is working. Maybe compliance or any other factor where there's where there's cost
+
+769
+01:33:15.020 --> 01:33:34.920
+Michael Schank: inefficiencies, etc. So it could give people armed with data that's analyzed by AI help them make better decisions, predictive analytics. So it could look at trends and start to predict how, where things are going to break before they break before there's impact to customers or other stakeholders.
+
+770
+01:33:34.920 --> 01:34:00.860
+Michael Schank: you could do simulation. So instead of spending a lot of money and saying, What if we got rid of? Maybe we sold off this business, or we got you know, we we slim down to maybe one erp system as opposed to 4. You could really run all those simulations and understand the metrics and benefits and some of the the consequences of it, and then obviously real time monitoring. So if you're feeding real time monitoring information to this. It could.
+
+771
+01:34:00.910 --> 01:34:13.149
+Michael Schank: It could really tell you where the Hotspots spots are. Generate generate kind of dynamic heat map analysis really give people a transparent picture of how the organization is operating
+
+772
+01:34:13.650 --> 01:34:31.049
+Michael Schank: so a little bit about operational excellence. And I just want to touch on this. Just so we're we're grounded in a definition. And I use the definition that operational excellence is really about consistent execution, optimal performance and efficiency across all levels of operation
+
+773
+01:34:31.050 --> 01:34:50.889
+Michael Schank: in a way that leads to potential sustainable growth. And I think there's 2 parts to that. There's below the line efficiency. So how do you increase efficiency like lowering operating costs, reducing complexity in your environment, making sure that you have higher quality and everything you do for your customers
+
+774
+01:34:50.890 --> 01:35:01.759
+Michael Schank: and every other stakeholder getting stronger employee engagement, so greater accountability, for you know, understanding what people's roles are giving them
+
+775
+01:35:02.114 --> 01:35:23.010
+Michael Schank: latitude and autonomy to drive innovation in their own role, greater retention of talent, risk management. And that was the the talk I just gave on on how this process framework drives better risk management. But it's a big problem, especially in financial services industry where there's a lot of fines. I just saw. Td. Bank was fine. 3
+
+776
+01:35:23.010 --> 01:35:27.179
+Michael Schank: 1 billion dollars for anti-lenney monitor
+
+777
+01:35:27.180 --> 01:35:33.979
+Michael Schank: anti money laundering and bank syncresy act violations over a many year period.
+
+778
+01:35:33.980 --> 01:35:58.820
+Michael Schank: but but getting that strong so that you don't have those large regulatory fines. So you don't have those issues that impact customers, or even like the 2,008 mortgage meltdown that impact potentially the global market and data decision making data driven decision making. And then there's the above line growth, which is, how do you know, understanding what your customers experience
+
+779
+01:35:58.820 --> 01:36:22.619
+Michael Schank: from a day to day perspective? What are the moments that matter for them. And how do you deliver a greater experience for them? Because, you know, customers can vote with their feet, and they have a lot of latitude to go to your competitors. So it's important, you understand who they are, what they're looking for and deliver that experience and then drive business growth. And I put kind of straddling. The line is scalability and agility, which is the external market, is changing
+
+780
+01:36:22.946 --> 01:36:33.070
+Michael Schank: on a constant basis. So how do you get to shorter time to market. Take the complexity out of maybe your it environment so you could deliver change in matter of
+
+781
+01:36:33.150 --> 01:36:59.039
+Michael Schank: weeks as opposed to months or years and then re reduce the cost of that change. So really, what that looks like is consistent execution aligned to purpose. And I think alignment is a very key concept, a culture of continuous improvement, that kind of talks to the employee, engagement, cross functional collaboration, making sure that everything's transparent. You're you're breaking down silos and then the effective use of technology.
+
+782
+01:37:00.380 --> 01:37:02.669
+Michael Schank: So what does that mean
+
+783
+01:37:02.760 --> 01:37:23.050
+Michael Schank: for for each of the various ways that you drive operational excellence? So a couple of different scenarios here. So one is defining your strategy and understanding the impact. Every organization when they go through a strategy. You know you have your vision mission, your your your purpose statements. So that is typically
+
+784
+01:37:23.110 --> 01:37:51.169
+Michael Schank: somewhat stable. But you have to look at the swot analysis, your your internal environment. What are your strengths and weaknesses? What are your opportunities and threats from an external perspective? If you could understand and have AI kind of understand everything that your business does, and then you feed it. Data around performance of different processes or performance of our own different groups. You could generate real time information
+
+785
+01:37:51.170 --> 01:38:04.219
+Michael Schank: where the the weak points are where the threats are, and then ultimately getting to objective portfolio investment. So understanding precisely where you need to invest your money so that you can remain competitive.
+
+786
+01:38:04.220 --> 01:38:05.880
+David Mantica--Co-host!!!: You have this
+
+787
+01:38:06.180 --> 01:38:13.390
+David Mantica--Co-host!!!: digital thing. That is your organization's processes. It is your organization. It's like a digital coo
+
+788
+01:38:13.550 --> 01:38:20.059
+David Mantica--Co-host!!!: business architect. And all you're doing is asking it questions. What happens if I did this? What happens if I did that.
+
+789
+01:38:20.820 --> 01:38:21.720
+Michael Schank: Exactly.
+
+790
+01:38:21.720 --> 01:38:23.040
+David Mantica--Co-host!!!: All right. Keep going.
+
+791
+01:38:23.040 --> 01:38:41.978
+Michael Schank: Yeah. And yeah, and that that's how it's used in the in the manufacturing spaces you have, you know, the whole model laid out, and you get things like IoT information. And you get to know where their bottlenecks in your process line, or where do I maybe have quality issues that I need to address, etc, etc, so absolutely
+
+792
+01:38:42.861 --> 01:39:04.279
+Michael Schank: from the change process perspective. Once you understand all your processes. Now, you could say, I need to make a change. And digital twin for the organization could potentially tell you where are the impacts so that you could precisely understand what processes need to change, to deliver that. It could even help you write, you know, down to the process.
+
+793
+01:39:04.280 --> 01:39:23.419
+Michael Schank: how does that process need to change? What are the requirements and really everything from an Sdlc process perspective, it could pinpoint what people need to change. And how do you deliver the right procedures, the right job aids and training so that they're educated on what the new process looks like
+
+794
+01:39:23.420 --> 01:39:44.559
+Michael Schank: from a transformation perspective. And this kind of goes to a strategy to impact. But it could help you define what is my transformation strategy. And there's a whole bunch of them from mergers and acquisitions and technology transformations and and cultural transformations. The list goes on and on, but really informing you on what it is we need to do to change
+
+795
+01:39:44.620 --> 01:39:49.560
+Michael Schank: kind of profoundly across the organization, help you create that roadmap
+
+796
+01:39:49.939 --> 01:40:08.129
+Michael Schank: and help you manage the journey from an operational excellence perspective. So since it has an information about your entire environment, it could help me understand. Where do I have waste and inefficiency across the board so it could help you. And that's obviously it's a big topic with some of the
+
+797
+01:40:08.140 --> 01:40:20.609
+Michael Schank: economic challenges going on today. There's there's been a lot of layoffs with a lot of companies and some. Sometimes it's not a very precise or scientific way in terms of
+
+798
+01:40:20.960 --> 01:40:32.020
+Michael Schank: how headcount reductions are identified. And I'm not. This is not just about headcount reductions, but it's more about, how do you optimize cost in a way that
+
+799
+01:40:32.375 --> 01:40:39.020
+Michael Schank: you're in line with expectations from a cost perspective. So it could tell you where you maybe have too many people. Or maybe you have
+
+800
+01:40:39.040 --> 01:40:45.169
+Michael Schank: 3 organizations doing the same thing, and maybe I should drive to a shared service, or maybe I should drive to
+
+801
+01:40:46.320 --> 01:40:49.960
+Michael Schank: A, you know. Maybe outsource it completely.
+
+802
+01:40:50.640 --> 01:41:06.679
+David Mantica--Co-host!!!: So a couple couple of thoughts. The thought number one is, does a digital twin allow outside information to augment the inside information to find potential. Hey? You're not seeing it this way. Where you just really talk. Okay, you can bring in the outside information.
+
+803
+01:41:06.930 --> 01:41:28.269
+Michael Schank: Yeah, absolutely. I mean, and risk management is a great one. So the you know, a lot of organizations, especially, that have a regular large regulatory obligations. Those regulations are external. You have laws, you have regulations, you have industry standards, you have internal policies, and those change on a daily basis. And what organizations do a lot of time
+
+804
+01:41:28.310 --> 01:41:57.999
+Michael Schank: times is they do maybe use AI to do a horizon scan so they could understand all the changes that are happening on a daily basis. And then they could take that kind of working with the digital twin to analyze what those new regulations are and then map them to business processes, so that you know exactly what those business processes need to do from a people or technology perspective to remain compliant so absolutely, it could take in competitive information really any kind of external information
+
+805
+01:41:58.000 --> 01:42:00.969
+Michael Schank: that that's appropriate for your scenario.
+
+806
+01:42:00.970 --> 01:42:04.499
+David Mantica--Co-host!!!: So you know, you're gonna you know, you're gonna get this next question, yeah.
+
+807
+01:42:04.620 --> 01:42:05.800
+David Mantica--Co-host!!!: level of effort.
+
+808
+01:42:06.810 --> 01:42:15.290
+David Mantica--Co-host!!!: level of effort to create a digital twin to maintain it. And remember one of the 1st things I'm gonna present to the group. You don't have to do this just at the company level right.
+
+809
+01:42:15.290 --> 01:42:16.360
+Michael Schank: Oh, no! No!
+
+810
+01:42:16.360 --> 01:42:19.639
+David Mantica--Co-host!!!: So go into your go into your thoughts on that one.
+
+811
+01:42:19.640 --> 01:42:23.919
+Michael Schank: The level of effort relative to the benefits. I think it's a
+
+812
+01:42:25.050 --> 01:42:33.060
+Michael Schank: low level of effort, and and I have a slide that will that will talk about this in fact, I'll maybe I'll jump ahead to it. So
+
+813
+01:42:36.150 --> 01:42:42.359
+Michael Schank: I'll I'll jump back to it. So how do you create this digital twin. So process? Well, actually, no, I'll go back.
+
+814
+01:42:43.162 --> 01:42:56.459
+Michael Schank: So in order to create a digital twin, you have to understand the concept of systems thinking which which really states that our organizations are extremely complex, and they're made up of
+
+815
+01:42:56.530 --> 01:43:18.400
+Michael Schank: of thousands or tens of thousands of parts. If you think about people and technology and data and 3rd party vendors that support us, etc, etc. So it's really understanding what are the relationships between all of those parts. And how do you model those? Because those relationships are key to understanding performance. And
+
+816
+01:43:18.400 --> 01:43:29.759
+Michael Schank: the the key part of this diagram on the right is, you need a ground truth. And and I always talk about Google Maps is a massive data integration project. Because you have
+
+817
+01:43:29.760 --> 01:43:58.649
+Michael Schank: restaurant information. You have satellite data you have on the ground data. You have track, traffic information, and much, much more. We have to resolve all that data to a ground truth. And Google actually has a team called ground truth that does this, and it actually takes a lot more manual work than you would think. But their ground truth is obviously the physical address. So they have to resolve everything to the physical place and make sure that that's accurate, because that's what people rely on to get to places, or
+
+818
+01:43:58.660 --> 01:44:16.850
+Michael Schank: to understand where their favorite restaurant is. Well, in an organization. That ground truth is process, because process is kind of the start of of why you do everything. You don't buy an accounting platform unless you have a need to drive to create financial reports on what you do
+
+819
+01:44:17.234 --> 01:44:39.529
+Michael Schank: and then you hire a Cfo and other accounting people to do that. So if you understand your full process environment, you can understand all your organizational knowledge, and you can connect the dots, to to have a transparent understanding of how everything works together. It creates a common language to facilitate alignment across strategy and execution. So
+
+820
+01:44:39.530 --> 01:44:44.389
+Michael Schank: from vertical strategy, the leadership of your organization all the way down to
+
+821
+01:44:44.390 --> 01:45:01.619
+Michael Schank: your your ground level practitioners all on the same page, and understanding what their role is to change. The organization breaks the silo, and that's horizontal alignment. So that your business teams talk to your technology teams, your risk teams, your data teams, everyone speaking the language.
+
+822
+01:45:01.620 --> 01:45:25.120
+Michael Schank: So in order to do that, you need to create a process inventory. And that's kind of the whole concept. Here is I create a process inventory, and that's just a full taxonomy. But it's got to be comprehensive. It's got to capture every process your business does, because any gaps will leave uncertainty depending on what you're trying to do with it.
+
+823
+01:45:25.120 --> 01:45:43.269
+Michael Schank: It's got to represent different levels of granularity so useful from for c-suite. And David, I'm gonna get your question from the C-suite that's driving strategy and making decisions all the way down to the lower level practitioners. It's got to capture each unique process within each organization. Unit.
+
+824
+01:45:43.955 --> 01:45:44.630
+Michael Schank: So.
+
+825
+01:45:44.980 --> 01:46:08.619
+Michael Schank: And you know, when I was at city, what the mortgage organization did was much different than credit card, which was different than retail banking, etc. So you need to understand all those those nuances and idiosyncrasies you have to have clear ownership and accountability. You need to understand, especially if you're driving standardization. Where? What's the
+
+826
+01:46:08.620 --> 01:46:37.519
+Michael Schank: the? Not only the dictionary of processes, whatever? What's every process that I run, but what's the the source, so that I understand like processes. And I could drive standardization and and commons and driving common implementations across and then align with key data. And you could see in this diagram on the right each business unit you drive down to a taxonomy of processes. You could align ownership to it, and you could align all your data to that as well.
+
+827
+01:46:38.090 --> 01:46:48.350
+Michael Schank: So this really gets to your question, David, so how do you construct it? And there's a lot of AI automated techniques. There's there's a process mining
+
+828
+01:46:48.370 --> 01:47:07.349
+Michael Schank: which I think is all great, and it should certainly mine all the information in your organization. But there's a couple of problems with that so process mining, I'm a huge fan of. But there's 1 thing process mining will never give you. And that's business context. It could just tell you what some log file says in a system and create a process.
+
+829
+01:47:07.722 --> 01:47:33.320
+Michael Schank: We all know with the AI could scan all your procedure documents and your roles and responsibilities and everything else. But the problem is is those it'll get you a good start. But those aren't necessarily constructed with complete data and are and are consistent across. So ultimately, I think you, you do all those things. But if you want to drive ownership and and completeness with the organization. I think I still think you want. You need to talk to people.
+
+830
+01:47:33.320 --> 01:48:00.809
+Michael Schank: And what that means is, you start an interview process at the head of a line of business, and you ask a simple question, what is it that you do, or what processes do you own? And you take those answers and you turn them into verb noun process names, and you structure this taxonomy aligned to your organizational structure. You do this, and then you ask their teams what they do. Yes, their teams, what they do until you feel like you have the right level of detail for what
+
+831
+01:48:00.810 --> 01:48:22.669
+Michael Schank: processes are in your environment. Then I do a bottom at a station, because if I'm going to ask somebody to own a process, I need to give them an opportunity to say, yes, that's right, accurate and complete. And yes, I'm the owner. So I go start bottom up. And I say, do you agree that this is an accurate and complete representation of your processes. I get them to sign off via
+
+832
+01:48:22.700 --> 01:48:35.790
+Michael Schank: a formal email, a workflow. But some electronic signature that's saying, this is accurate. I go to their leadership, and I do the same thing, and I go to their leadership so that everyone up and down the chain says this is the right level of process.
+
+833
+01:48:35.790 --> 01:48:40.710
+David Mantica--Co-host!!!: This is a very human driven process to get electronic.
+
+834
+01:48:41.670 --> 01:48:44.610
+David Mantica--Co-host!!!: because that's probably the only way you can make it happen.
+
+835
+01:48:44.920 --> 01:48:54.810
+Michael Schank: For sure, I think. For now, yeah, I think once you do this, a couple iteration, a couple of iterations. Well, one other question that that I always get with this is my organization changes all the time.
+
+836
+01:48:54.890 --> 01:49:22.760
+Michael Schank: And I think that's a great question, because you gotta care and feed for this thing so that it remains accurate. So you do need a centralized process. Capability that will go out to the organization on a periodic basis and say, is this accurate and complete? But you also need to use it. And I think that's the other way. If you use it and build your digital twin off it, use it for strategy if you use it for change management, if you use it for risk management. The more people that use it, the more
+
+837
+01:49:22.890 --> 01:49:42.520
+Michael Schank: focus there is on creating this. But I think, David, to your point, once you create it and start orienting all your documents around it, then AI could certainly be a great engine for keeping this up to date, but certainly the 1st couple iterations you're going to have to do a human driven process.
+
+838
+01:49:44.870 --> 01:49:48.100
+David Mantica--Co-host!!!: Interest. And then what's the other thing? I had one other.
+
+839
+01:49:48.436 --> 01:49:49.780
+Michael Schank: Level of effort, for.
+
+840
+01:49:49.780 --> 01:49:51.789
+David Mantica--Co-host!!!: Yeah, we got that one. But tooling.
+
+841
+01:49:52.110 --> 01:49:55.139
+David Mantica--Co-host!!!: Are you going to talk a little about tooling as a how? Okay?
+
+842
+01:49:55.140 --> 01:49:56.680
+Michael Schank: I will. That'll be at the end.
+
+843
+01:49:56.760 --> 01:50:08.050
+Michael Schank: you know. But back to the effort. The one thing one thing I want to just highlight is, there's a separation between having the process names and the process models itself.
+
+844
+01:50:08.270 --> 01:50:23.460
+Michael Schank: So when I was at Citi, I estimated for the Us. Retail bank, and before I left to write my book, I probably covered about 70% of the process inventory across the organization. So I extrapolated that out. And I estimated there'd probably be about 10,000 processes.
+
+845
+01:50:23.480 --> 01:50:28.629
+Michael Schank: I would never advocate that. You create 10,000 process models. I just don't think
+
+846
+01:50:28.650 --> 01:50:33.029
+Michael Schank: you would get the benefit from it, and I think it would take forever.
+
+847
+01:50:33.200 --> 01:50:52.040
+Michael Schank: But getting process names alone is valuable, because now you have the connection of what you do, the definition of it who does it, and then all you can map, all your you know, all the appropriate resources to it, and that is a very low level of effort relative to you know.
+
+848
+01:50:52.130 --> 01:50:56.591
+Michael Schank: you know what the benefits you could get out of this. So I I think it's
+
+849
+01:50:57.010 --> 01:51:10.769
+Michael Schank: You know, I think I took to create 70% of the process inventory for city. It was about a team of 5 people just having a very rigorous structured approach and being efficient. And how they did this interview process
+
+850
+01:51:13.500 --> 01:51:27.760
+Michael Schank: one other thing. And and if you guys are process people, you know that there are a lot of different models out there from value streams and customer journeys. And I'm talking about process taxonomy. There's capability models, processes, etc.
+
+851
+01:51:27.780 --> 01:51:56.560
+Michael Schank: It's important that if you're going to create this and create a digital twin that you got to be focused on creating one unified model of what your organization does. And to David's point, this, this may sound scary and overwhelming, but you do not have to do this at a full enterprise level. You could do it for one business unit and then scale from there. Once you have some wins. But ultimately you're going to to want to use these different model types and think through how they connect
+
+852
+01:51:56.570 --> 01:52:17.749
+Michael Schank: so that you could show people. Here's the N 10 view of my processes. But now I could drive into specific organizational processes, and maybe the details and the data that's associated with it. And it's really important that you think through kind of how you use these different model types and and drive that that one unified view of what your organization does
+
+853
+01:52:19.070 --> 01:52:38.689
+Michael Schank: last point here. And and I think this is a critical one, especially as it comes to digital twins. There is a lot of operational data that our organizations have. So we we all have. Hr, our organizations have Hr systems which cover our people information and how we're structured, and roles and responsibilities and
+
+854
+01:52:38.690 --> 01:52:55.819
+Michael Schank: and things like that. And we have system repositories that capture all the technical details of what our platforms are, on, what coding language. It's on where it's deployed, etc. We have risk repositories which define our risks, our controls, our monitors, our regulatory obligations
+
+855
+01:52:55.820 --> 01:53:17.330
+Michael Schank: are disruptive events, from an operation, resiliency, perspective data, product, catalog, etc. The problem is this, data right now is not connected. And if you had to do an analysis or a root, cause deep dive into a specific problem. You would have to spend 3 months doing a current state analysis to understand how that works.
+
+856
+01:53:17.330 --> 01:53:26.859
+Michael Schank: But if you could take that that data. Now extract it. And David, this gets into the tooling aspect. A business process, analysis tool
+
+857
+01:53:26.880 --> 01:53:38.290
+Michael Schank: and a lot of these tools have really good capabilities around ingesting data and then doing mapping data. But you create your process taxonomy in that data and process models.
+
+858
+01:53:38.290 --> 01:54:02.969
+Michael Schank: If you're creating those now, you take the data. And that's what shows in this example. Here, I could take my system repository data. I could load it into a system library. And then, when I'm creating process flows or identify a process, I could say, Oh, the credit request system supports the send quote activity. So now, ultimately, what I'm doing is I'm creating a single repository that has all operational intelligence.
+
+859
+01:54:03.010 --> 01:54:04.890
+Michael Schank: So I could slice and dice
+
+860
+01:54:04.910 --> 01:54:10.980
+Michael Schank: the environment and understand how everything connects, and that is very critical for for creating a digital twin
+
+861
+01:54:12.620 --> 01:54:25.600
+Michael Schank: ultimately. And I kind of spoke on. This already is, if you're going to do this, you need to maintain this information. And that means creating a process, capability, a process center of excellence, or whatever whatever you're creating.
+
+862
+01:54:25.660 --> 01:54:43.669
+Michael Schank: but that that ultimately, that starts with, you know, you have to do these 5 things to be successful, and I always advocate. You have to write it down on a playbook so that there's clarity across all the stakeholders that are involved. But you have to define your process strategy. That strategy has to be in context
+
+863
+01:54:43.670 --> 01:55:01.469
+Michael Schank: with the overall organization strategy. But you have to define what the vision and mission of this process framework is, and how value will be delivered across a lot of different use cases you have to divide, define your frameworks and standards, and that goes to that one unified model. But you also need to define
+
+864
+01:55:01.470 --> 01:55:22.440
+Michael Schank: models in such a way that it's consistently built across organizations, so that your stakeholders understand what they what they do and or you know what that process describes. But then, also, AI has a consistent language and data quality for doing it, your value cases. So and this goes to your digital twin as well.
+
+865
+01:55:22.570 --> 01:55:44.670
+Michael Schank: what use cases are you doing? And that's really going to define what models you're creating, what data you're going to feed into it, your people operating model, both internal to the process center of excellence and then external. So things like, what do, what's the role of process owners and the various stakeholders for your use cases and then tooling, which I actually, I'll I'll get to in a subsequent slide.
+
+866
+01:55:46.380 --> 01:56:04.400
+Michael Schank: But in that, in that process, capability, there's a couple of roles that are important. The 1st one is your Coe leadership. As David, you pointed out, this at least initially, will be a somewhat manual exercise, at least to create the virtual model of your organization. So you're going to have to have somebody that has a
+
+867
+01:56:04.400 --> 01:56:16.820
+Michael Schank: that has a commitment to this process concept that has a commitment to quality and making sure that you're keeping this repository up to date. They also have to be an internal salesperson within your organization
+
+868
+01:56:16.820 --> 01:56:20.509
+Michael Schank: that is getting everyone on board with this process point of view
+
+869
+01:56:20.510 --> 01:56:27.409
+Michael Schank: and building and and enabling your you know the build out of your of your digital twin.
+
+870
+01:56:27.410 --> 01:56:50.750
+Michael Schank: You need modelers to go and interview the business and make sure that they collect all this data and really create that one operational intelligence platform. You need to maintain your standards. You have to govern your assets to make sure that it always reflects reality and is of high quality. And then you have to manage your platform and data. That means managing
+
+871
+01:56:50.890 --> 01:57:06.829
+Michael Schank: the the quality of the models within the the platform, but then also doing periodic feeds of of this operational data, and then doing your dedupes, etc, so that it always maintains a reflection of reality.
+
+872
+01:57:08.510 --> 01:57:11.870
+Michael Schank: Let me pause here. Any other, David, are you seeing any questions in the chat.
+
+873
+01:57:11.870 --> 01:57:17.710
+David Mantica--Co-host!!!: Well, you know, it's like you always say in here, right? The 1st concern is effort, right? Level of effort. Right?
+
+874
+01:57:17.800 --> 01:57:32.060
+David Mantica--Co-host!!!: You know. How can I do this? How is it going to be possible? I think the second question really forms the line. It's a data flow more than processes. Does the data tell you more than the processes tell you so. I'd love to get your thoughts on that, because I've been sharing back and forth with somebody there.
+
+875
+01:57:32.895 --> 01:57:36.480
+David Mantica--Co-host!!!: I think you know, that's some of the key thoughts. Here is that
+
+876
+01:57:36.590 --> 01:57:37.430
+David Mantica--Co-host!!!: effort
+
+877
+01:57:37.890 --> 01:57:43.910
+David Mantica--Co-host!!!: in turn, having that digital trend magically. I think everybody wants that like, if you can have that.
+
+878
+01:57:44.605 --> 01:57:44.889
+Michael Schank: Right.
+
+879
+01:57:44.890 --> 01:57:54.359
+David Mantica--Co-host!!!: Now, crap, I mean, it'd be amazing. But yeah, give me give some thoughts on the data side versus the process side, and then give your dig in a little bit more as your thoughts about
+
+880
+01:57:54.450 --> 01:57:56.660
+David Mantica--Co-host!!!: overhead, and how to make this happen.
+
+881
+01:57:56.930 --> 01:57:59.130
+Michael Schank: So so from a data perspective.
+
+882
+01:57:59.759 --> 01:58:05.199
+Michael Schank: you know, there's there's 2 key concepts in data management data at rest and data in motion.
+
+883
+01:58:05.370 --> 01:58:23.720
+Michael Schank: So let me pick on data in motion. There's 2 ways data travels. One is through your business processes. So your people are executing some process they're under. They're reviewing or underwriting a loan application, or they're processing a payment. Or they're.
+
+884
+01:58:23.720 --> 01:58:48.450
+Michael Schank: do you know, onboarding some customer? Well, that there's a lot of that data that goes through the different activities of those processes. And if you did detailed data modeling, you could understand the data that goes from one activity to the next. And then you could compare that to maybe a conceptual data model. And you could load into the platform so you could understand what different types of data, and you could tag it as maybe
+
+885
+01:58:48.700 --> 01:59:16.430
+Michael Schank: personal identified information like social security, etc. So that's kind of the business process movement of data. Then there's the back end movement of data. So I have a batch job that kicks off at 2 am. And it moves data from this platform to that platform. And it goes to this data, transformation, etc, etc. So this really probably more, speaks to the the former, the process side of it. But there is a tie to the to the other side of it that
+
+886
+01:59:16.530 --> 01:59:28.950
+Michael Schank: you know. Ultimately, if you go down to my from a process perspective, you go down to the lowest level of process. Ultimately, you're going to have an activity that says, click a button, or do something that triggers an interface.
+
+887
+01:59:29.770 --> 01:59:50.579
+Michael Schank: You could take this concept. And now go from your business process modeling to your system interaction diagrams where you show that the swim lanes are no longer people actors, but they're system actors. And I could show what Apis are being invoked, the flow of data from different applications, the business logic where transformation happens.
+
+888
+01:59:50.650 --> 02:00:03.699
+Michael Schank: and and that, you know, is not only just triggered in business process, but that could be triggered in the the batch job that I mentioned as well. But if you could if you could, anchor all of that understanding of how data flows
+
+889
+02:00:03.740 --> 02:00:21.750
+Michael Schank: to the context of your business, which is process inventory of your business or your process taxonomy. Now you have a platform to educate your digital, your organization for how everything works. So the effort question I think it really speaks to.
+
+890
+02:00:21.760 --> 02:00:41.259
+Michael Schank: I really talk about how you create the the process inventory, and I think it's a really low level of of effort. I would just to kind of further on that, though I think the other point I would. Stress is if you're creating a digital twin, I would not tackle the enterprise. I mean, obviously, that's overwhelming. I would start with
+
+891
+02:00:41.560 --> 02:00:55.229
+Michael Schank: one business unit, one, maybe challenging pain point. And when I was in banking payments was always an issue. It's always complex. There's a lot of regulatory oversight, etc. So if you map that out
+
+892
+02:00:55.240 --> 02:01:19.309
+Michael Schank: rated the digital twin, identified your data feeds, and then you could start to show people, and obviously kind of as a, you know. Just watch and learn right now, you're not necessarily making decisions. But you're start to evaluate the the answers and the insights that the twins giving you, I think you know. Certainly it'll take off in terms of the potential it has for managing your.
+
+893
+02:01:19.310 --> 02:01:27.859
+David Mantica--Co-host!!!: Yeah, it's almost like everybody knows if they had it, what they could do with it. It's a matter of being able to help somebody digest how to build it.
+
+894
+02:01:27.860 --> 02:01:29.690
+Michael Schank: Exactly. Yes.
+
+895
+02:01:30.380 --> 02:01:31.699
+David Mantica--Co-host!!!: Keep going, brother.
+
+896
+02:01:32.390 --> 02:01:34.459
+Michael Schank: All right, I'm gonna yeah.
+
+897
+02:01:35.140 --> 02:01:38.509
+Michael Schank: I'm going to skip these for now. But I'll come back to them if it if it's appropriate.
+
+898
+02:01:39.414 --> 02:01:41.900
+Michael Schank: Okay, so the conceptual architecture. So
+
+899
+02:01:42.530 --> 02:01:55.590
+Michael Schank: really, what what you need to do is you need to create the process modeling information that I talked about through predominantly the the interview process and then your operational data. But you put that in the business process analysis tool.
+
+900
+02:01:55.690 --> 02:02:16.969
+Michael Schank: And ultimately you need to extract that information in your digital twin software. And so that's just creating the model of your organization and feeding into digital twin. And there's a lot of platforms for digital twin. I just wanted to point out that you see at the bottom, and I'll point out the different vendors for your business process analysis tool.
+
+901
+02:02:16.970 --> 02:02:27.339
+Michael Schank: But a company like software. Ag has invested a significant amount of money and effort. And a lot of these platforms are are investing in this and creating the
+
+902
+02:02:27.340 --> 02:02:42.189
+Michael Schank: their digital twin framework. And they have a a data. And it's it's escaping me now. But they have a way to extract the information in a digital twin type language you could feed into that that model.
+
+903
+02:02:43.310 --> 02:02:55.689
+David Mantica--Co-host!!!: So what you get, what you're getting at here. And I think people are starting to see it is that that you put input it into the tool. The tool now can operate much like a Gen. AI environment as you can start
+
+904
+02:02:56.010 --> 02:02:57.410
+David Mantica--Co-host!!!: talking to
+
+905
+02:02:57.960 --> 02:02:59.090
+David Mantica--Co-host!!!: your twin.
+
+906
+02:02:59.290 --> 02:03:04.240
+David Mantica--Co-host!!!: Yeah. And then, as their AI environments get better, they can start bringing in
+
+907
+02:03:04.450 --> 02:03:05.470
+David Mantica--Co-host!!!: other stuff.
+
+908
+02:03:06.140 --> 02:03:07.100
+Michael Schank: Yes.
+
+909
+02:03:07.580 --> 02:03:19.539
+Michael Schank: yeah, you're just modeling. You're modeling what the organization looks like. And that's what your process tool is. And then you're using that to educate your AI digital twin image engine on how things work.
+
+910
+02:03:19.590 --> 02:03:25.599
+Michael Schank: Right? So that's just the building, the the the model of the environment itself.
+
+911
+02:03:26.465 --> 02:03:55.860
+Michael Schank: And and then this next slide goes a little bit into some of these business process analysis tools. And I put some images on some of the leading ones. I'm not making any recommendation on which is the best, and and I probably wouldn't even make a say that this is necessarily a complete list. But there's software. Ag Eris, there's Gb, tech, mega graphic signavio evolution abacus biz design. But what these, what these platforms do is it allows you to model the environment
+
+912
+02:03:56.150 --> 02:04:21.169
+Michael Schank: they have process mining. So I think it's a good thing as long as you give it business context. But it could look at the log files that are generated by your systems and really give you insight into what is happening. It could generate some process, flows, etc, could do all the data management that we talked about process analysis. And you know, the big thing is impact analysis. The what if statements on what if I change this? What if I change that really understand
+
+913
+02:04:21.220 --> 02:04:33.049
+Michael Schank: all the impacts across the board, reporting governance, etc. So this is a relatively mature market, and these tools have a lot of good capabilities.
+
+914
+02:04:33.520 --> 02:04:46.870
+Michael Schank: Then the the last one is really the the data Orient, the operational data capture. So now, once I have this, I could take data from all different inputs. And hopefully, if you.
+
+915
+02:04:47.120 --> 02:04:58.409
+Michael Schank: you take the time to create a consistent labeling schema. And I think that's that labeling schema is process names. But you have maybe process and and task mining
+
+916
+02:04:58.410 --> 02:05:20.719
+Michael Schank: information. You have your transactions, processing systems, you have your issues, you have your customer complaints, your Grc risk data, your regulatory reporting. You name it. If you start. If you feed all this into your now your digital twin, it could do analysis on all the different nuances of how your business works.
+
+917
+02:05:20.720 --> 02:05:44.219
+Michael Schank: and I just put some of the some of the sample metrics on the right. Improve your customer experience. If you understand, maybe you do a customer journey tied to your specific processes that support it supplied to data. Now we could look at, where do I have maybe from a predictive analytics standpoint. Where do I maybe have some customer touch points that are a problem.
+
+918
+02:05:44.220 --> 02:06:03.269
+Michael Schank: Maybe before they actually impact the customer. Maybe it could zone in on what is exactly the software code and give you the new code so that developers can implement it could do operating efficiency, improve quality. Understand? Where there's challenges in your software and your people processes improve your time to market.
+
+919
+02:06:03.270 --> 02:06:15.519
+David Mantica--Co-host!!!: I really love this from a marketing perspective, Michael. Like, if I was a Cmo. I could put my process, my marketing processes into my into the framework, put the digital twin out, and I could start pounding it.
+
+920
+02:06:15.520 --> 02:06:16.320
+Michael Schank: Exactly.
+
+921
+02:06:16.320 --> 02:06:33.390
+David Mantica--Co-host!!!: And I could add some marketing best practice information into the system I can. I can look into like some information, maybe, on you know how how to deal with better, with programmatic and all these other things, and then we can start pounding and see how our marketing team could perform better.
+
+922
+02:06:33.560 --> 02:06:36.989
+Michael Schank: Exactly. Really. Any team. Your operations team.
+
+923
+02:06:36.990 --> 02:06:43.970
+David Mantica--Co-host!!!: Yeah, yeah, I got it from marketing. Just to think I got a strong marketing background. I'm like, Wow, I could see. Now, yeah, what would happen.
+
+924
+02:06:44.200 --> 02:06:45.530
+Michael Schank: What's the lab?
+
+925
+02:06:46.230 --> 02:06:46.980
+Michael Schank: Yeah.
+
+926
+02:06:48.480 --> 02:06:51.160
+Michael Schank: So let me pause here. Are we getting any other questions, David?
+
+927
+02:06:51.160 --> 02:06:57.959
+David Mantica--Co-host!!!: No, we just. We're getting a lot of comment. Comments back and forth about the recording and the session breakout and all that good stuff.
+
+928
+02:06:57.960 --> 02:06:58.450
+Michael Schank: Okay. But.
+
+929
+02:06:58.450 --> 02:07:07.909
+David Mantica--Co-host!!!: Does anybody have any questions for Michael? I think ultimately, too, you know this type of thing, you know, it's something that you really have to no pun intended process.
+
+930
+02:07:08.080 --> 02:07:09.510
+David Mantica--Co-host!!!: Yeah, I think about.
+
+931
+02:07:10.070 --> 02:07:10.669
+David Mantica--Co-host!!!: And this is.
+
+932
+02:07:10.670 --> 02:07:11.520
+Michael Schank: A lot.
+
+933
+02:07:11.830 --> 02:07:12.690
+David Mantica--Co-host!!!: It's a lot.
+
+934
+02:07:13.400 --> 02:07:16.090
+David Mantica--Co-host!!!: Any questions, comments, thoughts.
+
+935
+02:07:17.020 --> 02:07:18.510
+Michael Schank: Criticisms.
+
+936
+02:07:18.860 --> 02:07:30.340
+David Mantica--Co-host!!!: I think the big comment was, and you shared your thoughts of data flow versus process flow. Can you see? Can you see better watching the data, or you can see better. Knowing the processes.
+
+937
+02:07:30.720 --> 02:07:40.229
+Michael Schank: Yeah. And I think they're very complementary to each other. The the processes give you context from a business perspective, which is what's critical for for digital twin.
+
+938
+02:07:40.330 --> 02:08:02.030
+Michael Schank: The data flow is obviously important, too. I just gave a presentation on risk management, one of the especially from a non financial risk perspective. It's all about is my data accurate? Do I understand all the transformations and the hops? And so you need to understand the flow of data as well. But if you piece all those together, it gives you a full understanding of how your environment works.
+
+939
+02:08:03.140 --> 02:08:07.490
+David Mantica--Co-host!!!: Yeah, that's what's and any thoughts on where you've seen some execution.
+
+940
+02:08:08.794 --> 02:08:10.079
+Michael Schank: What do you mean by execution?
+
+941
+02:08:10.080 --> 02:08:14.089
+David Mantica--Co-host!!!: Of like, let's talk 1st on the process inventory, then, second, on
+
+942
+02:08:14.270 --> 02:08:16.220
+David Mantica--Co-host!!!: digital, the digital twin.
+
+943
+02:08:16.480 --> 02:08:17.679
+David Mantica--Co-host!!!: Yeah. So I'm doing it.
+
+944
+02:08:17.680 --> 02:08:45.970
+Michael Schank: Process inventory. I I'm helping a couple, you know, many different clients implement this. I think it's a a kind of novel concept and a lot of organizations, you know, part of part of what I'm doing is just trying to get people to understand the concept and realize that they need it from a digital twin perspective. I think it's still new, and I don't know of any solid use cases of people doing it in non physically tangible environments.
+
+945
+02:08:46.520 --> 02:08:53.810
+Michael Schank: As I mentioned this, the roots of this is in manufacturing where there's physical floors and physical space, and it's easier to to model.
+
+946
+02:08:53.850 --> 02:09:02.239
+Michael Schank: But but I think this is this is something that is up and coming, and I'll I'm certainly looking for a partner where I could build some
+
+947
+02:09:02.650 --> 02:09:04.299
+Michael Schank: pilots to really test this out.
+
+948
+02:09:04.300 --> 02:09:14.210
+David Mantica--Co-host!!!: Yeah, I mean, the thing about it is when kids and the my brain just fried a Kevia here talking about the business clone. It's a test dummy.
+
+949
+02:09:14.640 --> 02:09:15.310
+David Mantica--Co-host!!!: Yeah.
+
+950
+02:09:15.450 --> 02:09:30.009
+David Mantica--Co-host!!!: And Joel Barker and other thought leaders talked about the decision bubbles right? Where? Okay? You can sit down and think about decisions that you make, and what are other decisions that would happen from that? And you draw these bubble circles. And you do this. That's done this way much
+
+951
+02:09:30.030 --> 02:09:41.310
+David Mantica--Co-host!!!: more powerfully, because what we don't have is crash test. What we don't have is the ability to actually see 3 levels of head. But maybe doing this you can pound out. If I did this, what would be happening.
+
+952
+02:09:41.500 --> 02:09:44.940
+Michael Schank: Exactly it. It could give you all those. What if it could probably draw those
+
+953
+02:09:45.370 --> 02:09:50.819
+Michael Schank: those thought bubbles, you know, for you, and give you all the insights that you need.
+
+954
+02:09:50.930 --> 02:09:51.650
+Michael Schank: Yeah.
+
+955
+02:09:51.980 --> 02:09:59.840
+David Mantica--Co-host!!!: That's it would give you all the. There's a good chance it would, and then use AI to help the brainstorming process. And, as you said, you're using AI to help
+
+956
+02:09:59.980 --> 02:10:05.020
+David Mantica--Co-host!!!: augment and and add the additional logic about what should be happening.
+
+957
+02:10:05.130 --> 02:10:05.840
+David Mantica--Co-host!!!: Yeah.
+
+958
+02:10:06.650 --> 02:10:07.400
+Michael Schank: That's right.
+
+959
+02:10:08.530 --> 02:10:11.959
+David Mantica--Co-host!!!: Any other last point you want to share, Michael.
+
+960
+02:10:11.960 --> 02:10:13.199
+Michael Schank: Yeah, I think, just.
+
+961
+02:10:13.200 --> 02:10:14.330
+David Mantica--Co-host!!!: Hired people.
+
+962
+02:10:14.330 --> 02:10:28.330
+Michael Schank: Yeah, it's been a long day. But but maybe just on score underscore 1 point, I think it speaks to the benefit, and I always talk. And this is a ubiquitous kind of stat within. The transformation kind of community is that 70% of transformation fails.
+
+963
+02:10:28.410 --> 02:10:30.520
+Michael Schank: transformations fail.
+
+964
+02:10:30.570 --> 02:10:52.529
+Michael Schank: And there is a lot of money, and I forget the exact stat. But it's like 3 trillion dollars, or something like that that is spent on transformation. So I think, while the effort it does take some effort, it does take some leadership commitment to do this. I think the space in terms of the potential benefit is just massive.
+
+965
+02:10:54.330 --> 02:10:56.279
+David Mantica--Co-host!!!: Yeah, you know. And I just keep.
+
+966
+02:10:56.360 --> 02:11:10.040
+David Mantica--Co-host!!!: I just keep thinking about how larger and larger companies are failing faster in change. And it's the unicorns of the myopic focus, who just happen to get lucky that can then jump and beat them.
+
+967
+02:11:10.110 --> 02:11:23.670
+David Mantica--Co-host!!!: and a lot of it has to do with. You know, Michael talked about the blockbuster scenario. You're eating your own dog food. You don't know what's going inside of your company. You haven't pounded that, and so you can't change fast. You can't transform.
+
+968
+02:11:23.760 --> 02:11:30.799
+David Mantica--Co-host!!!: you know, even transform at the product. You do, you can't. You certainly can't digitally transform. You might do it at a group level.
+
+969
+02:11:31.060 --> 02:11:48.189
+David Mantica--Co-host!!!: the department level. But until something like this happens, I do think it's just going to be the world of the Mag, the Magnificent 7, which is what the S. And P. Is driving right now, and upstarts blowing away standard companies, and a company like GM. Can have a market cap. That's
+
+970
+02:11:49.130 --> 02:12:05.790
+David Mantica--Co-host!!!: what like, I think Nvidia's market cap is like 15% bigger than GM's. I mean, just think about that. I mean so. And I know they're 2 different industries. But you know, why wasn't Intel. Why isn't Intel doing the same thing that Nvidia is doing right now?
+
+971
+02:12:05.790 --> 02:12:06.670
+Michael Schank: Exactly.
+
+972
+02:12:06.930 --> 02:12:09.639
+David Mantica--Co-host!!!: Let's talk about that. I mean, that's what you're getting at here.
+
+973
+02:12:09.640 --> 02:12:10.260
+Michael Schank: Yeah.
+
+974
+02:12:11.070 --> 02:12:11.880
+Michael Schank: yeah, so I think.
+
+975
+02:12:11.880 --> 02:12:13.900
+David Mantica--Co-host!!!: Eating up to waste.
+
+976
+02:12:14.230 --> 02:12:26.190
+Michael Schank: If you if you yeah, I mean, I think this gives a opportunity, especially the the young startups. Or, you know, companies that are have visionary. They could leapfrog the competition because they could do things faster.
+
+977
+02:12:26.190 --> 02:12:36.989
+David Mantica--Co-host!!!: What's happening. This is what's happening. And they're just blowing them away. And then, because a lot of kinds of companies don't know what's going on in their company. Yeah.
+
+978
+02:12:37.100 --> 02:12:50.520
+David Mantica--Co-host!!!: they don't know their true capabilities and the the weakness of the poop, Emoji. But anyways, that that's what gets me when I start seeing this, it starts. It starts showing me a picture that you can use to catch yourself
+
+979
+02:12:50.900 --> 02:12:53.110
+David Mantica--Co-host!!!: and maybe do that pivot faster.
+
+980
+02:12:53.390 --> 02:12:58.759
+John Ruppel: Michael, it's John. Can I share a conversation we had with Ken, you and I about this?
+
+981
+02:12:58.810 --> 02:13:04.900
+John Ruppel: I think it helped everybody. So what what David, what you just triggered on was really interesting for me, because
+
+982
+02:13:05.220 --> 02:13:09.219
+John Ruppel: we, Dr. Ken and I had this conversation with Michael.
+
+983
+02:13:09.850 --> 02:13:31.800
+John Ruppel: the other day, on reviewing this presentation, and it goes back into the whole adoption thing is that leaders are so reactionary because they don't have foresight to lead ahead, and what Michael's shown them here is he's given them a blueprint for how they can actually get ahead. And what you guys just said leapfrogging, yeah, any organization whose leadership is going to get on board with this.
+
+984
+02:13:31.800 --> 02:13:38.029
+David Mantica--Co-host!!!: Because here's the problem, leadership can't keep up anymore. The biggest biggest issue now is change is so rapid.
+
+985
+02:13:38.030 --> 02:13:38.480
+John Ruppel: Exactly.
+
+986
+02:13:38.480 --> 02:13:47.660
+David Mantica--Co-host!!!: Unless you have really good technologists, or you have really good vps or keeping their eyes afloat. Leadership is just focused on shareholder value and shareholder needs.
+
+987
+02:13:47.660 --> 02:13:48.110
+John Ruppel: That's right.
+
+988
+02:13:48.110 --> 02:14:11.349
+David Mantica--Co-host!!!: They aren't looking at what's going on, I mean, HP. Is the best story about that Mark Herb. When he ran it he was a darling focused on sales, and he cut the R. And D. Budget to next to nothing. And look what happened to HP. And the story of the S. And P. Is so strong. Companies used to last on the S. And P. 30 years. On average, a company lasts on the S. And P. 10 or 11 years now.
+
+989
+02:14:11.420 --> 02:14:14.220
+David Mantica--Co-host!!!: and it's all boils down to John. What you were just saying.
+
+990
+02:14:14.440 --> 02:14:35.990
+John Ruppel: And it's the flow value right? If you combine this with the context of flowing value, and you push everything out to what I call the tip of the spear, which is out to where the customers are, where the decisions are being made at the lowest levels of the organization, where the action is taking place, and you have this type of infrastructure or way for the leaders to tie in and get their head wrapped around it. So there are servants now supporting.
+
+991
+02:14:36.190 --> 02:14:38.290
+John Ruppel: That's the model that wins today.
+
+992
+02:14:38.290 --> 02:14:56.859
+David Mantica--Co-host!!!: Also. This is a place where you can see where AI can help you. If you did, your process flows, and inventory for your Pmo. Then you can overlay that with where you can stick AI in and do so consistently. You know the debate George is having with. Do you standardize and scale. Or do you allow people to do their thing?
+
+993
+02:14:57.940 --> 02:15:06.040
+David Mantica--Co-host!!!: Brandon? Thank you so much, man, appreciate that share. I'm gonna pass it to Laura real quick, and then we'll have our closeout time. Go ahead, Laura.
+
+994
+02:15:06.040 --> 02:15:11.050
+Lara Hill: Okay, great. Well, I just wanna check in with Michael and see if this was your last slide, or did you get to
+
+995
+02:15:11.700 --> 02:15:12.870
+Lara Hill: point? Okay, great.
+
+996
+02:15:12.870 --> 02:15:13.920
+Michael Schank: Yeah, we're we're great. Thanks.
+
+997
+02:15:13.920 --> 02:15:20.099
+Lara Hill: Wonderful presentation. We all enjoyed it so much a lot of good feedback in the comments.
+
+998
+02:15:20.100 --> 02:15:48.070
+Lara Hill: I would love to continue this conversation, and we will. But before we do that I want to give one last. Thank you to all of our speakers, to our sponsors, Mount Tam Innovations and AI search. Thank you for sponsoring. We appreciate you. We couldn't do this without you, and of course, thank you so much to all the participants. This, I hope, has been valuable for you. We really would love to have your feedback. I'll be sending an email with a link to a survey. This is really important to us that we hear.
+
+999
+02:15:48.070 --> 02:15:48.640
+David Mantica--Co-host!!!: Please.
+
+1000
+02:15:48.640 --> 02:15:55.999
+Lara Hill: How this experience was for you. We read every comment, and we take it very seriously. So please do let us know.
+
+1001
+02:15:56.000 --> 02:16:06.900
+David Mantica--Co-host!!!: Please, and then also with bad things, I mean, give us some thoughts on what we can improve upon, and we already see the break time, and then trying to break it out. We know that. But tell us that reinforce it. Please do.
+
+1002
+02:16:07.120 --> 02:16:08.580
+David Mantica--Co-host!!!: Sorry, Laura.
+
+1003
+02:16:08.910 --> 02:16:12.010
+Lara Hill: So with that, I'm going to stop the recording.
+
+1004
+02:16:12.080 --> 02:16:14.819
+Lara Hill: and we will continue on.
+

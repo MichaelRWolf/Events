@@ -1,0 +1,5338 @@
+WEBVTT
+
+1
+00:00:06.430 --> 00:00:15.350
+Lara Hill: Welcome everyone to Gen. AI. Day 4. I'm Laura Hill with Skills Development group. And I'm here with David Mantica, my co-host
+
+2
+00:00:15.370 --> 00:00:18.900
+Lara Hill: and partner in crime. David, welcome.
+
+3
+00:00:19.160 --> 00:00:36.500
+David Mantica--Co-host!!!: Hello, everyone! Thanks for joining us. We have a four-time attendee and Sharon King. We have a three-time attendee and Craig Oliver. So it's great having those folks here. It'd be interesting to get their perspectives on the differences and what was covered and the engagement
+
+4
+00:00:36.620 --> 00:00:39.149
+David Mantica--Co-host!!!: based on people's experience level as well.
+
+5
+00:00:39.280 --> 00:00:45.130
+David Mantica--Co-host!!!: do you want me to say some of my babble? Now, Laura, do you want to have a few more things you want to talk about?
+
+6
+00:00:45.800 --> 00:00:55.520
+Lara Hill: Well, sure we I'd love to hear your babble. I also want to make sure we introduce the speakers that are here in the room already, just to give them a chance to say Hello.
+
+7
+00:00:55.820 --> 00:00:56.830
+David Mantica--Co-host!!!: Go for it.
+
+8
+00:00:56.830 --> 00:01:07.370
+Lara Hill: Let's do that all right. If you're a speaker and you're here, please, unmic and say Hello! Well, let's start with you, Lloyd, since your presentation is first, st good morning.
+
+9
+00:01:07.640 --> 00:01:15.320
+Loyd Thompson: Yeah. Good morning. Good morning, everyone. I had the pleasure of being a presenter in the Gen. AI. Day, one
+
+10
+00:01:15.540 --> 00:01:26.519
+Loyd Thompson: glad to be back, presenting again, and will apologize to all of you for my voice. I've come down with a little bit of a cold, but hopefully you will have no problem understanding me.
+
+11
+00:01:27.880 --> 00:01:30.030
+Lara Hill: Great thanks for being here, Lloyd.
+
+12
+00:01:30.050 --> 00:01:33.859
+Lara Hill: Samuel, I see you're in the room next. Welcome.
+
+13
+00:01:34.070 --> 00:01:37.709
+Samuel Parri: Thank you. Hi, everyone. I am Samuel Parry.
+
+14
+00:01:37.740 --> 00:01:48.870
+Samuel Parri: I want to personally extend my thanks to not only George Churchwell, to you, Laura, and to you, David, for the privilege to be with all of you today. Thank you.
+
+15
+00:01:49.940 --> 00:01:51.340
+Lara Hill: Thanks, Sam.
+
+16
+00:01:51.720 --> 00:01:55.080
+Lara Hill: I am just looking around the room. Let's go to Jonathan.
+
+17
+00:01:55.410 --> 00:02:07.619
+Jonathan Stephens (he/him): Hi! I'm Jonathan excited. It's my 1st time speaking at Gen. AI. Day after attending twice already. Looking forward and thank you, Laura and David for putting it on.
+
+18
+00:02:08.380 --> 00:02:10.610
+Lara Hill: Great. We're so glad to have you back.
+
+19
+00:02:10.930 --> 00:02:13.579
+Lara Hill: Who else is here, David? I'm looking around the room.
+
+20
+00:02:14.280 --> 00:02:16.190
+Lara Hill: Mark's here.
+
+21
+00:02:16.190 --> 00:02:17.729
+David Mantica--Co-host!!!: Mark is here.
+
+22
+00:02:18.090 --> 00:02:19.440
+Marc Balcer: Yeah. Hi.
+
+23
+00:02:19.650 --> 00:02:21.530
+Marc Balcer: so this is, I think.
+
+24
+00:02:21.560 --> 00:02:25.510
+Marc Balcer: my 4th Gen. AI. Day, presenting.
+
+25
+00:02:27.060 --> 00:02:28.609
+David Mantica--Co-host!!!: Love it. We've we've dragged you.
+
+26
+00:02:28.610 --> 00:02:29.840
+Lara Hill: Yeah, you're.
+
+27
+00:02:34.670 --> 00:02:36.549
+David Mantica--Co-host!!!: That's beautiful, beautiful.
+
+28
+00:02:37.080 --> 00:02:50.300
+Lara Hill: Mark is one of our instructors at Skills Development Group. And our very 1st course. AI for bas, right, David, isn't that our very 1st AI course we came out with. So Mark is our veteran AI instructor.
+
+29
+00:02:50.930 --> 00:02:51.670
+Lara Hill: Yep.
+
+30
+00:02:52.390 --> 00:03:19.299
+Lara Hill: all right. I think that's all the speakers that are here now. We'll have more joining. But I also just want to make sure. I say thank you to our sponsors, because we had Mount Tam innovations, as our 1st sponsor, and George Churchwell will be joining us as a speaker. We have a couple other speakers that are from that organization. They'll be introducing themselves later. I'll be putting links in the chats to our sponsors, websites. We also have
+
+31
+00:03:19.300 --> 00:03:44.270
+Lara Hill: AI certs as a sponsor, and we'll have a little message from them a little later in the day, and of course our chapter sponsors Iiba, sponsors from Kansas City, Raleigh, Northwest Arkansas, Fort Worth, Toronto, Orange County, Portland, Metro, as well as the Pmi chapters in Central Illinois and Dallas. So if you're here from one of those chapters.
+
+32
+00:03:44.270 --> 00:04:01.099
+Lara Hill: please say hello, and we are so grateful for your support we couldn't do this event without all of the support from our sponsors. So thank you, sponsors. David, do you want to go into your spiel as we go into the day here.
+
+33
+00:04:01.610 --> 00:04:03.780
+David Mantica--Co-host!!!: Yeah, thank you so much.
+
+34
+00:04:04.080 --> 00:04:06.380
+David Mantica--Co-host!!!: You sure you want me to do this right?
+
+35
+00:04:06.380 --> 00:04:10.599
+Lara Hill: I mean, we need to. We need to prepare people for this. So let's hear it.
+
+36
+00:04:10.600 --> 00:04:13.269
+David Mantica--Co-host!!!: So 1st and foremost interaction
+
+37
+00:04:13.510 --> 00:04:18.140
+David Mantica--Co-host!!!: as little or as much as you want. We'll be working chat really hard.
+
+38
+00:04:18.329 --> 00:04:43.670
+David Mantica--Co-host!!!: We will provide the Chat transcript. So if you want to share some great information, you know part of the reason Jonathan's here speaking is his engagement, and all the information he was sharing in the other events. It was pretty amazing what Jonathan was doing for those sessions. So you want to engage. Great! That's what chat function is for right now. Folks are sharing their Linkedin. Don't hesitate to share your Linkedin URL for more connections.
+
+39
+00:04:43.670 --> 00:04:57.690
+David Mantica--Co-host!!!: If you're looking for a job, and you want to share that fact. And you want to share some of what you're specifically looking for, that'd be great as well. So don't hesitate to do all the interactive things.
+
+40
+00:04:57.690 --> 00:05:25.570
+David Mantica--Co-host!!!: Remember, you can private chat so you can use your private chat function if you hear somebody talking about something, and you want to share, you want to share with them some more ideas. You hear a great speaker, and you want to talk to that speaker more so probably stay on for a little longer after a session. Please don't hesitate to private chat, you know. You might want to bring a speaker in as a consultant for something. Don't hesitate to do that as well. I mean, we want to keep this a session where you can learn and gain and get as much information as possible.
+
+41
+00:05:25.860 --> 00:05:30.519
+David Mantica--Co-host!!!: And certainly you're not just going to learn from the presenters. You're going to learn from each other.
+
+42
+00:05:30.950 --> 00:05:37.630
+David Mantica--Co-host!!!: and that's what a conference is about. And I know virtual conferences sometimes struggle with this. So I think we got a pretty
+
+43
+00:05:37.680 --> 00:05:43.349
+David Mantica--Co-host!!!: good mojo with how we run it. So you're going to see us interacting, pushing for comments and thoughts
+
+44
+00:05:43.390 --> 00:06:01.890
+David Mantica--Co-host!!!: and remember, during break periods and during Qa. Periods open up your mic. You want to make a comment, a thought, a suggestion. Also. We'll have an after session, where people can gather together between 5 and 5 30, just to talk a little bit about things that they've learned and other ideas that they want. If you want to stick around for that.
+
+45
+00:06:02.620 --> 00:06:10.470
+David Mantica--Co-host!!!: The big thing, you know, with regard to doing a conference like this is really really focused on
+
+46
+00:06:11.000 --> 00:06:16.799
+David Mantica--Co-host!!!: whether you like it or not. This is a technology that's going to have impact.
+
+47
+00:06:18.070 --> 00:06:27.849
+David Mantica--Co-host!!!: You want to learn as much about it as possible. So you can make a decision about whether you want to engage with that technology or not.
+
+48
+00:06:28.740 --> 00:06:35.909
+David Mantica--Co-host!!!: Just if you're old enough, picture 2,000 or 1999, how many of you would have loved to buy domains
+
+49
+00:06:36.460 --> 00:06:41.690
+David Mantica--Co-host!!!: and be able to sell domains back in the day with the knowledge that you have. Now.
+
+50
+00:06:41.860 --> 00:06:45.019
+David Mantica--Co-host!!!: the reality is, you're living that same situation.
+
+51
+00:06:45.460 --> 00:06:48.269
+David Mantica--Co-host!!!: There are opportunities here.
+
+52
+00:06:48.600 --> 00:06:56.410
+David Mantica--Co-host!!!: the more you know, the better your chance to gain value from those opportunities. So you are taking that
+
+53
+00:06:56.450 --> 00:07:03.939
+David Mantica--Co-host!!!: right step and gaining information and doing so in this type of environment where you're going to get a lot of information.
+
+54
+00:07:04.330 --> 00:07:08.990
+David Mantica--Co-host!!!: And you're going to get it from different perspectives. And you're going to get it from different areas.
+
+55
+00:07:09.130 --> 00:07:21.830
+David Mantica--Co-host!!!: And so as you focus in on which those areas you might want to dig into more, that's what that's what we're looking for, where you might see a business idea where you might see a work idea where you might want to grow in your skills
+
+56
+00:07:22.010 --> 00:07:27.469
+David Mantica--Co-host!!!: so hopefully, you get that out of this conference, because that's what we tried to do here.
+
+57
+00:07:27.800 --> 00:07:34.280
+David Mantica--Co-host!!!: And with that, said Laura, I'll pass it over to you, and I'll get back to my work in the chat in the chat window.
+
+58
+00:07:35.550 --> 00:08:02.149
+Lara Hill: Great. Well, I believe we're getting close to the time to start. So I want to welcome everyone who's just joining us and remind you. Everything is being recorded, and will be provided afterwards, as well as the Pdu claim codes or CDU, whichever one you may be collecting for your certification, we will be providing you 7 credit hours. So those will be emailed afterwards as well.
+
+59
+00:08:02.160 --> 00:08:11.070
+Lara Hill: But with that said, I would love to turn it over to Lloyd to introduce himself and get into his presentation. Are you ready, Lloyd?
+
+60
+00:08:12.030 --> 00:08:14.740
+Loyd Thompson: I am. I am ready. I'm gonna
+
+61
+00:08:15.000 --> 00:08:16.610
+Loyd Thompson: share my screen.
+
+62
+00:08:17.570 --> 00:08:20.570
+Loyd Thompson: And can you see my screen.
+
+63
+00:08:21.290 --> 00:08:21.620
+David Mantica--Co-host!!!: Because.
+
+64
+00:08:21.620 --> 00:08:22.620
+Lara Hill: Your screen.
+
+65
+00:08:23.320 --> 00:08:23.760
+Loyd Thompson: Okay.
+
+66
+00:08:24.200 --> 00:08:24.609
+David Mantica--Co-host!!!: Now, if you
+
+67
+00:08:24.960 --> 00:08:28.120
+David Mantica--Co-host!!!: you're if you hit presentation play, I think it looked better.
+
+68
+00:08:30.010 --> 00:08:30.539
+Loyd Thompson: Well.
+
+69
+00:08:31.280 --> 00:08:35.160
+Loyd Thompson: okay. I wanted. I wanted to be able to do a few things on the side, but.
+
+70
+00:08:35.169 --> 00:08:38.879
+David Mantica--Co-host!!!: Okay. No, no, that's fine. To go back to where you're at. That was great. Go for it. Go back.
+
+71
+00:08:38.880 --> 00:08:39.679
+Loyd Thompson: We will.
+
+72
+00:08:40.849 --> 00:08:47.890
+Loyd Thompson: So this is my second time to present a little bit of my background.
+
+73
+00:08:47.970 --> 00:08:52.640
+Loyd Thompson: I got started in tech back in the Ibm card Punch days.
+
+74
+00:08:52.700 --> 00:08:59.579
+Loyd Thompson: I am so thrilled to have had a career that involved tech to this point where AI
+
+75
+00:08:59.610 --> 00:09:03.249
+Loyd Thompson: is starting to deliver on its promise.
+
+76
+00:09:03.850 --> 00:09:19.849
+Loyd Thompson: I'm going to took a little bit of a different approach for this morning's presentation to to kind of kick things off, and I think it represents the flexibility and power that AI and things like creating Powerpoint presentations represent.
+
+77
+00:09:20.030 --> 00:09:23.839
+Loyd Thompson: I had created a standard Powerpoint presentation.
+
+78
+00:09:24.000 --> 00:09:36.619
+Loyd Thompson: had a few discussions with some of my colleagues, and decided that there was a maybe a better way. And I'm looking forward to your feedback today after I go through this presentation.
+
+79
+00:09:42.060 --> 00:09:45.889
+Loyd Thompson: So if you'd like to. And this is part of the new
+
+80
+00:09:46.080 --> 00:10:00.580
+Loyd Thompson: while we're kind of getting started. If you would go to the Https Gamma App website, you can get a free account. There's a click free. Try button in the upper right.
+
+81
+00:10:00.760 --> 00:10:04.230
+Loyd Thompson: and follow along with some of the things that we do.
+
+82
+00:10:04.420 --> 00:10:14.629
+Loyd Thompson: I'm aware that there are many Youtube videos out there that walk you through how to use applications like Gamma and Gamma specifically.
+
+83
+00:10:14.720 --> 00:10:34.059
+Loyd Thompson: But today we're going to share with you some of the tips and tricks that we have found in using this in some of our contracts to help things be a little smoother in production, a little quicker in production, and maybe even a little more consistent in what we present.
+
+84
+00:10:35.780 --> 00:10:50.630
+Loyd Thompson: There's also a ton of applications out there, or or services out there for doing this. And one of the things that I'm going to show you, and we're going to start right here is just how powerful and quick
+
+85
+00:10:50.820 --> 00:10:55.030
+Loyd Thompson: the AI can do and change things as you go along.
+
+86
+00:10:55.200 --> 00:11:11.319
+Loyd Thompson: So beautiful. AI, Tome and Slidebean are some of the examples of popular ais that create Powerpoint presentations. You can see that I have just a normal text slide here.
+
+87
+00:11:11.540 --> 00:11:15.400
+Loyd Thompson: but if I wanted to make it just a little different.
+
+88
+00:11:15.680 --> 00:11:19.690
+Loyd Thompson: I can come here and say, make it more visual.
+
+89
+00:11:26.910 --> 00:11:28.390
+Loyd Thompson: And here you go.
+
+90
+00:11:28.680 --> 00:11:32.188
+Loyd Thompson: It's added the the visuals to it
+
+91
+00:11:33.020 --> 00:11:49.829
+Loyd Thompson: And depending on how you deep you want it to go. It can also add definitions and look up, go dynamically to the web and look up tome and beautiful AI and Slidebeam, and put information about them.
+
+92
+00:11:49.980 --> 00:11:51.769
+Loyd Thompson: End the slide with it.
+
+93
+00:11:52.140 --> 00:11:53.100
+Loyd Thompson: Now.
+
+94
+00:11:53.340 --> 00:11:58.280
+Loyd Thompson: one of the things that I want you to remember when you're working with these tools
+
+95
+00:11:58.320 --> 00:12:02.949
+Loyd Thompson: is most of the rules that apply to prompting.
+
+96
+00:12:03.330 --> 00:12:05.020
+Loyd Thompson: Also apply
+
+97
+00:12:05.060 --> 00:12:22.620
+Loyd Thompson: when you're working to create Powerpoint and using whether it's a AI graphics oriented tool that's creating pictures or videos or whether it's something like Powerpoint. You still need to remember some of the basics that go along with creating AI prompts.
+
+98
+00:12:22.750 --> 00:12:30.740
+Loyd Thompson: So context is still very important. It's what is determining what you're, you know is going to be on your slides.
+
+99
+00:12:31.100 --> 00:12:37.349
+Loyd Thompson: The constraints around it, including like, How long do you want your presentation to be?
+
+100
+00:12:37.630 --> 00:12:46.270
+Loyd Thompson: What kind of word, tone, or temperature do you want it to have? And then even things like avoiding bias in your presentation.
+
+101
+00:12:46.300 --> 00:12:52.689
+Loyd Thompson: all of those things that are part of good prompts are part of creating good presentations.
+
+102
+00:12:52.690 --> 00:12:52.965
+David Mantica--Co-host!!!: Hey!
+
+103
+00:12:53.240 --> 00:12:53.590
+Loyd Thompson: Same.
+
+104
+00:12:53.590 --> 00:12:57.439
+David Mantica--Co-host!!!: Lloyd Neely asks, can you add, speaker notes in a similar way.
+
+105
+00:12:59.310 --> 00:13:11.759
+Loyd Thompson: You know I've not ever tried to add speaker notes I will. I will be happy to work on that and find out research it and and try it myself to give an answer. But I've never tried to do speaker notes.
+
+106
+00:13:14.140 --> 00:13:19.140
+David Mantica--Co-host!!!: Great. If you come back later on, jump on in and let us know. Otherwise. Keep keep rocking, man.
+
+107
+00:13:19.540 --> 00:13:23.999
+Loyd Thompson: As soon as I'm as soon as I'm done I'll work on it, and I'll come back in and share what I find.
+
+108
+00:13:25.010 --> 00:13:35.019
+Loyd Thompson: So one of the other things that I would encourage you to do. And this is the prompt. So I tried to create like an end to end experience for you today.
+
+109
+00:13:35.180 --> 00:13:41.290
+Loyd Thompson: So I typically use Chat Gpt as my preferred large language model.
+
+110
+00:13:41.410 --> 00:13:51.919
+Loyd Thompson: And here is the prompt that I started off with today and included in my prompt. I included the blurb from the program for today.
+
+111
+00:13:52.380 --> 00:13:54.290
+Loyd Thompson: And I thought it. You know.
+
+112
+00:13:54.970 --> 00:14:03.520
+Loyd Thompson: this is my experience. My talk is 30 min long. What topics were most likely to engage the audience and cover things they would want to know.
+
+113
+00:14:04.020 --> 00:14:07.099
+Loyd Thompson: And here's the information it gave back to me.
+
+114
+00:14:08.770 --> 00:14:11.269
+Loyd Thompson: So then, when I came here.
+
+115
+00:14:11.470 --> 00:14:14.119
+Loyd Thompson: and I wanted to start working on it.
+
+116
+00:14:15.150 --> 00:14:16.409
+Loyd Thompson: I came up.
+
+117
+00:14:16.800 --> 00:14:17.840
+Loyd Thompson: and
+
+118
+00:14:17.950 --> 00:14:19.739
+Loyd Thompson: I wanted to show you
+
+119
+00:14:21.270 --> 00:14:22.710
+Loyd Thompson: how that
+
+120
+00:14:23.300 --> 00:14:27.309
+Loyd Thompson: became the basis for the presentation that you're seeing.
+
+121
+00:14:27.400 --> 00:14:30.469
+Loyd Thompson: So this is literally a copy and paste
+
+122
+00:14:30.780 --> 00:14:34.200
+Loyd Thompson: from Chat gpt into the tool.
+
+123
+00:14:34.960 --> 00:14:42.779
+Loyd Thompson: And then I can set some parameters over here, and these parameters are incredibly important, depending on what you're doing.
+
+124
+00:14:43.360 --> 00:14:46.750
+Loyd Thompson: If you're doing just a 1 time
+
+125
+00:14:46.860 --> 00:14:48.270
+Loyd Thompson: presentation.
+
+126
+00:14:48.710 --> 00:15:00.089
+Loyd Thompson: then this button is not necessarily that important. But in this tool, when you're doing many presentations, say, for a course or
+
+127
+00:15:01.580 --> 00:15:06.119
+Loyd Thompson: certification program, or maybe even a series of business presentations
+
+128
+00:15:06.440 --> 00:15:07.790
+Loyd Thompson: preserve
+
+129
+00:15:08.130 --> 00:15:20.520
+Loyd Thompson: would keep the content that you have put together, and maybe it's directly from the AI. Maybe you've already proved it developed it, improved it, and you have exactly what you want to say.
+
+130
+00:15:20.860 --> 00:15:27.100
+Loyd Thompson: preserve allows you to lock that so that the AI isn't constantly, or
+
+131
+00:15:27.200 --> 00:15:36.369
+Loyd Thompson: maybe unintendedly, making changes to it that you don't want, or that changes the context or content of your presentation.
+
+132
+00:15:36.820 --> 00:15:42.499
+Loyd Thompson: You can have it in my case. I used it to generate the slides based on this. Input
+
+133
+00:15:42.630 --> 00:15:48.489
+Loyd Thompson: I can tell it how much of information that I want? I can make it very, very detailed
+
+134
+00:15:48.550 --> 00:15:56.859
+Loyd Thompson: or very brief in my case. I chose brief for today's presentation, and then I can start to give it some context.
+
+135
+00:15:57.060 --> 00:16:05.650
+Loyd Thompson: So here you can see, I said, write it for program and project managers looking to decrease their time to produce presentations while upgrading their quality.
+
+136
+00:16:06.590 --> 00:16:07.770
+Loyd Thompson: the tone.
+
+137
+00:16:09.270 --> 00:16:11.899
+Loyd Thompson: And then what kind of images?
+
+138
+00:16:12.540 --> 00:16:23.310
+Loyd Thompson: So I said, you can create AI images. And I described what could be in your my formatting for the AI image.
+
+139
+00:16:27.110 --> 00:16:31.989
+Loyd Thompson: I get to pick a model, and there's a bunch of different models to choose from.
+
+140
+00:16:32.080 --> 00:16:34.940
+Loyd Thompson: This is one of the newer models that we use.
+
+141
+00:16:35.670 --> 00:16:49.770
+Loyd Thompson: and then I can format it. So I formatted it as a presentation. 16 by 9, because that's that's what I have, and what most presentations are in today, and I told it wide, and then I gave it some additional instructions.
+
+142
+00:16:50.500 --> 00:16:58.560
+Loyd Thompson: So before I move on, are there any additional questions about how to quickly go from an idea
+
+143
+00:16:58.870 --> 00:17:02.900
+Loyd Thompson: to content to like formatting your presentation?
+
+144
+00:17:04.990 --> 00:17:06.419
+Loyd Thompson: David, are there any questions? Yeah.
+
+145
+00:17:06.420 --> 00:17:12.650
+David Mantica--Co-host!!!: Yeah, 1st question is, can I share a template Ppt and ask it to create, update from notes.
+
+146
+00:17:17.829 --> 00:17:19.799
+Loyd Thompson: We've done something similar.
+
+147
+00:17:21.779 --> 00:17:24.369
+Loyd Thompson: I don't know that we've directly done it.
+
+148
+00:17:24.599 --> 00:17:34.409
+Loyd Thompson: But you. I'm going to show you how you can update slides, and so maybe maybe I'm going to cover the thing that will directly address that if I don't
+
+149
+00:17:34.599 --> 00:17:41.579
+Loyd Thompson: come back and and ping me after I'm done, and then I I will talk to you or work work on it for you.
+
+150
+00:17:41.930 --> 00:17:45.139
+David Mantica--Co-host!!!: Laurie got some questions here. Do you need Api for images?
+
+151
+00:17:45.880 --> 00:17:46.670
+Loyd Thompson: No.
+
+152
+00:17:47.080 --> 00:17:50.629
+Loyd Thompson: no, I'm gonna and I'm gonna show you how to change images as well.
+
+153
+00:17:51.040 --> 00:17:55.310
+David Mantica--Co-host!!!: How easy is it to incorporate branding Aka color palette from a client.
+
+154
+00:17:55.600 --> 00:18:00.060
+Loyd Thompson: I'm definitely going to cover that. And it's incredibly easy. Excellent.
+
+155
+00:18:00.650 --> 00:18:02.409
+David Mantica--Co-host!!!: All right, that's it. Keep going.
+
+156
+00:18:03.330 --> 00:18:04.200
+Loyd Thompson: Okay.
+
+157
+00:18:04.510 --> 00:18:08.640
+David Mantica--Co-host!!!: Oh, wait one more. Can you review what you generated from Chat? Gtp.
+
+158
+00:18:09.780 --> 00:18:11.120
+Loyd Thompson: Can I go back to it?
+
+159
+00:18:11.280 --> 00:18:14.199
+David Mantica--Co-host!!!: Yeah. Can you review what you generated from chat? Gtp.
+
+160
+00:18:14.580 --> 00:18:15.199
+Loyd Thompson: I don't.
+
+161
+00:18:15.880 --> 00:18:18.620
+Loyd Thompson: I don't understand the review part.
+
+162
+00:18:19.040 --> 00:18:26.210
+David Mantica--Co-host!!!: Okay, Lauren, if you let's see, Laura, if you want to add to that question, let me know, and then we'll keep going, and then I'll bring that question back.
+
+163
+00:18:26.410 --> 00:18:27.649
+Loyd Thompson: I mean, if if
+
+164
+00:18:27.890 --> 00:18:30.930
+Loyd Thompson: yeah, if they wanted me to directly go through
+
+165
+00:18:31.240 --> 00:18:34.190
+Loyd Thompson: what I have on the screen here, I'm happy to do that.
+
+166
+00:18:35.370 --> 00:18:38.350
+David Mantica--Co-host!!!: No, just keep keep going, for for now keep rocking.
+
+167
+00:18:38.870 --> 00:18:42.840
+Loyd Thompson: Okay. And I apologize. I'm just not sure how to try to.
+
+168
+00:18:42.840 --> 00:18:47.710
+David Mantica--Co-host!!!: No, she'll she'll redo her question a little bit to help us out.
+
+169
+00:18:48.460 --> 00:18:49.800
+Loyd Thompson: Okay, so
+
+170
+00:18:50.330 --> 00:18:52.370
+Loyd Thompson: prompt basics still apply.
+
+171
+00:18:52.940 --> 00:19:02.529
+Loyd Thompson: What does AI do that really adds value. It like helps to improve quality and definitely decreases speed or time
+
+172
+00:19:02.800 --> 00:19:05.060
+Loyd Thompson: increases, speed decreases time.
+
+173
+00:19:05.400 --> 00:19:08.790
+Loyd Thompson: It is great at organizing the content.
+
+174
+00:19:10.260 --> 00:19:15.330
+Loyd Thompson: so you give it the idea. It gives you a structured.
+
+175
+00:19:16.120 --> 00:19:22.479
+Loyd Thompson: a structured view of of the information that you want, you have the chance to move it around as you need to.
+
+176
+00:19:22.780 --> 00:19:29.489
+Loyd Thompson: What we. What I found is that while the AI inside of these various tools
+
+177
+00:19:29.550 --> 00:19:31.219
+Loyd Thompson: are pretty good
+
+178
+00:19:32.150 --> 00:19:40.609
+Loyd Thompson: chat Gpt or Gemini, or anthropic, or the other models, I think, tend to be better
+
+179
+00:19:40.720 --> 00:19:44.930
+Loyd Thompson: at just working on the content part itself. The words.
+
+180
+00:19:45.580 --> 00:19:57.790
+Loyd Thompson: But then you can use the AI in the application to help tweak things if you need to, and they're good. Then at formatting it, and and all the options you have for picking formats.
+
+181
+00:19:57.810 --> 00:20:01.749
+Loyd Thompson: So I can change the style of this card
+
+182
+00:20:02.380 --> 00:20:08.620
+Loyd Thompson: by clicking on this button and picking. I can change colors, content, alignment, etc.
+
+183
+00:20:08.770 --> 00:20:10.220
+Loyd Thompson: From the button.
+
+184
+00:20:10.510 --> 00:20:20.439
+Loyd Thompson: and I can also help it to either improve the writing that's on here, spelling and grammar, etc. Or I can ask it. AI, to do something.
+
+185
+00:20:20.830 --> 00:20:21.850
+Loyd Thompson: Now
+
+186
+00:20:22.130 --> 00:20:43.029
+Loyd Thompson: the AI is not always perfect. My experience with AI. Probably most of your experiences with AI is, it can often be very, very good, but then sometimes it can also be wrong or not work at all, as you think it will be. But I'm going to do something that's worked in my practice. I hope it's going to work. Now
+
+187
+00:20:43.060 --> 00:20:48.100
+Loyd Thompson: I'm going to ask it to change the title. So this is AI's role in design.
+
+188
+00:20:48.300 --> 00:20:50.039
+Loyd Thompson: I could click in here
+
+189
+00:20:50.060 --> 00:20:59.600
+Loyd Thompson: and just change it, which is often the easiest. So not sometimes manual is faster and easier than asking the AI to do something.
+
+190
+00:20:59.800 --> 00:21:06.389
+Loyd Thompson: but I can. I can ask it to change the title, or I can ask it to change the information that's down here
+
+191
+00:21:06.600 --> 00:21:09.660
+Loyd Thompson: so I can come in here. I can say edit.
+
+192
+00:21:09.950 --> 00:21:16.100
+Loyd Thompson: and I'm using AI images right now. Here's the prompt that goes with the image.
+
+193
+00:21:16.370 --> 00:21:17.730
+Loyd Thompson: My custom
+
+194
+00:21:18.500 --> 00:21:21.430
+Loyd Thompson: my custom input for how it should be.
+
+195
+00:21:22.300 --> 00:21:32.419
+Loyd Thompson: I can come up here and say, I don't want to use AI. I want to search the web for image and replace it. But you can see this is not very good.
+
+196
+00:21:32.890 --> 00:21:38.770
+Loyd Thompson: according to what I'm trying to do for my presentation. So I can change this
+
+197
+00:21:39.610 --> 00:21:41.090
+Loyd Thompson: and say.
+
+198
+00:21:41.510 --> 00:21:43.640
+Loyd Thompson: group meeting
+
+199
+00:21:46.000 --> 00:21:47.440
+Loyd Thompson: with a
+
+200
+00:21:47.830 --> 00:21:49.830
+Loyd Thompson: display on the wall.
+
+201
+00:21:52.770 --> 00:21:58.159
+David Mantica--Co-host!!!: Hey, Lloyd, while you're doing that, somehow you got blurred. Can you unblur your background so we can see your face.
+
+202
+00:22:01.435 --> 00:22:02.590
+Loyd Thompson: Sure.
+
+203
+00:22:03.620 --> 00:22:05.390
+Loyd Thompson: Can you see my screen still.
+
+204
+00:22:05.390 --> 00:22:06.669
+David Mantica--Co-host!!!: Oh, yeah, screen's great.
+
+205
+00:22:06.890 --> 00:22:10.929
+Loyd Thompson: Okay. Did you see how I went from that cartoony looking stuff.
+
+206
+00:22:11.080 --> 00:22:11.430
+David Mantica--Co-host!!!: To more.
+
+207
+00:22:11.430 --> 00:22:12.330
+Loyd Thompson: To this
+
+208
+00:22:12.730 --> 00:22:13.950
+Loyd Thompson: absolutely, so.
+
+209
+00:22:13.950 --> 00:22:15.030
+David Mantica--Co-host!!!: We could. Yeah, we.
+
+210
+00:22:15.030 --> 00:22:15.550
+Loyd Thompson: Is here.
+
+211
+00:22:15.550 --> 00:22:18.750
+David Mantica--Co-host!!!: Screen. But you're just. Your face is blurred, that's all. It's not a big deal.
+
+212
+00:22:19.070 --> 00:22:20.980
+Loyd Thompson: All right. I stopped sharing.
+
+213
+00:22:22.030 --> 00:22:24.019
+Loyd Thompson: I'll come back over here.
+
+214
+00:22:27.940 --> 00:22:29.540
+David Mantica--Co-host!!!: There you go. You're not blurred anymore. Perfect.
+
+215
+00:22:29.540 --> 00:22:34.190
+Loyd Thompson: Alright, you you're gonna get to see my my craft room.
+
+216
+00:22:34.190 --> 00:22:43.940
+David Mantica--Co-host!!!: It looks fantastic. So we got one question as you're going back. Is the presentation created shared, therefore, available on the Internet? Or is it only available to you in your account.
+
+217
+00:22:44.280 --> 00:22:47.140
+David Mantica--Co-host!!!: just in case you need to include proprietary information.
+
+218
+00:22:47.650 --> 00:22:51.700
+Loyd Thompson: It's only it's only on my account.
+
+219
+00:22:51.890 --> 00:23:01.109
+Loyd Thompson: unless I choose to share it or or publish it. Mostly what you're going to see people do, and this is a little bit out of order. But I'll answer the question for you.
+
+220
+00:23:01.560 --> 00:23:05.559
+Loyd Thompson: You create it in your account, but then you can export it.
+
+221
+00:23:06.130 --> 00:23:18.939
+Loyd Thompson: and once you have it exported as a Powerpoint, you can see here how you can export it, or I can share it. I can collaborate on it with other people that are members of my account, or I can even embed it.
+
+222
+00:23:20.410 --> 00:23:21.300
+Loyd Thompson: Then.
+
+223
+00:23:21.300 --> 00:23:25.529
+David Mantica--Co-host!!!: One other question as you're playing there. Can you redesign an existing Powerpoint.
+
+224
+00:23:30.660 --> 00:23:33.440
+Loyd Thompson: again. That's not something I've tried to do.
+
+225
+00:23:34.130 --> 00:23:36.060
+Loyd Thompson: But I will investigate
+
+226
+00:23:36.090 --> 00:23:39.859
+Loyd Thompson: when we're done. So let me take a note about that.
+
+227
+00:23:39.860 --> 00:23:43.229
+David Mantica--Co-host!!!: Yeah, so that would be cool to see. Can you can you update
+
+228
+00:23:43.250 --> 00:23:45.270
+David Mantica--Co-host!!!: an existing Powerpoint.
+
+229
+00:23:53.350 --> 00:23:54.410
+Loyd Thompson: Okay.
+
+230
+00:23:54.690 --> 00:23:57.449
+Loyd Thompson: if you go back to look at my prompt
+
+231
+00:23:58.020 --> 00:24:01.789
+Loyd Thompson: one of the things that I told it to do with the pictures
+
+232
+00:24:02.380 --> 00:24:07.080
+Loyd Thompson: was to not include words in the picture.
+
+233
+00:24:07.320 --> 00:24:08.270
+Loyd Thompson: And
+
+234
+00:24:08.490 --> 00:24:20.499
+Loyd Thompson: if for those of you that maybe have played with any of the graphic AI tools, and one that I use. You can see up at the top of my bar is Leonardo AI
+
+235
+00:24:22.130 --> 00:24:24.150
+Loyd Thompson: wording. Words
+
+236
+00:24:24.340 --> 00:24:31.249
+Loyd Thompson: in these AI tools are very difficult to get accurate. It's better today than it was.
+
+237
+00:24:31.800 --> 00:24:36.780
+Loyd Thompson: but very difficult, because of the technology they use to determine
+
+238
+00:24:36.910 --> 00:24:42.099
+Loyd Thompson: the letters, and they use a pixel mapping approach
+
+239
+00:24:42.310 --> 00:24:56.549
+Loyd Thompson: that can get close, even. Get it right some of the time, but oftentimes we'll get it wrong. So I asked it when it created my images to only use numbers and not use words in the image.
+
+240
+00:24:56.600 --> 00:25:07.519
+Loyd Thompson: But here you can see they clearly did that. It's not what I wanted. I have a choice. I can just delete it and remove it from the slide all the way around.
+
+241
+00:25:07.610 --> 00:25:14.230
+Loyd Thompson: I can try to change the focus. So let's say this, it was only this top one, but the bottom one was fine.
+
+242
+00:25:14.440 --> 00:25:18.929
+Loyd Thompson: I could just like try to move the focus in the image down.
+
+243
+00:25:19.130 --> 00:25:21.980
+Loyd Thompson: But it's that's not really what I want it to be
+
+244
+00:25:22.160 --> 00:25:34.990
+Loyd Thompson: so. Once again I can come and edit it. I can just ask for another AI image and just say, Generate, I'm not going to change my prompt. I'm just going to see if it'll do a better job of following the prompt
+
+245
+00:25:35.660 --> 00:25:39.330
+Loyd Thompson: and it it didn't. So come up here.
+
+246
+00:25:39.880 --> 00:25:43.479
+Loyd Thompson: and I'm going to try it. I'm going to make it even more specific.
+
+247
+00:25:48.600 --> 00:25:57.039
+Loyd Thompson: So now I've got it both places. I can improve my prompt. It doesn't often do a lot to it, but I can click, enhance, prompt.
+
+248
+00:25:57.620 --> 00:26:01.250
+Loyd Thompson: and you see it removed. My, no words.
+
+249
+00:26:01.510 --> 00:26:07.070
+Loyd Thompson: So come back, and that's that's an example of it doesn't always work like you expect it to
+
+250
+00:26:14.650 --> 00:26:15.900
+Loyd Thompson: say generate
+
+251
+00:26:23.700 --> 00:26:32.720
+Loyd Thompson: still didn't do it. And and that's part you get a number of things to choose from. Now, here's 1 that's more correct than the others. So I selected it.
+
+252
+00:26:33.270 --> 00:26:42.549
+Loyd Thompson: and I can go with that. It's still consistent with the look and feel the the shades of the blues and the grays are still part of what I've got going on.
+
+253
+00:26:42.730 --> 00:26:44.799
+Loyd Thompson: So it's not bad.
+
+254
+00:26:44.810 --> 00:26:50.299
+Loyd Thompson: but you can see that it took multiple times to try to come up with something that actually would work.
+
+255
+00:26:51.190 --> 00:26:54.569
+Loyd Thompson: Now there was a question about the color with the themes.
+
+256
+00:26:54.600 --> 00:27:02.560
+Loyd Thompson: and so this brand guidelines was is consistent with that and templates. So I'm going to come up here and I'm going to click on theme.
+
+257
+00:27:02.870 --> 00:27:09.489
+Loyd Thompson: You can see that I do have a custom theme that I used for this presentation. I'm going to click edit, so you can see.
+
+258
+00:27:10.700 --> 00:27:16.030
+Loyd Thompson: And here are the options it gives you for setting up your theme.
+
+259
+00:27:16.690 --> 00:27:21.009
+Loyd Thompson: So one of the things is, we do have a brand color.
+
+260
+00:27:21.190 --> 00:27:24.970
+Loyd Thompson: And this is the hex code for that color.
+
+261
+00:27:25.150 --> 00:27:32.289
+Loyd Thompson: So I'm telling it. This is my primary color for my theme, and this is my secondary color, which is just black.
+
+262
+00:27:32.970 --> 00:27:39.980
+Loyd Thompson: the heading and the body. So here are the pieces that you can set with this being white for the background.
+
+263
+00:27:41.180 --> 00:27:47.939
+Loyd Thompson: And here's what it looks like based off of setting these these parameters.
+
+264
+00:27:49.140 --> 00:27:52.570
+Loyd Thompson: I can come pick the font and do the same with it.
+
+265
+00:27:53.650 --> 00:28:02.329
+Loyd Thompson: You can see if you want to get into kerning and letter spacing, and whether you want mixed capitalization or all caps. Those are some options you can set.
+
+266
+00:28:03.850 --> 00:28:11.279
+Loyd Thompson: Here's our logo, so we can add a logo. You can see that it's down here, and when I close it you'll see it's back on the lower left
+
+267
+00:28:12.600 --> 00:28:19.190
+Loyd Thompson: here. You can start to set everything from the corners, and whether there's a shadow or not.
+
+268
+00:28:20.730 --> 00:28:26.159
+Loyd Thompson: lot a lot of adjustments on how you do, and we can see how we set up our buttons.
+
+269
+00:28:28.120 --> 00:28:31.600
+Loyd Thompson: And then, whether or not there's any images that you're going to show.
+
+270
+00:28:31.810 --> 00:28:49.959
+Loyd Thompson: So here, if I was doing multiple slides and I wanted it to be a part of the theme, here is where I would prompt it for its images, so that my template would be consistent when I created the next presentation and the next presentation, and the next.
+
+271
+00:28:50.550 --> 00:28:50.835
+David Mantica--Co-host!!!: Hey!
+
+272
+00:28:51.120 --> 00:28:51.590
+Loyd Thompson: So.
+
+273
+00:28:51.590 --> 00:28:54.440
+David Mantica--Co-host!!!: Hey, Lloyd? Question, can you import a template.
+
+274
+00:28:56.320 --> 00:28:58.590
+Loyd Thompson: Can you import a Powerpoint template.
+
+275
+00:28:58.590 --> 00:29:02.210
+David Mantica--Co-host!!!: Yeah, they just specific, said Template. But I'm assuming Powerpoint.
+
+276
+00:29:02.790 --> 00:29:09.729
+Loyd Thompson: Yeah, I'm good again. I just for any question about importing something from Powerpoint.
+
+277
+00:29:10.040 --> 00:29:17.630
+Loyd Thompson: I've only used this to create things from the start and export it to Powerpoint. I've never tried to do the reverse.
+
+278
+00:29:17.630 --> 00:29:18.100
+David Mantica--Co-host!!!: Okay.
+
+279
+00:29:18.100 --> 00:29:18.920
+Loyd Thompson: But
+
+280
+00:29:19.210 --> 00:29:26.820
+Loyd Thompson: consistent with the questions from today. When we're done, I'm going to take a Independent Powerpoint presentation
+
+281
+00:29:26.860 --> 00:29:30.359
+Loyd Thompson: and see if I can do all of these things
+
+282
+00:29:30.410 --> 00:29:35.349
+Loyd Thompson: in it. I'll document how it goes, or maybe just record my screen.
+
+283
+00:29:35.510 --> 00:29:47.590
+Loyd Thompson: and if successful, I'll be happy to make the recording available to the audience so they can see how to do it with that. If if you could give input to David about, would that be a good approach? I'm happy to do that for you.
+
+284
+00:29:47.590 --> 00:29:54.869
+David Mantica--Co-host!!!: Yeah, I'd like you to do that. That'd be great. One question is, how far from the final version? So did you have to make many twists or changes.
+
+285
+00:29:56.390 --> 00:29:57.930
+Loyd Thompson: Sometimes.
+
+286
+00:29:58.040 --> 00:30:02.820
+Loyd Thompson: Now, what what I will say is, the tool has gotten much better.
+
+287
+00:30:02.910 --> 00:30:04.649
+Loyd Thompson: We did a project
+
+288
+00:30:05.040 --> 00:30:09.570
+Loyd Thompson: probably 9 months ago. That involved 26 decks.
+
+289
+00:30:10.340 --> 00:30:12.680
+Loyd Thompson: The 1st couple of decks took
+
+290
+00:30:12.830 --> 00:30:17.940
+Loyd Thompson: couple of hours to do, and they were an average of about 30 slides per deck.
+
+291
+00:30:18.140 --> 00:30:26.429
+Loyd Thompson: and that's not bad. This was for content that I wasn't familiar with. It had to do with industrial Hvac systems and the like.
+
+292
+00:30:26.690 --> 00:30:33.230
+Loyd Thompson: and I'm certainly not an Hvac engineer. So it took a little bit to to create it.
+
+293
+00:30:33.280 --> 00:30:41.930
+Loyd Thompson: because it involved research and getting it, getting it, working and getting the AI and to the point where it was understanding what we were trying to do.
+
+294
+00:30:42.560 --> 00:30:46.700
+Loyd Thompson: they made an update to it while we were working on it.
+
+295
+00:30:46.850 --> 00:30:55.589
+Loyd Thompson: It actually made things worse a little bit, and I wound up with a series of help desk cases, trying to figure out why things were getting worse instead of better.
+
+296
+00:30:56.240 --> 00:31:00.530
+Loyd Thompson: Got that squared away. And then they did another update
+
+297
+00:31:00.940 --> 00:31:16.730
+Loyd Thompson: that update fixed a ton of things, and before you knew it we were doing sub 1 h decks just just sending them out right. They're just producing the decks. So it's gotten much better.
+
+298
+00:31:17.170 --> 00:31:27.060
+Loyd Thompson: But you have to be prepared for it to take a minute, and I think again, that comes back to the regular prompting and and trying to get the AI to do what you want it to do.
+
+299
+00:31:27.500 --> 00:31:38.239
+Loyd Thompson: That's 1 thing is to get it, to do what you want it to do, not hallucinate, not give you totally unexpected results, like the famous Gemini founding fathers problem
+
+300
+00:31:38.530 --> 00:31:49.899
+Loyd Thompson: getting it to do what you want it to do. The next challenge is getting it to do it consistently. And that's actually a bigger challenge than to get the right output to start off with.
+
+301
+00:31:50.200 --> 00:31:51.005
+Loyd Thompson: So
+
+302
+00:31:52.040 --> 00:32:00.590
+Loyd Thompson: I'd say, be prepared to invest in whatever tool that you pick, whether it's tome or beautiful AI or gamma
+
+303
+00:32:01.314 --> 00:32:06.149
+Loyd Thompson: but once you kind of learn, its idiosyncrasies
+
+304
+00:32:06.190 --> 00:32:11.160
+Loyd Thompson: depending on the level of of its code base at the time.
+
+305
+00:32:11.930 --> 00:32:17.289
+Loyd Thompson: you'll find that you can create some awfully good looking presentations very quickly.
+
+306
+00:32:17.330 --> 00:32:24.820
+Loyd Thompson: especially if you're not an expert at what you're presenting, what you're creating the presentation around.
+
+307
+00:32:25.320 --> 00:32:31.844
+Loyd Thompson: It's incredibly helpful to have the AI behind you, or sometimes in front of you.
+
+308
+00:32:32.350 --> 00:32:34.759
+Loyd Thompson: Putting things together for you.
+
+309
+00:32:34.940 --> 00:32:40.159
+Loyd Thompson: no matter what you do, no matter how good you get at it, no matter what you do.
+
+310
+00:32:40.350 --> 00:32:45.810
+Loyd Thompson: The final step in producing your presentation is human. Review.
+
+311
+00:32:48.220 --> 00:32:55.549
+Loyd Thompson: I can't emphasize that enough. And if you, if you fail to do that. I think you do it at your own risk.
+
+312
+00:32:56.240 --> 00:32:57.000
+Loyd Thompson: So
+
+313
+00:32:57.960 --> 00:32:59.240
+Loyd Thompson: take take that
+
+314
+00:32:59.950 --> 00:33:02.440
+Loyd Thompson: input for what it's what it's worth.
+
+315
+00:33:03.521 --> 00:33:07.859
+Loyd Thompson: You can come over and did it? Did I answer the question.
+
+316
+00:33:09.280 --> 00:33:19.130
+David Mantica--Co-host!!!: Yeah, you're talking specifically about human interaction. That's what they asked for. And so you told them where you think human interaction needs to be, and how important it is.
+
+317
+00:33:20.000 --> 00:33:20.640
+Loyd Thompson: Okay?
+
+318
+00:33:21.320 --> 00:33:23.962
+Loyd Thompson: And so I've got 5 min left.
+
+319
+00:33:24.710 --> 00:33:27.339
+Loyd Thompson: coming back to the effectiveness of the prompts.
+
+320
+00:33:27.840 --> 00:33:29.560
+Loyd Thompson: This is good prompting.
+
+321
+00:33:29.890 --> 00:33:34.650
+Loyd Thompson: Be prepared to go through a couple of times to get it. The way that you want it to be
+
+322
+00:33:36.590 --> 00:33:42.490
+Loyd Thompson: this hurts you in, prompts. It hurts you in creating Powerpoint decks, using an AI
+
+323
+00:33:42.740 --> 00:33:47.730
+Loyd Thompson: at the end of the day. It operates very similarly on the the back side.
+
+324
+00:33:48.030 --> 00:33:50.739
+Loyd Thompson: In fact, Gamma, if I'm
+
+325
+00:33:51.240 --> 00:33:57.590
+Loyd Thompson: if I remember correctly, Gamma is a customized implementation of Chat Gpt.
+
+326
+00:33:58.420 --> 00:34:07.140
+Loyd Thompson: so they've they've taken it and extended its functionality to be more graphics, you know, Presentation Powerpoint based.
+
+327
+00:34:07.590 --> 00:34:10.439
+Loyd Thompson: But Chat Gpt is the backside of it.
+
+328
+00:34:11.989 --> 00:34:16.370
+Loyd Thompson: We've already talked about templates. You can do Batch formatting
+
+329
+00:34:16.600 --> 00:34:19.049
+Loyd Thompson: by picking the slides on the side.
+
+330
+00:34:19.810 --> 00:34:22.960
+Loyd Thompson: and then I can tell it to change the text.
+
+331
+00:34:22.989 --> 00:34:33.440
+Loyd Thompson: change the alignment like left or center or right alignment, change the color so you can. You can. You could select your entire deck
+
+332
+00:34:33.670 --> 00:34:38.409
+Loyd Thompson: and make a change. That is a batch formatting.
+
+333
+00:34:38.960 --> 00:34:42.830
+Loyd Thompson: And then I've already shown you about leveraging the AI.
+
+334
+00:34:43.080 --> 00:34:50.590
+Loyd Thompson: So I'm gonna and I'm gonna show you that it can't always do what you want it to do, so I can change this slide
+
+335
+00:34:51.190 --> 00:34:53.590
+Loyd Thompson: from on the left, on the right.
+
+336
+00:34:53.730 --> 00:34:56.170
+Loyd Thompson: So you saw how fast. That was
+
+337
+00:34:56.780 --> 00:34:57.830
+Loyd Thompson: simple.
+
+338
+00:34:59.020 --> 00:35:00.320
+Loyd Thompson: I could
+
+339
+00:35:00.750 --> 00:35:05.310
+Loyd Thompson: try to make it something where the image is the background.
+
+340
+00:35:08.230 --> 00:35:13.290
+Loyd Thompson: Some, you know. That's a good look for some presentations. Maybe that's something you want to do.
+
+341
+00:35:14.811 --> 00:35:17.619
+Loyd Thompson: So that you know pretty powerful here.
+
+342
+00:35:17.690 --> 00:35:23.419
+Loyd Thompson: But I can also ask it to do something a little different. So
+
+343
+00:35:24.500 --> 00:35:25.730
+Loyd Thompson: change.
+
+344
+00:35:26.110 --> 00:35:28.470
+Loyd Thompson: utilize templates
+
+345
+00:35:28.770 --> 00:35:31.060
+Loyd Thompson: in Section One
+
+346
+00:35:31.360 --> 00:35:33.270
+Loyd Thompson: to template
+
+347
+00:35:34.080 --> 00:35:35.370
+Loyd Thompson: utilization.
+
+348
+00:35:39.560 --> 00:35:40.740
+Loyd Thompson: And there you go
+
+349
+00:35:44.900 --> 00:35:51.270
+Loyd Thompson: doesn't always work perfectly this time it did, which is fantastic. Let's do one more thing.
+
+350
+00:35:53.540 --> 00:35:55.300
+Loyd Thompson: Expand the
+
+351
+00:35:55.610 --> 00:35:57.330
+Loyd Thompson: explanations
+
+352
+00:35:57.490 --> 00:35:58.649
+Loyd Thompson: through the
+
+353
+00:35:58.910 --> 00:36:00.430
+Loyd Thompson: 3 sections.
+
+354
+00:36:05.430 --> 00:36:08.399
+Loyd Thompson: That part that I've just illustrated.
+
+355
+00:36:08.610 --> 00:36:10.670
+Loyd Thompson: incredibly powerful.
+
+356
+00:36:10.780 --> 00:36:14.209
+Loyd Thompson: And remember, right now, it's doing it.
+
+357
+00:36:14.680 --> 00:36:21.319
+Loyd Thompson: not just based off of my prompt. But it's actually using its own information in the Gamma AI.
+
+358
+00:36:21.430 --> 00:36:29.729
+Loyd Thompson: But if I made this into a presentation that's got information based off of what's available in its training model.
+
+359
+00:36:30.010 --> 00:36:39.039
+Loyd Thompson: It would use that and come back and put it on. Here. I'm gonna I'm gonna try something just to illustrate to you what you can do.
+
+360
+00:36:55.830 --> 00:36:58.100
+Loyd Thompson: I just totally changed
+
+361
+00:36:59.340 --> 00:37:03.839
+Loyd Thompson: the subject of the slide, and it went out and filled it in.
+
+362
+00:37:07.500 --> 00:37:08.860
+Loyd Thompson: That's pretty powerful.
+
+363
+00:37:09.210 --> 00:37:11.379
+Loyd Thompson: but I can also come and undo it.
+
+364
+00:37:14.310 --> 00:37:14.660
+David Mantica--Co-host!!!: So long.
+
+365
+00:37:14.660 --> 00:37:15.300
+Loyd Thompson: So.
+
+366
+00:37:15.300 --> 00:37:18.410
+David Mantica--Co-host!!!: Here real quick. So 1st off is.
+
+367
+00:37:18.590 --> 00:37:20.410
+David Mantica--Co-host!!!: can this work with Google Sheets
+
+368
+00:37:20.540 --> 00:37:21.800
+David Mantica--Co-host!!!: or just Powerpoint.
+
+369
+00:37:24.192 --> 00:37:27.290
+Loyd Thompson: So there is an AI for Google.
+
+370
+00:37:28.580 --> 00:37:38.250
+Loyd Thompson: It's 1 of the ones I talked about here. Oh, wait! I guess I didn't. There is one for Google, a Powerpoint AI model.
+
+371
+00:37:38.870 --> 00:37:51.350
+Loyd Thompson: I've not tried again. I've not tried Google sheets. And I don't. I don't actually use Google sheets. If somebody has a sheet of something that they want to share with me for me to give it a try.
+
+372
+00:37:51.590 --> 00:37:53.299
+Loyd Thompson: I'm more than happy.
+
+373
+00:37:53.300 --> 00:37:59.560
+David Mantica--Co-host!!!: Laura wanted to, but her company is restricting, getting into Gamma right now. So that was Laura's question.
+
+374
+00:37:59.570 --> 00:38:03.629
+David Mantica--Co-host!!!: Let's see. Oh, there's 1 other one, too. Here
+
+375
+00:38:04.260 --> 00:38:10.129
+David Mantica--Co-host!!!: is the Gamma free version. Pretty decent, I mean, does it? Let you do some things, or do you have to go to paid
+
+376
+00:38:10.250 --> 00:38:10.819
+David Mantica--Co-host!!!: to really.
+
+377
+00:38:10.820 --> 00:38:15.110
+Loyd Thompson: No, it it lets you. It lets you do some basic things.
+
+378
+00:38:15.566 --> 00:38:18.769
+Loyd Thompson: I think it limits how big, how many slides.
+
+379
+00:38:18.980 --> 00:38:29.670
+Loyd Thompson: But you know it's intended to help sell you on using it. And so it's been so long ago since I used the free version. I don't remember all the limitations, but.
+
+380
+00:38:29.670 --> 00:38:30.059
+David Mantica--Co-host!!!: Okay, so.
+
+381
+00:38:30.060 --> 00:38:32.880
+Loyd Thompson: It's worth giving it. It's worth giving it a try.
+
+382
+00:38:32.880 --> 00:38:35.019
+David Mantica--Co-host!!!: And you move to paid ultimately, though.
+
+383
+00:38:35.470 --> 00:38:37.109
+Loyd Thompson: Yes. Oh, yes. Yeah.
+
+384
+00:38:37.110 --> 00:38:43.619
+David Mantica--Co-host!!!: That makes sense. And then one of the one of the folks, George said that it does work with Google sheets, which is great.
+
+385
+00:38:44.236 --> 00:38:50.970
+David Mantica--Co-host!!!: Keep going. The last question is about copyright on the image side. So just your thoughts. There.
+
+386
+00:38:51.180 --> 00:38:53.689
+Loyd Thompson: That's a great, great question.
+
+387
+00:38:54.130 --> 00:38:59.649
+Loyd Thompson: So here, when you do the AI images, if I go to web, search
+
+388
+00:39:00.690 --> 00:39:03.100
+Loyd Thompson: right here, image license.
+
+389
+00:39:03.110 --> 00:39:07.020
+Loyd Thompson: all images free to use free to use commercially
+
+390
+00:39:08.880 --> 00:39:11.639
+Loyd Thompson: right can't do it based off of this.
+
+391
+00:39:12.530 --> 00:39:14.550
+Loyd Thompson: So I'm gonna say.
+
+392
+00:39:14.770 --> 00:39:15.200
+David Mantica--Co-host!!!: All right, so.
+
+393
+00:39:15.200 --> 00:39:15.730
+Loyd Thompson: Presenter.
+
+394
+00:39:15.730 --> 00:39:17.390
+David Mantica--Co-host!!!: Tool is embedded with
+
+395
+00:39:17.530 --> 00:39:21.440
+David Mantica--Co-host!!!: protection for you. So you don't use images that you're
+
+396
+00:39:21.920 --> 00:39:24.490
+David Mantica--Co-host!!!: could have a copyright infringement problem.
+
+397
+00:39:25.370 --> 00:39:26.190
+Loyd Thompson: Correct.
+
+398
+00:39:26.960 --> 00:39:29.909
+David Mantica--Co-host!!!: Now, whether it works great or not, that's a whole other story. But.
+
+399
+00:39:30.790 --> 00:39:31.640
+Loyd Thompson: Correct.
+
+400
+00:39:32.170 --> 00:39:37.649
+Loyd Thompson: and what what you sometimes have to do, and what I've done many, many times
+
+401
+00:39:38.020 --> 00:39:39.759
+Loyd Thompson: is, go to Google
+
+402
+00:39:44.740 --> 00:39:47.149
+Loyd Thompson: and then presenter
+
+403
+00:39:51.170 --> 00:39:52.180
+Loyd Thompson: here
+
+404
+00:39:53.230 --> 00:39:56.919
+Loyd Thompson: right more, and you can, or I'm sorry. What did I do?
+
+405
+00:39:57.280 --> 00:39:58.560
+Loyd Thompson: Click too fast
+
+406
+00:39:58.710 --> 00:39:59.870
+Loyd Thompson: tools.
+
+407
+00:40:03.870 --> 00:40:07.009
+Loyd Thompson: pick the licensing and everything that you need.
+
+408
+00:40:08.450 --> 00:40:11.400
+Loyd Thompson: and then you can decide
+
+409
+00:40:18.520 --> 00:40:20.600
+Loyd Thompson: I can come save this image.
+
+410
+00:40:23.830 --> 00:40:25.912
+Loyd Thompson: I'm not gonna log in now, but
+
+411
+00:40:26.550 --> 00:40:33.600
+Loyd Thompson: you can save the image and then come back and put it into your presentation, you can upload it.
+
+412
+00:40:33.890 --> 00:40:42.240
+Loyd Thompson: I had something I meant to show you is, I use this for 99% of what I do.
+
+413
+00:40:42.550 --> 00:40:45.230
+Loyd Thompson: But you could use its AI
+
+414
+00:40:45.380 --> 00:40:51.840
+Loyd Thompson: just type in a a 1 line prompt and ask it to create a presentation around that.
+
+415
+00:40:51.950 --> 00:40:56.200
+Loyd Thompson: And then here is what I'm going to play with. I don't. I don't do this.
+
+416
+00:40:56.300 --> 00:41:11.379
+Loyd Thompson: but here's the functionality, and that's what I'm going to use to go get to do the work I've committed to for you guys and then report back to David. I'm just not familiar with it, because I've always over here because I start with
+
+417
+00:41:11.550 --> 00:41:12.779
+Loyd Thompson: Chat Gpt
+
+418
+00:41:14.470 --> 00:41:27.529
+Loyd Thompson: and David, that's that's it. I hope that I've covered this. I hope it's been fun, and a little different to see it actually at work. Thank you for all of your questions. They were great, and I'm going to work on getting you some answers.
+
+419
+00:41:27.790 --> 00:41:43.129
+David Mantica--Co-host!!!: Well, here's a skinny 1st off. I love the fact that you're doing that, Lloyd. Secondarily, this is a powerful tool, I think, introducing this tool at the beginning of the conference is really cool, because project professionals do a ton of presentations.
+
+420
+00:41:43.280 --> 00:41:52.330
+David Mantica--Co-host!!!: Presentations are the gateway to getting things done in projects, and everybody knows they're a big, hairy pain in the butt.
+
+421
+00:41:52.800 --> 00:42:03.369
+David Mantica--Co-host!!!: So this really is a tool that can help people become much more productive, get things done quicker, so I love it, and also we give them a chance to get going. You gave them a great starting point.
+
+422
+00:42:03.410 --> 00:42:13.709
+David Mantica--Co-host!!!: Let's see, we got lots of love, your lots of love, your presentations, Lloyd. This is great. Anyone have a specific question before we close out with Lloyd, and he'll get back to us
+
+423
+00:42:13.840 --> 00:42:16.040
+David Mantica--Co-host!!!: on some of those additional thoughts.
+
+424
+00:42:16.930 --> 00:42:31.620
+Lara Hill: And also I just want to jump in and say that we have no affiliation to Gamma. Lloyd doesn't have any affiliation. All the tools that you're gonna see today. We don't have any relationships with any of these companies that are
+
+425
+00:42:31.620 --> 00:42:47.809
+Lara Hill: providing these tools. Our intention is to just showcase tools that we think will be useful to you a lot of times they are free. So there's no affiliate links. There's no partnerships. We just want to show you what's out there so that you can decide
+
+426
+00:42:47.810 --> 00:42:51.910
+Lara Hill: what might work best for you. So I just wanna put that out there, too.
+
+427
+00:42:52.390 --> 00:42:54.950
+David Mantica--Co-host!!!: Yes, we are tool agnostic could care less.
+
+428
+00:42:55.290 --> 00:42:57.990
+David Mantica--Co-host!!!: Yeah. Use it. Great if you don't. Great your choice.
+
+429
+00:42:59.290 --> 00:42:59.920
+David Mantica--Co-host!!!: Thank you.
+
+430
+00:43:00.420 --> 00:43:07.019
+David Mantica--Co-host!!!: Lloyd. You cracked great job. Hope you stick with us. Look forward to hearing back on some of your testing. Laura, pass it over to you.
+
+431
+00:43:08.570 --> 00:43:24.799
+Lara Hill: Great. Thank you, Lloyd, and we're going to transition to Samuel Perry. Thank you, Samuel, for joining us. I know you have a fantastic, content, packed presentation ready to go. So I want to turn it over to you. Are you ready to go, Sam?
+
+432
+00:43:24.800 --> 00:43:30.229
+Samuel Parri: I am ready. I get a note host, disable participant screen sharing.
+
+433
+00:43:31.160 --> 00:43:32.940
+Lara Hill: Okay, let me fix that.
+
+434
+00:43:32.940 --> 00:43:35.710
+David Mantica--Co-host!!!: We're going to make you. We're going to make you a co-host.
+
+435
+00:43:37.080 --> 00:43:39.040
+David Mantica--Co-host!!!: Thank you for letting us know that.
+
+436
+00:43:44.350 --> 00:43:46.350
+Lara Hill: Okay. Please. Try again.
+
+437
+00:43:46.740 --> 00:43:47.790
+Samuel Parri: Okay.
+
+438
+00:43:47.870 --> 00:43:49.239
+Samuel Parri: let me try it.
+
+439
+00:43:53.030 --> 00:43:55.430
+Samuel Parri: Excellent. Thank you, Laura.
+
+440
+00:44:06.230 --> 00:44:07.450
+Samuel Parri: Okay.
+
+441
+00:44:08.420 --> 00:44:11.190
+Samuel Parri: Well, 1st of all, I wanted to say
+
+442
+00:44:11.680 --> 00:44:18.520
+Samuel Parri: thank you so much to you, Laura, and to you, David, and to George Churchwell.
+
+443
+00:44:18.590 --> 00:44:25.979
+Samuel Parri: Hello, everyone. My name is Samuel Parry. Thank you for this opportunity and privilege to be with all of you today.
+
+444
+00:44:26.170 --> 00:44:32.130
+Samuel Parri: Hopefully, you can hear me well, and you see my title slide. Jen AI. For.
+
+445
+00:44:32.130 --> 00:44:34.820
+David Mantica--Co-host!!!: We? We see the title, we hear you great.
+
+446
+00:44:34.820 --> 00:44:42.589
+Samuel Parri: Excellent, excellent. So a couple of things I'd like to begin. 1st of all, Laura, when you opened up, you said.
+
+447
+00:44:42.720 --> 00:45:05.220
+Samuel Parri: this is targeted for those of you who are quote beginners, project managers out there and then. Just a little while ago, David, you said, quote, whether you like it or not. It's here. And I love those 2 comments from you folks, because my piece of today's conference is several fold
+
+448
+00:45:05.500 --> 00:45:11.249
+Samuel Parri: number one. I want to talk to you project managers that are on the fence
+
+449
+00:45:11.290 --> 00:45:14.490
+Samuel Parri: on this thing called artificial Intelligence
+
+450
+00:45:14.890 --> 00:45:29.980
+Samuel Parri: number 2. I want to talk to you project managers that may have tried some of the tools as an example. What Lloyd just shared. But you're not sure what the benefits are, what the risks are, etc. Etc.
+
+451
+00:45:30.130 --> 00:45:32.720
+Samuel Parri: And, most importantly, number 3.
+
+452
+00:45:32.760 --> 00:45:52.450
+Samuel Parri: I want to talk to you project managers that are subject matter. Experts quote unquote thus far in this journey of artificial intelligence, because I want to make you subject matter, experts, bumblebees, and what I mean by that to spread and pollinate some of the benefits
+
+453
+00:45:52.490 --> 00:45:58.099
+Samuel Parri: and the realization value of the tools to those that have tried it.
+
+454
+00:45:58.680 --> 00:46:06.610
+Samuel Parri: also to those on the fence to help talk them down, so that as one company, all of you
+
+455
+00:46:06.730 --> 00:46:11.290
+Samuel Parri: are speaking the artificial intelligence language.
+
+456
+00:46:12.450 --> 00:46:20.120
+Samuel Parri: So to brief background about myself, I've had the pleasure team thus far to work at 3 great corporations.
+
+457
+00:46:20.836 --> 00:46:30.640
+Samuel Parri: I am an advocate of on the job training, certification, education. You name it because as a project manager.
+
+458
+00:46:30.670 --> 00:46:34.359
+Samuel Parri: I think you would agree that the more knowledge you have
+
+459
+00:46:34.420 --> 00:46:40.429
+Samuel Parri: in turn, the greater value that you could deliver to those that you serve.
+
+460
+00:46:40.750 --> 00:46:51.699
+Samuel Parri: So for Mount Tam I teach project management. I'm sorry for Mount Tam. I teach Itel foundation certification.
+
+461
+00:46:51.970 --> 00:46:57.319
+Samuel Parri: and for Mount Tam I teach project, management, certification.
+
+462
+00:46:57.340 --> 00:47:11.909
+Samuel Parri: and for Cisco systems I teach customer success, management, certification. So I enjoy being with folks like yourself from all over the world. And then, lastly, I reside in Akron, Ohio.
+
+463
+00:47:12.280 --> 00:47:14.639
+Samuel Parri: So that's a little bit about myself.
+
+464
+00:47:14.900 --> 00:47:17.420
+Samuel Parri: All right, let's have some fun.
+
+465
+00:47:17.660 --> 00:47:33.130
+Samuel Parri: I want to begin by shouting out David Monica, because I thought David's opening in the July Artificial Intelligence Conference was extremely important, because he said, it starts with us
+
+466
+00:47:33.210 --> 00:47:35.060
+Samuel Parri: as project managers.
+
+467
+00:47:35.350 --> 00:47:45.909
+Samuel Parri: It's like the Internet, if you remember 30 plus years ago for those of you that have been around, it's a tool that is enabled by the Internet.
+
+468
+00:47:46.160 --> 00:47:53.600
+Samuel Parri: But most importantly, David went on to say, we're not ramping up as fast as, say, some other professionals.
+
+469
+00:47:53.800 --> 00:47:56.559
+Samuel Parri: We're kind of black and white thinkers
+
+470
+00:47:56.590 --> 00:48:04.520
+Samuel Parri: versus say, entrepreneurs who think more creatively about what are possible.
+
+471
+00:48:04.830 --> 00:48:15.670
+Samuel Parri: And I think all of you have seen many reports. This is just 1 80% of projects today are done. They're projecting, I should say, by 2030
+
+472
+00:48:15.980 --> 00:48:27.300
+Samuel Parri: to be done by AI generative tools. And this list goes on and on. Lloyd just explained one of them in terms of presentation. Okay.
+
+473
+00:48:28.100 --> 00:48:33.609
+Samuel Parri: but what's interesting in my project management courses? I do polling questions.
+
+474
+00:48:33.750 --> 00:48:45.399
+Samuel Parri: And, interestingly enough, approximately 50% of the folks that join my courses know little to nothing relative to how to use
+
+475
+00:48:45.490 --> 00:48:57.530
+Samuel Parri: artificial intelligence tools. So as project managers, I want to share that we today more than ever need to learn much faster than ever before.
+
+476
+00:48:58.030 --> 00:48:58.930
+Samuel Parri: So
+
+477
+00:48:59.140 --> 00:49:00.779
+Samuel Parri: today, I want to give
+
+478
+00:49:00.970 --> 00:49:02.370
+Samuel Parri: a high, level
+
+479
+00:49:02.660 --> 00:49:04.970
+Samuel Parri: Rod. Brutch view
+
+480
+00:49:05.400 --> 00:49:07.949
+Samuel Parri: what it? What can it do for us?
+
+481
+00:49:08.100 --> 00:49:13.479
+Samuel Parri: What are the tools that we could use in our toolkit as a project manager?
+
+482
+00:49:13.760 --> 00:49:28.660
+Samuel Parri: I want to give 3 short fun examples. Lloyd touched upon one of them. I want to further expand that in terms of project management examples, if you will.
+
+483
+00:49:29.020 --> 00:49:56.169
+Samuel Parri: and then the mind. I want to talk a little bit about the right mindset to give each and every one of you a virtual wrench and a virtual screwdriver, because the technology is evolving so quickly. We got to constantly adjust our mind appropriately, so that we, in conjunction with the tool, could complement each other. And then I want to wrap up
+
+484
+00:49:56.180 --> 00:50:05.360
+Samuel Parri: with some strategies to share with you as a project manager to get you down off the fence and to start your AI journey.
+
+485
+00:50:06.020 --> 00:50:08.749
+Samuel Parri: So I hope that helps out.
+
+486
+00:50:08.890 --> 00:50:15.600
+Samuel Parri: If there's no questions, let's start. What can it do for me? A project manager?
+
+487
+00:50:15.920 --> 00:50:19.410
+Samuel Parri: Well, 1st of all, I want you all to know.
+
+488
+00:50:19.650 --> 00:50:22.579
+Samuel Parri: This is a new language.
+
+489
+00:50:22.750 --> 00:50:26.320
+Samuel Parri: This is a new competitive advantage.
+
+490
+00:50:26.400 --> 00:50:30.449
+Samuel Parri: Okay, it is no longer an option.
+
+491
+00:50:30.570 --> 00:50:32.540
+Samuel Parri: It's a necessity.
+
+492
+00:50:32.650 --> 00:50:35.340
+Samuel Parri: as the speakers earlier mentioned.
+
+493
+00:50:35.590 --> 00:50:37.149
+Samuel Parri: and it's a ship
+
+494
+00:50:37.170 --> 00:50:41.519
+Samuel Parri: on how we communicate, not only amongst our peers.
+
+495
+00:50:41.570 --> 00:50:44.700
+Samuel Parri: not only to those that we serve.
+
+496
+00:50:44.870 --> 00:50:48.739
+Samuel Parri: but it's becoming the new language of business.
+
+497
+00:50:48.890 --> 00:50:58.510
+Samuel Parri: Okay, so start speaking, start understanding the acronyms, the language, so that you could feel empowered
+
+498
+00:50:58.680 --> 00:51:01.989
+Samuel Parri: subsequently utilizing the tools
+
+499
+00:51:02.070 --> 00:51:04.570
+Samuel Parri: to then serve value
+
+500
+00:51:04.640 --> 00:51:07.030
+Samuel Parri: to those that you serve.
+
+501
+00:51:07.410 --> 00:51:09.690
+Samuel Parri: So it's going to require
+
+502
+00:51:09.730 --> 00:51:13.470
+Samuel Parri: investment, is going to require time
+
+503
+00:51:13.480 --> 00:51:19.730
+Samuel Parri: to help you over time, become the best project manager possible.
+
+504
+00:51:20.200 --> 00:51:25.909
+Samuel Parri: So it's a new way to create new ideas to manage projects. Again.
+
+505
+00:51:26.080 --> 00:51:29.270
+Samuel Parri: Lloyd just gave us one example.
+
+506
+00:51:29.460 --> 00:51:35.230
+Samuel Parri: So look at the positives, look at the benefits, knowing that.
+
+507
+00:51:35.260 --> 00:51:41.420
+Samuel Parri: like the Internet, it does have some risk. It does has concerns.
+
+508
+00:51:41.470 --> 00:51:45.370
+Samuel Parri: But over time it's like going to Carnegie Hall
+
+509
+00:51:45.590 --> 00:51:48.160
+Samuel Parri: practice practice practice practice
+
+510
+00:51:48.200 --> 00:51:50.180
+Samuel Parri: and you shall get there
+
+511
+00:51:51.020 --> 00:51:51.880
+Samuel Parri: all right
+
+512
+00:51:52.370 --> 00:51:57.569
+Samuel Parri: upfront team. I want to share a simple polling question.
+
+513
+00:51:58.140 --> 00:52:03.750
+Samuel Parri: how often do you use an AI generated tool.
+
+514
+00:52:04.290 --> 00:52:11.490
+Samuel Parri: A, BC or D, and I believe, Laura, we could do a polling question. If if I recall correct.
+
+515
+00:52:12.450 --> 00:52:20.290
+Lara Hill: Yes, however, that would have had to been set up in advance. So let's just use the chat, and I'll tally it up and let you know.
+
+516
+00:52:20.290 --> 00:52:21.900
+Samuel Parri: Okay, thank you. Kylie.
+
+517
+00:52:21.900 --> 00:52:24.131
+Lara Hill: AI to tally it. By the way.
+
+518
+00:52:24.450 --> 00:52:33.090
+Samuel Parri: Thank you. Thank you. So given the interest of time team, I'm going to continue. Thank you.
+
+519
+00:52:33.720 --> 00:52:34.580
+Samuel Parri: Okay.
+
+520
+00:52:34.580 --> 00:52:38.929
+David Mantica--Co-host!!!: But before you do that, Sam, I mean, we're getting lots of feedback, and it's wild
+
+521
+00:52:39.360 --> 00:52:45.689
+David Mantica--Co-host!!!: for this conference. It's all over the place. It's really cool, so we'll definitely tally it up at the end to get the info to you. Keep going.
+
+522
+00:52:45.690 --> 00:52:49.500
+Samuel Parri: Oh, thank you. Thank. That means so much to me. Thank you. Everyone
+
+523
+00:52:49.920 --> 00:52:54.350
+Samuel Parri: simply put team. What is this thing called Gen. AI.
+
+524
+00:52:54.420 --> 00:52:55.629
+Samuel Parri: It's a tool.
+
+525
+00:52:55.710 --> 00:53:00.799
+Samuel Parri: okay? And like anything else to achieve desired results.
+
+526
+00:53:00.870 --> 00:53:03.120
+Samuel Parri: And these desired results
+
+527
+00:53:03.260 --> 00:53:04.280
+Samuel Parri: span
+
+528
+00:53:04.300 --> 00:53:07.450
+Samuel Parri: unbelievable amount of things.
+
+529
+00:53:07.780 --> 00:53:28.740
+Samuel Parri: optimizing your work, improving your efficiency. I'm going to talk in a little bit about this information, pollution, if you will, of data, because right now, looking up, I see bits, I see bytes. I see packets. I see tokens flying all over me here, and I'm sure you do, too.
+
+530
+00:53:28.760 --> 00:53:38.920
+Samuel Parri: How can we gather that data and provide some valuable insight in a day in the life of project management related activities.
+
+531
+00:53:39.430 --> 00:53:48.799
+Samuel Parri: So there are algorithms you're going to hear some knowledge experts about AI how to generate fresh, unique content.
+
+532
+00:53:49.080 --> 00:53:52.399
+Samuel Parri: But I want to right now emphasize a quote.
+
+533
+00:53:53.160 --> 00:53:55.910
+Samuel Parri: A journey of 1,000 miles
+
+534
+00:53:56.210 --> 00:54:02.420
+Samuel Parri: begins with that 1st step. Okay, but I want to share with you my quote.
+
+535
+00:54:02.620 --> 00:54:08.019
+Samuel Parri: my quote, that journey starts with the 1st 6 inches.
+
+536
+00:54:08.210 --> 00:54:11.520
+Samuel Parri: And where are those 1st 6 inches?
+
+537
+00:54:11.700 --> 00:54:14.269
+Samuel Parri: It's between our ears.
+
+538
+00:54:15.370 --> 00:54:32.539
+Samuel Parri: All right. Now, let's talk some simple use cases with companies that are utilizing these AI tools. Let's start with problem scoping Microsoft developing AI system to detect, to prevent cyber threats.
+
+539
+00:54:32.550 --> 00:54:33.990
+Samuel Parri: This is real.
+
+540
+00:54:34.130 --> 00:54:40.300
+Samuel Parri: Let's talk about data gathering preparation kind of like, Lloyd was saying.
+
+541
+00:54:40.360 --> 00:54:46.469
+Samuel Parri: Here Twitter is using generated data tweets, engagement metrics
+
+542
+00:54:46.520 --> 00:54:50.159
+Samuel Parri: to look at sentiment, content analysis
+
+543
+00:54:50.220 --> 00:54:51.839
+Samuel Parri: from their customers.
+
+544
+00:54:52.110 --> 00:55:07.700
+Samuel Parri: Model development building and refining these models, using powerful algorithms here. Uber. Many of us use Uber fine-tuning the system to improve accuracy, to personalize a ride
+
+545
+00:55:07.980 --> 00:55:09.349
+Samuel Parri: for its users.
+
+546
+00:55:09.480 --> 00:55:16.180
+Samuel Parri: model development. Integrating these various models into production environments.
+
+547
+00:55:16.190 --> 00:55:20.949
+Samuel Parri: Airbnb utilizes this for their pricing system.
+
+548
+00:55:20.990 --> 00:55:28.790
+Samuel Parri: handling large volumes, requests and recommendations from the people that utilize Airbnb.
+
+549
+00:55:29.130 --> 00:55:42.189
+Samuel Parri: And then, lastly, model evaluation to assess performance, effectiveness, user feedback. The rating that Netflix, for example, uses to evaluate
+
+550
+00:55:42.240 --> 00:55:46.240
+Samuel Parri: the relevance and user satisfaction.
+
+551
+00:55:47.100 --> 00:55:54.259
+Samuel Parri: Okay, I talked some examples of you use cases with regard to companies ping
+
+552
+00:55:54.320 --> 00:56:05.629
+Samuel Parri: this spans multiple industries, construction predicting costs, timelines to or to avoid cost, overruns and delays.
+
+553
+00:56:06.100 --> 00:56:19.360
+Samuel Parri: This is huge for those of you that are in the healthcare industry to accurately predict and diagnose treatment plans to achieve better patient outcomes.
+
+554
+00:56:19.580 --> 00:56:31.149
+Samuel Parri: When you look at manufacturing, how to optimize reduced waste to predict failures of equipment. Obviously downtime is
+
+555
+00:56:31.200 --> 00:56:33.109
+Samuel Parri: lost revenue
+
+556
+00:56:33.560 --> 00:56:47.090
+Samuel Parri: financials. I worked a number of years in the financial industry, to make hopefully better decisions on lending money to minimize your risk as a financial institution.
+
+557
+00:56:47.270 --> 00:56:54.179
+Samuel Parri: When you look at retail industry, custom, data, personalizing recommendation
+
+558
+00:56:54.370 --> 00:56:58.439
+Samuel Parri: to increase customer loyalty.
+
+559
+00:56:58.470 --> 00:57:02.200
+Samuel Parri: make it sticky. They're yours for life.
+
+560
+00:57:02.440 --> 00:57:04.520
+Samuel Parri: and, most importantly, team
+
+561
+00:57:04.770 --> 00:57:09.560
+Samuel Parri: for those of you that have been practicing project management for a number of years
+
+562
+00:57:09.670 --> 00:57:25.579
+Samuel Parri: what this determined a successful project? And the answer was simple. Did we do it on time? Did we do it within budget? And did we do it to the quality satisfaction of those that we're serving?
+
+563
+00:57:25.720 --> 00:57:28.680
+Samuel Parri: And the answer is true. Today.
+
+564
+00:57:28.740 --> 00:57:35.899
+Samuel Parri: however, today, more than ever, we have to focus on improving
+
+565
+00:57:36.600 --> 00:57:39.500
+Samuel Parri: business value outcomes
+
+566
+00:57:39.570 --> 00:57:41.870
+Samuel Parri: to those that we serve.
+
+567
+00:57:42.100 --> 00:57:45.300
+Samuel Parri: and one way to raise your game.
+
+568
+00:57:45.640 --> 00:57:48.610
+Samuel Parri: to raise your conversation.
+
+569
+00:57:48.730 --> 00:57:51.410
+Samuel Parri: to be more consultative
+
+570
+00:57:51.430 --> 00:57:53.749
+Samuel Parri: to those that you serve
+
+571
+00:57:53.840 --> 00:58:08.970
+Samuel Parri: is to consider leveraging many of these AI tools that you're going to hear about throughout today to optimize your outcome, optimize the processes and most importantly
+
+572
+00:58:09.020 --> 00:58:12.890
+Samuel Parri: to personalize those that you serve.
+
+573
+00:58:13.800 --> 00:58:16.169
+Samuel Parri: I love this slide
+
+574
+00:58:16.370 --> 00:58:26.319
+Samuel Parri: because this is those of you that are up on the fence all right. This is what's called a fixed mindset.
+
+575
+00:58:26.390 --> 00:58:29.880
+Samuel Parri: I call it a closed mind.
+
+576
+00:58:29.990 --> 00:58:35.969
+Samuel Parri: a closed mind, meaning that you're not open to listening to
+
+577
+00:58:36.110 --> 00:58:39.799
+Samuel Parri: opportunities that are all around us.
+
+578
+00:58:40.070 --> 00:58:47.679
+Samuel Parri: Conversely, this guy with the wheel. All right. He's got a growth mindset
+
+579
+00:58:47.750 --> 00:59:02.659
+Samuel Parri: and open mindset to help people. Okay, so we're in what I call the blood, the guts and the beer as a project manager, traditionally doing mundane kind of tasks.
+
+580
+00:59:03.140 --> 00:59:07.240
+Samuel Parri: This is that transformation where again.
+
+581
+00:59:07.400 --> 00:59:12.760
+Samuel Parri: AI could help you be a rock Star Project manager.
+
+582
+00:59:13.220 --> 00:59:19.040
+Samuel Parri: You're gonna hear about a number of chat box. Lloyd mentioned one.
+
+583
+00:59:19.180 --> 00:59:29.220
+Samuel Parri: What I love about this slide team is to look at the pro and con of these, because they're not quite created. Equally.
+
+584
+00:59:29.400 --> 00:59:35.579
+Samuel Parri: Most importantly, I wanted to include why, you would consider one
+
+585
+00:59:35.680 --> 00:59:37.350
+Samuel Parri: over the other.
+
+586
+00:59:37.470 --> 00:59:44.120
+Samuel Parri: and these chat boxes are great tools to begin that 1st step
+
+587
+00:59:44.140 --> 00:59:48.860
+Samuel Parri: in utilizing and seeing the subsequent value
+
+588
+00:59:48.890 --> 00:59:52.349
+Samuel Parri: of some AI tools.
+
+589
+00:59:53.000 --> 00:59:59.710
+Samuel Parri: I mentioned earlier information. Pollution bits are flying all around us. Okay.
+
+590
+00:59:59.800 --> 01:00:18.760
+Samuel Parri: how do you take that information? Pollution data, let's call it and whittle it down by leveraging generative AI tools to have something that's meaningful that's diluted to exactly what you want.
+
+591
+01:00:18.950 --> 01:00:23.339
+Samuel Parri: That is to take that data, slice and dice it
+
+592
+01:00:23.480 --> 01:00:30.610
+Samuel Parri: and arrange it such that it's visually presented like Lloyd just shared with us
+
+593
+01:00:30.640 --> 01:00:40.870
+Samuel Parri: to then enable you to have a wonderful consultative conversation to the stakeholders that you're serving.
+
+594
+01:00:41.680 --> 01:00:43.259
+Samuel Parri: What a beautiful thing!
+
+595
+01:00:44.650 --> 01:00:45.730
+Samuel Parri: However.
+
+596
+01:00:46.090 --> 01:00:55.249
+Samuel Parri: there are implications! All right, I think you would agree. And this is from Project management Institute.
+
+597
+01:00:55.390 --> 01:01:01.409
+Samuel Parri: over 70% of projects fall short of their objectives.
+
+598
+01:01:01.430 --> 01:01:02.480
+Samuel Parri: Why
+
+599
+01:01:03.160 --> 01:01:05.969
+Samuel Parri: schedule overruns conflict
+
+600
+01:01:05.980 --> 01:01:09.659
+Samuel Parri: suboptimal decision making. And this
+
+601
+01:01:09.700 --> 01:01:12.149
+Samuel Parri: list could go on and on.
+
+602
+01:01:12.360 --> 01:01:19.089
+Samuel Parri: And what does that transpose into lost money, ineffective practices?
+
+603
+01:01:19.190 --> 01:01:27.870
+Samuel Parri: So we as project managers, we're grappling with inadequate skills, maybe inadequate tools.
+
+604
+01:01:27.910 --> 01:01:33.979
+Samuel Parri: Time, all right. We're not effectively utilizing our time
+
+605
+01:01:34.000 --> 01:01:39.300
+Samuel Parri: to deliver that value of when we execute a project.
+
+606
+01:01:39.770 --> 01:01:42.050
+Samuel Parri: Therefore, implement
+
+607
+01:01:42.290 --> 01:01:44.510
+Samuel Parri: well-defined tools
+
+608
+01:01:44.610 --> 01:01:49.729
+Samuel Parri: and what Lloyd just said was one of many you're going to hear about today.
+
+609
+01:01:49.760 --> 01:01:52.569
+Samuel Parri: It's gonna significantly
+
+610
+01:01:52.580 --> 01:01:55.349
+Samuel Parri: improve your success
+
+611
+01:01:55.400 --> 01:01:57.900
+Samuel Parri: to those that you serve
+
+612
+01:01:58.530 --> 01:02:02.349
+Samuel Parri: team. What I now want to do is simply
+
+613
+01:02:02.400 --> 01:02:11.600
+Samuel Parri: give you 3 simple project management examples that you could practice practice practice
+
+614
+01:02:11.680 --> 01:02:14.940
+Samuel Parri: on your journey to Carnegie Hall.
+
+615
+01:02:15.160 --> 01:02:17.569
+Samuel Parri: And this is that mindset
+
+616
+01:02:17.620 --> 01:02:23.390
+Samuel Parri: where you're taking and transitioning from managing tasks
+
+617
+01:02:23.580 --> 01:02:25.130
+Samuel Parri: to creating
+
+618
+01:02:25.210 --> 01:02:31.650
+Samuel Parri: that business value based outcomes to what your customer wants?
+
+619
+01:02:31.800 --> 01:02:41.460
+Samuel Parri: Let me give you the 1st simple example of what I touched upon a little while ago. Big data flying all around us.
+
+620
+01:02:41.490 --> 01:02:49.070
+Samuel Parri: The example here, you're a project manager on a large scale construction project.
+
+621
+01:02:49.220 --> 01:02:50.970
+Samuel Parri: How can you
+
+622
+01:02:51.020 --> 01:02:52.959
+Samuel Parri: take this data
+
+623
+01:02:53.090 --> 01:02:58.309
+Samuel Parri: and share it with your stakeholders to ensure? They receive
+
+624
+01:02:58.450 --> 01:03:08.129
+Samuel Parri: accurate timely updates on project status. As you journey around the project. Lifecycle.
+
+625
+01:03:08.360 --> 01:03:11.059
+Samuel Parri: How do you leverage this data
+
+626
+01:03:11.550 --> 01:03:12.919
+Samuel Parri: and present it?
+
+627
+01:03:13.470 --> 01:03:16.230
+Samuel Parri: Well, here is the outcome
+
+628
+01:03:16.380 --> 01:03:18.846
+Samuel Parri: of that particular
+
+629
+01:03:20.520 --> 01:03:25.210
+Samuel Parri: This particular was Chat gpt for all. All right.
+
+630
+01:03:25.290 --> 01:03:32.270
+Samuel Parri: And this is a summary of the data that I got response back from the tool.
+
+631
+01:03:32.360 --> 01:03:36.990
+Samuel Parri: I simply summarized it here in one view
+
+632
+01:03:37.060 --> 01:03:38.570
+Samuel Parri: data collection
+
+633
+01:03:38.780 --> 01:03:54.590
+Samuel Parri: drones our Internet of things sensors. And it's gathering all of this data as that construction project is progressing through the life cycle, how to analyze it updating of the status
+
+634
+01:03:54.880 --> 01:03:57.300
+Samuel Parri: stakeholder communication.
+
+635
+01:03:57.490 --> 01:03:59.839
+Samuel Parri: That's the output
+
+636
+01:03:59.940 --> 01:04:05.630
+Samuel Parri: of the tool. But what I love about it, what is the outcome
+
+637
+01:04:05.730 --> 01:04:13.049
+Samuel Parri: by leveraging big data you can provide highly accurate detailed updates.
+
+638
+01:04:13.160 --> 01:04:14.640
+Samuel Parri: transparent
+
+639
+01:04:14.870 --> 01:04:19.910
+Samuel Parri: data, driven decision making, etc. Etc.
+
+640
+01:04:20.080 --> 01:04:38.849
+Samuel Parri: Now let's look at the second one. You are a new project manager, all right. And the good news you were just assigned your project. Oh, by the way, you also heard that the stakeholders are tough.
+
+641
+01:04:39.000 --> 01:04:41.500
+Samuel Parri: they're difficult to please.
+
+642
+01:04:41.910 --> 01:04:43.170
+Samuel Parri: Therefore
+
+643
+01:04:43.440 --> 01:04:45.489
+Samuel Parri: how are you going to handle this?
+
+644
+01:04:45.620 --> 01:04:55.990
+Samuel Parri: Which tool can you consider? How do you get a detailed breakdown on each tool to help you get insight
+
+645
+01:04:56.250 --> 01:04:59.070
+Samuel Parri: to effectively manage
+
+646
+01:04:59.270 --> 01:05:01.879
+Samuel Parri: these difficult stakeholders.
+
+647
+01:05:02.180 --> 01:05:07.380
+Samuel Parri: This tool is project management, institute infinity.
+
+648
+01:05:07.650 --> 01:05:10.869
+Samuel Parri: Again, what is the output?
+
+649
+01:05:11.160 --> 01:05:14.040
+Samuel Parri: Some tools like surveys.
+
+650
+01:05:14.480 --> 01:05:15.820
+Samuel Parri: interviews.
+
+651
+01:05:16.070 --> 01:05:18.870
+Samuel Parri: maybe. Do a focus group
+
+652
+01:05:19.120 --> 01:05:21.600
+Samuel Parri: net promoter score.
+
+653
+01:05:21.820 --> 01:05:25.499
+Samuel Parri: But what I love about this is the outcome.
+
+654
+01:05:25.540 --> 01:05:27.300
+Samuel Parri: understanding.
+
+655
+01:05:27.350 --> 01:05:36.930
+Samuel Parri: stakeholder satisfaction, all right. Using a combination of these various tools both quantitatively
+
+656
+01:05:37.020 --> 01:05:42.080
+Samuel Parri: and qualitatively, to get a comprehensive view.
+
+657
+01:05:42.180 --> 01:05:46.180
+Samuel Parri: What's interesting here? And I think all of you would agree.
+
+658
+01:05:46.260 --> 01:05:56.970
+Samuel Parri: Not all stakeholders are created equally. You might have 10 stakeholders and 11 different wants and needs.
+
+659
+01:05:57.070 --> 01:06:00.020
+Samuel Parri: How are you gonna manage that
+
+660
+01:06:00.420 --> 01:06:13.699
+Samuel Parri: team? The 3rd is like Lloyd was talking about a document. Here's an example. Real life of a project charter, utilizing Claude
+
+661
+01:06:13.770 --> 01:06:27.270
+Samuel Parri: as the chat box. I'm a recent. I'm a project manager. That was just assigned a new project, and the stakeholder just gave me the Project Charter to collaborate.
+
+662
+01:06:27.390 --> 01:06:31.970
+Samuel Parri: I want to understand its accuracy and completeness.
+
+663
+01:06:32.160 --> 01:06:40.210
+Samuel Parri: Please share with me. To ensure. This is as good a project charter as can be
+
+664
+01:06:40.570 --> 01:06:45.930
+Samuel Parri: here Claude is giving me the output, the strength.
+
+665
+01:06:46.070 --> 01:06:54.040
+Samuel Parri: the areas of improvement. What some recommendations are, but what I love is the outcome.
+
+666
+01:06:54.050 --> 01:06:57.190
+Samuel Parri: It's saying this is a solid charter.
+
+667
+01:06:57.240 --> 01:07:03.990
+Samuel Parri: however, addressing these improvements, can make it even more comprehensive
+
+668
+01:07:04.100 --> 01:07:09.270
+Samuel Parri: and a stronger foundation for project success.
+
+669
+01:07:10.140 --> 01:07:11.110
+Samuel Parri: Okay.
+
+670
+01:07:11.290 --> 01:07:20.699
+Samuel Parri: I talked earlier about the virtual wrench and the virtual screwdriver that we gotta constantly adjust our mind.
+
+671
+01:07:20.720 --> 01:07:22.429
+Samuel Parri: What does that mean?
+
+672
+01:07:22.740 --> 01:07:26.309
+Samuel Parri: As human beings? What do we do best?
+
+673
+01:07:26.410 --> 01:07:27.680
+Samuel Parri: We're creative.
+
+674
+01:07:27.940 --> 01:07:29.460
+Samuel Parri: We're innovative.
+
+675
+01:07:29.500 --> 01:07:33.500
+Samuel Parri: We manage team dynamics, etc, etc.
+
+676
+01:07:33.790 --> 01:07:37.050
+Samuel Parri: However, what does the tool do?
+
+677
+01:07:37.170 --> 01:07:39.760
+Samuel Parri: We talked about data analysis.
+
+678
+01:07:40.090 --> 01:07:49.519
+Samuel Parri: pattern recognition like in health care predicting some future illnesses that a person might have
+
+679
+01:07:49.800 --> 01:07:54.790
+Samuel Parri: what are challenging. You're going to hear a lot today about bias
+
+680
+01:07:54.920 --> 01:07:59.899
+Samuel Parri: resistance to change those of you that are up on the fence.
+
+681
+01:07:59.940 --> 01:08:08.660
+Samuel Parri: All right. However, what are challenges of the generative AI tool? You're going to hear a lot about emotional understanding.
+
+682
+01:08:08.840 --> 01:08:10.930
+Samuel Parri: ethical blind spots.
+
+683
+01:08:11.430 --> 01:08:16.060
+Samuel Parri: But the goal is to have this a collaborative
+
+684
+01:08:16.420 --> 01:08:18.410
+Samuel Parri: human machine
+
+685
+01:08:18.510 --> 01:08:19.840
+Samuel Parri: interaction
+
+686
+01:08:19.979 --> 01:08:25.720
+Samuel Parri: optimizing decision making proactive risk management.
+
+687
+01:08:25.729 --> 01:08:29.639
+David Mantica--Co-host!!!: Hey? Hey, Sam! We got a 5 min warning.
+
+688
+01:08:29.640 --> 01:08:38.690
+Samuel Parri: Thank you. So here it here is a look at a glance of human judgment complexity
+
+689
+01:08:38.729 --> 01:08:45.140
+Samuel Parri: along with 4 quadrants. And here are some tools to practice
+
+690
+01:08:45.279 --> 01:08:58.299
+Samuel Parri: all right if AI tools for each of these quadrants. So consider playing some of these because it may be a great tool in your toolkit.
+
+691
+01:08:58.649 --> 01:09:16.150
+Samuel Parri: In addition, I put a compare and contrast for you in automation tools when compared to generative AI tools, the primary function, etc. Etc. And some ideal use cases.
+
+692
+01:09:16.779 --> 01:09:37.719
+Samuel Parri: It's amazing to me today how many project managers? All right, don't utilize a work breakdown structure. So I want to give you at least 5 popular tool to consider playing with. Like, Lloyd was saying, playing with a presentation tool.
+
+693
+01:09:38.090 --> 01:09:39.919
+Samuel Parri: All right. Now.
+
+694
+01:09:41.590 --> 01:09:44.609
+Samuel Parri: what I what I'm sharing here is
+
+695
+01:09:44.819 --> 01:09:50.220
+Samuel Parri: rather than compete. Try to improve your human skills.
+
+696
+01:09:51.100 --> 01:09:55.159
+Samuel Parri: focus on things that we humans do best.
+
+697
+01:09:55.820 --> 01:10:02.279
+Samuel Parri: A doctor having good bedside manner, a programmer spending time with the users.
+
+698
+01:10:02.730 --> 01:10:04.459
+Samuel Parri: future pew.
+
+699
+01:10:04.530 --> 01:10:06.230
+Samuel Parri: You're human
+
+700
+01:10:06.260 --> 01:10:12.790
+Samuel Parri: schools, such that excel in things that humans can do.
+
+701
+01:10:13.000 --> 01:10:17.880
+Samuel Parri: This will make you almost impossible to be replaced.
+
+702
+01:10:18.090 --> 01:10:23.540
+Samuel Parri: Here are just some of them. Okay, focus on improving these?
+
+703
+01:10:23.940 --> 01:10:26.949
+Samuel Parri: This was a second question.
+
+704
+01:10:27.060 --> 01:10:29.330
+Samuel Parri: do you have concern
+
+705
+01:10:29.460 --> 01:10:33.010
+Samuel Parri: that AI will impact your job
+
+706
+01:10:33.130 --> 01:10:41.040
+Samuel Parri: alright in the group chat or in the chat window. It'd be interesting to hear some of your thoughts on this
+
+707
+01:10:41.450 --> 01:10:42.740
+Samuel Parri: concerns.
+
+708
+01:10:42.750 --> 01:10:47.189
+Samuel Parri: hey? It's not the best. Try many of them.
+
+709
+01:10:47.490 --> 01:10:48.570
+Samuel Parri: All right.
+
+710
+01:10:49.420 --> 01:10:51.219
+Samuel Parri: Okay. Oh, thank you.
+
+711
+01:10:52.610 --> 01:10:54.609
+Lara Hill: Yup. I figured it out. I got it set up.
+
+712
+01:10:54.610 --> 01:10:56.160
+Samuel Parri: Oh, you use the profile.
+
+713
+01:10:56.160 --> 01:10:59.710
+Lara Hill: We will have immediate answers.
+
+714
+01:10:59.710 --> 01:11:00.740
+Samuel Parri: Thank you.
+
+715
+01:11:01.231 --> 01:11:03.539
+Samuel Parri: And to continue with this.
+
+716
+01:11:05.080 --> 01:11:07.709
+Samuel Parri: there's no human author.
+
+717
+01:11:07.720 --> 01:11:20.950
+Samuel Parri: Okay, somebody talked about licensing earlier with Lloyd. Understand? What's behind the tools. So in summary, what are strategies for success for you? The project manager.
+
+718
+01:11:20.950 --> 01:11:38.300
+Samuel Parri: understand who you are, what you are, why you are, where you are, and where your skill set is. Does that? Where do you want to be? Have a sense of curiosity, anticipation, develop some of these new skills you're going to hear about today.
+
+719
+01:11:38.340 --> 01:11:39.420
+Samuel Parri: Okay.
+
+720
+01:11:39.450 --> 01:11:40.930
+Samuel Parri: In addition.
+
+721
+01:11:41.950 --> 01:11:44.910
+Samuel Parri: in addition, have that growth mindset
+
+722
+01:11:44.930 --> 01:11:47.189
+Samuel Parri: be inspired, be motivated.
+
+723
+01:11:47.570 --> 01:11:49.400
+Samuel Parri: and always remember, Team
+
+724
+01:11:49.620 --> 01:11:52.120
+Samuel Parri: AI is not going to replace you.
+
+725
+01:11:52.340 --> 01:12:02.039
+Samuel Parri: You are going to be replaced by someone who's utilizing these generative AI tools. Who's going to outperform. You
+
+726
+01:12:02.200 --> 01:12:12.140
+Samuel Parri: understand where you fit in the social arena? All right, enhance your your human skills and your soft skills.
+
+727
+01:12:12.230 --> 01:12:16.279
+Samuel Parri: The best way to do it. Understand your career goals
+
+728
+01:12:16.300 --> 01:12:29.979
+Samuel Parri: determine areas that you want to specialize. All right. Get educated all right. Identify companies that have career paths, collaborate with some of the experts you're going to hear about today.
+
+729
+01:12:30.170 --> 01:12:40.919
+Samuel Parri: Practice practice practice to become that project Manager Rock Star. All right. And then I want to close with 2 closing thoughts.
+
+730
+01:12:40.960 --> 01:12:42.709
+Samuel Parri: Question number one.
+
+731
+01:12:42.890 --> 01:12:44.940
+Samuel Parri: What would you say?
+
+732
+01:12:45.180 --> 01:12:49.100
+Samuel Parri: An ethical, unbiased machine would look like
+
+733
+01:12:49.330 --> 01:12:51.170
+Samuel Parri: interesting question.
+
+734
+01:12:51.340 --> 01:12:53.240
+Samuel Parri: And the second question.
+
+735
+01:12:53.700 --> 01:12:59.730
+Samuel Parri: if the current project success, let's say, team, for example, is 30%,
+
+736
+01:12:59.850 --> 01:13:07.280
+Samuel Parri: what would you say? The success rate would be if Gen. AI. Tools were used.
+
+737
+01:13:07.390 --> 01:13:21.860
+Samuel Parri: These are closing thoughts to think about team. I've given you all virtual hug, Laura, George, and to you, David. Thank you, and I wish all of you good sex, good success
+
+738
+01:13:21.880 --> 01:13:23.650
+Samuel Parri: on your AI journey.
+
+739
+01:13:24.410 --> 01:13:25.360
+David Mantica--Co-host!!!: Man, Sam.
+
+740
+01:13:25.360 --> 01:13:26.450
+Lara Hill: Samuel.
+
+741
+01:13:27.350 --> 01:13:32.879
+David Mantica--Co-host!!!: So, Laura, we got 5 min break while we're on break. People can share.
+
+742
+01:13:32.890 --> 01:13:52.639
+David Mantica--Co-host!!!: You can open up your mic if you want to. You can go take a bio, break whatever need get some drink. We got a 5 min break, and it'll start at 1055 with a Bra, lots of great feedback and thoughts on Samuel's input and advice and ideas and suggestions. Again, reminders. Reminder number one. You are going to get all the slides.
+
+743
+01:13:53.430 --> 01:13:56.739
+David Mantica--Co-host!!!: You're going to get the transcript of the chat.
+
+744
+01:13:57.300 --> 01:14:26.640
+David Mantica--Co-host!!!: You're going to get the recording of each session. But also we're going to combine information and provide you a private gpt that you can engage, based on the information that you're hearing. You can ask it questions and get answers based on the information given by all our presenters, and a type of dynamic Gpt that's private is something that we will talk a bit more about during the course of this some conference. But go, take a break.
+
+745
+01:14:26.860 --> 01:14:31.520
+David Mantica--Co-host!!!: and we remember slides, transcript recordings, all going to be sent out afterwards.
+
+746
+01:14:32.810 --> 01:14:39.830
+Loyd Thompson: Hey? And David, I am working on providing answers to the questions. So
+
+747
+01:14:39.930 --> 01:14:47.170
+Loyd Thompson: anybody that has questions for my my presentation. If you'll direct message me in the chat.
+
+748
+01:14:47.340 --> 01:14:51.429
+Loyd Thompson: I'm sitting here working on him. I provided a couple of answers already, so
+
+749
+01:14:51.670 --> 01:14:53.519
+Loyd Thompson: let me know if I can help.
+
+750
+01:14:55.340 --> 01:15:05.399
+Lara Hill: Great. I encourage all of you to direct message any of the speakers. If you want to follow up with them. If you have questions. Please do feel free to network with each other as well.
+
+751
+01:15:05.400 --> 01:15:30.370
+Lara Hill: We always want to emphasize that as a big value of us all being in the same zoom room together at the same time, and having the same experience. So you have a nice icebreaker to open up a conversation and expand your network and expand your relationships. And that's a big part of the value of this conference. So I see Kara is here, Kara Flanagan from AI certs, if you want to unmic and say, hello
+
+752
+01:15:30.370 --> 01:15:39.529
+Lara Hill: would be great to hear from you. She's representing AI certs, which is one of our sponsors today. So if you'd like to Kara. We'd love to
+
+753
+01:15:39.660 --> 01:15:41.950
+Lara Hill: to hear from you while we're on break.
+
+754
+01:15:43.700 --> 01:15:46.780
+Kara Flanagan: Sure. Hey, everyone! Carol Flanagan here.
+
+755
+01:15:46.860 --> 01:15:53.040
+Kara Flanagan: Wow! 1, st 2 sessions were amazing. This is really great information. I'm glad to be here today.
+
+756
+01:15:54.240 --> 01:16:08.510
+Lara Hill: Thanks. We're glad to have you here, please. Everyone feel free to say hello to Kara in the chat and connect with her on Linkedin. We'll have a link to the AI Certs website and our follow up materials. If you're curious about getting certified.
+
+757
+01:16:08.510 --> 01:16:30.310
+Lara Hill: She is a great resource to talk to and learn more about all the different options that are available to you for AI certifications. So she'll be speaking more about that later today, but wanted to use this opportunity to let her say Hello! If anyone else is here, Michael Wolf would like to say, Hello, welcome to the stage. Yes, we can.
+
+758
+01:16:30.310 --> 01:16:31.520
+Michael Wolf: Can you hear me? Okay.
+
+759
+01:16:31.750 --> 01:16:33.349
+Lara Hill: Yes, go for it.
+
+760
+01:16:33.350 --> 01:16:37.820
+Michael Wolf: Chat Gpt to summarize my notes from conferences like this.
+
+761
+01:16:38.288 --> 01:16:42.619
+Michael Wolf: I had a great success on the previous one, so I just took some time
+
+762
+01:16:42.700 --> 01:16:44.850
+Michael Wolf: to cut and paste the chat.
+
+763
+01:16:45.060 --> 01:16:47.850
+Michael Wolf: The Zoom chat into chat. Gpt
+
+764
+01:16:47.960 --> 01:16:52.020
+Michael Wolf: asked it to summarize the participants, put them in a list.
+
+765
+01:16:52.360 --> 01:16:54.829
+Michael Wolf: rearrange them as last name, 1st name
+
+766
+01:16:54.860 --> 01:16:58.319
+Michael Wolf: alphabetized by last name, and put the Linkedin on it.
+
+767
+01:16:58.720 --> 01:17:03.600
+Michael Wolf: It was 4 lines of a prompt I pasted that output into the text
+
+768
+01:17:04.130 --> 01:17:04.700
+Michael Wolf: for people.
+
+769
+01:17:04.700 --> 01:17:06.400
+Lara Hill: Great. Thank you so much.
+
+770
+01:17:06.400 --> 01:17:09.970
+Michael Wolf: A lot more helpful. It's it's an amazing kind of thing.
+
+771
+01:17:11.050 --> 01:17:13.559
+Lara Hill: Absolutely thank you for doing that.
+
+772
+01:17:13.560 --> 01:17:14.950
+Michael Wolf: Just in this example.
+
+773
+01:17:16.680 --> 01:17:17.610
+Lara Hill: Awesome.
+
+774
+01:17:18.180 --> 01:17:37.070
+Lara Hill: I used chat, Gpt, to tally up the poll results. And that's how I was able to quickly say how many people answered A, BC or D, and I thought that was really a nicely formatted thing. I could just copy paste. So if you guys saw the poll results from that I thought that was interesting to see the different levels.
+
+775
+01:17:37.070 --> 01:17:37.780
+Michael Wolf: Yes, I agree.
+
+776
+01:17:37.780 --> 01:17:39.480
+Lara Hill: Usage here in the room.
+
+777
+01:17:41.050 --> 01:17:43.239
+Lara Hill: Did anyone else want to share anything.
+
+778
+01:17:43.540 --> 01:18:04.540
+Michael Wolf: Yeah. Well, when you said that, it reminded me. We hear a lot about sort of the the high level things, hearing these specific things like, let me summarize the the polling because it's a mess in the chat. Or let me summarize the Linkedin links because it's a mess in the chat. Those specific examples are really helpful to tie the big concepts down to everyday use.
+
+779
+01:18:05.900 --> 01:18:09.689
+David Mantica--Co-host!!!: Yeah, details, details, the amazing things you can do.
+
+780
+01:18:10.130 --> 01:18:38.480
+David Mantica--Co-host!!!: But Samuel is right about practice. I mean, this isn't just some magic you got to practice. You got to practice consistently, and as you practice you get better and better. Then you start being able to set yourself apart, and then you'll start seeing, you know experience in AI utilization of specific tools. And indeed, you start realizing you increase your salary based on that. And then, of course, you want to certify and get trained if you can. That's the same. It's the same scenario, what we've seen all the other hot technology areas.
+
+781
+01:18:38.890 --> 01:18:40.209
+David Mantica--Co-host!!!: But this one.
+
+782
+01:18:40.560 --> 01:18:45.280
+David Mantica--Co-host!!!: you know, it's going to create other avenues much, much like the Internet did that. We don't quite know
+
+783
+01:18:45.370 --> 01:18:47.230
+David Mantica--Co-host!!!: what those avenues are going to be at.
+
+784
+01:18:49.020 --> 01:19:03.999
+Lara Hill: Yep, we are all in the early stages, so don't feel like you're behind. You are right on time. And with that, speaking of time. Let's get over to Abra and his presentation. Abrar. Are you ready to go? He's going to talk to us about data governance.
+
+785
+01:19:06.020 --> 01:19:07.720
+Abrar Hashmi: Can everybody see the screen?
+
+786
+01:19:07.930 --> 01:19:08.590
+Abrar Hashmi: Yes.
+
+787
+01:19:08.590 --> 01:19:09.010
+David Mantica--Co-host!!!: Damn!
+
+788
+01:19:09.010 --> 01:19:09.949
+Lara Hill: Good, awesome.
+
+789
+01:19:09.950 --> 01:19:10.550
+Abrar Hashmi: Awesome.
+
+790
+01:19:11.150 --> 01:19:21.709
+Abrar Hashmi: Thanks so much everyone for attending. We are going to talk about fundamentals of project management today. We'll spend the next 1 h talking about what Pms can do from a fundamental standpoint.
+
+791
+01:19:22.760 --> 01:19:38.089
+Abrar Hashmi: Oh, sorry. That's the wrong deck. Sorry we're going to talk about Gen. AI. Sorry we're going to talk about data governance today. So welcome, we're going to talk about a lot of great presenters have shared their expertise and knowledge in the last couple of hours with us.
+
+792
+01:19:38.510 --> 01:19:51.199
+Abrar Hashmi: What we want to focus on for the next half an hour or so is, look at the underlying principles of data governance which will help us out with looking at compliance and improve decision making.
+
+793
+01:19:51.420 --> 01:19:57.709
+Abrar Hashmi: as we as Pms. As program managers, as coordinators, as leaders, embark on these journeys.
+
+794
+01:19:58.270 --> 01:20:04.189
+Abrar Hashmi: Lot of great Demos we have seen since morning. Even in the chat, a lot of discussions around the tools we use.
+
+795
+01:20:04.370 --> 01:20:07.219
+Abrar Hashmi: This talk is going to focus more on the.
+
+796
+01:20:07.490 --> 01:20:15.949
+Abrar Hashmi: what is the fundamental data model, the data governance structure which makes our model be accurate and help us out better with predictability.
+
+797
+01:20:16.830 --> 01:20:20.370
+Abrar Hashmi: So let's start this out by 1st and foremost talking about
+
+798
+01:20:20.540 --> 01:20:22.610
+Abrar Hashmi: the world we are living today.
+
+799
+01:20:23.860 --> 01:20:29.290
+Abrar Hashmi: It would not be wrong to say it would not be an understatement to say that today we're living
+
+800
+01:20:29.330 --> 01:20:30.850
+Abrar Hashmi: in the age of data.
+
+801
+01:20:31.330 --> 01:20:40.299
+Abrar Hashmi: You will see T-shirts. You'll see memes about data is the new bacon data is the new pizza. Everybody talks about data. And you'll see all these things out there.
+
+802
+01:20:40.670 --> 01:20:46.510
+Abrar Hashmi: The global data and analytics market in the industry today is valued over
+
+803
+01:20:46.610 --> 01:20:48.919
+Abrar Hashmi: around 350 billion dollars.
+
+804
+01:20:50.710 --> 01:20:56.860
+Abrar Hashmi: This was something very interesting. The amount of data which is generated every day.
+
+805
+01:20:57.560 --> 01:20:59.840
+Abrar Hashmi: not talking monthly, not yearly.
+
+806
+01:20:59.960 --> 01:21:01.380
+Abrar Hashmi: Every day.
+
+807
+01:21:01.630 --> 01:21:03.040
+Abrar Hashmi: We create
+
+808
+01:21:03.750 --> 01:21:07.449
+Abrar Hashmi: 2.5 quintillion bytes of data.
+
+809
+01:21:08.720 --> 01:21:14.770
+Abrar Hashmi: Now throw it out to the group here. I can't see the chat right now. But does anyone know how many zeros exist in a quintillion.
+
+810
+01:21:14.860 --> 01:21:16.819
+Abrar Hashmi: You can speak up if you want to.
+
+811
+01:21:18.090 --> 01:21:20.849
+Abrar Hashmi: We know 1 billion trillion
+
+812
+01:21:20.930 --> 01:21:24.999
+Abrar Hashmi: quintillion, and how many zeros and you can chat, gpt the answer, too. It's up to you.
+
+813
+01:21:27.350 --> 01:21:28.470
+Abrar Hashmi: 18
+
+814
+01:21:29.750 --> 01:21:32.169
+Abrar Hashmi: 18 zeros exist in
+
+815
+01:21:32.190 --> 01:21:33.380
+Abrar Hashmi: quintillion.
+
+816
+01:21:34.100 --> 01:21:37.990
+Abrar Hashmi: That's how much data we are creating and generating everything.
+
+817
+01:21:39.410 --> 01:21:44.360
+Abrar Hashmi: The talk we are giving, the buttons we are pressing on Zoom. The different
+
+818
+01:21:44.580 --> 01:21:49.100
+Abrar Hashmi: packets we have in terms of Internet. Everything which we do is
+
+819
+01:21:49.900 --> 01:21:50.900
+Abrar Hashmi: data driven.
+
+820
+01:21:51.040 --> 01:21:55.530
+David Mantica--Co-host!!!: Hey, Bro, can you speak a little louder, or turn up the mic volume? That'd be great.
+
+821
+01:21:55.750 --> 01:21:56.520
+Abrar Hashmi: Absolutely
+
+822
+01:21:57.890 --> 01:22:00.919
+Abrar Hashmi: 70% of the world's data today
+
+823
+01:22:01.070 --> 01:22:02.760
+Abrar Hashmi: is generated by us.
+
+824
+01:22:02.970 --> 01:22:07.929
+Abrar Hashmi: It's not somebody else creating it. Every single action we take, every single.
+
+825
+01:22:08.520 --> 01:22:09.509
+Abrar Hashmi: Can you hear me
+
+826
+01:22:11.160 --> 01:22:11.920
+Abrar Hashmi: perfect?
+
+827
+01:22:12.210 --> 01:22:14.559
+Abrar Hashmi: Every single thing which we do is
+
+828
+01:22:15.670 --> 01:22:21.190
+Abrar Hashmi: really going towards that 70% of that 2.5 quintillion bytes of data.
+
+829
+01:22:22.080 --> 01:22:30.409
+Abrar Hashmi: the cloud, computing industry, all the products which we saw, whether it is chatgpt, whether it's Claude, any other thing which we're looking at it from a tool. Perspective
+
+830
+01:22:30.900 --> 01:22:36.559
+Abrar Hashmi: enterprises are spending upwards of 500 billion dollars annually
+
+831
+01:22:36.820 --> 01:22:40.209
+Abrar Hashmi: for cloud computing, which runs the foundation off.
+
+832
+01:22:40.580 --> 01:22:44.060
+Abrar Hashmi: What is the world which we live in today? Everything is data driven.
+
+833
+01:22:44.380 --> 01:22:50.899
+Abrar Hashmi: So let this sink in before we get towards. Why, what we are going to talk about for the next 27 min. Why is it critical?
+
+834
+01:22:50.910 --> 01:22:55.699
+Abrar Hashmi: It's really understanding that everything which we do? It's data driven.
+
+835
+01:22:56.000 --> 01:23:02.029
+Abrar Hashmi: It's amazing to have all the chat listed out and put it in a tool and say, Hey, can you summarize it for me? That's data.
+
+836
+01:23:02.060 --> 01:23:07.120
+Abrar Hashmi: you choosing a tool. That's data, you attending a session. That's data. You clicking a button. That's data.
+
+837
+01:23:09.070 --> 01:23:10.739
+Abrar Hashmi: We then go towards
+
+838
+01:23:11.600 --> 01:23:14.519
+Abrar Hashmi: a high level overview of data. Governance
+
+839
+01:23:14.660 --> 01:23:19.730
+Abrar Hashmi: data is coming in every place. Everything which we do, every action we take. That's data driven
+
+840
+01:23:19.850 --> 01:23:21.939
+Abrar Hashmi: data. Governance is nothing but
+
+841
+01:23:22.080 --> 01:23:23.680
+Abrar Hashmi: the framework. For
+
+842
+01:23:23.840 --> 01:23:27.180
+Abrar Hashmi: where is this data? How is this data stored?
+
+843
+01:23:27.190 --> 01:23:29.350
+Abrar Hashmi: Who has access to this data?
+
+844
+01:23:29.980 --> 01:23:32.679
+Abrar Hashmi: How do we ensure compliance with this data.
+
+845
+01:23:32.890 --> 01:23:35.610
+Abrar Hashmi: How do we have decision making for the data?
+
+846
+01:23:36.640 --> 01:23:41.270
+Abrar Hashmi: The second component of our talk is going to be around, what is Gen. AI
+
+847
+01:23:42.800 --> 01:23:47.460
+Abrar Hashmi: Gen. AI is nothing but a model based on artificial intelligence.
+
+848
+01:23:47.650 --> 01:23:52.359
+Abrar Hashmi: which helps you take a look at this data and generate insights.
+
+849
+01:23:54.430 --> 01:24:04.339
+Abrar Hashmi: a use case which we have seen just today is you've taken a look at all the chat. You've taken a look at all the videos. You can put this out into an AI model.
+
+850
+01:24:04.520 --> 01:24:07.390
+Abrar Hashmi: and that AI model will generate new insights.
+
+851
+01:24:08.490 --> 01:24:12.609
+Abrar Hashmi: Why is this important? Because it helps you out with automation.
+
+852
+01:24:12.740 --> 01:24:14.299
+Abrar Hashmi: It helps you out with
+
+853
+01:24:14.860 --> 01:24:16.240
+Abrar Hashmi: being faster.
+
+854
+01:24:16.460 --> 01:24:22.080
+Abrar Hashmi: And last, but not least, it helps you summarize things. So you can have better decision making.
+
+855
+01:24:22.140 --> 01:24:26.450
+Abrar Hashmi: So we talked about data. We spent some time talking about what is data governance.
+
+856
+01:24:26.550 --> 01:24:30.120
+Abrar Hashmi: how AI fits in. And let's now continue
+
+857
+01:24:30.230 --> 01:24:31.969
+Abrar Hashmi: discussing what's next.
+
+858
+01:24:33.410 --> 01:24:35.769
+Abrar Hashmi: If you look at data governance today.
+
+859
+01:24:35.900 --> 01:24:47.760
+Abrar Hashmi: data governance results in a key important area. We have regulatory rules. If you're working in the federal space, you have hipaa compliance, you have. Gdpr, if you're in Europe, you have Ccpa.
+
+860
+01:24:47.790 --> 01:24:53.540
+Abrar Hashmi: The goal is every insight which we create is only going to be important.
+
+861
+01:24:53.630 --> 01:24:56.540
+Abrar Hashmi: If the data which we provide is good.
+
+862
+01:24:58.020 --> 01:25:02.230
+Abrar Hashmi: It's very similar to the Gigo framework garbage in garbage out
+
+863
+01:25:02.310 --> 01:25:05.589
+Abrar Hashmi: the better my data, the better decisions I can take.
+
+864
+01:25:05.670 --> 01:25:07.720
+Abrar Hashmi: And this is not something new.
+
+865
+01:25:07.760 --> 01:25:21.120
+Abrar Hashmi: If we are driving on a car. And if we see that it is raining, if we see our cars have tire pressure, we make a decision based on new data which gets fed into our systems. So we as human beings use the same mindset.
+
+866
+01:25:21.350 --> 01:25:25.180
+Abrar Hashmi: understand the data, have the knowledge and move forward.
+
+867
+01:25:26.530 --> 01:25:29.850
+Abrar Hashmi: Why is this a big problem? Why is data governance, a big problem. Then
+
+868
+01:25:30.440 --> 01:25:35.880
+Abrar Hashmi: there are 3 key things which we try to eliminate when we think about data, governance
+
+869
+01:25:36.030 --> 01:25:37.290
+Abrar Hashmi: number one
+
+870
+01:25:37.320 --> 01:25:39.220
+Abrar Hashmi: is complexity and volume.
+
+871
+01:25:39.770 --> 01:25:43.360
+Abrar Hashmi: Once again, 2.5 quintillion bytes of data.
+
+872
+01:25:43.380 --> 01:25:51.400
+Abrar Hashmi: That's how much data we have. Somebody has to summarize it. Somebody has to create insights. Somebody has to base responses, and that is daily.
+
+873
+01:25:52.020 --> 01:25:56.399
+Abrar Hashmi: By the time this training gets finished the decks get sent out to you by Lara and team.
+
+874
+01:25:57.060 --> 01:25:59.119
+Abrar Hashmi: That number is going to be 5 quintillion.
+
+875
+01:25:59.570 --> 01:26:02.769
+Abrar Hashmi: By the time the month finishes we'll have more data created.
+
+876
+01:26:03.780 --> 01:26:06.570
+Abrar Hashmi: The other big challenge is noncompliance.
+
+877
+01:26:07.910 --> 01:26:14.719
+Abrar Hashmi: What information is being fed who has access to that information where, they say, will this information be reused?
+
+878
+01:26:15.280 --> 01:26:23.899
+Abrar Hashmi: And last, but not least, data governance, because the sheer enormity of data is a manual process. It's time consuming
+
+879
+01:26:26.010 --> 01:26:29.950
+Abrar Hashmi: what happens when companies don't have good data. Governance
+
+880
+01:26:32.370 --> 01:26:39.019
+Abrar Hashmi: securities had a huge classic breach breach of data where bad data governance
+
+881
+01:26:39.070 --> 01:26:42.490
+Abrar Hashmi: had permission issues put the company's data at risk.
+
+882
+01:26:42.590 --> 01:26:47.840
+Abrar Hashmi: This was a few 100 million dollars. When they lost in terms of their market cap
+
+883
+01:26:48.360 --> 01:26:56.350
+Abrar Hashmi: unity, the company lost 37% of their market price. Their stock price dropped 37%.
+
+884
+01:26:56.500 --> 01:27:02.219
+Abrar Hashmi: Once they started having bad data for its ads and monetization programs.
+
+885
+01:27:02.550 --> 01:27:08.800
+Abrar Hashmi: So you're sending out the wrong type of products to customers and their stock dropped 37%.
+
+886
+01:27:10.490 --> 01:27:12.890
+Abrar Hashmi: We've all heard about the equifax breach.
+
+887
+01:27:13.190 --> 01:27:20.429
+Abrar Hashmi: When millions of user data, their social security numbers. Their addresses were breached in a security hack.
+
+888
+01:27:21.500 --> 01:27:22.549
+Abrar Hashmi: Funny enough.
+
+889
+01:27:22.890 --> 01:27:26.249
+Abrar Hashmi: we think that it happened recently. That was in 2017.
+
+890
+01:27:27.310 --> 01:27:37.310
+Abrar Hashmi: So once again, not something recent. Once you have data, governance challenges. Once you start having security breaches. Customers remember.
+
+891
+01:27:39.220 --> 01:27:50.029
+Abrar Hashmi: Most recently, a few months ago, citigroup was fined 136 million dollars. Once it failed to have data, governance processes be updated.
+
+892
+01:27:50.660 --> 01:27:56.190
+Abrar Hashmi: the total fines which city has paid in the last 8 to 10 years is over 1.5 billion dollars.
+
+893
+01:27:59.020 --> 01:28:06.209
+Abrar Hashmi: Data governance is not going away. Data governance is a foundation of where AI is going to help out with.
+
+894
+01:28:07.770 --> 01:28:22.169
+Abrar Hashmi: So if you thought about this session talking about data and how we will do this, and how, as a Pm, I can support using AI before you start thinking about text stored files, documents. The 1st step is what data governance model do we have
+
+895
+01:28:23.370 --> 01:28:36.919
+Abrar Hashmi: a lot of the audience here today are Pms, that's where we start this journey? Do we have the right data governance structure before we start thinking about bringing AI into the mix. And that's why this session is critical for all our audience today.
+
+896
+01:28:38.330 --> 01:28:44.309
+Abrar Hashmi: when we think about data governance itself, we're really trying to number one. Look at is the data quality good.
+
+897
+01:28:44.890 --> 01:28:50.579
+Abrar Hashmi: Do we have any integrity issues? Do we have security issues? Who has access to what data.
+
+898
+01:28:51.430 --> 01:28:56.109
+Abrar Hashmi: what are the risks of this data management? Do we have the right permissions available.
+
+899
+01:28:56.680 --> 01:28:58.830
+Abrar Hashmi: Who will use this data for what?
+
+900
+01:28:59.670 --> 01:29:14.169
+Abrar Hashmi: Which other agency is going to use our data? All these are the right questions which we as Pms as program managers, as agile leads as functional consultants should be asking when we think about the information.
+
+901
+01:29:16.190 --> 01:29:17.780
+Abrar Hashmi: Very recently one of the
+
+902
+01:29:18.380 --> 01:29:20.960
+Abrar Hashmi: real world scenarios which happened was
+
+903
+01:29:21.000 --> 01:29:23.299
+Abrar Hashmi: you had somebody reach out and
+
+904
+01:29:23.340 --> 01:29:25.920
+Abrar Hashmi: put a question out into one of the
+
+905
+01:29:26.400 --> 01:29:28.969
+Abrar Hashmi: AI based Chatbots was.
+
+906
+01:29:29.260 --> 01:29:31.620
+Abrar Hashmi: how many rocks should I eat
+
+907
+01:29:31.940 --> 01:29:33.190
+Abrar Hashmi: every day?
+
+908
+01:29:34.870 --> 01:29:39.559
+Abrar Hashmi: I'll repeat this out. How many rocks should I eat every day?
+
+909
+01:29:40.320 --> 01:29:43.699
+Abrar Hashmi: And the response came from the Chatbot.
+
+910
+01:29:43.880 --> 01:29:45.740
+Abrar Hashmi: The AI tool was.
+
+911
+01:29:46.070 --> 01:29:48.139
+Abrar Hashmi: We recommend you eating
+
+912
+01:29:48.240 --> 01:29:54.109
+Abrar Hashmi: one rock per day. Rocks are a great source of magnesium zinc.
+
+913
+01:29:54.460 --> 01:29:57.439
+Abrar Hashmi: and should be eaten once a day.
+
+914
+01:29:59.250 --> 01:30:00.640
+Abrar Hashmi: You might laugh about it.
+
+915
+01:30:00.660 --> 01:30:08.150
+Abrar Hashmi: but the reality is, the Chatbot used this information from a joke which was posted, and that's the area which it came from.
+
+916
+01:30:12.740 --> 01:30:25.549
+Abrar Hashmi: The tool is amazing. We've all heard about it. We will continue hearing about it for the next half day we'll continue to be bombarded with more tools, more information. But the most important aspect is, it is all data driven.
+
+917
+01:30:25.840 --> 01:30:33.240
+Abrar Hashmi: How do you segregate? Something is a joke, and is not to be taken seriously. You do not want to eat one rock per day.
+
+918
+01:30:35.900 --> 01:30:37.490
+Abrar Hashmi: We then go to words
+
+919
+01:30:37.580 --> 01:30:38.830
+Abrar Hashmi: talking about.
+
+920
+01:30:40.140 --> 01:30:41.130
+Abrar Hashmi: who am I?
+
+921
+01:30:41.420 --> 01:30:51.090
+Abrar Hashmi: I've talked to you about data. I've talked to you about how companies are losing billions of dollars. My name is Abrad Hashmi. I'm the founder and chief evangelist at Agile brains, consulting
+
+922
+01:30:51.360 --> 01:30:58.050
+Abrar Hashmi: a niche management consulting company who specializes in data transformations, Digital deliveries and solution technology management.
+
+923
+01:30:58.200 --> 01:31:08.929
+Abrar Hashmi: Tons of experience in this space have been an agile leader program, consultant lots of large enterprises. We have supported one of the fastest listed companies, privately owned companies growing in the country.
+
+924
+01:31:09.120 --> 01:31:18.269
+Abrar Hashmi: So once again, I'm happy to be here and share some of my tiny bit of knowledge with the group, and really leave you all with the foundation of what's needed.
+
+925
+01:31:18.980 --> 01:31:39.020
+Abrar Hashmi: We're all facing the same challenge every day. Let's start using AI. What tools should we use in well, tools is way much longer. Tools are way much later. Let's start by data governance. Let's identify what tools do we have? Let's identify who will have access to these tools. Let's start by finding out what business outcomes we need to achieve
+
+926
+01:31:40.450 --> 01:31:48.819
+Abrar Hashmi: when we think about data governance. One of the key things when we think I need to pay close attention towards is the type of
+
+927
+01:31:49.170 --> 01:31:50.449
+Abrar Hashmi: data we have.
+
+928
+01:31:51.310 --> 01:31:57.570
+Abrar Hashmi: If there's 1 thing you can take away from our talk is understand that data comes in 2 basic formats.
+
+929
+01:31:57.810 --> 01:32:00.279
+Abrar Hashmi: structured and unstructured
+
+930
+01:32:00.650 --> 01:32:04.830
+Abrar Hashmi: on the screen, you'll see 2 images. Unstructured. Data is all over the place
+
+931
+01:32:05.180 --> 01:32:08.440
+Abrar Hashmi: and structured data, as the name suggests, is
+
+932
+01:32:08.710 --> 01:32:13.309
+Abrar Hashmi: tallied, is marked correctly, is in some level of an order.
+
+933
+01:32:14.250 --> 01:32:22.120
+Abrar Hashmi: When you think about structured data, it could be in documents, it could be in sharepoint. It could be files. It could be databases, unstructured. Data is everything
+
+934
+01:32:22.300 --> 01:32:31.119
+Abrar Hashmi: could be tapes. It could be audio. It could be video. It could be every single button, every single thing which we do stored in an asynchronous manner.
+
+935
+01:32:31.790 --> 01:32:41.670
+Abrar Hashmi: When we think about data governance, our biggest challenge is, how do we use Gen. AI to tally and to take insights from both
+
+936
+01:32:42.040 --> 01:32:45.090
+Abrar Hashmi: unstructured data and structured data as well.
+
+937
+01:32:46.730 --> 01:32:58.939
+Abrar Hashmi: When we think about Gen. AI and helping Gen. AI to transform data governance. We talked about why it is important. We talked about what is data governance. And now the goal is, what can we do?
+
+938
+01:32:59.280 --> 01:33:03.529
+Abrar Hashmi: 1st and foremost, when we think about Gen. AI, the biggest thing which
+
+939
+01:33:03.950 --> 01:33:09.319
+Abrar Hashmi: insights we get is, once we have this much amount of data, we can automate our policy generation
+
+940
+01:33:09.700 --> 01:33:13.009
+Abrar Hashmi: provide the right amount of data quality assessments.
+
+941
+01:33:13.960 --> 01:33:21.650
+Abrar Hashmi: If you heard the previous talk which was done by Sam and team, and they talked about how healthcare can actually look at anomaly detection.
+
+942
+01:33:22.150 --> 01:33:37.080
+Abrar Hashmi: Who's got any heart issues? Who's got any cholesterol issues? The idea becomes very simple. We can detect the risk because AI is going to take both structured and unstructured data and bring it together and generate insights.
+
+943
+01:33:40.890 --> 01:33:55.590
+Abrar Hashmi: Something which we wanted to share. Right in the middle of this talk was, we think, about the need of AI. Why, all of us here 150 odd individuals, over 250 people registered. Why, we all are here. I wanted to put this quote out from Sundar Pichai, the
+
+944
+01:33:55.720 --> 01:34:01.419
+Abrar Hashmi: president of alphabet, and he talks about AI will have a more profound impact
+
+945
+01:34:01.500 --> 01:34:07.410
+Abrar Hashmi: on humanity. Not any field, not any industry on humanity.
+
+946
+01:34:07.530 --> 01:34:11.220
+Abrar Hashmi: then fire, electricity, and Internet.
+
+947
+01:34:13.830 --> 01:34:15.519
+Abrar Hashmi: Now let that sink in.
+
+948
+01:34:17.200 --> 01:34:17.690
+Abrar Hashmi: Imagine.
+
+949
+01:34:17.690 --> 01:34:24.240
+David Mantica--Co-host!!!: And let's thinking that they reported their earnings today. Yes, last night, and they were freaking insane.
+
+950
+01:34:25.970 --> 01:34:27.279
+Abrar Hashmi: He said in a good way, right, David.
+
+951
+01:34:27.280 --> 01:34:32.150
+David Mantica--Co-host!!!: Yes, insanely amazing. All fired by their activities in AI.
+
+952
+01:34:32.700 --> 01:34:33.539
+Abrar Hashmi: Is that right?
+
+953
+01:34:34.520 --> 01:34:35.910
+Abrar Hashmi: You talk about?
+
+954
+01:34:35.930 --> 01:34:37.799
+Abrar Hashmi: Imagine a world today
+
+955
+01:34:37.910 --> 01:34:40.470
+Abrar Hashmi: without fire, light.
+
+956
+01:34:40.570 --> 01:34:42.380
+Abrar Hashmi: electricity, and Internet.
+
+957
+01:34:42.580 --> 01:34:43.760
+Abrar Hashmi: I just cannot.
+
+958
+01:34:45.610 --> 01:34:56.259
+Abrar Hashmi: So this is the what is at stake here today, when we think about data, when we think about data governance and how AI is going to get impacted and how AI will make it easier for us to have
+
+959
+01:34:57.620 --> 01:34:58.760
+Abrar Hashmi: regulation
+
+960
+01:34:59.520 --> 01:35:07.509
+Abrar Hashmi: 3 industries. We wanted to just provide a high level overview. How organizations today are using Gen. AI to help out with data governance.
+
+961
+01:35:07.920 --> 01:35:14.480
+Abrar Hashmi: A lot of the work which we, as an organization have been doing has been in the financial sector, in the governance area and in healthcare spaces
+
+962
+01:35:14.850 --> 01:35:19.439
+Abrar Hashmi: in the finance sector. When you think about using Gen. AI compliance is a big component.
+
+963
+01:35:19.510 --> 01:35:24.990
+Abrar Hashmi: We heard the numbers for citigroup few minutes ago. 136 million in June of 2024,
+
+964
+01:35:25.110 --> 01:35:28.120
+Abrar Hashmi: over 1.5 billion in the last 10 years or so.
+
+965
+01:35:28.590 --> 01:35:29.900
+Abrar Hashmi: fraud, detection.
+
+966
+01:35:30.580 --> 01:35:43.000
+Abrar Hashmi: We heard about the Equifax case. Study 2017 data is breached. How does somebody know that it's not David's card being used to shop at Chick-fil-a for $118.
+
+967
+01:35:43.890 --> 01:35:46.420
+Abrar Hashmi: This is all what AI is helping us do
+
+968
+01:35:47.050 --> 01:35:51.679
+Abrar Hashmi: in the governance sector. Think about department of revenue. Think about department of health
+
+969
+01:35:51.930 --> 01:35:54.039
+Abrar Hashmi: looking at citizens. Data, privacy.
+
+970
+01:35:54.840 --> 01:36:00.500
+Abrar Hashmi: These tools are amazing. But what guardrails do I have from taking a Cara's
+
+971
+01:36:01.300 --> 01:36:05.079
+Abrar Hashmi: tax return and hosting it to a chat Gpt tool
+
+972
+01:36:07.340 --> 01:36:15.969
+Abrar Hashmi: healthcare. It's even bigger. We talked about a lot during the chat windows, about insurance claims, securing the data frameworks, patient privacy, patient data.
+
+973
+01:36:16.480 --> 01:36:30.180
+Abrar Hashmi: So there are areas where we can use AI to once again set up the right data. Governance structure, have the right data model. So only the appropriate information is used for generating insights and driving results.
+
+974
+01:36:31.590 --> 01:36:32.779
+Abrar Hashmi: Why did this work?
+
+975
+01:36:32.840 --> 01:36:34.479
+Abrar Hashmi: Why do companies come here?
+
+976
+01:36:35.020 --> 01:36:44.989
+Abrar Hashmi: Number one? The biggest thing which you get when we think about using AI is the same reason why a lot of you are using AI to build up decks to summarize notes.
+
+977
+01:36:45.510 --> 01:36:46.900
+Abrar Hashmi: It's time management.
+
+978
+01:36:47.970 --> 01:36:54.479
+Abrar Hashmi: Our jobs are not going to be replaced by AI, but they will be replaced by somebody who knows. AI.
+
+979
+01:36:56.750 --> 01:37:05.510
+Abrar Hashmi: We're talking about a world where AI agents and human individuals will work together. They are there to make our lives easy.
+
+980
+01:37:06.310 --> 01:37:12.589
+Abrar Hashmi: Another big aspect of where AI super supports is is better compliance and risk management.
+
+981
+01:37:13.370 --> 01:37:20.369
+Abrar Hashmi: It's good to have a tool to support. You have an assistant to help us out, but at the end of the year you're introducing risk.
+
+982
+01:37:20.890 --> 01:37:23.850
+Abrar Hashmi: I'm putting a joke somewhere online.
+
+983
+01:37:24.150 --> 01:37:30.759
+Abrar Hashmi: and an AI agent takes a look at that joke, and it is suggesting individuals you can eat rock per day. Rocks are great
+
+984
+01:37:31.200 --> 01:37:33.110
+Abrar Hashmi: for getting calcium. David
+
+985
+01:37:33.170 --> 01:37:35.679
+Abrar Hashmi: should eat one rock per day as soon as you get up.
+
+986
+01:37:36.540 --> 01:37:40.760
+Abrar Hashmi: because that's what the AI tool is giving you, based on the data which is generated.
+
+987
+01:37:42.000 --> 01:37:46.759
+Abrar Hashmi: Last, but not least, it's all about data, agility and flexibility.
+
+988
+01:37:47.220 --> 01:37:51.179
+Abrar Hashmi: Understanding that the amount of data is continuously changing
+
+989
+01:37:51.650 --> 01:37:56.000
+Abrar Hashmi: the amount of new policies which come in, they are going to be critical.
+
+990
+01:37:56.700 --> 01:38:03.729
+Abrar Hashmi: So when you think about integrating AI into data governance, you really want to have the business case, for
+
+991
+01:38:03.800 --> 01:38:05.759
+Abrar Hashmi: we'll be able to do things faster.
+
+992
+01:38:05.930 --> 01:38:10.910
+Abrar Hashmi: we'll be able to do things better from a governance standpoint with decreasing risk.
+
+993
+01:38:11.050 --> 01:38:16.539
+Abrar Hashmi: And last, but not least, we are more agile. We are more adaptive towards the business needs
+
+994
+01:38:17.810 --> 01:38:24.809
+Abrar Hashmi: those 4 things. Whatever framework you follow, whatever tools you have, those 4 things are not going away.
+
+995
+01:38:25.720 --> 01:38:33.569
+Abrar Hashmi: We're not going to have the business. Come in, introduce some tool, introduce a methodology which will make my work be more risky.
+
+996
+01:38:33.940 --> 01:38:38.590
+Abrar Hashmi: or introduce a tool which is going to make me go slow. It's the opposite.
+
+997
+01:38:38.650 --> 01:38:40.960
+Abrar Hashmi: We're optimizing for speed.
+
+998
+01:38:41.000 --> 01:38:51.550
+Abrar Hashmi: We're optimizing for quality. We're optimizing for risk reduction. And last, but not least, we're optimizing for agility and adaptability
+
+999
+01:38:55.620 --> 01:39:03.450
+Abrar Hashmi: heard about the why heard about the what heard about the benefits? Okay, I'm a Pm. What do I do? Where do I go?
+
+1000
+01:39:04.080 --> 01:39:06.469
+Abrar Hashmi: What are the stages I should be following.
+
+1001
+01:39:06.850 --> 01:39:16.809
+Abrar Hashmi: Sure, we learned about it. We want our companies to use AI, we need to have good data governance. We can use AI to help us out with data governance. But where do I get started?
+
+1002
+01:39:17.110 --> 01:39:18.230
+Abrar Hashmi: This is
+
+1003
+01:39:18.300 --> 01:39:20.310
+Abrar Hashmi: what our action plan is
+
+1004
+01:39:21.580 --> 01:39:22.789
+Abrar Hashmi: 4 steps.
+
+1005
+01:39:24.250 --> 01:39:27.619
+Abrar Hashmi: 4 simple areas. When we think about
+
+1006
+01:39:27.790 --> 01:39:30.110
+Abrar Hashmi: AI and data governance.
+
+1007
+01:39:31.660 --> 01:39:34.160
+Abrar Hashmi: 1st and foremost, you start with an assessment
+
+1008
+01:39:34.200 --> 01:39:36.130
+Abrar Hashmi: assessed your current data model.
+
+1009
+01:39:36.190 --> 01:39:40.829
+Abrar Hashmi: identify the areas where AI could be beneficial, identify the use cases
+
+1010
+01:39:40.960 --> 01:39:43.870
+Abrar Hashmi: you're evaluating where you are in your journey.
+
+1011
+01:39:44.530 --> 01:39:46.180
+Abrar Hashmi: It is no different
+
+1012
+01:39:46.280 --> 01:39:48.939
+Abrar Hashmi: than when the 1st time you go to a dentist.
+
+1013
+01:39:50.980 --> 01:39:56.249
+Abrar Hashmi: What's the 1st thing when you come to a new dentist, what's the 1st thing they do for you?
+
+1014
+01:39:56.280 --> 01:39:59.859
+Abrar Hashmi: And anybody can write it in chat or speak up. It's no big deal.
+
+1015
+01:40:08.910 --> 01:40:11.290
+Abrar Hashmi: They start with an X-ray. They start with a test.
+
+1016
+01:40:11.870 --> 01:40:18.489
+Abrar Hashmi: Let's see what you need. Hey? This teeth is paining. I'm in pain. This is what I do they always start with an X-ray.
+
+1017
+01:40:18.610 --> 01:40:24.819
+David Mantica--Co-host!!!: So clay. So basically, they're saying, checkup medical history, ask for insurance.
+
+1018
+01:40:25.410 --> 01:40:36.620
+David Mantica--Co-host!!!: Make you sign that you are financially responsible. Tell you that your health insurance covers this dental work, which is never true. So you get good feedback on that one. Abra.
+
+1019
+01:40:37.090 --> 01:40:39.369
+Abrar Hashmi: You start always be like looking at what
+
+1020
+01:40:39.630 --> 01:40:43.460
+Abrar Hashmi: I need to go under the hood. I need to look inside and assess.
+
+1021
+01:40:43.570 --> 01:40:48.809
+Abrar Hashmi: So you don't just start taking a tool and say, Hey, we need to put a governance model in. You. Start by that assessment.
+
+1022
+01:40:48.940 --> 01:40:50.870
+Abrar Hashmi: Step 2 is you choose
+
+1023
+01:40:51.050 --> 01:41:00.379
+Abrar Hashmi: a lot of tools are available. We're not in the challenge today of, we don't have tools. We're in the opposite end of the spectrum. We have too many tools.
+
+1024
+01:41:02.970 --> 01:41:07.689
+Abrar Hashmi: We have too many certifications. We have too many things being given to us.
+
+1025
+01:41:08.600 --> 01:41:13.879
+Abrar Hashmi: The knowledge or the data is not the problem. Go back to our 1st point, which we raised
+
+1026
+01:41:14.300 --> 01:41:16.280
+Abrar Hashmi: 2.5 quintillion.
+
+1027
+01:41:16.590 --> 01:41:21.219
+Abrar Hashmi: That's how much options we have. As we speak, more tools are being created.
+
+1028
+01:41:21.360 --> 01:41:25.279
+Abrar Hashmi: You choose the right tools based on your use cases.
+
+1029
+01:41:25.570 --> 01:41:28.120
+Abrar Hashmi: prioritize the tools with the business outcomes.
+
+1030
+01:41:28.650 --> 01:41:31.010
+Abrar Hashmi: And then it's all about action.
+
+1031
+01:41:31.360 --> 01:41:40.750
+Abrar Hashmi: A lot of individuals today. I saw some of the presenters as well. A lot of certifications and project management scrum and agile. We start small.
+
+1032
+01:41:41.010 --> 01:41:49.010
+Abrar Hashmi: not rocket science. We can't change the data governance model for a fortune. 10, fortune, 100, or a government sector agency in one day. It's not possible
+
+1033
+01:41:49.090 --> 01:41:53.689
+Abrar Hashmi: too much at risk too much at stake. The blast radius will be very high.
+
+1034
+01:41:54.340 --> 01:41:57.480
+Abrar Hashmi: So you start small, start with a small scale approach.
+
+1035
+01:41:57.750 --> 01:42:04.050
+Abrar Hashmi: And last, but not least, the foundation of everything which we're doing in AI is about being adaptive.
+
+1036
+01:42:05.080 --> 01:42:11.850
+Abrar Hashmi: create an AI data driven culture. That's what the goal here is people having understanding of.
+
+1037
+01:42:12.470 --> 01:42:20.589
+Abrar Hashmi: Yes, I can take this sensitive data and post it into a tool and get my insight faster. But who has access to this data? Is it our own model?
+
+1038
+01:42:20.610 --> 01:42:26.219
+Abrar Hashmi: Is it a model which is used by other entities. Is it a model used by hackers and threat assassins?
+
+1039
+01:42:26.830 --> 01:42:29.209
+Abrar Hashmi: That's what's important about adaptability.
+
+1040
+01:42:29.210 --> 01:42:37.709
+David Mantica--Co-host!!!: You know, borough our organization. We we got ahead of the curve and we started out, though with a governance policy policy written by a lawyer
+
+1041
+01:42:38.040 --> 01:42:40.879
+David Mantica--Co-host!!!: and ended up being like 8 pages long.
+
+1042
+01:42:41.190 --> 01:42:44.230
+David Mantica--Co-host!!!: realizing that basically it was don't do anything.
+
+1043
+01:42:44.920 --> 01:42:55.180
+David Mantica--Co-host!!!: So the human aspect had to occur. So what happened was with human intervention and multiple teams working together. We got it down to a two-page document.
+
+1044
+01:42:55.430 --> 01:42:56.930
+Abrar Hashmi: Fantastic, and then, of course.
+
+1045
+01:42:56.930 --> 01:43:13.489
+David Mantica--Co-host!!!: Went about looking at the tools that had enterprise protection like a chat. Gtp, you know, enterprise, installation, the Claude enterprise installation stuff like that. So that so sometimes a lot of this starts at the lawyer level. And then you got to work through what you're talking about here.
+
+1046
+01:43:13.670 --> 01:43:16.740
+Abrar Hashmi: Absolutely. And I think, even if you look at in David's example.
+
+1047
+01:43:17.130 --> 01:43:23.719
+Abrar Hashmi: started with an 8 pager and came to 2 more information, more governance policies are not necessarily the solution.
+
+1048
+01:43:23.880 --> 01:43:27.909
+Abrar Hashmi: We're looking for quality and not necessarily quantity.
+
+1049
+01:43:28.010 --> 01:43:31.290
+Abrar Hashmi: It needs to be comprehensive. And if it results in a 2 page
+
+1050
+01:43:31.420 --> 01:43:33.650
+Abrar Hashmi: policy structure. So be it.
+
+1051
+01:43:33.740 --> 01:43:39.580
+David Mantica--Co-host!!!: It just has to allow for functionality, too. And we're on a 5 min warning big Guy. 5 min.
+
+1052
+01:43:40.130 --> 01:43:43.269
+Abrar Hashmi: You keep speaking, then I'll not be able to finish the events. Just joking.
+
+1053
+01:43:43.270 --> 01:43:44.850
+David Mantica--Co-host!!!: I'll sell it.
+
+1054
+01:43:45.730 --> 01:43:49.059
+Abrar Hashmi: What do you do in terms of best practices.
+
+1055
+01:43:49.230 --> 01:43:50.840
+Abrar Hashmi: data transparency?
+
+1056
+01:43:50.860 --> 01:43:54.919
+Abrar Hashmi: Where is the data available? Who has access to the data? Privacy is critical
+
+1057
+01:43:55.110 --> 01:43:59.360
+Abrar Hashmi: data, transparency data, privacy, data, security and data monitoring.
+
+1058
+01:43:59.490 --> 01:44:24.470
+Abrar Hashmi: Now, all our Pm friends here, our audience today, when you are thinking about building up your project plans, building up your hierarchies and your quarterly goals. This is where you start with focus on transparency. Look at security, look at privacy, and then how do you monitor that data. So your work is not only finished when David, in his example, has put up this 2 pager, but it's about keep having the security and monitoring it out for what you have learned.
+
+1059
+01:44:25.380 --> 01:44:35.559
+Abrar Hashmi: some real world applications, a couple of ones we wanted to share for a few of our success stories we work with a large financial institution. And big challenge again, was around
+
+1060
+01:44:35.870 --> 01:44:38.069
+Abrar Hashmi: having compliance for data protection.
+
+1061
+01:44:38.120 --> 01:44:43.219
+Abrar Hashmi: The real interesting piece in this financial large institution, fortune. 15 bank was
+
+1062
+01:44:43.810 --> 01:44:47.830
+Abrar Hashmi: their compliance. Regulations are dependent on the geographical location.
+
+1063
+01:44:47.840 --> 01:44:52.239
+Abrar Hashmi: The laws, when it comes to data, privacy, and security, are different in us versus in Europe.
+
+1064
+01:44:52.470 --> 01:45:01.819
+Abrar Hashmi: So when we used AI to build up some of these policy compliance documents, a big component was an anomaly detection where risks were listed out much faster
+
+1065
+01:45:02.290 --> 01:45:05.459
+Abrar Hashmi: after working with them out, for I think, like 14 months or so.
+
+1066
+01:45:05.510 --> 01:45:15.700
+Abrar Hashmi: we are now seeing the compliance costs which they pay to lawyers and other agencies is decreasing. But, more importantly, the response time to audit is decreased extensively.
+
+1067
+01:45:16.940 --> 01:45:28.240
+Abrar Hashmi: Another example. This is something which we're doing right now with one of the States in the Midwest area where the organization wanted to improve customer experience by looking at data governance for citizen data.
+
+1068
+01:45:28.880 --> 01:45:48.239
+Abrar Hashmi: For them, we build up an AI based agent, which is going to again look at the customer data and again help out with both quality assessment. But most importantly, have the customers and citizens of the State feel more transparent and be more proficient with, Hey, my data is secure. I can put this information and not be worried about it.
+
+1069
+01:45:48.570 --> 01:45:56.659
+Abrar Hashmi: Just 2 of the examples which we share. We specialize again in data governance and helping out with dashboarding and analytics. And again, how AI can be used
+
+1070
+01:45:58.640 --> 01:46:01.300
+Abrar Hashmi: hitting the tail end, as David pointed out.
+
+1071
+01:46:01.660 --> 01:46:04.210
+Abrar Hashmi: What are the major things which we saw from here?
+
+1072
+01:46:04.240 --> 01:46:05.640
+Abrar Hashmi: I think number one.
+
+1073
+01:46:06.090 --> 01:46:12.320
+Abrar Hashmi: Our companies, regardless of where we work. We all have financial responsibilities. When we think about compliance
+
+1074
+01:46:12.830 --> 01:46:17.490
+Abrar Hashmi: data is increasing data, quality needs to be equally focused upon.
+
+1075
+01:46:17.710 --> 01:46:27.409
+Abrar Hashmi: Last, but not least, when you think about AI. We're talking about a more agile, more compliant, and, most importantly, a faster delivery mechanism.
+
+1076
+01:46:28.730 --> 01:46:31.310
+Abrar Hashmi: When you think about what's the next step?
+
+1077
+01:46:31.780 --> 01:46:43.800
+Abrar Hashmi: The world is going to continue to have more. AI, we need to embrace it. We need to focus on the data. We need to have sanity checks. We need to remove inheritance bias in data models. And, most importantly.
+
+1078
+01:46:43.810 --> 01:46:47.939
+Abrar Hashmi: think of AI as a strategic governance tool for us.
+
+1079
+01:46:48.110 --> 01:46:56.320
+Abrar Hashmi: The future of the world is, as you can see on the screen humans and AI agents working together and providing better outsides in a faster world.
+
+1080
+01:46:56.960 --> 01:47:02.960
+Abrar Hashmi: I want to finish this out with the last slide which is taking a look on the screen. We talked about structured, unstructured data.
+
+1081
+01:47:03.070 --> 01:47:04.980
+Abrar Hashmi: On the left you can see a room
+
+1082
+01:47:05.070 --> 01:47:08.169
+Abrar Hashmi: which is all messy. That's your unstructured data.
+
+1083
+01:47:08.730 --> 01:47:13.029
+Abrar Hashmi: On the right you have a clean room. Everything is very similarly visible.
+
+1084
+01:47:13.320 --> 01:47:16.400
+Abrar Hashmi: The reason why AI works is the AI
+
+1085
+01:47:16.470 --> 01:47:24.499
+Abrar Hashmi: agent AI is going to help us out with being able to access anything from the combination of both the clean and
+
+1086
+01:47:24.600 --> 01:47:28.990
+Abrar Hashmi: unclean and messy room together. That's what is at stake
+
+1087
+01:47:29.670 --> 01:47:40.629
+Abrar Hashmi: companies which are using this out. The state of generative AI report from Gartner last year listed out 60% accuracy increased in privacy, faster time to market improved agility.
+
+1088
+01:47:41.150 --> 01:47:45.260
+Abrar Hashmi: I want to finish our talk on the last statement in the last 30 seconds.
+
+1089
+01:47:46.030 --> 01:47:53.549
+Abrar Hashmi: As Pms. You will hear this out. We need to do data governance. We need to start, we need to think about tools. We need to evaluate
+
+1090
+01:47:53.780 --> 01:47:57.670
+Abrar Hashmi: my final code for every single audience member who have
+
+1091
+01:47:57.900 --> 01:48:01.470
+Abrar Hashmi: been kind enough to listen to me for the last 30 min is
+
+1092
+01:48:01.750 --> 01:48:06.420
+Abrar Hashmi: the best time to start your AI transformation and data. Governance strategy
+
+1093
+01:48:06.920 --> 01:48:10.290
+Abrar Hashmi: is not yesterday. It's not tomorrow. It is now.
+
+1094
+01:48:11.830 --> 01:48:12.210
+David Mantica--Co-host!!!: So the.
+
+1095
+01:48:12.210 --> 01:48:13.050
+Abrar Hashmi: Once again!
+
+1096
+01:48:13.050 --> 01:48:17.419
+David Mantica--Co-host!!!: Bra, so much interest here, because what you're saying is.
+
+1097
+01:48:18.740 --> 01:48:21.950
+David Mantica--Co-host!!!: you gotta figure out how the heck you're gonna use it.
+
+1098
+01:48:22.650 --> 01:48:26.620
+David Mantica--Co-host!!!: Can you use the tool to help you do that potentially right.
+
+1099
+01:48:27.010 --> 01:48:34.310
+David Mantica--Co-host!!!: But ultimately I think what I have seen being in this now since February 2023
+
+1100
+01:48:34.610 --> 01:48:40.460
+David Mantica--Co-host!!!: is that a lot of folks want to use it, but their governance hasn't allowed it.
+
+1101
+01:48:41.716 --> 01:48:50.269
+David Mantica--Co-host!!!: They're doing it more like somebody would use aws back in the day hiding it like in a in a little, in a little group of people.
+
+1102
+01:48:50.410 --> 01:48:55.639
+David Mantica--Co-host!!!: Are you seeing that same thing? What's your thoughts there? I think what.
+
+1103
+01:48:55.640 --> 01:49:12.430
+Abrar Hashmi: It's a great point, David, I think. What enterprises most of our customers, what we're seeing is they are now understanding the need for strong data foundations and data literacy before they go to AI. So think about data governance as a precursor.
+
+1104
+01:49:12.430 --> 01:49:24.399
+David Mantica--Co-host!!!: So you want to clean up before they go. But is that even possible? I mean, at some point, you know you set it up. Then you let the AI help you clean up. It's interesting, the logic. What's your thought on that.
+
+1105
+01:49:24.400 --> 01:49:26.690
+Abrar Hashmi: It's a great question, and I think there is no.
+
+1106
+01:49:26.780 --> 01:49:35.499
+Abrar Hashmi: The goal here is not to take all unstructured data and make it structured, because that's going to slow us down and plus, it's going to result in a lot of compute power which is going to require
+
+1107
+01:49:35.660 --> 01:49:41.150
+Abrar Hashmi: the goal again. Here is, look at the sanity of data and look at the
+
+1108
+01:49:41.190 --> 01:49:44.490
+Abrar Hashmi: health of the data before we start generating insights.
+
+1109
+01:49:44.570 --> 01:49:47.570
+Abrar Hashmi: And most importantly, David, the other component is.
+
+1110
+01:49:47.940 --> 01:50:15.480
+Abrar Hashmi: we did not get into too much detail. We just want to provide an overview here today. But data modeling and data privacy when we talk about permissions who has access to what data. If you're looking at employee data and you're building up a model which has access to everyone's health records, their age, their location, their Ssn, their salary information, their bonus structure. You don't want anybody in the company being able to generate insights based on that. Unless you are part of an Hr organization.
+
+1111
+01:50:15.480 --> 01:50:24.539
+Abrar Hashmi: Yeah, so there is the aspect of taking the data sanitizing it, but also keeping unstructured data and using it based on your permissions and role models.
+
+1112
+01:50:24.560 --> 01:50:26.330
+Abrar Hashmi: to also generate insights.
+
+1113
+01:50:26.330 --> 01:50:50.600
+David Mantica--Co-host!!!: You know, I've taken up a little bit of time here, but I love this debate. And I'd love to do a follow up podcast with you on this because I could see that being valuable as companies try to build micro large language models internally, like all right, I'm going to build a micro Llm for this specific functional area or that specific functional area. But you know, the debate is who in the organization can use the models that give you much more access
+
+1114
+01:50:50.600 --> 01:50:58.029
+David Mantica--Co-host!!!: to larger data pools for more creativity, as Banks been talking about who can actually go outside the mothership.
+
+1115
+01:50:58.110 --> 01:50:58.820
+David Mantica--Co-host!!!: Yep.
+
+1116
+01:50:59.240 --> 01:51:22.039
+Abrar Hashmi: Absolutely, absolutely. I mean, now you talked about micro Llms at the end of the day. Once again you go back to our model, our stages. And you start with that assessment, identify the use case. Take a look at the data like some of the work we have done in the government space. For example, David, Government's data is again open to the public. What legislative laws are there in the State of New York State of Pennsylvania, State of Utah, State of Minnesota.
+
+1117
+01:51:22.050 --> 01:51:28.200
+Abrar Hashmi: Those legislative laws are open to the public, but every legislative law is hundreds of pages long.
+
+1118
+01:51:28.240 --> 01:51:39.199
+Abrar Hashmi: Yeah. And what do you think they're building up on previous laws, they're adding up more laws. If you wanted to take a look at what a state stance has been on, let's say cannabis, or on drinking age limits, or.
+
+1119
+01:51:39.200 --> 01:51:43.159
+David Mantica--Co-host!!!: Cannabis. Well, you brought. You're bringing the good stuff into the conversation. Oops.
+
+1120
+01:51:43.160 --> 01:51:51.780
+Abrar Hashmi: I want to respond. Back. David, I know you mentioned about a podcast. I don't do podcasts because then people cannot compliment me on my hair. So.
+
+1121
+01:51:51.780 --> 01:52:00.979
+David Mantica--Co-host!!!: Now. Your hair is beautiful, too. Well, we can make a video, Laura. We got any other questions for Abrar. Sorry for grabbing him too much. But where are we at time wise.
+
+1122
+01:52:00.980 --> 01:52:23.859
+Lara Hill: I think we need to move on to George. I haven't seen any questions recently come through, but you all feel free to direct message, Abrar, and connect with him on Linkedin. His URL is in the chat. We appreciate you being here, Abrar. It's been wonderful listening in to all this good information, and I believe we have George on deck ready to go.
+
+1123
+01:52:23.860 --> 01:52:26.209
+David Mantica--Co-host!!!: But is George? Is George actually here.
+
+1124
+01:52:26.360 --> 01:52:27.440
+Lara Hill: He is. I just.
+
+1125
+01:52:28.570 --> 01:52:29.080
+David Mantica--Co-host!!!: It's.
+
+1126
+01:52:29.080 --> 01:52:29.680
+Lara Hill: True.
+
+1127
+01:52:29.680 --> 01:52:31.359
+David Mantica--Co-host!!!: You didn't have to chase him.
+
+1128
+01:52:31.360 --> 01:52:31.950
+Abrar Hashmi: Thank you.
+
+1129
+01:52:32.780 --> 01:52:38.969
+Abrar Hashmi: Thank you so much, everyone for listening and attending, and thank you, David and Lara, for inviting me to be part of this amazing event.
+
+1130
+01:52:39.190 --> 01:52:39.850
+Lara Hill: You so much.
+
+1131
+01:52:39.850 --> 01:52:40.280
+David Mantica--Co-host!!!: Day, for.
+
+1132
+01:52:40.280 --> 01:52:41.270
+Lara Hill: Perfect. Yeah.
+
+1133
+01:52:41.270 --> 01:52:43.810
+David Mantica--Co-host!!!: Yeah, thank you. If you could stay for a bit, that'd be great.
+
+1134
+01:52:43.810 --> 01:52:44.510
+Abrar Hashmi: Absolutely.
+
+1135
+01:52:46.220 --> 01:52:46.990
+Lara Hill: Like.
+
+1136
+01:52:48.340 --> 01:52:49.389
+George Churchwell: All right.
+
+1137
+01:52:49.990 --> 01:52:51.290
+George Churchwell: We're all good.
+
+1138
+01:52:52.730 --> 01:52:53.130
+Lara Hill: Yes.
+
+1139
+01:52:53.130 --> 01:52:53.730
+David Mantica--Co-host!!!: I can see.
+
+1140
+01:52:53.730 --> 01:52:54.750
+Lara Hill: Slides.
+
+1141
+01:52:55.040 --> 01:52:55.430
+George Churchwell: Right.
+
+1142
+01:52:55.430 --> 01:52:56.439
+Lara Hill: Go ahead!
+
+1143
+01:52:56.440 --> 01:53:06.619
+George Churchwell: Going to take a lot of what our borrower was just talking about, and extend it a little bit. And for all of you what I'm hoping to do is take you
+
+1144
+01:53:06.960 --> 01:53:15.230
+George Churchwell: kind of right to the real world. We're going to get down to what really happens with trying to deploy AI. And also there's
+
+1145
+01:53:15.320 --> 01:53:31.469
+George Churchwell: there's a number of myths out there. But I'm not saying that it makes AI wrong or bad. There's just some concepts about it that I hear all the time that maybe the industry is putting out there purposely, like it seems to be a lot of people think it's free.
+
+1146
+01:53:31.780 --> 01:53:40.730
+George Churchwell: And also, it seems to be that a lot of people think, Oh, I can just use chat, gpt, and yeah, it'll just that's AI. Well.
+
+1147
+01:53:40.910 --> 01:53:49.900
+George Churchwell: that's going to then result in what I hear is people say, Oh, it hallucinates. It doesn't do this. It doesn't do that. That's because it
+
+1148
+01:53:49.960 --> 01:53:51.390
+George Churchwell: it's different
+
+1149
+01:53:51.450 --> 01:53:56.120
+George Churchwell: when you use it, but at the same time, and I'll say this as I jump in.
+
+1150
+01:53:56.520 --> 01:54:00.429
+George Churchwell: It is very effective when you use it properly.
+
+1151
+01:54:00.840 --> 01:54:09.360
+George Churchwell: but it is not exactly what you would expect. The industry says it is. It's not going to replace people
+
+1152
+01:54:09.440 --> 01:54:11.210
+George Churchwell: in today's state.
+
+1153
+01:54:11.350 --> 01:54:17.520
+George Churchwell: It'd be kind of far from that, or or it would cost a tremendous amount of money to take you there.
+
+1154
+01:54:17.630 --> 01:54:31.789
+George Churchwell: So let me get into, as it says, beyond the hype, we're gonna take a look at this and directly. Just a quick thing on myself. I work in the generative AI space doing strategy and consulting for a number of companies.
+
+1155
+01:54:31.930 --> 01:54:51.759
+George Churchwell: We work in the largest and some of the smallest entities, and around all different types of industries. So I'm hoping some of this information from the things I work with will rub off on you and get you to be successful with how you might want to engage with AI. So let's start out with the 1st couple sets of slides to set the pace.
+
+1156
+01:54:52.760 --> 01:55:08.120
+George Churchwell: When you look at AI, there's all kinds of reports out there, a lot of executives. It's funny I work with these companies that will say, Oh, we're all using AI. And then I go talk to the employees because I'm a consultant. I'm trying to maybe make some money with them.
+
+1157
+01:55:08.340 --> 01:55:12.649
+George Churchwell: and the employees aren't using the AI, or there's no budget for the AI,
+
+1158
+01:55:12.780 --> 01:55:19.930
+George Churchwell: and and it it seems kind of unusual. And then there are companies that give everybody co-pilot
+
+1159
+01:55:20.270 --> 01:55:28.119
+George Churchwell: or everybody gets chat. Gpt, I don't know how many of your companies out there have enabled your employees to have chat Gpt.
+
+1160
+01:55:28.420 --> 01:55:30.360
+George Churchwell: for a lot of reasons
+
+1161
+01:55:30.400 --> 01:55:33.300
+George Churchwell: that can be really.
+
+1162
+01:55:33.770 --> 01:55:42.130
+George Churchwell: really in security issue, and at the same time not very productive. So we'll look at that, and I'll show you why.
+
+1163
+01:55:42.580 --> 01:55:53.680
+George Churchwell: So one of the things that's already out there that you'll see is that companies that have given employees just generic access to Chat Gpt have found
+
+1164
+01:55:53.740 --> 01:56:22.650
+George Churchwell: in their operation that 77% of the employees have said that it's making them less productive. You, you know, even when we use AI internally to help us do something for a company using AI a lot of times when we 1st start out, the AI doesn't do the work, takes hours to get it, to actually operate and generate the content effectively, which would have been easier for us to just do it ourselves.
+
+1165
+01:56:23.570 --> 01:56:24.660
+George Churchwell: And
+
+1166
+01:56:24.730 --> 01:56:33.090
+George Churchwell: that's the part also that you have to understand there is a significant amount of training needed to get the AI
+
+1167
+01:56:33.230 --> 01:56:37.209
+George Churchwell: try to perform properly, and when I say properly.
+
+1168
+01:56:37.520 --> 01:56:42.070
+George Churchwell: probably all of you have asked your AI to write an email or do something.
+
+1169
+01:56:42.260 --> 01:56:44.509
+George Churchwell: And you think, Wow, that's really cool.
+
+1170
+01:56:44.950 --> 01:56:46.440
+George Churchwell: Here's the catch.
+
+1171
+01:56:46.720 --> 01:56:50.529
+George Churchwell: Can you get it to do that every day
+
+1172
+01:56:50.560 --> 01:56:56.269
+George Churchwell: and generate the same context of email every day to the same input.
+
+1173
+01:56:56.460 --> 01:57:01.419
+George Churchwell: Because if I give you input and you generate different outputs every time.
+
+1174
+01:57:01.530 --> 01:57:04.240
+George Churchwell: which is what happens with generative AI
+
+1175
+01:57:04.390 --> 01:57:06.270
+George Churchwell: in its normal mode.
+
+1176
+01:57:06.860 --> 01:57:10.210
+George Churchwell: If you did that as a person, your boss would go crazy.
+
+1177
+01:57:10.470 --> 01:57:12.300
+George Churchwell: your company would go crazy.
+
+1178
+01:57:12.530 --> 01:57:15.890
+George Churchwell: And so we've got to get consistency.
+
+1179
+01:57:16.220 --> 01:57:20.870
+George Churchwell: I say, it's kind of like this. You gotta get the AI built to be like a waffle machine.
+
+1180
+01:57:21.040 --> 01:57:25.879
+George Churchwell: So you put things in and they come out the same way all of the time.
+
+1181
+01:57:26.930 --> 01:57:34.499
+George Churchwell: The other thing about Chat Gpt, and you don't see much of this in the industry, I think, because the industry doesn't want you to know this.
+
+1182
+01:57:34.590 --> 01:57:43.190
+George Churchwell: But the cost can be extraordinary. I'm gonna show you some costs in this slide deck which hardly ever come up in any presentations.
+
+1183
+01:57:43.220 --> 01:57:45.930
+George Churchwell: But I'm going to show you what costs can look like.
+
+1184
+01:57:45.960 --> 01:57:49.800
+George Churchwell: So in other words, when you say? Oh, let's go do AI. At our company.
+
+1185
+01:57:50.532 --> 01:57:53.970
+George Churchwell: you know, we worked with one company to give an example.
+
+1186
+01:57:54.010 --> 01:58:03.880
+George Churchwell: to set up, to get a prompt to work properly, literally, in terms of consulting hours. It probably took between 5 and $10,000
+
+1187
+01:58:04.560 --> 01:58:22.660
+George Churchwell: to get the prompts to come up to their satisfaction, and at that point, because the customer's perception was wrong. They're thinking this doesn't seem like it's worth it. So I will say something right away. If you're gonna use AI today because it's more related to automation.
+
+1188
+01:58:22.760 --> 01:58:24.980
+George Churchwell: Then carefully select
+
+1189
+01:58:25.060 --> 01:58:27.440
+George Churchwell: what you want to do with AI
+
+1190
+01:58:27.480 --> 01:58:29.939
+George Churchwell: because it does cost a lot
+
+1191
+01:58:30.310 --> 01:58:42.690
+George Churchwell: to actually get it to work properly, but at the same time I'll flip the other side when it works properly. Whatever you did, automate can drop significantly in costs.
+
+1192
+01:58:43.410 --> 01:58:45.970
+George Churchwell: So that's where you get your payback.
+
+1193
+01:58:46.746 --> 01:58:50.580
+George Churchwell: Here's something else. Not only is the Roi overstated.
+
+1194
+01:58:50.790 --> 01:58:53.400
+George Churchwell: but liability is understated.
+
+1195
+01:58:53.750 --> 01:59:08.440
+George Churchwell: I don't have time to get into it here, and I heard it come up in some of the conversations, but just to hit on the edge of it. When the AI generates things you can't copyright them if you don't have a person working with that content.
+
+1196
+01:59:09.140 --> 01:59:11.050
+George Churchwell: And also
+
+1197
+01:59:11.090 --> 01:59:34.310
+George Churchwell: here's a really wild one. If you're a training company or an intellectual property company, and you put that content into an AI. The generative AI will take it and reinterpret it. It's very hard to get the generative AI to output that as what you put in, and thus your copyright will be at risk.
+
+1198
+01:59:34.890 --> 01:59:38.119
+George Churchwell: So then comes the Flip side.
+
+1199
+01:59:38.320 --> 01:59:45.209
+George Churchwell: Lloyd presented with this with Gamma AI earlier today, but depending on the tools you pick.
+
+1200
+01:59:45.480 --> 01:59:49.029
+George Churchwell: they can generate. Powerpoint slides for you or whatever.
+
+1201
+01:59:49.190 --> 01:59:54.859
+George Churchwell: But those pictures that they use when they're not AI generated maybe somebody else's picture.
+
+1202
+01:59:55.460 --> 01:59:58.400
+George Churchwell: and you could get in trouble in the future.
+
+1203
+01:59:58.630 --> 02:00:03.489
+George Churchwell: And then, finally, this is, you know, I have nothing against Inv.
+
+1204
+02:00:03.750 --> 02:00:14.560
+George Churchwell: I wanted you to see as you click through these contracts whenever you work with stuff. You know how you're always closing out your contracts, you click on things, and you're just trying to get to the tool
+
+1205
+02:00:15.390 --> 02:00:17.780
+George Churchwell: in video here shows that it
+
+1206
+02:00:18.030 --> 02:00:22.489
+George Churchwell: you grant and video and its subsidiaries and partners.
+
+1207
+02:00:22.510 --> 02:00:27.589
+George Churchwell: absolute, irrevocable, irrevocable, unconditional royalty-free rights
+
+1208
+02:00:27.940 --> 02:00:32.940
+George Churchwell: to generate images and content from AI based output you have created.
+
+1209
+02:00:33.460 --> 02:00:39.430
+George Churchwell: Again, if you're an intellectual property based company like a training company, you're using this tool.
+
+1210
+02:00:39.840 --> 02:00:42.030
+George Churchwell: They own everything you made.
+
+1211
+02:00:42.900 --> 02:00:45.350
+George Churchwell: And this you want to get. This.
+
+1212
+02:00:45.450 --> 02:00:47.539
+George Churchwell: This is the thing that'll really get you.
+
+1213
+02:00:47.990 --> 02:00:53.649
+George Churchwell: I'm showing you this. The CEO of the company might not have ever seen this display, nor legal.
+
+1214
+02:00:53.700 --> 02:00:59.459
+George Churchwell: because an employee may be using this tool to generate slides or something within the company.
+
+1215
+02:00:59.830 --> 02:01:02.209
+George Churchwell: and dumping content into here.
+
+1216
+02:01:02.450 --> 02:01:03.570
+George Churchwell: So
+
+1217
+02:01:03.900 --> 02:01:07.329
+George Churchwell: so, David, any questions at this point, or anything.
+
+1218
+02:01:07.640 --> 02:01:20.189
+David Mantica--Co-host!!!: No, but you always love to generate that fear, big dog. And then also the the conversation about generative AI automation. You know you have to make it be consistent.
+
+1219
+02:01:20.190 --> 02:01:23.719
+George Churchwell: And that's what we're gonna see. Yeah, that's what we're gonna come up with. So.
+
+1220
+02:01:23.720 --> 02:01:28.159
+David Mantica--Co-host!!!: Course Chris Casey loves your privacy. Fear mongering because he's the same way.
+
+1221
+02:01:28.160 --> 02:01:28.889
+George Churchwell: Oh, you!
+
+1222
+02:01:28.890 --> 02:01:31.549
+David Mantica--Co-host!!!: Old people are like. Don't walk on my grass.
+
+1223
+02:01:31.550 --> 02:01:44.829
+George Churchwell: Yeah. So you know, this is the other part, too. I heard it come up. This is I. I got this off a chat. AI will replace us all. In the meantime my company's blocked all access to the AI tools.
+
+1224
+02:01:45.410 --> 02:01:52.580
+George Churchwell: There's a lot of companies that are doing this, because on the other side. They make it so you can't get to the tools. On the other hand.
+
+1225
+02:01:53.420 --> 02:01:59.569
+George Churchwell: and I've seen this in a number of companies I work with that are large corporations. They gave co-pilot
+
+1226
+02:01:59.630 --> 02:02:01.179
+George Churchwell: to all the employees.
+
+1227
+02:02:01.730 --> 02:02:05.980
+George Churchwell: But then you, when you go talk to the people, they're not really using it
+
+1228
+02:02:06.170 --> 02:02:10.089
+George Churchwell: because it doesn't really make their work faster.
+
+1229
+02:02:10.420 --> 02:02:13.720
+George Churchwell: And and it's really because in the end.
+
+1230
+02:02:13.890 --> 02:02:22.650
+George Churchwell: like excel is good, since the hardest part is not creating, it's not adding up the numbers, it's creating the financial statements.
+
+1231
+02:02:23.260 --> 02:02:25.669
+George Churchwell: And for the AI, it's the same.
+
+1232
+02:02:25.720 --> 02:02:27.470
+George Churchwell: Today's AI.
+
+1233
+02:02:27.760 --> 02:02:47.559
+George Churchwell: And I got this. This came off Gemini, which was really good it actually had. And there's probably more things. But if you focus on the strengths of where we are today in generative AI AI will do much more. 8 months from now, maybe 2 years from now, a year from now. But where we are today.
+
+1234
+02:02:48.010 --> 02:02:52.530
+George Churchwell: if you can focus on things that you want to do that are repetitive.
+
+1235
+02:02:52.830 --> 02:03:00.699
+George Churchwell: And and I'll give you an example of something like in the area that I'm in. One of the areas that's very easy to disrupt is education.
+
+1236
+02:03:00.790 --> 02:03:08.660
+George Churchwell: because creating content takes a lot of time. Usually you have to write, quiz questions and things for people that take your content.
+
+1237
+02:03:08.770 --> 02:03:13.670
+George Churchwell: These things have to be done over and over and over again. As you update
+
+1238
+02:03:13.770 --> 02:03:18.439
+George Churchwell: those types of things. If you build a tool that creates learning content.
+
+1239
+02:03:18.980 --> 02:03:27.649
+George Churchwell: you can build content then, literally, in instead of weeks and months, in hours and days
+
+1240
+02:03:27.910 --> 02:03:42.150
+George Churchwell: and content generation, that's the other area. We're generating videos images or any of that for marketing or internal learning or sales enablement. Assisting in decision making is good.
+
+1241
+02:03:42.280 --> 02:03:56.669
+George Churchwell: And here's the part number 4 is not really good. It can help a little with complex problem solving. But you can't give it all of the complex problem solving. And I will say this in any strategies you have with any of this
+
+1242
+02:03:57.140 --> 02:04:00.800
+George Churchwell: getting it to be 99.9% accurate
+
+1243
+02:04:01.290 --> 02:04:03.070
+George Churchwell: is too costly
+
+1244
+02:04:03.150 --> 02:04:17.940
+George Churchwell: and not not effective. The best thing to do is, use the AI with a person that thus it's not going to replace everybody, but use it with a person who it gets you to about 80, 85, maybe 90%.
+
+1245
+02:04:17.950 --> 02:04:20.280
+George Churchwell: And that person finishes
+
+1246
+02:04:20.290 --> 02:04:22.119
+George Churchwell: the work themselves.
+
+1247
+02:04:22.130 --> 02:04:23.920
+George Churchwell: So thus
+
+1248
+02:04:24.460 --> 02:04:28.849
+George Churchwell: was that saying, that's saying that we still need domain experts.
+
+1249
+02:04:29.100 --> 02:04:34.720
+George Churchwell: maybe even more domain expertise than you would have had in the job that you normally did
+
+1250
+02:04:35.280 --> 02:04:39.700
+George Churchwell: cause. The AI needs help understanding what it didn't do right.
+
+1251
+02:04:39.960 --> 02:04:44.650
+George Churchwell: And you need to be able to recognize when it's not doing right. I'll show you that in just a second.
+
+1252
+02:04:44.930 --> 02:04:46.090
+George Churchwell: So
+
+1253
+02:04:46.130 --> 02:04:47.679
+George Churchwell: let's take a look at this
+
+1254
+02:04:47.920 --> 02:04:53.190
+George Churchwell: in terms of deploying AI for success. And this is similar to Abra's
+
+1255
+02:04:53.640 --> 02:05:00.489
+George Churchwell: picture from before. So it has kind of similar, maybe down a notch in terms of level of detail. But
+
+1256
+02:05:00.620 --> 02:05:03.319
+George Churchwell: this gives the flow. So 1st thing
+
+1257
+02:05:03.670 --> 02:05:06.310
+George Churchwell: figure out because it has costs.
+
+1258
+02:05:06.420 --> 02:05:09.199
+George Churchwell: I don't think you're gonna wanna deploy AI
+
+1259
+02:05:09.350 --> 02:05:11.850
+George Churchwell: without having some kind of Roi.
+
+1260
+02:05:12.680 --> 02:05:32.620
+George Churchwell: So you'd have to say, if we do this, we're gonna reduce the cost of this by 40%. Or we're gonna take cut the time to market for this by this. So figure out something you're trying to target to see if you can achieve that so that you'll have a value replacement for what the cost is on the investment.
+
+1261
+02:05:33.110 --> 02:05:34.370
+George Churchwell: And then
+
+1262
+02:05:34.380 --> 02:05:36.950
+George Churchwell: this is gonna drive some of you crazy.
+
+1263
+02:05:37.640 --> 02:05:45.790
+George Churchwell: And for your project, managers, this is really helpful for you. You have to have some kind of process flow in place.
+
+1264
+02:05:45.880 --> 02:05:52.159
+George Churchwell: and I know a lot of companies don't have process flows for things they do, because they just do it over and over again.
+
+1265
+02:05:52.410 --> 02:06:04.019
+George Churchwell: But you gotta have a process flow, because in order to show a consultant or any the AI work, they need to look at what it is you're doing to figure out where
+
+1266
+02:06:04.120 --> 02:06:05.989
+George Churchwell: these things are.
+
+1267
+02:06:07.480 --> 02:06:15.519
+George Churchwell: See, I I need to be able to find this spot. So if if I'm looking here, maybe these are 2 areas I can do with the AI.
+
+1268
+02:06:15.900 --> 02:06:19.490
+George Churchwell: Maybe these are some more areas I can do with the AI.
+
+1269
+02:06:19.520 --> 02:06:23.589
+George Churchwell: But one thing I'm not gonna do. And you heard a brear say this.
+
+1270
+02:06:23.700 --> 02:06:26.229
+George Churchwell: I'm not going to do the whole thing with AI
+
+1271
+02:06:26.300 --> 02:06:27.670
+George Churchwell: that would fail.
+
+1272
+02:06:28.210 --> 02:06:34.739
+George Churchwell: And the second thing is as I do these things with AI. I will do these as agents
+
+1273
+02:06:34.960 --> 02:06:40.690
+George Churchwell: it. It might even be more than one agent. I would not do one AI, to do everything.
+
+1274
+02:06:41.030 --> 02:06:44.729
+George Churchwell: There'll be multiple ais that's in today's model.
+
+1275
+02:06:45.610 --> 02:06:46.710
+George Churchwell: So
+
+1276
+02:06:46.890 --> 02:06:53.440
+George Churchwell: so you would have to have some kind of process. The worst case is you? You sit down with Miro
+
+1277
+02:06:53.920 --> 02:06:55.990
+George Churchwell: and the person doing the work.
+
+1278
+02:06:56.030 --> 02:06:57.960
+George Churchwell: and then you just draw it out
+
+1279
+02:06:58.020 --> 02:07:03.369
+George Churchwell: that that I guess that's what you'd have to do, but you'd have to have some kind of flow. Secondly.
+
+1280
+02:07:03.390 --> 02:07:10.249
+George Churchwell: this is something you probably wouldn't have thought you signed up to when you were playing with AI. But
+
+1281
+02:07:10.390 --> 02:07:15.089
+George Churchwell: you've got to get rules, reference and academic knowledge into the AI,
+
+1282
+02:07:16.020 --> 02:07:21.120
+George Churchwell: which means rules. This is the this is one of the most important things.
+
+1283
+02:07:21.270 --> 02:07:28.009
+George Churchwell: The rules determine how the AI responds to things, and is absolutely why.
+
+1284
+02:07:28.490 --> 02:07:30.780
+George Churchwell: if you give copilot
+
+1285
+02:07:31.040 --> 02:07:37.490
+George Churchwell: or or anthropic, or anything like Chat gpt to all your employees.
+
+1286
+02:07:38.080 --> 02:07:40.479
+George Churchwell: You're going to have issues
+
+1287
+02:07:40.690 --> 02:07:44.639
+George Churchwell: because your company inherently has
+
+1288
+02:07:44.700 --> 02:07:50.330
+George Churchwell: some types of biases in place. If not, I'll give you the most generic bias.
+
+1289
+02:07:50.550 --> 02:07:56.440
+George Churchwell: If I asked, who makes the best product, and you work at Ford? You don't want it to say Chevy
+
+1290
+02:07:57.840 --> 02:08:01.960
+George Churchwell: or GM, it's it's a very simple thing
+
+1291
+02:08:02.020 --> 02:08:06.549
+George Churchwell: in terms of that, but it won't know that. So
+
+1292
+02:08:07.390 --> 02:08:10.419
+George Churchwell: I'm giving you an example of something here.
+
+1293
+02:08:10.900 --> 02:08:26.030
+George Churchwell: just to have the AI write multiple choice test questions because I work in that field a lot just to have it do something like that. And you would think, Why do you need this? I have to say all questions have 4 answer options with one correct answer
+
+1294
+02:08:26.420 --> 02:08:29.490
+George Churchwell: and 3 plausible distractors.
+
+1295
+02:08:29.950 --> 02:08:37.889
+George Churchwell: I don't want it to say the answer is A and B, it's the moon and C. It's a shoe.
+
+1296
+02:08:38.470 --> 02:08:40.200
+George Churchwell: indeed, it's a car.
+
+1297
+02:08:40.250 --> 02:08:47.500
+George Churchwell: It the distractors need to be plausible and avoid irrelevant distractors. But the key point is.
+
+1298
+02:08:47.900 --> 02:08:52.309
+George Churchwell: you have to write all of these, for whatever it is you do at work
+
+1299
+02:08:52.660 --> 02:08:53.320
+George Churchwell: right?
+
+1300
+02:08:54.140 --> 02:08:58.920
+George Churchwell: So I'll give you kind of an odd one sometimes.
+
+1301
+02:08:59.030 --> 02:09:08.299
+George Churchwell: Maybe some of you know this. There are some people at work, maybe, that you work with that don't really know the job. They do as well as they probably should.
+
+1302
+02:09:08.540 --> 02:09:09.650
+George Churchwell: and
+
+1303
+02:09:10.140 --> 02:09:15.170
+George Churchwell: those people are going to have to be the ones that get asked
+
+1304
+02:09:15.600 --> 02:09:22.920
+George Churchwell: to get that data into the AI, because the AI doesn't know the AI doesn't know that when you ship to Texas
+
+1305
+02:09:23.040 --> 02:09:24.979
+George Churchwell: you should use ups
+
+1306
+02:09:25.380 --> 02:09:27.000
+George Churchwell: instead of Fedex.
+
+1307
+02:09:27.500 --> 02:09:34.882
+George Churchwell: It doesn't know that you have to tell it that because you know that those types of things have to come into the rules.
+
+1308
+02:09:37.400 --> 02:09:39.120
+George Churchwell: academic knowledge
+
+1309
+02:09:40.460 --> 02:09:52.219
+George Churchwell: is really something again for education, because I work a lot in that space. There's something called Bloom's taxonomy. That part of it's not necessarily as important. But the key is to understand this.
+
+1310
+02:09:52.700 --> 02:09:59.179
+George Churchwell: You have to actually teach the AI or give it reference documents. That's how you teach it
+
+1311
+02:09:59.330 --> 02:10:03.000
+George Churchwell: to everything you're expecting it to do.
+
+1312
+02:10:03.680 --> 02:10:17.089
+George Churchwell: which starts to become you gotta be kidding. If I have to put all this into the AI. What's the AI doing? The AI is using this stuff so that it doesn't, as you heard earlier, it doesn't end up having you eat rocks.
+
+1313
+02:10:18.480 --> 02:10:21.760
+George Churchwell: you have to tell it ahead of time what it needs to do.
+
+1314
+02:10:21.960 --> 02:10:26.629
+George Churchwell: So in terms of that, and maybe I'll try to bring this up.
+
+1315
+02:10:26.840 --> 02:10:34.170
+George Churchwell: I'm gonna try this. Let's see a chat gpt, I'm gonna assume we work for Cisco.
+
+1316
+02:10:34.970 --> 02:10:36.779
+George Churchwell: So we're gonna say, who makes.
+
+1317
+02:10:37.030 --> 02:10:44.839
+David Mantica--Co-host!!!: Yeah. But remember, right now, you're not. You're working off the open chat. Gdp, 4.0. You're not working in a private Llm. Llm. At Cisco.
+
+1318
+02:10:45.670 --> 02:10:46.400
+George Churchwell: Right.
+
+1319
+02:10:46.400 --> 02:10:47.050
+David Mantica--Co-host!!!: Okay.
+
+1320
+02:10:47.550 --> 02:10:49.339
+George Churchwell: So. And you could see here.
+
+1321
+02:10:50.720 --> 02:10:55.000
+George Churchwell: So I'm just that's and I'm gonna show you what I can do.
+
+1322
+02:10:55.000 --> 02:11:02.760
+David Mantica--Co-host!!!: You know, one of my debates on this is, why shouldn't somebody at Ford see that Chevy is the best car maker? Okay, why is Chevy the best.
+
+1323
+02:11:03.070 --> 02:11:03.479
+George Churchwell: What could you.
+
+1324
+02:11:03.480 --> 02:11:05.819
+David Mantica--Co-host!!!: Ford. What could Ford do to be better.
+
+1325
+02:11:07.125 --> 02:11:08.110
+Loyd Thompson: David
+
+1326
+02:11:08.310 --> 02:11:10.690
+Loyd Thompson: a kind of a point of clarity.
+
+1327
+02:11:10.980 --> 02:11:17.959
+Loyd Thompson: This is actually a private account. This is a team's account on Chat Gpt.
+
+1328
+02:11:18.410 --> 02:11:23.980
+Loyd Thompson: The information that's put in it is not visible publicly unless published.
+
+1329
+02:11:23.980 --> 02:11:24.300
+David Mantica--Co-host!!!: Okay.
+
+1330
+02:11:24.300 --> 02:11:29.450
+Loyd Thompson: And it's not. It's not used to train any of the models.
+
+1331
+02:11:29.450 --> 02:11:30.950
+George Churchwell: Oh, yeah, yeah.
+
+1332
+02:11:32.590 --> 02:11:38.730
+George Churchwell: yeah, that's good point to bring up, because we use this internally. So I want to show all of you something here.
+
+1333
+02:11:39.290 --> 02:11:43.330
+George Churchwell: See, when it comes to selecting the best router. It gave me all these choices.
+
+1334
+02:11:44.030 --> 02:11:48.600
+George Churchwell: and, as David says, maybe it should give me more choices. But here's the catch.
+
