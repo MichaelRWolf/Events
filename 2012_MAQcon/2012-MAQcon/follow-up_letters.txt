@@ -1,0 +1,394 @@
+|>  ================================================================
+|>  Shawn Henning
+|>  shawn@sph.cc
+|>  TW following @shawnhenning
+|>  LI connected http://www.linkedin.com/in/shawnhenning
+|>  
+|>  Shawn,
+|>  
+|>  I'm changing tack, so to speak, regarding my employment, no longer interested in traveling so much but still interested in facilitating/leading software teams and working with product users.  
+|>  
+|>  I'm looking for positions as ScrumMaster, Product Owner, Sales support, or technical trainer -- basically a position that requires a mix of software development insight with group facilitation and motivation.
+|>  
+|>  Can you recommend some folks that may need such skills, or other folks who could make further introductions?  If so, please introduce us or send my contact information to them.
+|>  
+|>      Michael R. Wolf
+|>      MichaelRWolf@att.net
+|>      @LearningWolf (twitter)
+|>      LinkedIn.com/in/MRWolf
+|>      mobile: 206-679-7941
+|>      skype:  MichaelRWolf
+|>  
+|>  Thanks,
+|>  Michael
+|>  
+|>  P.S.  Here's my ScrumMaster resume for your review, or to forward to someone who may be interested.
+|>  
+|>  
+|>  -- 
+|>  Michael R. Wolf
+|>      All mammals learn by playing!
+|>          MichaelRWolf@att.net
+|>  
+|>  
+|>  ================================================================
+|>  Alex Sloly
+|>  axs666@hotmail.com 
+|>  TW following @axs666
+|>  LI connected http://www.linkedin.com/in/alexsloley
+|>  
+|>  
+|>  Alex,
+|>  
+|>  It was great working with you at MAQcon.  I really appreciate that you asked me to help -- even before I got to take my coat off[1].
+|>  
+|>  I'd like to stay connected.  Here's my contact information:
+|>  
+|>      Michael R. Wolf  <MichaelRWolf@att.net>
+|>  
+|>      Mobile:	206-679-7941
+|>      Skype:      MichaelRWolf
+|>      LinkedIn:   LinkedIn.com/in/MRWolf
+|>      Twitter:    @LearningWolf
+|>  
+|>      2008 NW 58th St Apt 201
+|>      Seattle WA   98107
+|>  
+|>  I've recently chosen to curtail my extensive traveling as a trainer and seek local (Seattle) work.  I sure would appreciate an introduction if you know anyone who is needs someone who's as comfortable working with developers, managers, and users as they are with tackling data or code.
+|>  
+|>  Because I appreciate your style of group interaction, I'd *especially*
+|>  be interested in your insights.
+|>  
+|>  
+|>  Thanks,
+|>  Michael
+|>  
+|>  P.S.  The attached resume portrays me as a ScrumMaster, but I'm
+|>  effective in many roles that involve working with technology and
+|>  people.  Please review as you think about who could use my skills, and
+|>  also feel free to forward it on my behalf.
+|>  
+|>  P.P.S.  On a different line, I'm working with the Group Work Pattern
+|>  Language Project, a non-profit group, to get an Apple developer
+|>  license.  I've never worked with Apple like this.  Can you make a
+|>  recommendation to someone (possibly even Sally) who could give me some
+|>  pointers?  Even if she's not the recommendation, could you connect us
+|>  any way?
+|>       
+|>  Notes:
+|>   1. I fully intended to help just as soon as I did take my coat off,
+|>   so you only beat me to the punch by about 3 seconds.
+|>  
+|>  
+|>  ================================================================ 
+|>  TW notyet following @name
+|>  LI notyet connected LinkedIn.com/in/yada
+|>  name@example.com
+|>  Charlie,
+|>  
+|>  It was great to meet you (again) at MAQcon, and chat over
+|>  lunch.  Thanks to Agile Alliance for their sponsorship.
+|>  
+|>  I'd like to stay connected.  Here's my contact information:
+|>  
+|>      Michael R. Wolf  <MichaelRWolf@att.net>
+|>  
+|>      Mobile:	206-679-7941
+|>      Skype:      MichaelRWolf
+|>      LinkedIn:   LinkedIn.com/in/MRWolf
+|>      Twitter:    @LearningWolf
+|>  
+|>      2008 NW 58th St Apt 201
+|>      Seattle WA   98107
+|>  
+|>  
+|>  I've recently chosen to curtail my extensive traveling as a trainer
+|>  and seek local (Seattle) work.  I sure would appreciate an
+|>  introduction if you know anyone who is needs someone who's as
+|>  comfortable working with developers, managers, and users as they are
+|>  with tackling data or code.
+|>  
+|>  Again, great to re-meet.
+|>  
+|>  Michael
+|>  
+|>  
+|>  P.S.  The attached resume portrays me as a ScrumMaster, but I'm effective in many roles that involve working with technology and people.  Please review as you think about who could use my skills, and also feel free to forward it on my behalf.
+|>  ================================================================ 
+|>  Brian Kerr
+|>  TW notyet following @name
+|>  LI notyet connected LinkedIn.com/in/yada
+|>  name@example.com
+|>  Brian,
+|>  
+|>  It was great to meet you at MAQcon, and to work with you in
+|>  Jeremy's session.
+|>  
+|>  I'd like to stay connected with some kind of check-in to follow up
+|>  from our ideas in that session.  Here's my contact information:
+|>  
+|>      Michael R. Wolf  <MichaelRWolf@att.net>
+|>  
+|>      Mobile:	206-679-7941
+|>      Skype:      MichaelRWolf
+|>      LinkedIn:   LinkedIn.com/in/MRWolf
+|>      Twitter:    @LearningWolf
+|>  
+|>      2008 NW 58th St Apt 201
+|>      Seattle WA   98107
+|>  
+|>  
+|>  I've recently chosen to curtail my extensive traveling as a trainer and seek local (Seattle) work.  I sure would appreciate an introduction if you know anyone who is needs someone who's as comfortable working with developers, managers, and users as they are with tackling data or code.
+|>  
+|>  Again, great to meet.
+|>  
+|>  Michael
+|>  
+|>  
+|>  P.S.  The attached resume portrays me as a ScrumMaster, but I'm
+|>  effective in many roles that involve working with technology and
+|>  people.  Please review as you think about who could use my skills, and
+|>  also feel free to forward it on my behalf.
+|>  
+|>  P.P.S.  I'd also like to learn more about how you're using the cards.
+|>  As a member of the Steward Circle for that project, I'm looking to
+|>  collect stories on how they're used to help others use them.  If your
+|>  story could help you and help us, perhaps a blog posting could be a
+|>  mechanism for that.  Or something else.  Let's talk.
+|>  
+|>  ================================================================ 
+|>  Elise Shapiro
+|>  TW notyet following @name
+|>  LI notyet connected LinkedIn.com/in/yada
+|>  name@example.com
+|>  Elise,
+|>  
+|>  Great to reconnect at MAQcon last week.  I love your story about being
+|>  so high up the software stack (into the wetware (or meat popsicle)
+|>  level) that you ended up in a Windows shop.  The stories you'll be
+|>  able to tell about the techniques you use will be that much more
+|>  valuable since they're not *nix-specific.
+|>  
+|>  Did you get contact information for Jason(?), formerly of a .Net
+|>  start-up for music ticketing, currently of an app development shop in
+|>  Fremont?  I didn't, and would like to re-re-connect.
+|>  
+|>  I appreciate your offer to review my ScrumMaster resume, and have
+|>  attached it.  I'm a multi-channel reciever, so would be glad to get
+|>  comments via email, phone, skype, or in person.  
+|>  
+|>  Thanks again,
+|>  Michael
+|>  
+|>  ================================================================ 
+TW notyet following @name
+LI notyet connected LinkedIn.com/in/yada
+name@example.com
+Nora
+
+It was great to meet you at MAQcon, and learn that my
+introduction to QASIG was helpful to you.  Thanks for letting me know
+that it was helpful.  With that kind of interaction, it's all too
+common to not know that it made a difference.
+
+I'd like to stay connected.  Here's my contact information:
+
+    Michael R. Wolf  <MichaelRWolf@att.net>
+
+    Mobile:	206-679-7941
+    Skype:      MichaelRWolf
+    LinkedIn:   LinkedIn.com/in/MRWolf
+    Twitter:    @LearningWolf
+
+    2008 NW 58th St Apt 201
+    Seattle WA   98107
+
+
+I've recently chosen to curtail my extensive traveling as a trainer and seek local (Seattle) work.  I sure would appreciate an introduction if you know anyone who is needs someone who's as comfortable working with developers, managers, and users as they are with tackling data or code.
+
+Again, great to (re-)meet.
+
+Michael
+
+
+P.S.  The attached resume portrays me as a ScrumMaster, but I'm effective in many roles that involve working with technology and people.  Please review as you think about who could use my skills, and also feel free to forward it on my behalf.
+|>  ================================================================ 
+|>  Jared Cheshier
+|>  TW notyet following @name
+|>  LI notyet connected LinkedIn.com/in/yada
+|>  name@example.com
+|>  Jared,
+|>  
+|>  It was great to meet you at MAQcon, and learn that my
+|>  introduction to PS SIGCHI was helpful to you.  Thanks for letting me know
+|>  that it was helpful.  With that kind of interaction, it's all too
+|>  common to not know that it made a difference.
+|>  
+|>  I'd like to stay connected.  Here's my contact information:
+|>  
+|>      Michael R. Wolf  <MichaelRWolf@att.net>
+|>  
+|>      Mobile:	206-679-7941
+|>      Skype:      MichaelRWolf
+|>      LinkedIn:   LinkedIn.com/in/MRWolf
+|>      Twitter:    @LearningWolf
+|>  
+|>      2008 NW 58th St Apt 201
+|>      Seattle WA   98107
+|>  
+|>  
+|>  I've recently chosen to curtail my extensive traveling as a trainer
+|>  and seek local (Seattle) work.  I sure would appreciate an
+|>  introduction if you know anyone who is needs someone who's as
+|>  comfortable working with developers, managers, and users as they are
+|>  with tackling data or code.
+|>  
+|>  Again, great to meet.
+|>  
+|>  Michael
+|>  
+|>  
+|>  P.S.  The attached resume portrays me as a ScrumMaster, but I'm effective in many roles that involve working with technology and people.  Please review as you think about who could use my skills, and also feel free to forward it on my behalf.
+|>  
+|>  P.P.S.  On a different line, I'm working with the Group Work Pattern
+|>  Language Project, a non-profit group, to get an Apple developer
+|>  license.  I've never worked with Apple like this.  Can you make a
+|>  recommendation to someone who could give me some pointers?
+|>  
+================================================================ 
+TW notyet following @name
+LI notyet connected LinkedIn.com/in/yada
+name@example.com
+Bennet or Barret
+<<NAME>>,
+
+It was great to meet you at MAQcon last week.  Thanks so much for all
+you did to make it work.
+
+I'd like to stay connected.  Here's my contact information:
+
+    Michael R. Wolf  <MichaelRWolf@att.net>
+
+    Mobile:	206-679-7941
+    Skype:      MichaelRWolf
+    LinkedIn:   LinkedIn.com/in/MRWolf
+    Twitter:    @LearningWolf
+
+    2008 NW 58th St Apt 201
+    Seattle WA   98107
+
+
+I've recently chosen to curtail my extensive traveling as a trainer and seek local (Seattle) work.  I sure would appreciate an introduction if you know anyone who is needs someone who's as comfortable working with developers, managers, and users as they are with tackling data or code.
+
+Again, great to meet.
+
+Michael
+
+
+P.S.  The attached resume portrays me as a ScrumMaster, but I'm effective in many roles that involve working with technology and people.  Please review as you think about who could use my skills, and also feel free to forward it on my behalf.
+================================================================ 
+TW notyet following @name
+LI notyet connected LinkedIn.com/in/yada
+name@example.com
+Allon
+
+It was great to meet you at MAQcon, and learn a bit about Amdocs.
+
+I'd like to stay connected.  Here's my contact information:
+
+    Michael R. Wolf  <MichaelRWolf@att.net>
+
+    Mobile:	206-679-7941
+    Skype:      MichaelRWolf
+    LinkedIn:   LinkedIn.com/in/MRWolf
+    Twitter:    @LearningWolf
+
+    2008 NW 58th St Apt 201
+    Seattle WA   98107
+
+
+I also appreicate your offer to connect me with someone who may be
+interested in my skills.  I am as comfortable working with developers,
+managers, and users as I am with tackling data or code.
+
+The attached resume portrays me as a ScrumMaster, but I'm effective in many roles that involve working with technology and people.  Please review as you think about who could use my skills, and also feel free to forward it on my behalf.
+
+Again, great to meet.
+
+Michael
+
+
+================================================================ 
+TW notyet following @name
+LI notyet connected LinkedIn.com/in/yada
+name@example.com
+Jeremy
+|>  ================================================================ 
+|>  Jason Thane
+|>  TW notyet following @name
+|>  LI notyet connected LinkedIn.com/in/yada
+|>  name@example.com
+|>  Jason,
+|>  
+|>  It was great to meet you at MAQcon last week, and to lurk a few of the
+|>  sessions you lead.
+|>  
+|>  I'd like to stay connected.  Here's my contact information:
+|>  
+|>      Michael R. Wolf  <MichaelRWolf@att.net>
+|>  
+|>      Mobile:	206-679-7941
+|>      Skype:      MichaelRWolf
+|>      LinkedIn:   LinkedIn.com/in/MRWolf
+|>      Twitter:    @LearningWolf
+|>  
+|>      2008 NW 58th St Apt 201
+|>      Seattle WA   98107
+|>  
+|>  
+|>  I've recently chosen to curtail my extensive traveling as a trainer and seek local (Seattle) work.  I sure would appreciate an introduction if you know anyone who is needs someone who's as comfortable working with developers, managers, and users as they are with tackling data or code.
+|>  
+|>  Again, great to meet.
+|>  
+|>  Michael
+|>  
+|>  
+|>  P.S.  The attached resume portrays me as a ScrumMaster, but I'm effective in many roles that involve working with technology and people.  Please review as you think about who could use my skills, and also feel free to forward it on my behalf.
+|>  ================================================================ 
+TW notyet following @name
+LI notyet connected LinkedIn.com/in/yada
+Uriah McKinney <umckinney@deloitte.com>
+
+ My follower who lead the intro/closing -- Euriah
+<<NAME>>,
+
+It was great to meet you at MAQcon last week.  Thanks so much for all
+the work you did before and during the conference.  I really enjoyed
+it.  Well done.
+
+I'd like to stay connected.  Here's my contact information:
+
+    Michael R. Wolf  <MichaelRWolf@att.net>
+
+    Mobile:	206-679-7941
+    Skype:      MichaelRWolf
+    LinkedIn:   LinkedIn.com/in/MRWolf
+    Twitter:    @LearningWolf
+
+    2008 NW 58th St Apt 201
+    Seattle WA   98107
+
+
+I've recently chosen to curtail my extensive traveling as a trainer and seek local (Seattle) work.  I sure would appreciate an introduction if you know anyone who is needs someone who's as comfortable working with developers, managers, and users as they are with tackling data or code.
+
+Again, great to meet.
+
+Michael
+
+
+P.S.  The attached resume portrays me as a ScrumMaster, but I'm effective in many roles that involve working with technology and people.  Please review as you think about who could use my skills, and also feel free to forward it on my behalf.
+================================================================
+
+
+
+
