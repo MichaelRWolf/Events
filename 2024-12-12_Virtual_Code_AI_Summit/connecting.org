@@ -1,0 +1,221 @@
+* Initial Letters - DONE
+
+** Ashley + Marren
+
+Ashley,
+Marren,
+
+Thanks for carving out time last week for a quick call.  I regret my delay (see post-script), but please do NOT infer that it was for lack of interest.  
+
+Quite the contrary, the Code AI Summit rekindled my interest in the pre-amble to the Agile Manifesto - "uncovering better ways of developing software by doing it and by helping others do it".
+
+Q - Why am I interested in Sourcegraph?
+
+    A - I am looking to join a team with:
+	* CHOPS in coding skills
+	* CREDIBILITY in the marketplace, and
+	* CHUTZPAH to have a vision on the edge of scary and invigorating
+
+
+
+Q -  Why might Sourcegraph be interested in me?
+
+A1 - Programming skills - After honing my chops at AT&T Bell Labs, I joined a regional sales office to support a tool that had a vision similar to Sourcegraph - developer productivity and risk mitigation through code comprehension.  As a technology evangelist, I made progress, but also learned that building a better mouse trap does NOT have folks beat a path to your door.
+
+A2 - Complementary  Skills - Much of my mid-career has been "backfilling" the complementary sills (technical training, conference presentations, team building, start-up) - that may get better traction toward getting that mouse trap used.
+
+A3 - Team Skills - When I found "Agile" and "Scrum", they were new _terms_, but familiar _practices_.  Likewise with "mobbing" and "CHOP".  My values drive me to the practices - collaboration, shared code, shared leadership, shared learning, customer-facing, shared responsibility, end-to-end solutions.
+
+A4 - AI Skills - Like Open Source, working with AI as a peer is as much a technical shift as it is a social/cultural restructuring.  I can NOT keep current on the state of the _art_, but by "doing it and heling others do it", I AM able to keep current with the state of the _practice_.  
+
+I think there would be value in both directions to explore how we could work together.  If you do, too, please suggest a next step.
+
+
+Best,
+Michael
+
+
+P.S. I got stuck because "my nouns" (i.e. LinkedIn Profile and resume) were dusty and rusty, but it is "my verbs" (i.e. conversations, ensembles, presentations) that best define me.  Let's let this letter be a place-holder for a future conversation.
+
+P.P.S. I hand-crafted this letter, but did NOT update my resume or LinkedIn profile.  Please advise if you think this would be helpful and I'll engage an AI assistant.
+
+** Steve Yegge
+
+*** Original
+
+Steve,
+
+The AI Summit in December was, without a doubt, the best single-day conference I have ever attended!  All the better because I could "sip" the content afterwards for sessions I didn't attend live.
+
+So many pieces were well done:
+- pre-event: pre-recording was a great idea.  I'm sure the preparation helped speakers focus their ideas to stay within time constraints.  Or "cheat" with time-compression post-processing ;-)
+- at-event: modeling the benefits of pair _programming_ with pair-wise hosting and MC'ing, to stick to time budget, and still have a graceful flow.
+- post-event: making videos available
+
+Your recurring question had me consider it for myself.  Here are my answers...
+
+Q: What do I see in 2025 for Code AI (or did you say "Cody"?)?
+
+- DevEx - Move beyond starry-eyed infactuation with raw capability to nuanced integration with UX (DevX?) that focus on end-to-end value delivery.
+
+- Metrics - A red herring.  As usual, people who use metrics to prevent change will be caught without baseline metrics to defend their position.  While gathering the ammo they want, they will accidently discover what is important to them.
+
+- Metrics - A red herring.  As usual, people who use metrics to prevent change will be caught without baseline metrics to defend their position.  While gathering the ammo they want, they will accidently discover what is important for their specific product and organization.
+
+    - Tech Fundamentals - Straw-man finger pointing at what AI can NOT do will refocus attention on what professionals (and processes) MUST do.
+
+    - XP 3.0 - Having accumulated decades of human intelligence, we will train AI models to distinguish between the rare successes and the ubiquitous cargo-cult habits.
+
+    - Finances - In the "Year of Efficiency" (as extended twice), a focus on ROI will separate the FOMO's from the 10x-ers.
+
+- Michael Wolf - ME!!  - Will join a group that is BRAVE enough to uncover better ways of developing software, by CONFIDENTLY doing it, and learning (by playing) and sharing it with others.
+
+Thanks again for a wonderful conference.  If you would find it helpful, I would value scheduling a conversation to exchange ideas on what 2025 can bring.
+
+Thanks,
+Michael
+
+P.S.  Regarding "Death of the Junior Developer", I recently read that JPMC (or another FinTech) has already cut their annual "fresh out" hiring by 50%, leaving Seniors and college placement offices in a scramble.  Previously, junior analysts learned the fundamental through the toil of digital ditch digging.  AI has eliminated much of that toil.  I couldn't find the specific article I saw, but a search returns many, some of which have broken through the hype.
+
+P.P.S.  I would be interested to pair with you on the emacs integration.  It reminds me the emacs+cscope integration that inspired me to find better developer tools... a trek I've been on ever since.
+I bet we could capture convert 50% of the emacs+cscope market to an emacs+SourceGraph solution, and make inroads into the bigger market - coders who use "dumb" text-only editors.
+  
+
+*** AI improved
+
+Steve,
+
+The Code AI Summit in December was, without a doubt, the best single-day conference I have ever attended! Even better, I got to "sip" the sessions that I missed while the "fire hose" was raging.  All of them?  Yes.  That's how good it was.
+
+So many aspects were well executed:
+
+- **Pre-event:** Pre-recording was brilliant! I’m sure the preparation helped speakers sharpen their ideas and stay within time constraints, even if post-processed to shave 5% ;-)
+- **At-event:** Pair hosting and MC'ing effectively modeled the benefits of pair programming—keeping sessions on schedule while maintaining a smooth flow.
+- **Post-event:** Making session videos available extended the value of the conference.
+
+As I listened to your recurring question, I formed my own thoughts:
+
+**Q: What do I see in 2025 for Code AI (or was it "Cody")?**
+
+- **Developer Experience (DevEx):** We need to move beyond naive fixation on AI's local optimizations to integrate nuanced improvements to UX (DevX?) that drives end-to-end value delivery.
+
+- **Metrics:** Often a red herring. Those using metrics to justify status quo will struggle without baseline data. Ironically, while collecting metrics to defend their stance, they may uncover what's truly important for their product and organization.
+
+- **Technical Fundamentals:** Straw-man critiques of what AI CANNOT do will reflect focus to what professionals and processes MUST do.
+
+- **XP 3.0:** With decades of human intelligence (AKA experience) hidden by more wide-spread coverage of KNOWN-BAD habits, it will become important to focus model training on data from KNOWN-GOOD practices.
+
+- **Beyond xDD** - As code comprehension transcends previous Test- and Behavior-driven thinking patterns, is it possible that something related o C4 model could flip from descriptive (for human comprehension) to prescriptive (for build- or run-time tools)?  Maybe we've been standing on the shoulders of midgets and it's time to "level up" our human mental models to AI's training models.
+  
+- **Finances:** In this twice-extended "Year of Efficiency," focus on ROI will separate the FOMO adopters from 10x innovators.
+
+- **Michael Wolf (Me!):** I intend to join a team BOLD enough to "uncover better ways of developing software by doing it", and PLAYFUL enough to "share it with others".  And LUCKY enough to make money while making a difference.
+
+Thank you again for an exceptional conference.
+
+If you'd be open to it, I'd greatly value a conversation to hear your ideas on what Code AI (or Cody) can bring in 2025.
+
+Best regards,
+Michael Wolf
+
+---
+
+P.S. Regarding the "Death of the Junior Developer," I recently read that JPMC (or another FinTech) cut its annual hiring of fresh graduates by 50%, leaving college Seniors and Career Services Offices in a scramble.  Gone are the days of climbing through "digital ditch digging".  Senior analysts can automate that toil easier than working with junior analysts.  I couldn't locate the specific article, but a search reveals many, a few of which cut through superficial FUD to the root fear, uncertainty and doubt that lies below.
+
+
+P.P.S. I'd love to collaborate with you on Emacs integration. It reminds me of Emacs + cscope, which inspired my long-standing journey to improve developer tools. I believe we could convert 50% of the Emacs + cscope user base to an Emacs + Sourcegraph solution—and attract even more developers currently using basic text editors.
+
+** Ado Kukic        
+
+Ado,
+
+Great modeling of "pairing" the host/MC role with Steve during December's Code AI Summit.  It was, hands down, the best online conference I've attended, due in large part to the at-event facilitation, and the pre-event preparation.  Let's connect on LinkedIn.  Best, Michael
+
+** Quinn Slack
+
+Hi Quinn,
+
+(1) - Code AI Summit
+
+I sent this to Steve, but am sure that the event's success was due to a larger team.  Could you pass on my appreciation to the larger team?  And their managers?
+
+
+    The AI Summit in December was, without a doubt, the best single-day conference I have ever attended!  All the better because I could "sip" the content afterwards for sessions I didn't attend live.
+
+    So many pieces were well done:
+    - pre-event: pre-recording was a great idea.  I'm sure the preparation helped speakers focus their ideas to stay within time constraints.  Or "cheat" with time-compression post-processing ;-)
+    - at-event: modeling the benefits of pair _programming_ with pair-wise hosting and MC'ing, to stick to time budget, and still have a graceful flow.
+    - post-event: making videos available
+
+
+(2) SourceGraph is Growing
+
+Your comment during the Q&A caught my attention
+
+    "We cannot sell hype to the enterprise because they measure this stuff.  They put us to the test."
+
+Great!  I am eager to support a team that’s BOLD enough to "uncover better ways of developing software by doing it," PLAYFUL enough to "share it with others," and FORTUNATE enough to make a real difference while being successful.
+
+
+If you'd be open to it, I'd greatly value a conversation to hear your ideas on what Code AI (or Cody) can bring in 2025.  I have some ideas of my own.  Perhaps we can work together.
+
+Looking forward to your thoughts,
+Michael
+
+** Caitlin Moran    
+
+Caitlin,
+
+Great session at recent Code AI summit facilitating Bruno to share how defining metrics helped Booking focus on what was important to them.
+
+I'm interested in how they continued their learning, especially after novelty wore off.  Would you be up for a short zoom call to discuss?
+
+** Bruno Passos     
+Bruno, 
+
+Thank you for sharing your experience at the recent Code AI summit, especially your final advice to keep learning.  I would be interested to know what worked, especially after the initial novelty wore off.  Would you be available for a short Zoom call?
+
+Best regards,
+Michael
+
+
+* Letters - TODO
+
+** Adam Berry       
+** Alex Albert      
+** Beyang Liu - co-founder
+** Chris Sev        
+** Gene Kim         
+** Gunjan Patel     
+** Logan Kilpatrick 
+** Logan Shamberger 
+** Matt Biilmann    
+** Nathen Harvey    
+** Paige Bailey     
+Paige,
+
+I just made time to view your Source Graph presentation that I missed in December.
+
+Wow!  Brava!
+
+You may (eventually) get inured to this day-to-day presentation, but for now, your wonder and awe still shone through as you (tried to) contextualized 1 billion tokens.
+
+It left me feeling like you were explaining
+ - Sushi delivery at 3:00 am to a hunter-gatherer
+ - Railroad locomotives to a 1-mule farmer
+ - Water skiing to a Viking longship crew
+
+It reminded me of a conference in late 80's where Rob Pike (big name at Bell Labs) mentioned that he hada a T-1 line in his BASEMENT, back when my CITY had that bandwidth and I was on a 1200 baud (0.0012 Mbps) HIGH speed experiment using a dedicated line.  I didn't see at the time that his forward-looking work was NOT about how to read 1,000,000 emails a day, but rather how to provide the technology base that eventually launched Google, Netflix, Zoom, and YouTube.
+
+Even more than the TECHNICAL side (i.e.  more-better-faster), I love that you pointed toward the HUMAN side (i.e. creativity and start-ups).
+
+I was inspired.  Thanks.
+
+And intimidated.  With a career in software crafting and training, I have been studying the field, but can't keep up.  If you had time for a brief zoom call, I would appreciate the opportunity to learn where you see opportunity for Code AI in 2025 (yes, echos of Steve Yegge).
+
+Best,
+Michael
+** Quinn Slack      
+** Ron Keesing      
+** Shep Walker      
+** YK Sugi          

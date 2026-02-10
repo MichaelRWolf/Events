@@ -1,0 +1,21 @@
+| Name             | Company            | Title                                        | Linkedin                                                          |
+|------------------+--------------------+----------------------------------------------+-------------------------------------------------------------------|
+| Shep Walker      | Stripe             | Engineering Manager - Developer Productivity | https://www.linkedin.com/in/shepherd-walker-17326628/             |
+| Alex Albert      | Anthropic          | Head of Developer Relations                  | https://www.linkedin.com/in/alex-albert/                          |
+| Bruno Passos     | Booking.com        | Group Product Manager - Developer Experience | https://www.linkedin.com/in/brpassos/                             |
+| Paige Bailey     | Google             | AI Developer Relations Lead                  | https://www.linkedin.com/in/dynamicwebpaige/                      |
+| Logan Kilpatrick | Google             | Senior Product Manager                       | https://www.linkedin.com/in/logankilpatrick/                      |
+| Nathen Harvey    | Google             | DORA Lead & Developer Advocate               | https://www.linkedin.com/in/nathen/                               |
+| Gene Kim         | Revolution         | Author, Researcher, DevOps Enthusiast        | https://www.linkedin.com/in/realgenekim/                          |
+| Ron Keesing      | Leidos             | Chief AI Officer                             | https://www.linkedin.com/in/ronkeesing/                           |
+| Logan Shamberger | Leidos             | AI Software Engineer                         | https://www.linkedin.com/in/logan-shamberger-59319b228/           |
+| Adam Berry       |                    | Senior Staff Engineer                        | https://www.linkedin.com/in/adam-berry-b1297233/                  |
+| Matt Biilmann    | Netlify            | CEO                                          | https://www.linkedin.com/in/mathias-biilmann-christensen-a5a3805/ |
+| Gunjan Patel     | Palo Alto Networks | Director of Engineering                      | https://www.linkedin.com/in/gunjanpatel1/                         |
+| Caitlin Moran    | Sourcegraph        | Enterprise Executive                         | https://www.linkedin.com/in/caitlincarducci/                      |
+| Ado Kukic        | Sourcegraph        | Director of Developer Relations              | https://www.linkedin.com/in/kukicado/                             |
+| Beyang Liu       | Sourcegraph        | CTO & Co-founder                             | https://www.linkedin.com/in/beyang-liu/                           |
+| Chris Sev        | Sourcegraph        | Developer Advocate                           | https://www.linkedin.com/in/chris-sev/                            |
+| Steve Yegge      | Sourcegraph        | Developer Advocate                           | https://www.linkedin.com/in/steveyegge/                           |
+| Quinn Slack      | Sourcegraph        | CEO & Co-founder                             | https://www.linkedin.com/in/quinnslack/                           |
+| YK Sugi          | Sourcegraph        | Developer Advocate                           | https://www.linkedin.com/in/ykdojo/                               |

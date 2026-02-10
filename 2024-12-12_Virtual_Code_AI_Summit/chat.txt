@@ -1,0 +1,96 @@
+Ellipsis Nova
+4:01 PM
+We are special, lets use Deep Cody to hook a LLM to this chat, record it, and bring a bigger audience to SourceGraph, hopefully enterprise
+KD
+Kelsey Damier
+4:01 PM
+Welp see you guys in the discord. I gotta go use AI to become a senior 🦾
+🎉
+3
+EN
+Ellipsis Nova
+4:03 PM
+So how many of the 106 left probably just have a tab or window in the background going while they're working or doing other things, unaware it's over.
+JF
+Jalil FENTROUCI
+4:03 PM
+so we have a data-key div created for each message
+JF
+Jalil FENTROUCI
+4:04 PM
+i'm not feeling scrapping rn
+JF
+Jalil FENTROUCI
+4:05 PM
+see you later here if the page still exist or on Discord
+EN
+Ellipsis Nova
+4:06 PM
+idd, but I did note we have rich text options in I wonder if we can exploit it
+EN
+Ellipsis Nova
+4:06 PM
+awe it's only in the text editor, it strips it when sent
+LH
+Luka Horvatic
+4:06 PM
+still here :D
+EN
+Ellipsis Nova
+4:06 PM
+we're under 100 now
+MC
+Murat Caliskan
+4:07 PM
+well doing coding while listening so :D
+EN
+Ellipsis Nova
+4:09 PM
+yeah, I don't think I could be as interactive if I was on a single screen
+👍
+1
+VP
+Vivian Pina
+4:20 PM
+lol
+IE
+Izcóatl Estañol
+4:28 PM
+Is there a sourcegraph Discord server?
+👍
+❤️
+🎉
+
++
+JF
+Jalil FENTROUCI
+4:30 PM
+https://discord.gg/WV8T5jj7
+🎉
+1
+🙏
+1
+👍
+1
+IE
+Izcóatl Estañol
+4:36 PM
+It shows the link as invalid invite. 😟
+JF
+Jalil FENTROUCI
+4:36 PM
+:o i've found it in the chat history
+JF
+Jalil FENTROUCI
+4:37 PM
+https://discord.gg/sourcegraph-969688426372825169
+👍
+1
+IE
+Izcóatl Estañol
+4:40 PM
+Thank you, But I get the same error. I'm contacting Discord support.
+JF
+Jalil FENTROUCI
+4:41 PM
+🤔

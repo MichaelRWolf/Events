@@ -1,0 +1,941 @@
+* Links
+
+
+[[https://events.codeaisummit.com/][Event Invitation]]
+
+[[https://www.linkedin.com/posts/sourcegraph_didnt-get-a-chance-to-attend-the-virtual-activity-7275905885787332612-wMgh][LinkedIn message - Videos Available]]
+
+
+[[https://events.codeaisummit.com/auth/link/michaelrwolf@att.net/jNSLYUF9utA?eventID=b650937d-ba9f-40ce-9429-35c3539a5bb1&shortId=62609][Watch on-demand]] - [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/agenda][Agenda w/ recordings]]
+
+*
+
+- [X] LI Profile += mobbing
+- 
+
+
+* Companies
+
+[[id:CBE9AEDD-EEE2-4E2C-A387-F1E311CF9ED5][SourceGraph]]
+
+* People
+
+| Name             | Company            | Title                                        | Linkedin                                                          |
+|------------------+--------------------+----------------------------------------------+-------------------------------------------------------------------|
+| Shep Walker      | Stripe             | Engineering Manager - Developer Productivity | https://www.linkedin.com/in/shepherd-walker-17326628/             |
+| Alex Albert      | Anthropic          | Head of Developer Relations                  | https://www.linkedin.com/in/alex-albert/                          |
+| Bruno Passos     | Booking.com        | Group Product Manager - Developer Experience | https://www.linkedin.com/in/brpassos/                             |
+| Paige Bailey     | Google             | AI Developer Relations Lead                  | [[https://www.linkedin.com/in/dynamicwebpaige/]]                      |
+| Logan Kilpatrick | Google             | Senior Product Manager                       | https://www.linkedin.com/in/logankilpatrick/                      |
+| Nathen Harvey    | Google             | DORA Lead & Developer Advocate               | https://www.linkedin.com/in/nathen/                               |
+| Gene Kim         | Revolution         | Author, Researcher, DevOps Enthusiast        | https://www.linkedin.com/in/realgenekim/                          |
+| Ron Keesing      | Leidos             | Chief AI Officer                             | https://www.linkedin.com/in/ronkeesing/                           |
+| Logan Shamberger | Leidos             | AI Software Engineer                         | https://www.linkedin.com/in/logan-shamberger-59319b228/           |
+| Adam Berry       |                    | Senior Staff Engineer                        | https://www.linkedin.com/in/adam-berry-b1297233/                  |
+| Matt Biilmann    | Netlify            | CEO                                          | https://www.linkedin.com/in/mathias-biilmann-christensen-a5a3805/ |
+| Gunjan Patel     | Palo Alto Networks | Director of Engineering                      | https://www.linkedin.com/in/gunjanpatel1/                         |
+| Caitlin Moran    | Sourcegraph        | Enterprise Executive                         | https://www.linkedin.com/in/caitlincarducci/                      |
+| Ado Kukic        | Sourcegraph        | Director of Developer Relations              | https://www.linkedin.com/in/kukicado/                             |
+| Beyang Liu       | Sourcegraph        | CTO & Co-founder                             | https://www.linkedin.com/in/beyang-liu/                           |
+| Chris Sev        | Sourcegraph        | Developer Advocate                           | https://www.linkedin.com/in/chris-sev/                            |
+| Steve Yegge      | Sourcegraph        | Developer Advocate                           | https://www.linkedin.com/in/steveyegge/                           |
+| Quinn Slack      | Sourcegraph        | CEO & Co-founder                             | https://www.linkedin.com/in/quinnslack/                           |
+| YK Sugi          | Sourcegraph        | Developer Advocate                           | https://www.linkedin.com/in/ykdojo/                               |
+|------------------+--------------------+----------------------------------------------+-------------------------------------------------------------------|
+
+
+* Agenda + Follow-up
+
+
+| Num | Speaker (LinkedIn)            | Title (See: [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/agenda][Agenda w/ Recordings]])                                            | Notes                | Company(s)                | F/U                   |
+|-----+-------------------------------+------------------------------------------------------------------------------+----------------------+---------------------------+-----------------------|
+|   1 | [[https://www.linkedin.com/in/kukicado/][Ado Kukic]], [[https://www.linkedin.com/in/steveyegge/][Steve Yegge]]        | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/35186ec3-876e-44fd-b8f1-fc70bd19963b][Introduction]]                                                                 | [[Session 11:00]] + 0:10 | SourceGraph + SourceGraph | Ado/LI + Steve/LI+    |
+|   2 | [[https://www.linkedin.com/in/brpassos/][Bruno Passos]], [[https://www.linkedin.com/in/caitlincarducci/][Caitlin Moran]]   | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/97b8acbd-6823-4b85-be37-171d3bfaaab4][Measuring the ROI of Code AI]]                                                 | [[Session 11:10]] + 0:20 | Booking + SourceGraph     | Caitlin/LI + Bruni/LI |
+|   3 | [[https://www.linkedin.com/in/quinnslack/][Quinn Slack]]                   | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/6d5c2c50-1f9e-4bb6-9b00-70b534a21327][Enterprise Impact of AI Coding Agents]]                                        | [[Session 11:30]] + 0:20 | SourceGraph               | email                 |
+|   4 | [[https://www.linkedin.com/in/adam-berry-b1297233/][Adam Berry]]                    | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/5262c604-9516-4094-8292-f15bae0e7353][AI Across the Software Development Lifecycle]]                                 | [[Session 11:50]] + 0:20 | Netflix                   | LI                    |
+|   5 | [[https://www.linkedin.com/in/ykdojo/][YK Sugi]]                       | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/daa22c5d-bd85-4577-934c-2bd5594c5e1f][10 Principles for Coding with AI (Beyond the Basics)]]                         | [[Session 12:10]] + 0:20 | SourceGraph               |                       |
+|   6 | [[https://www.linkedin.com/in/gunjanpatel1/][Gunjan Patel]]                  | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/999694bf-5be2-4384-a56d-77156779c080][The Era of Personal Software & Future of Software Engineering]]                | [[Session 12:30]] + 0:20 | Palo Alto Networks        |                       |
+|   7 | [[https://www.linkedin.com/in/shepherd-walker-17326628/][Shep Walker]]                   | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/97d11391-d0a2-438d-9417-06f1176de0a3][Code Discovery for AI Agents]]                                                 | [[Session 12:50]] + 0:20 | Stripe                    |                       |
+|   8 | [[https://www.linkedin.com/in/ronkeesing/][Ron Keesing]], [[https://www.linkedin.com/in/logan-shamberger-59319b228/][Logan Shamberger]] | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/4585d175-0198-42d2-9c0d-f0511b50b842][AI Meets Real Government Codebases]]                                           | [[Session 1:10 ]] + 0:30 | Leidos + Leidos           |                       |
+|   9 | [[https://www.linkedin.com/in/alex-albert/][Alex Albet]]                    | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/bea48737-5cc1-43db-b50f-9d4fbe1e2b7e][Building with Claude (and MCP)]]                                               | [[Session 1:40 ]] + 0:20 | Anthropic                 |                       |
+|  10 | [[https://www.linkedin.com/in/beyang-liu/][Beyang Liu]]                    | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/5694ab10-aa2c-47aa-bc31-e652b5c56e05][Building blocks for AI automation in large, messy codebases]]                  | [[Session 2:00 ]] + 0:20 | SourceGraph               |                       |
+|  11 | [[https://www.linkedin.com/in/dynamicwebpaige/][Paige Bailey]]                  | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/1d790247-7b21-48ee-b24a-e856b25a6998][Accelerating and Automating Software Development, at Scale]]                   | [[Session 2:20 ]] + 0:20 | Google                    |                       |
+|  12 | [[https://www.linkedin.com/in/mathias-biilmann-christensen-a5a3805/][Matthaias "Matt" Biilmann]]     | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/59a01bee-a4b6-4435-b989-6014fefbd855][AI and the Open Web]]                                                          | [[Session 2:40 ]] + 0:20 | Netlify                   |                       |
+|  13 | [[https://www.linkedin.com/in/nathen/][Nathen Harvey]]                 | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/44e1b305-1103-473b-b9c9-80d3835b767d][DORA - Researching the Impacts of AI Adoption]]                                | [[Session 3:00 ]] + 0:20 | Google                    |                       |
+|  14 | [[https://www.linkedin.com/in/realgenekim/][Gene Kim]]                      | [[https://events.codeaisummit.com/e/b650937d-ba9f-40ce-9429-35c3539a5bb1/stage/broadcast/eeca2af5-6740-49ec-ab38-a67dc7b21290][Lessons Learned On CHOP From Pair-Programming With Steve Yegge For Two Hours]] | [[Session 3:20 ]] + 0:30 | Revolution                |                       |
+|  15 | Ado Kukic, Steve Yegge        | Closing                                                                      | [[Session 3:50 ]] + 0:10 | SourceGraph + SourceGraph |                       |
+|-----+-------------------------------+------------------------------------------------------------------------------+----------------------+---------------------------+-----------------------|
+|     | Ashley Singh                  |                                                                              |                      | Sourcegraph               | email + LI            |
+|     | Marren Collier                |                                                                              |                      | Sourcvegraph              | email + LI            |
+|-----+-------------------------------+------------------------------------------------------------------------------+----------------------+---------------------------+-----------------------|
+
+
+
+
+
+* Session Notes
+** Sesion 1 - 11:00 + 10 | Ado Kukic, Steve Yegge | Introduction                                                                 
+<<Session 11:00>>
+
+50/50 - "Not in a place where we all agree.  And that's why we have the summit".
+
+"Death of Junior Developer".  Creating buzz.  Studies show 30% productivity boost based on (???) initial estimates.
+
+Agentic.  Agents.
+
+LLM's can (be made to) write production code.  Claude is really, really good.  Different from Spring.   Like having interns.  No longer an opinion.  It will NOT go away.
+
+Huge problem with stubbornness in the industry.  We are last generation to write code by hand.  Difficult shift.  Bigger than assembly->High-level-languages.
+
+*** TODO
+- [] Compare to FinTech.  50% hiring decline.  Send reference to [[id:0F57E2B3-A5DB-4CB2-80E2-759F4C33806C][Steve Yegge]].  Probably from 
+
+
+** Sesion 2 - 11:10 + 20 | Bruno Passos, Caitlin Moran | Measuring the ROI of Code AI                                                 
+<<Session 11:10>>
+
+
+Bruno (Booking) - Developer Experience.  Build and scale.  Fall in love.  At booking.  Product.
+Caitlin (SourceGraph) - Go-to-market team.  Very present.  Active listener.  Great facial expression.  Good facilitator.
+
+Looking at GenAI for about a year.
+
+Hurtles & Concerns
+- Difficult to learn
+- Don't see benefit
+- Privacy of data
+- Developers feeling threatened.  Needed to show how to use as "super assistant".
+
+Q: How to measure impact?
+Booking is big on measuring impact and capturing learning.  Big with A/B testing.
+
+Bruno was wondering from PRODUCT side how to use GenAI.  Caitlin talks to engineering side.
+
+Use what SourceGraph had to show hours saved (auto completion).
+Measure adoption.  Sniff into the kinds of usage patterns.  Needed something more quantantative.  Still doesn't have a good idea.
+
+Some wins - throughput (merge requst).  Speed of merge requests.  active_user = days_per_month > 12.  Power users are doing more merge requests.  Before/After measurements of "speed to close merge request".  "Throughput".  "As we brainstormed", we focused on other.  Speed of replatforming.  Migrate legacy code.  Look for legacy vulnerabilities.  How to make migration more sexy.  Replatforming is "migration".
+
+"Keep educating yourself". -- Bruno
+
+18:00 recording
+
+2025 focus:
+1. Speed
+2. Quality
+3. Codebase
+4. Size
+
+Roadblocks:
+- Measuring
+- Learning and training
+- How to keep going after initial learning
+
+
+*** TODO
+- [ ] LI connect to Bruno - Closing. How do you keep educating yourself?
+- [ ] LI connect to Caitlin - Great facilitation!
+
+Bruno, Thank you for sharing your experience at the recent Code AI summit, especially your final advice to keep learning.  I would be interested to know what worked, especially after the initial novelty wore off.  Would you be available for a short Zoom call?
+
+Caitlin,  Great session at recent Code AI summit facilitating Bruno to share how defining metrics helped Booking focus on what was important to them.  I'm interested in how they continued their learning, especially after novelty wore off.  Would you be up for a short zoom call to discuss?
+
+
+** Sesion 3 - 11:30 + 20 | Quinn Slack | Enterprise Impact of AI Coding Agents
+<<Session 11:30>>
+
+CEO and co-founder.  Formerly - Blend.  FinTech.  Loves coding.  Build software better.
+
+Accelerate human devs.  Automate toil.
+
+Engineering imact.
+Business impact.
+
+... by role
+Jr Developer
+Sr Dev
+Platform
+SecOps
+Dev Leadership - More contributions
+
+Building agents.  Great demos, but don't really work.
+- Test generation - Dedalus, 1Password, Waters.  Increase test coverage.  (But no talks
+- Code Reviews - Risky code changes.  AI code review... can be done before uploading (saving face).
+- Code automation and migration.  10-15 hours investment -> 1,000 hours/year.  50-100 similar topics.
+- Bug Triage - Priceline.  Injest crash reports.  Lookup in source.  Infer which changes may have caused it.
+
+Q: What does it take to make a good agent.  Choose a good task.  There are no golden bullets.  Be specific.  Needs to build on intuition.  More like 5,000 interns (than a humanoid robot).  Well defined tasks.  Make them well directed.  Automate toil.
+
+Horizontal - Most agents succeed here.  Automate thin toil work flow.
+Vertical - No iterative way to increment.  Doesn't work in big code bases.
+
+Enterprise multipliers for large code bases drive economies of scale to eliminate small tasks that are repeated many, many times.
+
+Tools to build agents.  Teaser for agent building.
+
+Sticker on water bottle...  Looks like proCase tri-fold.  "What did your AI coding agent get done this week? -- SourceGraph"
+
+See co-founder beyong(?)
+
+Q/A -
+- Are you using AI daily?  Inline edits.  Completion.  Chat.  Coding repo of prompts 
+
+Invitation to join.  We are growing.  Have to push through the hype.  Have 60 developers.  Work with LARGE companies.  Have to be on their toes.
+
+"Source of pride for having a really good prompt that people can use to do tests."
+
+"We cannot sell hype to the enterprise becuse they measure this stuff.  They put us to the test."
+"Be discerning."  
+"Companies that
+
+Q: Change Engineering Leaders
+A: It is leader's responsibility to encourage devs to overcome gap.  Will be thinking about how to manage people and also the agents (AKA "coding").
+
+Q: What's on docket
+Accelerate humans
+Automate
+
+Commit 5to customers that _they_ will be software leaders.
+
+Q: How do grow Jr Engineers.
+A: Automate the sucky stuff.
+
+*** TODO
+- [ ] LI connect to Quinn
+- [ ] F/U - git-diff-describe
+- [ ] Interns.  See "Death of Jr Developer".
+- [ ] Code automation - It is NOT a BIG tasks.  It is a lot of tiny tasks.
+- [X] See prompt repo for prompt to generate tests.  Congratulate Quinn about it.
+
+See: [[id:32E0942C-84D4-4EA2-8271-9292BE628E4D][The 3 "...abilities"]]  
+
+
+Quinn,
+
+At recent AI Code Summit, thanks so much for hitting ALL 3 "abilities", not just technical feasibility.  Addressing business viability cuts through most of the "hype cycle", especially if you get to user desirability.
+
+You said you are hiring.  Let's talk.  Most of my career has been: learn -> do -> share -> repeat.  In resume-speak, that's curiosity, tenacity, motivating teams, clarifying big balls of mud, automating toil, and building on automation.  (AKA Hardware + Software + Wetware)  
+
+It feels like we are both chasing AgileManifesto.org's oft-ignored preamble: "uncovering better ways ... by doing it ... and helping others do it.".
+
+Would you like to set up short zoom call, or is there someone else I should reach out to?
+
+Best,
+Michael
+
+P.S.  Because you glowed as you said how proud you were of the library prompt to generate tests, I took it for a test ride.  Nice prompt.  Nice tests.  But even better, it gave me a different (better?) insight into the code we had mobbed on in a recent work session.  
+    Many Tests - $x.  
+    Automatically generated tests - $10x.  
+    Code comprehension - $PRICELESS!
+
+
+** 11:50 + 20 | Adam Berry | AI Across the Software Development Lifecycle                                 
+<<Session 11:50>>
+
+Platform Engineering.  Large orgs - code and humans.  Newly at Netflix. Remote Dev Environments.
+
+We're all software companies now.
+We're all AI companies now.
+
+Gartner claims "Peak Hype".  Peak Expectation.  Big push to adopt without thinking about value.
+
+25% lift in productivity for SW Dev.  Given code gen is only part of
+
+We are seeing larger commits.
+
+Output !proportional to Productivity
+
+What capabilities are most helpful.
+1. meta-coding.  Design.
+2. code comprehension
+3. toil automation -- more cheaply.  Code migration.  Package upgrade.  There are tools to do this.
+4. bulk remote memory (filter and summarize)
+
+Experimental approach.
+- Choose goal
+- Get baseline data
+- Run experiment
+- yada
+- yada
+
+
+Old-school models may or may not apply
+- High level.
+- Vendor lock
+- Repeatability
+- Extensibility
+
+AI's are not predictable over many runs.
+... over LLM evolution.
+
+Look for collaborations.  (See AgileManifesto)
+
+
+"Larger established code bases" are difficult.  See BBOM anti-pattern.
+
+This is NOT a problem w/ GenAI. It is code qulity going from obscured to visible.
+
+Summary
+- Lots of targets in SDLC
+- 
+- Iterate.  Increment.
+- Quality Engineering is important.
+
+*** Q & A
+
+Q: What will have to happen for
+A: No silver bullet.
+
+Q: Cody AI iniatives at Netflix?
+A:
+
+
+Q: Helpful for CI/CD?
+A: Not helpful.  These phases are not as public.
+F/U: IS there something about Cody that you were hinting at?  
+
+*** Follow-up
+
+How to measure value as move from mass adoption at peak hype?
+
+Generate Legacy Code faster
+
+**** Adam,
+
+Thanks for reminder at Code Summit to apply old-school engineering practices to new-school tools.
+
+I'm particularly interested to know why your intro said _remote_ dev environments.  What's special about "remote"?
+
+Also, I was a big fan of Wolfram.  Do you see parallels?
+
+**** Steve,
+
+During Adam's Q&A, were you setting up the "What do you expect from Cody in 2025?" question when you asked about CI/CD then looked surprised when he said "AI doesn't help much there!"?
+
+** 12:10 + 20 | YK Sugi | 10 Principles for Coding with AI (Beyond the Basics)                         
+<<Session 12:10>>
+
+YK Sugi.  Seattle.  Vancouver.
+
+Sr AI Developer.  Push boundary of what is possible.  In marketing department.  Contributes to Cody.
+
+Original Title - CHOP in action
+
+Learn code w/ chat as one of the models.
+
+rinciples (1-10).  10-20% more effective (or efficient).
+
+- Personal SW skills _still_ matter.  Maybe even more.
+
+
+1. Intent + Context + Details && Iterate
+2. Context is King.  Context management >> prompt engineering
+3. Minimize context.  Focus.  More context -> worse results
+
+Example - re:Invent && QCon
+
+- Record scrolling through list.  BUT... huge context as video.  Text is smaller.
+- Fetch HTML.  Ask to produce list.
+- Compare to another conference.
+
+Example - Deep Cody - Agentic gathering.  Do I need more context?
+- Dig into new code base.
+
+5. When it comes to large codebase, use RAG (Result Augmented GenAI).  Use GenAI to bootstrap a prompt.
+
+6. Use RAG to understand new code base.
+7. Find specific code/files quickly.
+8. With specific 1-3 files,....  ???
+
+9. Go multimodal.  Screenshot of bug.  Screen shot of Figma design.
+10. Automate toil.      
+
+
+*** Q & A
+
+Q: How to think about finding right context?  Trial/Error.  10-year old plus new.
+
+Q: Arrange repos differently for AI?
+A: No.  Don't redesign roads for self-driving cars.
+
+Q: LLM's have no proprietary code.  Lack of context.
+A: Without specifics, general code is good enough.  Meta.  Hack.  Existing LLM's can work with Hack without training.
+
+Q: How important is multi-modal?
+
+"The art of CHOP is slinging context."
+
+Q: What does 2025 look like for SourceGraph?
+A: Big things are coming.  SG has been developing code search for 10 years.
+A: Agents.  Deep Cody is an agent.
+
+*** Follow-up
+
+- [ ] "Generate Commit Message" - Ask about it.
+
+YK,
+
+I appreciate that you did NOT blast though all 10 items at once during Code Summit.  Nice twist to chunk a few at at time into a demo.
+
+I am interested in the commit message generator you reference. I've done one too. Could we talk briefly sometime?
+
+Best, 
+Michael.
+
+
+** 12:30 + 20 | Gunjan Patel | The Era of Personal Software & Future of Software Engineering                
+<<Session 12:30>>
+
+Gunjan - Dir of Engineering - Palo Alto - Office of CPO
+
+AI Integration Iniatives.  Developer Relations.  K8S.
+
+
+Tin Foil hat - preductions
+
+Democratizing of hyper-personalized (vs mass market) software.  Blur lines between users and creaters.
+
+Low-code.  No-code.
+
+Example.  YouTube videos.  Remove non-vocal.  Fast-forward.
+
+Vision.  Gaps appear.  Stack Overflow.  Google.  NOW AI (or Chat).  Remove blockers.
+
+Gap filling - Requires learning.
+
+Types of systems
+- IDE-based AI Assistant.
+  - Increase velocity.  Quality.  Standing on shoulders of giants.
+  - Decrease quality.  Hiding lower levels.
+- AI Agent - High-level intent.  Break down into tasks.
+- Hybrid    
+
+
+Tips
+- Get AI to "buy in" to
+- Keep high level PRD
+- Styles of custom prompts: (Think.  Build.  Fix.) -> (Context.  Build.  Refactor.)
+
+
+Q: Big iniative in 2025?
+A: DevOps work flows.
+
+Gunjan,
+
+*** Follow-up
+
+TY.  Nice graphic with gaps.... image of "tin foil hats".  I'm used to
+thinking of road blocks, but falling in a hole feels more like it as I
+drove ino a new project, only to have all of my energy go to the
+"slip" wheel instead of the other "grip" wheels.  More AI -> Bigger
+Changes -> Lower Quality.
+
+
+
+
+
+
+** 12:50 + 20 | Shep Walker | Code Discovery for AI Agents                                                 
+<<Session 12:50>>
+
+SWE Manager.  Documentation.  Code control.
+
+SWE-bench.  SoTA (State of The Art).  GigHub issues.  Can test pass?  But
+
+Largest is 50% of Stripe daily code.
+
+Areas of interest:
+- Code Navigation - Can Cody agent find correct files
+- Code Comprehension -
+
+Tools available
+- diffs
+- Language Servers
+- Use SourceGraph as basic tools
+
+Goose (an agent) built by Block.  Early demo.
+
+#+begin_example
+Use sourcegraph to search the repo stripe/react-stripe-js for usages of .propTypes with the additional search query "file:.*\.tsx$". Analyze the impact of migrating from .propTypes to Typescript and show me the git diff of files I would need to change. Do not read or write files on disk.
+#+end_example
+
+#+begin_example
+Certainly! I’ll use the Sourcegraph search to find usages of .propTypes in TypeScript files within the stripe/react-stripe-js repository, analyze the impact of migrating from PropTypes to TypeScript, and show you the git diff of files that would need to be changed. Let’s start with the search:
+Prepared sourcegraph query: context:global repo:stripe/react-stripe-js .propTypes file:.*\.tsx$
+processing tool results
+#+end_example
+
+
+Discussion...
+
+Tons of unexplored frontier...
+
+Short term experiment.
+
+*** Discussion
+
+Uknown UX.  People comfortable with code-complete.  How to get them to dialog box.
+
+How to build on top of other
+
+SourceGraph (and Stripe?) have huge indexes.  Skip indexes.
+
+Using Ruby.
+
+How to get LLM's into the code review process.  Is rediculously sensitive about quality.
+
+What's next.  Agentic.
+
+Steve - Gonna be a big year.
+
+
+*** Followup
+Shep,
+
+TY for talk.
+
+Steve,
+
+Good setup for presenter to speak.  I know you have ideas.  Thanks for letting others share what they know.
+
+
+
+** 1:10 + 30 | Ron Keesing, Logan Shamberger | AI Meets Real Government Codebases                                           
+<<Session 1:10>>
+
+
+Ron - Chief AI Officer.  
+Logan - AI SW Enginer.  Mathematics.  Programming languages.
+
+
+leidos - Ron was talker.  High level talk.  What are they finding on REAL code bases.  48,000 employees.  NASA.  DoD.  HHS.  Fortune 300.    Hard problems in national security and health.  Tech solutions in heavily regulated industries.  Large EHR for DoD.  Organ donation system.  Frederick MD - biomedical research.  NCIS.  NIH.  8 minutes!!!
+
+FITARA - 220 BLOC of COBOL.  30-40 year-old systems.  Many orgs give themselves C or D (DoT, HHS, DHS).
+
+Example:
+
+Experiment w/ FAA.  Terminal Flight Data Manager (PIREP's).
+
+US Army.  Amazon-like interface to warehouse.  New security protocols and patterns.  Stuck for months.  Freed in a week.
+
+Air-gap systems for high security software.  Run as container.  75%
+reduction in answering questions.  Meta.  Llama 3.1.  Run in secure
+environment.
+
+QTC - Benefits Determination - Doctors + Patients.
+
+Airport scanners.  Airport security.  Over 50 different security platforms.  Cody helps immensely with dispirite AI's.
+
+More than code-completion.
+
+Q: Where does time savings go?
+A: No - RIF
+A: Yes - Tech debt backlog
+A: Yes - Higher quality.  Tests.  Reviews.
+
+
+| Activity           | Before Cody | After Cody |
+|--------------------+-------------+------------|
+| Reading/Orienting  |         35% |        20% |
+| Helping Others     |         25% |         5% |
+| Documentation      |         15% |         5% |
+| Coding + Debugging |         25% |        50% |
+| Writing Tests      |          0% |        10% |
+| Code Reviews       |          0% |        10% |
+
+
+Less helping junior developers.  More time doing individual work.
+
+
+Risk avoidance -- Avoid the (perceived) high risk task of code generation.  Use lower-hanging fruit on non-code.
+
+Code AI in 2025.  Get beyond coding segment (DevSecOps).  Broader wins are TopOfMind.
+
+
+*** Demo @ 20:00 - Logan & Jason - 30 minutes compressed to 2.  Typical day.  Large legacy.
+
+Jason - top.  Cody.  AI-assisted tools.
+Logan - bottom.  Standard tools.
+
+Tasks:
+1. Understand code
+2. Automate test cases
+3. Look for and remediate weaknesses
+4. Protect it
+5. New visualizaiton
+6. Deploy
+
+Big wins.  Code comprehension.
+
+- 5 minutes.  Understand.  Test.  Find/fix weaknesses. Context is king.
+
+- 15 minutes.  Deploy.  Found code vulnerabilities.
+
+
+*** Follow-up
+
+Connect w/ Ron.  TY.
+
+** 1:40 + 20 | Alex Albert | Building with Claude (and MCP)                                               
+<<Session 1:40>>
+
+Alex Albert - Was research engineer.  Is "Head of Developer Relations".  MCP -
+
+3.5 Sonnet is one of best models in world.  Proof: agent benchmarks.  METER (Model Event and Threat Research).  Up to 1/2 hour human effort to complete.
+
+SOTA & SWE-benchmarks.  Approx 40-60%.  Understand code.  Make changes.  Get it right.
+
+Models are only as good as context that is provided.
+
+- API :: Web App <-> backend
+- LSP (Language Specific Protocol) ::  IDE <-> language-specific tools
+- MCP (Model Context Protocol) :: AI app <-> external systems
+  - open protocol
+  - prompts
+
+Proglem: Reuse ability to pull in external context.  Inside RAG.
+
+Reference - EDIF, XML,
+
+Build once.  Use many.  Transcend traditional boundaries (fron-, back-end, API, microservices).  Bridge from client to data.
+
+
+- MCP Client - queries for resources, invokes tools, interpolates prompts
+
+- MPC Server - exposes resources, tools, prompt templates
+
+SF Example - "Update opportunity after Q4 Meeting"
+
+Demo - Claude desktop MCP client
+Servers:
+- Brave Search - Find date of Code Summit.
+- Spotify API - Start study music.
+- Local File System - Save presentation as text file.
+
+Search for MCP.  Beyond cutoff for LLM.  Save -> Error.
+Error-correct.  Create new file for presentation.
+
+Sourcegraph Cody has MCP support.
+
+### 🌟 Reference Servers
+These servers aim to demonstrate MCP features and the Typescript and Python SDKs:
+- **Brave Search** - Web and local search using Brave's Search API
+- **Fetch** - Web content fetching and conversion for efficient LLM usage
+- **Filesystem** - Secure file operations with configurable access controls
+- **GitHub** - Repository management, file operations, and GitHub API integration
+- **GitLab** - GitLab API, enabling project management
+- **Git** - Tools to read, search, and manipulate Git repositories
+- **Google Drive** - File access and search capabilities for Google Drive
+- **Google Maps** - Location services, directions, and place details
+- **Memory** - Knowledge graph-based persistent memory system
+- **PostgreSQL** - Read-only database access with schema inspection
+- **Puppeteer** - Browser automation and web scraping
+- **Sentry** - Retrieving and analyzing issues from Sentry.io
+- **Slack** - Channel management and messaging capabilities
+- **Sqlite** - Database interaction and business intelligence capabilities
+
+
+*** TODO
+- [ ] Follow work flow to pursue SourceGraph opportunity.
+- [ ] Research MCP
+- [ ] Research MCP alternative  
+
+** 2:00 + 20 | Beyang Liu | Building blocks for AI automation in large, messy codebases                  
+<<Session 2:00>>
+
+Beyang Liu - CTO && co-founder 
+
+Two kinds of
+1. AI >> humans
+   - Side projects,  Influencers, non-dev
+   - zero-to-one
+2. AI == toy
+   - Professional Developers
+   - scaling or applicability
+
+AI different from [human | toy]
+
+At SourceGraph - Psychological whiplash.  Cognative dissonance.  Wicked Questions.  How can it be that BOTH --
+
+ML learning problem.  Probability distribution.
+
+
+Training set data - does it fit problem?  If not, overfitting a curve.
+
+LLM with ICL  can model OOD patterns (but only with prompting + context)
+
+Prompting and Context are critical for big messy code bases.
+
+Simple RAG application
+
+UnitOfReasoning (n. agent, adv. agentic) - ( Prompt && Context ) | LLM -- (Claude, Astral) > output
+    - Generic UnitOfReasoning - boilerplate++, auto-complete
+    - Contextual UOR - code that fits?  (Research context, internal, external, standards, interfaces)
+
+Compose "UnitOfReasoning"
+    - Intent detector
+    - Code generator
+    - Verify correctness
+
+Prompt Library - Prompt studio.  Custom reasoning units.      
+
+Demos
+ 1. Make this better
+ 2. Reuse curated prompt.  Summarize first.  Increases high-quality tokens in the context stream
+ 3. OpenCtx - Extensible context API?  Bring Context (StoryBook, SemGrep, Issue Tracker, Chat).  Video Cody, OpenCtx -> OpenCtx.
+
+"Deep Cody" - Helps developers look at large, messy code bases.  How to gather context and build mental model.
+
+Looking at Legacy Code - Comes down to context fetch.
+
+
+*** Follow-up
+
+Beyang,
+
+Thansk for posing the Wicked Question (AKA false dichotomy) of how can AI be _both_ better than humans and also a just toy.  Getting from either/or to both/and is a great conversation, both for SourceGraph and also for the industry.
+
+I am looking to support a new team in the New Year, and many of the presentations spoke to my strong spot (collaborating with developers), and also adjacent interests (i.e. ROI (measurement and delivery), complexity science, business model exploration).
+
+I think that my skills and intrests might be a good fit for SourceGraph's needs and culture.  Would you be interested to schedule a short zoom call to explore this?  Or can you recommend someone else to connect with?
+
+Best,
+Michael
+
+P.S.  Presentation Polish Proposal - I love that you personified the "straw men" as you introduced them, and your references to them later, but I lost track of the points as you were making them.  Adding "name tags" to the images would have helped me.
+
+ 
+** 2:20 + 20 | Paige Bailey | Accelerating and Automating Software Development, at Scale                   
+<<Session 2:20>>
+
+Paige - 
+
+GenAI Development at Google.  ML engineer.
+
+Imagining and Reinventing the Future of Creative Work.
+
+Developer Experience Engineer.  Old school decision trees.  Bard.  Gemini.
+
+AlphaFold.  Gemini 2.0 - Flash.  Low latency.
+
+AiStudio.google.com.  Live narrator.  Collaboration.
+
+Pricing - $0.03 / billioln.   Laptop screen * 24/7 for less than fancy coffee.  MASSIVE context window.
+
+Scaling - Down to phone.  Data stays resident.  Onboard CPU/GPU.  Near-zero cost.  Ambient intelligence.  2M tokens at context.  Good for experimenting.  Lots of bandwidth.  All emails from last year.  Multiple code bases.  Lifetime of email.  Summary!
+
+Billions of actions over 25 years.  Lots of conctext on what developers do as developers.  SDLC.  Not just IDE.  Complence.  Chats.  Meeting notes.  CL.  Not just IDE.  25% of code is ML.  Used in code reviews.  Refactoring.  Migration.  Documentation.  Non-English.  Library SDK upgrade.  Summarize & prioritize bugs.  Project Management.
+
+Project Mariner - In-browser agent.
+
+Working with Startups!!!!
+- [ ] Statup liaison.  No boundaries.
+
+  WebPaige@google.com
+
+From time Steve gave 3 minute warning, you covered a keynote worth of material at 3 seconds/slide.  Wow.
+
+
+"Software Engineer".
+"Craft"
+
+** Demos
+
+Sharing screen to collaborate.  Give instructions w/ voice.  Receive answers w/ voice.
+
+*** Email & LI Connection
+
+
+
+
+** 2:40 + 20 | Matt Biilmann | AI and the Open Web                                                          
+<<Session 2:40>>
+
+Matthais - CEO and co-founder
+
+Build.  Deploiy.  Scale.  30+ years.  "Jamstack".  Build a better web.
+
+Jamstack - Pre-rendered.  Lots of numbers.  Modernizing web with "jamstack".  Decouple front- and back-end.  5,000 dev/day sign up.
+
+Scale through references at github.  ChatGPT.  bolt.new.  "Sweeping effects AI is having"
+
+Big trends:
+1. AI.  More code.  More assets.  More throughput.  More deployments. Netlify - 25 deployments / day
+2. UI 2.0 - All UI's have been built around prompts.  AI can operate in background.  NEW user experiences.  Currently doing the same faster.  Will see new paradigms emerge.
+3. Composable Architecture - Decouple UI.
+
+All in Economic Uncertainty.  Look for non-people lever to catch up.
+
+Internally to Netlify:
+- Use AI internally
+- Use LLM's in product
+- AI powered experiences
+- Build and Deploy w/ Netlify
+
+Accelerating team:
+1. Legal framework - boundaries
+2. Coding agents - See Cody.  AI-assisted.  Not just auto-complete.
+3. bolt.new for prototype.  Human-in-loop for day-to-day.
+
+4. CHOP - Chat-oriented programmer.  See YouTube.
+
+*** bolt.new
+
+Prompted with following.  Got a complete application.
+> Create an end point that I can send plain text, copy/pasted from an email or web page.  I want that end point to return either a *.vcf or *.ics file if it can find 1 (or more) contacts or 1 (or more) calendar events.
+
+*** TODO
+
+- [ ] Research codemod.  Code Migration as a Service.  "Delegate your migrations to Codemod".
+- [ ] Research bolt.new.
+- [X] Research Matt & Netlify.  Not quite itneresting enough.
+
+**** Codemod
+
+Code -> AST ->
+
+Upgrade *many* files from react 17 to react 18.  Grunt work.  Chores.  Toil.
+
+
+AI-Assisted Publishing - Use Google Docs or Notion as "source code".  They define WHAT should happen with AI doing the HOW.  Marketing -> Web (without developers)
+
+
+
+
+
+
+** 3:00 + 20 | Nathen Harvey | DORA - Researching the Impacts of AI Adoption                                
+<<Session 3:00>>
+
+Nathan Harvey - Accessible and Actionable.  Co-author of multiple DORA reports.
+
+dora.dev/dora-report-2024 - 10th session - Era of AI.
+
+4 DORA metrics.  Keys.
+
+
+| Concept                       | Factor                       | Metric                          | Elite / Low |
+|-------------------------------+------------------------------+---------------------------------+-------------|
+| Software delivery performance | Software delivery throughput | Change lead time                |        125x |
+|                               |                              | Deployment frequency            |        182x |
+|                               |                              | Failed deployment recovery time |             |
+|-------------------------------+------------------------------+---------------------------------+-------------|
+| "                             | Software delivery stability  | Change failure rate             |          8x |
+|                               |                              | Rework rate                     |       2293x |
+|                               |                              |                                 |             |
+
+
+Best of best are doing worlds better.
+
+
+| Capabilities predicts-> | Performance predicts-> | Outcomes                   |
+|-------------------------+------------------------+----------------------------|
+| Climate for learning    | Software delivery      | Organizational performance |
+| Fast flow               | Reliability            | Well-being                 |
+| Fast feedback           |                        |                            |
+
+
+Adoption & Attitudes
+Prioritizing!  Why?  FOMO!
+Task reliance - Write code.  Summarize.
+Trust?  Not 100 or 0.
+
+Individual adoption of AI
+25% increas adoption
+
+| flow                |      |     |
+| job satisfaction    |      |     |
+| productivity        |      |     |
+| toilsome work       |      | 0.4 |
+| burnout             | -0.6 |     |
+| doing valuable work | -2.6 |     |
+
+Team adoption of AI
+| documentation    |     | 7.5 |
+| code quality     |     | 3.4 |
+| cod review speed |     | 3.1 |
+| approval speed   |     | 1.1 |
+| XFN coordination |     | 0.1 |
+| tech debt        | -0.8 |     |
+| code complexity  | -   |     |
+
+
+| delivery throughput | - |   |
+| delivery stability  | - |   |
+
+
+How to improve SW delivery performance.  Ship smaller changes.  Easier to reason about.  Easier to patch.
+
+AI is doing HUGE chunks.  Anti-pattern for high quality.
+
+Very animated.
+
+Writing code is different from REwriting code.
+
+
+AI can have biggest impact on LEFT --
+
+Climate for learning
+- Code Maintainability
+- Empowering teams to choose tools
+- Documentation quality
+- Generative culture
+
+Fast flow
+- Continuous delivery
+- Deployment automation
+- Loosly coupled teams
+- Vrsion control
+- DB change management
+- Flexible infrastructure
+- Streamlining change approval
+- Working insmall batches
+
+Fast feedback
+- Continuous integration
+- Resilience engineering
+- Test automation
+- Monitoring and observability
+- Pervasive security
+- Test data management
+
+
+Replicate DORA finding in specific team.
+
+*** Follow-up
+
+Join DORA.community
+
+AI doing art, leaving me more laundry.  It's not doing the toil for us.
+
+Big next year - stay in the flow.  Not just writing code. 
+
+** 3:20 + 30 | Gene Kim | Lessons Learned On CHOP From Pair-Programming With Steve Yegge For Two Hours 
+<<Session 3:20>>
+
+Gene Kim - High performing tech organizations.  TripWire.  Enterprise.  WSJ Best-Selling Author.  CTO to DevOps.  What a journey!  Manual code is coming to an end.
+
+Steve Yegge - Rant regarding rearchitecting API's.  "Death of the Junior Developer".
+
+Demo - 2 hours to do what he wanted to do over a year.  6,000 screen shots.  ChatGPT 4 vision.  Extract links from screen shot.  Get transcript.  Highlights + Transcript.
+
+Do work faster.  More fun doing it.  More times at bat.
+
+
+
+Here is the content of the image converted into a list:
+
+**Goals for Gene+Steve Session**
+1. Download the YouTube video (using `yt-dlp`).
+2. Extract a segment from the video (using `ffmpeg`).
+3. Extract the transcript (given the start time and duration).
+4. Overlay subtitles (using `ffmpeg`).
+
+
+** 3:50 + 10 | Ado Kukic, Steve Yegge | Closing                                                                      
+<<Session 3:50>>
+
+
+
+* Follow-up
+
