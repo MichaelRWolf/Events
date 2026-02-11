@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Bail out if this script is sourced (to avoid cd/exit affecting the caller shell).
+if [ -n "${BASH_VERSION-}" ] && [[ "${BASH_SOURCE[0]}" != "${0}" ]]; then
+  echo "ERROR: scripts/setup must be executed, not sourced." >&2
+  echo "Run: ${BASH_SOURCE[0]}" >&2
+  return 1
+fi
+
+repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$repo_root"
+
+if ! command -v pre-commit >/dev/null 2>&1; then
+  cat >&2 <<EOF
+pre-commit is required but was not found.
+
+Install one of:
+  brew install pre-commit
+  pipx install pre-commit
+  python3 -m pip install --user pre-commit
+
+Then re-run:
+  ${BASH_SOURCE[0]}
+EOF
+  exit 1
+fi
+
+pre-commit install
+pre-commit install --install-hooks
+
+echo "pre-commit installed."
+

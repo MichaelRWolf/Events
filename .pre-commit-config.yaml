@@ -1,0 +1,21 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      # Prevent GitHub-hard-limit blobs.
+      - id: check-added-large-files
+        args: ["--maxkb=102400"] # 100MB
+
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.13.0
+    hooks:
+      - id: markdownlint-cli2
+        args: ["--fix"]
+
+  - repo: local
+    hooks:
+      - id: forbid-org-files
+        name: forbid org-mode files
+        entry: bash -c 'echo "Do not commit .org files." >&2; exit 1'
+        language: system
+        files: \.org$
