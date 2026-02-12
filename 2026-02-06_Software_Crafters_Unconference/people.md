@@ -81,4 +81,8 @@
 | Woody Zuill        |          |       |     |       |            |            |
 | Zach Shaw          |          |       |     |       |            |            |
 
-## Referenced, but not attending
+## Not-attending (but mentioned)
+
+- Alex Bunardzic
+- Robin Betts
+- Shilpa Konde Deshmukh
