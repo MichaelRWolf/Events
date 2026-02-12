@@ -80,9 +80,3 @@
 | William Wallace     |                                                                                     |                                  |                                                                   |                                                                |            |            |
 | Woody Zuill         | [woodyzuill](https://www.linkedin.com/in/woodyzuill/)                               |                                  |                                                                   |                                                                |            |            |
 | Zach Shaw           | [zacharyshaw](https://www.linkedin.com/in/zacharyshaw/)                             |                                  |                                                                   |                                                                |            |            |
-
-## Not-attending (but mentioned)
-
-- Alex Bunardzic
-- Robin Betts
-- Shilpa Konde Deshmukh
