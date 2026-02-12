@@ -24,12 +24,12 @@ See [marketplace.md](marketplace.md)
 | Topic                                                               | Leader            | Space    | Attended |
 |---------------------------------------------------------------------|-------------------|----------|----------|
 | TDD NUANCES – What should folks know about TDD that they don’t?     | Ted M. Young      | 2.Red    |          |
-| If AI writes all the code, what is the role of a software engineer? | Q                 | 2.Orange |          |
+| If AI writes all the code, what is the role of a software engineer? | Quinten Marsala (Q) | 2.Orange |          |
 | Neuro-Spicy at work                                                 | Paige Watson      | 2.Yellow |          |
 | Put down your pitchforks! Mob programming is dead.                  | William Wallace   | 2.Green  |          |
 | Defense Against the Dark AI Arts                                    | Matthew Knowles   | 2.Blue   |          |
 | Coupling in IT Ecosystems – is it binary as some think?             | Karol Skrzymowski | 2.Purple |          |
-| Helping AI Help the Org, Not just Dev                               | Daniel Schuyler   | 2.Pink   |          |
+| Helping AI Help the Org, Not just Dev                               | Daniel Scheufler  | 2.Pink   |          |
 | Application Integration – let’s solve interoperability problems     | Karol Skrzymowski | 2.Beyond |          |
 
 Follow-up
@@ -51,7 +51,7 @@ Follow-up
 | Don’t tell me “you’re holding it wrong” – XP practices with Agentic AI                  | Garrick West  | 3.Red    |          |
 | When Agents write all your code, what do we need to rethink? (TDD, duplication, design) | Zach Shaw     | 3.Orange |          |
 | Mob programming with AI                                                                 | Jessica Brady | 3.Yellow |          |
-| Through struggle comes growth – AI robbing next-gen career building blocks              | Chuck         | 3.Blue   |          |
+| Through struggle comes growth – AI robbing next-gen career building blocks              | Chuck Bates   | 3.Blue   |          |
 | What are some daily habits/practices you’re glad you started?                           | Ethan Hintze  | 3.Pink   |          |
 
 Connect w/
@@ -64,7 +64,7 @@ Connect w/
 
 | Topic                                                                 | Leader                   | Space    | Attended |
 |-----------------------------------------------------------------------|--------------------------|----------|----------|
-| Let’s Share Bug Stories!                                              | Moss                     | 4.Red    |          |
+| Let’s Share Bug Stories!                                              | Moss Collum              | 4.Red    |          |
 | Thoughts on (Modern?) Software Development – “The Current Hype of AI” | Alex Thurow              | 4.Yellow |          |
 | Teaming and AI – Thinking Together with AI                            | James Herr & Woody Zuill | 4.Green  |          |
 | Free topic discussion                                                 |                          | 4.Blue   |          |
@@ -80,9 +80,9 @@ Connect w/
 | Let’s Talk about almost anything                                           | Woody Zuill     | 5.Yellow    |          |
 | EVENT SOURCING – Projections, Processors, Dynamic Consistency Boundaries   | Ted M. Young    | 5.Green     |          |
 | Let’s celebrate our wins – V2                                              | Jon Turner      | 5.LightBlue |          |
-| Interaction Patterns for Effective AI-Augmented Dev                        | Daniel Schuyler | 5.Blue      |          |
-| Mentoring without becoming the bottleneck                                  | Chuck           | 5.Purple    |          |
-| Job Search                                                                 | Dave            | 5.White     |          |
+| Interaction Patterns for Effective AI-Augmented Dev                        | Daniel Scheufler | 5.Blue      |          |
+| Mentoring without becoming the bottleneck                                  | Chuck Bates     | 5.Purple    |          |
+| Job Search                                                                 | Dave Adsit      | 5.White     |          |
 
 ---
 

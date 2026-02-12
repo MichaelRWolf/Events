@@ -2,84 +2,86 @@
 
 ## Attendees
 
-| Name               | LinkedIn | Email | Web | Other | Session(s) | Interacted |
-|--------------------|----------|-------|-----|-------|------------|------------|
-| Adam Teichert      |          |       |     |       |            |            |
-| Alan               |          |       |     |       |            |            |
-| Alex Thurow        |          |       |     |       |            |            |
-| Allan Stewart      |          |       |     |       |            |            |
-| Andrew Koster      |          |       |     |       |            |            |
-| Ben                |          |       |     |       |            |            |
-| Bishwas            |          |       |     |       |            |            |
-| Brandon Tripp      |          |       |     |       |            |            |
-| Cael Church        |          |       |     |       |            |            |
-| Chase Harmer       |          |       |     |       |            |            |
-| Chris Stone        |          |       |     |       |            |            |
-| Chuck              |          |       |     |       |            |            |
-| Cody Howell        |          |       |     |       |            |            |
-| Dallan Simper      |          |       |     |       |            |            |
-| Daniel Schuyler    |          |       |     |       |            |            |
-| Danny O            |          |       |     |       |            |            |
-| Danny Warren       |          |       |     |       |            |            |
-| Dave Adsit         |          |       |     |       |            |            |
-| Diana Sherwood     |          |       |     |       |            |            |
-| Ed Thome           |          |       |     |       |            |            |
-| Eddie Bush         |          |       |     |       |            |            |
-| Ellis Lempriere    |          |       |     |       |            |            |
-| Emily              |          |       |     |       |            |            |
-| Ethan Hintze       |          |       |     |       |            |            |
-| Fabricio Robles    |          |       |     |       |            |            |
-| Garrick West       |          |       |     |       |            |            |
-| Giselle Valenzuela |          |       |     |       |            |            |
-| Gus Murphy         |          |       |     |       |            |            |
-| Harry Cook         |          |       |     |       |            |            |
-| Helena Drueeke     |          |       |     |       |            |            |
-| Iskren             |          |       |     |       |            |            |
-| James Herr         |          |       |     |       |            |            |
-| Jessica Brady      |          |       |     |       |            |            |
-| Jidapa             |          |       |     |       |            |            |
-| Jinan              |          |       |     |       |            |            |
-| Johan Cajas        |          |       |     |       |            |            |
-| Jon Fazzaro        |          |       |     |       |            |            |
-| Jon Turner         |          |       |     |       |            |            |
-| Jonathan           |          |       |     |       |            |            |
-| Jordan Olguin      |          |       |     |       |            |            |
-| Julia              |          |       |     |       |            |            |
-| Karol Skrzymowski  |          |       |     |       |            |            |
-| Kelly Gaines       |          |       |     |       |            |            |
-| Kirjsten Blodgett  |          |       |     |       |            |            |
-| Leah               |          |       |     |       |            |            |
-| Marc S             |          |       |     |       |            |            |
-| Mark Shead         |          |       |     |       |            |            |
-| Marko B            |          |       |     |       |            |            |
-| Matthew Granger    |          |       |     |       |            |            |
-| Matthew Knowles    |          |       |     |       |            |            |
-| Michael Wolf       |          |       |     |       |            |            |
-| Mike Clement       |          |       |     |       |            |            |
-| Mike Marshall      |          |       |     |       |            |            |
-| Moss               |          |       |     |       |            |            |
-| Nathan Lively      |          |       |     |       |            |            |
-| Nicolas Carlo      |          |       |     |       |            |            |
-| Nikhil Gupta       |          |       |     |       |            |            |
-| Paige Watson       |          |       |     |       |            |            |
-| Raimo              |          |       |     |       |            |            |
-| Q                  |          |       |     |       |            |            |
-| Rhys Koerner       |          |       |     |       |            |            |
-| Riley Rust         |          |       |     |       |            |            |
-| Rodrigo Coto       |          |       |     |       |            |            |
-| Ryan Robbins       |          |       |     |       |            |            |
-| Sam Taggart        |          |       |     |       |            |            |
-| Samuel Schuetz     |          |       |     |       |            |            |
-| Sarah Saunders     |          |       |     |       |            |            |
-| Sean Gerhardt      |          |       |     |       |            |            |
-| Spencer            |          |       |     |       |            |            |
-| Ted M. Young       |          |       |     |       |            |            |
-| Thomas Jones       |          |       |     |       |            |            |
-| Travis             |          |       |     |       |            |            |
-| Virginia Counts    |          |       |     |       |            |            |
-| William Wallace    |          |       |     |       |            |            |
-| Woody Zuill        |          |       |     |       |            |            |
-| Zach Shaw          |          |       |     |       |            |            |
+| Name                | LinkedIn                                                                            | Email                            | Web                                                               | Other                                                          | Session(s) | Interacted |
+|---------------------|-------------------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|------------|------------|
+| Adam Teichert       |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Alan                |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Alex Thurow         | [alexthurow](https://www.linkedin.com/in/alexthurow/)                               |                                  | [YouTube](https://www.youtube.com/@OnModernDev)                   |                                                                |            |            |
+| Amitai Schleier     | [schmonz](https://www.linkedin.com/in/schmonz/)                                     |                                  | [schmonz.com](https://schmonz.com)                                |                                                                |            |            |
+| Allan Stewart       |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Andrew Koster       |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Ben Hyer            | [ben-hyer-736557336](https://www.linkedin.com/in/ben-hyer-736557336/)               |                                  |                                                                   |                                                                |            |            |
+| Bishwas             |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Brandon Tripp       | [brandon-g-tripp](https://www.linkedin.com/in/brandon-g-tripp/)                     |                                  |                                                                   |                                                                |            |            |
+| Cael Church         |                                                                                     | <cael.church@students.snow.edu>  |                                                                   |                                                                |            |            |
+| Chase Harmer        |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Chris Stone         | [chrisstonedev](https://www.linkedin.com/in/chrisstonedev/)                         |                                  |                                                                   |                                                                |            |            |
+| Chuck Bates         | [chuck-bates](https://www.linkedin.com/in/chuck-bates/)                             |                                  |                                                                   |                                                                |            |            |
+| Cody Howell         | [cody-howell-14384716a](https://www.linkedin.com/in/cody-howell-14384716a/)         |                                  |                                                                   |                                                                |            |            |
+| Dallan Simper       |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Daniel Scheufler    | [danielscheufler](https://www.linkedin.com/in/danielscheufler/)                     |                                  | [Blog](https://daniel.scheufler.tech/)                            | [Books](https://leanpub.com/u/danielscheufler)                 |            |            |
+| Danny O             | [danielolewski](https://www.linkedin.com/in/danielolewski/)                         |                                  |                                                                   |                                                                |            |            |
+| Danny Warren        |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Dave Adsit          | [davidadsit](https://www.linkedin.com/in/davidadsit/)                               |                                  | [crafting-code-podcast](https://crafting-code-podcast.github.io/) |                                                                |            |            |
+| Diana Sherwood      | [dianasherwood5000](http://linkedin.com/in/dianasherwood5000)                       |                                  |                                                                   |                                                                |            |            |
+| Ed Thome            |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Eddie Bush          |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Ellis Lempriere     | [ellis-lempriere](https://www.linkedin.com/in/ellis-lempriere/)                     |                                  |                                                                   |                                                                |            |            |
+| Emily               |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Ethan Hintze        |                                                                                     | <ethan.hintze@students.snow.edu> |                                                                   |                                                                |            |            |
+| Fabricio Robles     | [fabricio-robles-6bb440a3](https://cr.linkedin.com/in/fabricio-robles-6bb440a3)     |                                  |                                                                   |                                                                |            |            |
+| Garrick West        | [garrickwest](https://www.linkedin.com/in/garrickwest/)                             |                                  |                                                                   |                                                                |            |            |
+| Giselle Valenzuela  | [giselle-valenzuela](https://www.linkedin.com/in/giselle-valenzuela/)               |                                  |                                                                   |                                                                |            |            |
+| Gus Murphy          |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Harry Cook          |                                                                                     | <harry.cook@students.snow.edu>   |                                                                   |                                                                |            |            |
+| Heber Allen         |                                                                                     | <Heber.Allen@Snow.edu>           |                                                                   |                                                                |            |            |
+| Helena Drüeke       | [helena-drueeke](https://www.linkedin.com/in/helena-drueeke/)                       |                                  |                                                                   |                                                                |            |            |
+| Iskren              |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| James Herr          | [james-herr-63b85b1b3](https://www.linkedin.com/in/james-herr-63b85b1b3/)           |                                  |                                                                   |                                                                |            |            |
+| Jessica Brady       | [jessica-brady-90791047](https://www.linkedin.com/in/jessica-brady-90791047/)       |                                  |                                                                   |                                                                |            |            |
+| Jidapa Angsutti     | [jidapaangsutti](https://www.linkedin.com/in/jidapaangsutti/)                       |                                  |                                                                   |                                                                |            |            |
+| Jinan               |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Johan Cajas         |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Jon Fazzaro         |                                                                                     |                                  | [jonfazzaro.omg.lol](https://jonfazzaro.omg.lol)                  |                                                                |            |            |
+| Jon Turner          | [jonathan-m-turner](https://www.linkedin.com/in/jonathan-m-turner/)                 |                                  |                                                                   |                                                                |            |            |
+| Jonathan            |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Jordan Olguin       | [jordanolguin](https://www.linkedin.com/in/jordanolguin/)                           |                                  |                                                                   |                                                                |            |            |
+| Julia Fercello      | [julia-fercello](https://www.linkedin.com/in/julia-fercello)                        |                                  |                                                                   |                                                                |            |            |
+| Karol Skrzymowski   | [karolskrzymowski](https://www.linkedin.com/in/karolskrzymowski/)                   |                                  | [Articles/Events](https://bridgingthegap.eu.com/)                 | [Live Streams](https://www.youtube.com/@BridgingTheGap-eu-com) |            |            |
+| Kelly Gaines        |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Kirjsten Blodgett   |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Leah Wynn           | [leahvwynn](https://www.linkedin.com/in/leahvwynn/)                                 |                                  |                                                                   |                                                                |            |            |
+| Marc S              |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Mark Shead          |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Marko B             | [markobjelac](https://www.linkedin.com/in/markobjelac/)                             |                                  |                                                                   |                                                                |            |            |
+| Matthew Granger     | [matthewryangranger](https://www.linkedin.com/in/matthewryangranger/)               |                                  |                                                                   |                                                                |            |            |
+| Matthew Knowles     |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Michael R. Wolf     | [MRWolf](https://www.linkedin.com/in/MRWolf)                                        |                                  |                                                                   |                                                                |            |            |
+| Mike Clement        | [mclement](https://www.linkedin.com/in/mclement/)                                   |                                  |                                                                   |                                                                |            |            |
+| Mike Marshall       | [michael-marshall-89738a12](https://www.linkedin.com/in/michael-marshall-89738a12/) |                                  |                                                                   |                                                                |            |            |
+| Moss Collum         |                                                                                     | <moss.collum@gmail.com>          |                                                                   |                                                                |            |            |
+| Nathan Lively       |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Nicolas Carlo       |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Nikhil Gupta        | [nikhilguptain](https://www.linkedin.com/in/nikhilguptain)                          |                                  |                                                                   |                                                                |            |            |
+| Paige Watson        | [paige-is-xp](https://www.linkedin.com/in/paige-is-xp/)                             |                                  | [SoftwareAsCraft.com](https://softwareascraft.com)                | [Bluesky](https://bsky.app/profile/softwareascraft.com)        |            |            |
+| Quinten Marsala (Q) | [qmarsala](https://www.linkedin.com/in/qmarsala)                                    |                                  |                                                                   |                                                                |            |            |
+| Raimo               |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Rhys Koerner        | [rhys-koerner](https://www.linkedin.com/in/rhys-koerner/)                           |                                  |                                                                   |                                                                |            |            |
+| Riley Rust          |                                                                                     | <Riley.Rust@students.snow.edu>   |                                                                   |                                                                |            |            |
+| Rodrigo Coto        | [rodrigo-coto](https://www.linkedin.com/in/rodrigo-coto)                            |                                  |                                                                   |                                                                |            |            |
+| Ryan Robbins        | [ryanarobbins](https://www.linkedin.com/in/ryanarobbins/)                           |                                  |                                                                   |                                                                |            |            |
+| Sam Taggart         |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Samuel Schuetz      |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Sarah Saunders      | [sarah-martin-saunders](https://www.linkedin.com/in/sarah-martin-saunders/)         |                                  |                                                                   |                                                                |            |            |
+| Sean Gerhardt       |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Spencer Jensen      | [spencer-jensen-290529179](https://www.linkedin.com/in/spencer-jensen-290529179)    |                                  |                                                                   |                                                                |            |            |
+| Ted M. Young        |                                                                                     | <ted@ted.dev>                    | [ted.dev](https://ted.dev/about)                                  | [Past Talks](https://ted.dev/talks/#past-talks)                |            |            |
+| Thomas Jones        |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Travis Bumgarner    | [travisbumgarner](https://www.linkedin.com/in/travisbumgarner)                      |                                  |                                                                   |                                                                |            |            |
+| Virginia Counts     |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| William Wallace     |                                                                                     |                                  |                                                                   |                                                                |            |            |
+| Woody Zuill         | [woodyzuill](https://www.linkedin.com/in/woodyzuill/)                               |                                  |                                                                   |                                                                |            |            |
+| Zach Shaw           | [zacharyshaw](https://www.linkedin.com/in/zacharyshaw/)                             |                                  |                                                                   |                                                                |            |            |
 
 ## Not-attending (but mentioned)
 
