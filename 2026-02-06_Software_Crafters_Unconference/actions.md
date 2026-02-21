@@ -4,6 +4,11 @@
 
 ### New Connection Requests
 
+Good to see you at Software Crafters UnConference.  Although we didn't get time to interact much, I see that we much in common.  Open to connecting here on LinkedIn?  If you'r up for it, I'd also enjoy a quick call some time to trade ideas.
+Best,
+Michael
+
+- [x] Amitai Schleier
 - [ ] James Herr
 - [ ] Jessica Brady
 - [ ] Jon Fazzaro
@@ -24,8 +29,26 @@
 - [ ] Paige Watson
 - [ ] Quinten Quartel
 - [ ] Sam Taggart
-- [ ] Ted Young
+- [x] Ted Young
+
 - [ ] Woody Zuill
+
+#### Ted Young
+
+Ted,
+
+Good to see you at the Software Crafters UnConference.
+
+I really appreciated both sessions you led. Event Sourcing has come up 2–3 times for me since then:
+
+- AI agent memory + scheduling (Steve Yegge’s beads / “Gas Town”)
+- a student-essay AI-audit system (pretty cool... it replayed all the keystrokes of a Google Doc to observe work patterns - composition vs cut/paste)
+- a product idea where Event Sourcing is already the cleanest fit
+
+I’m looking for short training or contract work. If anyone comes to mind, I’d appreciate an introduction.
+
+Best,
+Michael
 
 ### Follow-up actions (copied from session notes / marketplace)
 
