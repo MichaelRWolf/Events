@@ -2,7 +2,7 @@
 
 ## LinkedIn
 
-### New Connection Requests
+### Connection Requests
 
 Good to see you at Software Crafters UnConference.  Although we didn't get time to interact much, I see that we much in common.  Open to connecting here on LinkedIn?  If you'r up for it, I'd also enjoy a quick call some time to trade ideas.
 Best,
@@ -10,11 +10,11 @@ Michael
 
 - [x] Amitai Schleier
 - [ ] James Herr
-- [ ] Jessica Brady
+- [x] Jessica Brady
 - [ ] Jon Fazzaro
 - [ ] Karol Skrzymowski
 
-### Existing Connection Re-connection
+### Re-connect
 
 - [ ] Chris Stone
 - [ ] Cody Howell
@@ -33,8 +33,35 @@ Michael
 
 - [ ] Woody Zuill
 
+### Follow-up actions (copied from session notes / marketplace)
+
+- [ ] Alex Thurow — Collect the follow-up links from the Modern SW Development session (veritable fire hose)
+- [ ] Chris Stone — Manager expectations / latency (follow up)
+- [ ] Danny Warren — Looking for AI designed for collaboration
+- [ ] Daniel Scheufler — AI patterns with AI (follow up)
+- [ ] Dave Adsit — Job search (follow up)
+- [ ] Ethan Hintze — Student
+- [ ] James Herr — Team that teaches people to mob
+- [ ] Karol Skrzymowski — Large company
+- [ ] Matthew Knowles — Mentioned he does AI coaching
+- [ ] Ted Young — TDD nuances (follow up)
+- [ ] Woody Zuill & James Herr — TY for pairing on a session about mobbing
+
+### LinkedIn message/invitation
+
+#### Jessica Brady
+
+``` text
+Jessica — I enjoyed meeting you at Software Crafters Unconference and loved the energy/perspective you brought to our sessions. Let’s connect here. If you’re up for a short call, I’d love to trade ideas on how anthropomorphic + artificial intelligences can collaborate. —Michael
+Jessica,
+I enjoyed meeting you at Software Crafters Unconference and loved the energy/perspective you brought to our sessions. Let’s connect on LinkedIn. If you’re up for a short call, I’d love to trade ideas on how anthropomorphic + artificial intelligences can collaborate. 
+Best,
+Michael
+```
+
 #### Ted Young
 
+``` text
 Ted,
 
 Good to see you at the Software Crafters UnConference.
@@ -50,21 +77,9 @@ I’m looking for short training or contract work. If anyone comes to mind, I’
 Best,
 Michael
 
-### Follow-up actions (copied from session notes / marketplace)
+```
 
-- [ ] Alex Thurow — Collect the follow-up links from the Modern SW Development session (veritable fire hose)
-- [ ] Chris Stone — Manager expectations / latency (follow up)
-- [ ] Danny Warren — Looking for AI designed for collaboration
-- [ ] Daniel Scheufler — AI patterns with AI (follow up)
-- [ ] Dave Adsit — Job search (follow up)
-- [ ] Ethan Hintze — Student
-- [ ] James Herr — Team that teaches people to mob
-- [ ] Karol Skrzymowski — Large company
-- [ ] Matthew Knowles — Mentioned he does AI coaching
-- [ ] Ted Young — TDD nuances (follow up)
-- [ ] Woody Zuill & James Herr — TY for pairing on a session about mobbing
-
-## LinkedIn Post
+### LinkedIn Post
 
 Ted Young
 
@@ -75,7 +90,7 @@ Jessica
 
 - Likely has more important skills than my decades of software -- Manageing 8th grade classroom.  30 students.
 
-Garrick - Agile Crumudgeon.  
+Garrick - Agile Crumudgeon.
 
 - Crumedgeon - I don't want to pay for an AI to parse "Please" and "Thank-you.  In fact, I want it to teach me how to treat it non-anthropomorphically".
 - Agile - "Uncle.  I learned that I was not asking the right question."
