@@ -49,6 +49,19 @@ Michael
 
 ### LinkedIn message/invitation
 
+#### James Herr
+
+``` text
+James,
+
+Thanks for the LinkedIn connection request.  I enjoyed meeting you, and especially that you and Woody didn't just talk about working together... you actualy presented together!  So many talks about how to work as a team are.... (wait for it)... presented by a single person (i.e. a non-team).
+
+In your intro, I caught that you are on a team that is teaching folks to mob.  I'd love to hear about that you are interested in hopping on a short call some time.
+
+Best,
+Michael
+```
+
 #### Jessica Brady
 
 ``` text
