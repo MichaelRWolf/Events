@@ -9,10 +9,9 @@ Best,
 Michael
 
 - [x] Amitai Schleier
-- [ ] James Herr
+- [x] James Herr
 - [x] Jessica Brady
-- [ ] Jon Fazzaro
-- [ ] Karol Skrzymowski
+- [x] Karol Skrzymowski
 
 ### Re-connect
 
@@ -21,6 +20,7 @@ Michael
 - [ ] Diana Sherwood
 - [ ] Eddie Bush
 - [ ] Garrick West
+- [x] Jon Fazzaro
 - [ ] Jon Turner
 - [ ] Kelly Gaines
 - [ ] Leah Wynn
@@ -41,13 +41,22 @@ Michael
 - [ ] Daniel Scheufler — AI patterns with AI (follow up)
 - [ ] Dave Adsit — Job search (follow up)
 - [ ] Ethan Hintze — Student
-- [ ] James Herr — Team that teaches people to mob
-- [ ] Karol Skrzymowski — Large company
+- [x] James Herr — Team that teaches people to mob
+- [x] Karol Skrzymowski — Large company
 - [ ] Matthew Knowles — Mentioned he does AI coaching
 - [ ] Ted Young — TDD nuances (follow up)
 - [ ] Woody Zuill & James Herr — TY for pairing on a session about mobbing
 
 ### LinkedIn message/invitation
+
+#### Karol Skrzymowski
+
+``` text
+Karol,
+
+Good to see you at Software Crafters UnConference.  I appreciated the perspective you brought to the sessions we shared.  Let's connect here on LinkedIn?  If you're up for it, I'd also enjoy a quick call some time to trade ideas.
+
+```
 
 #### James Herr
 
