@@ -2,50 +2,70 @@
 
 ## LinkedIn
 
-### Connection Requests
+### Follow-up actions (copied from session notes / marketplace)
 
+#### New Connections
+
+``` text
 Good to see you at Software Crafters UnConference.  Although we didn't get time to interact much, I see that we much in common.  Open to connecting here on LinkedIn?  If you'r up for it, I'd also enjoy a quick call some time to trade ideas.
+
+Best,
+Michael
+```
+
+LinkedIn Connection Request + ???
+
+- [x] Amitai Schleier
+- [x] James Herr — Team that teaches people to mob
+- [x] Jessica Brady
+- [x] Karol Skrzymowski — Large company
+
+#### Existing Connections
+
+I hope you enjoyed the Software Crafters UnConference as much as I did.  As expected, I was surprised.  Oh, how I savor that oxymoron - it's the magic of Open Space!!
+
+Your comment about XXXXXXXXXXXXXXXX caught my attention, and I'd like to know more about it.
+
+If you're up for a short call, I would value trading insights.
+
 Best,
 Michael
 
-- [x] Amitai Schleier
-- [x] James Herr
-- [x] Jessica Brady
-- [x] Karol Skrzymowski
+----
 
-### Re-connect
+Reconnnect + ???
 
+- [ ] Alex Thurow
+  — Collect the follow-up links from the Modern SW Development session (veritable fire hose)
 - [ ] Chris Stone
+  — Manager expectations / latency (follow up)
 - [ ] Cody Howell
+- [ ] Daniel Scheufler
+  — AI patterns with AI (follow up)
+- [ ] Danny Warren
+  — Looking for AI designed for collaboration
+- [ ] Dave Adsit
+  — Job search (follow up)
 - [ ] Diana Sherwood
 - [ ] Eddie Bush
+- [ ] Ethan Hintze — Student
 - [ ] Garrick West
-- [x] Jon Fazzaro
 - [ ] Jon Turner
+- [x] Jon Fazzaro
 - [ ] Kelly Gaines
 - [ ] Leah Wynn
+- [ ] Matthew Knowles
+  — Mentioned he does AI coaching
 - [ ] Mike Clement
 - [ ] Nicolas Carlo
 - [ ] Paige Watson
 - [ ] Quinten Quartel
 - [ ] Sam Taggart
 - [x] Ted Young
-
+  — TDD nuances (follow up)
 - [ ] Woody Zuill
-
-### Follow-up actions (copied from session notes / marketplace)
-
-- [ ] Alex Thurow — Collect the follow-up links from the Modern SW Development session (veritable fire hose)
-- [ ] Chris Stone — Manager expectations / latency (follow up)
-- [ ] Danny Warren — Looking for AI designed for collaboration
-- [ ] Daniel Scheufler — AI patterns with AI (follow up)
-- [ ] Dave Adsit — Job search (follow up)
-- [ ] Ethan Hintze — Student
-- [x] James Herr — Team that teaches people to mob
-- [x] Karol Skrzymowski — Large company
-- [ ] Matthew Knowles — Mentioned he does AI coaching
-- [ ] Ted Young — TDD nuances (follow up)
-- [ ] Woody Zuill & James Herr — TY for pairing on a session about mobbing
+- [ ] Woody Zuill & James Herr
+  — TY for pairing on a session about mobbing
 
 ### LinkedIn message/invitation
 
