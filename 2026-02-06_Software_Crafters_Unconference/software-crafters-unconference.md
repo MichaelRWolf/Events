@@ -12,11 +12,11 @@ Here's what stayed with me.
 
 ## The Big Theme: Same Game, New Tools
 
-The through-line of the day, for me, was this: Dave Farley's frame still holds — the game is still to optimize for learning and complexity. But the complexity is moving. What's changing is the toolkit and the terrain.
+The through-line of the day, for me, was this: Dave Farley's frame still holds — the game is still to optimize for learning and complexity. But the complexity is moving. As AI changes the cost, complexity, and risk of software development, we are inventing (or discovering) new places to add them back.  AI isn't giving us the same software differently, it is differently giving us different software.
 
-Now that it's easier to generate and modify programming language and config files (FKA "source code"), the "source of truth" code is differently controlled — extending beyond flow, data, and source code into knowledge and interaction. We used to be statically stable (think crawling) but we are transitioning to dynamically stable (think walking, always falling, but catching ourselves before we actually do).
+As AI generates programming language and config files for (what's approaching) no cost, those artifacts are no longer the "source files".  They are ephemeral artifacts derived from other "source of truth" files (or non-file sources of truth).  As Woody Zuill says, "We are discovering what work needs to be done by doing the work" with these new thingies: agents, skills, orchestrators, context.
 
-We are inventing this as we learn: agents, skills, prompt engineering, context engineering, orchestration. Like the blacksmiths in the age of horseless carriages, the ones who stuck with the "horse business" peaked at 1915, but the ones who stayed in the "transportation business" became truckers (known anachronistically as "teamsters"). We can't predict snowmobiles, ski boats and helicopters. But we can still manage for learning and complexity.
+We are metaphorically marveling that our 1 horse carriage is powered by a 10 horsepower motor, but we don't (can't?) yet imagine snowmobiles, ski boats, and stump grinders. Or oil changes.
 
 ## Sessions
 
@@ -58,7 +58,7 @@ Low polish, high value. That's the format working as intended.
 
 There's something irreplaceable about a room where the agenda is built by the people in it — where sessions form around genuine curiosity rather than a speaker submission deadline, and where the best conversations often happen between slots rather than during them.
 
-If they were giving awards, I'd give Garrick West the Agile Curmudgeon award — for embodying both parts.
+If they were giving awards, I'd give Garrick West the "Agile Curmudgeon" award — for boldly openly modeling both attributes:
 
 The curmudgeon part (at opening circle): "I don't want to pay for an AI to parse 'Please' and 'Thank you.' In fact, I want it to teach me how to treat it non-anthropomorphically."
 
