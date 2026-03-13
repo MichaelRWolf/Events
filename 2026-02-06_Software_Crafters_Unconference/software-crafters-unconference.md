@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Software Crafters UnConference — Spring 2026"
-date: 2026-02-06
+date: 2026-03-13
 categories: [conferences, software-craft, AI]
 tags: [unconference, open-space, software-craftsmanship, software-engineering, agile, XP, extreme-programming, TDD, mob-programming, ensemble-programming, continuous-delivery, AI, LLM, agentic-AI, AI-assisted-development, prompt-engineering, context-engineering, hexagonal-architecture, event-sourcing, observability, mentoring, team-dynamics, developer-experience, learning, complexity, Dave-Farley, Woody-Zuill]
 ---
