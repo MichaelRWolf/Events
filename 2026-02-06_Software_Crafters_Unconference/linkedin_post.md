@@ -1,9 +1,28 @@
-# LinkedIn Post: Software Crafters Unconference Spring 2026
+# LinkedIn Post: Software Crafters UnConference - Spring 2026
 
-Quick summary of some important highlights from Software Crafters Unconference (last week).
+---
 
-## What stood out
+Spent a day at the Software Crafters UnConference last month. No vendor keynotes. No polished decks. Just honest conversation about the work.
 
-- Same game, new tools -- As Dave Farley advises, the game is still to optomize for learning and complexity.  But the complexity is moving.  Now that it's easier to generate and modify programming language and config files (FKA "source code"), the "source of truth" code is differently controlled.  We used to be statically stable (think crawling) but we are transitioning to dynamically stable (think walking, always falling, but catching ourselves before we actually do).  We are inventing this as we learn: agents, skills, prompt engineering, context engineering, orchestration.  Like the blacksmiths in the age of horseless carriages, the ones who stuck with the "horse business" peaked at 1915, but the ones who stayed in the "transportation business" became truckers (known anachronistically as "teamsters").  We can't predict snowmobiles, ski boats and helicopters.  But we can still manage for learning and complexity.
+Here's what the room was thinking about.
 
-- Sessions that stuck -- [Summarize the ###-level sessions with their own section]
+**Same game, new tools.** Dave Farley's frame still holds — optimize for learning and complexity. But the complexity is moving. As AI generates code for approaching-zero cost, the artifacts we used to call "source files" are becoming ephemeral. The real source of truth is somewhere else now, and we're still figuring out where. As Woody Zuill put it: "We are discovering what work needs to be done by doing the work." We're marveling that our 1-horse carriage has a 10-horsepower motor. We can't yet imagine snowmobiles.
+
+**AI and practice.** The big question isn't "will AI write my code." It's what TDD, design, and duplication mean when agents do. Nobody had clean answers. Yet!
+
+**Enduring craft.** TDD nuances. Hexagonal architecture. Event sourcing. Observability.  Software Craft is still the point of the conference. Some things stay true regardless of what's generating the code.
+
+**People and teams.** Mob programming (alive? dead? both?). AI robbing next-gen career-building blocks. Mentoring without becoming the bottleneck. The human side of software is getting more complicated, not less.
+
+**Perspective checks.** A well-sourced counterweight to AI enthusiasm. Daily habits worth keeping. Wins worth celebrating. The format makes room for all of it.
+
+My highlight: Garrick West earned the unofficial "Agile Curmudgeon award".
+
+- Opening circle: "I don't want to pay for an AI to parse 'Please' and 'Thank you.'"
+- Closing circle: "Uncle!! I learned I was not asking the right question."
+
+Rare by themselves, skepticism and curiosity, even rarer when paired.  Thank you, Garrick, for openly modeling both.
+
+scunconf.com — worth following if you haven't yet.
+
+ #softwarecraftsmanship #unconference #agile #TDD #softwaredevelopment #AI #continuousdelivery #XP #promptengineering #teamdynamics #softwareengineering

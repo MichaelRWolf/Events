@@ -64,7 +64,7 @@ The curmudgeon part (at opening circle): "I don't want to pay for an AI to parse
 
 The agile part (at closing circle): "Uncle. I learned I was not asking the right question."
 
-That's the magic, actually. Being critical of ideas until they're proven, and remaining genuinely open to updating. Those two things together — skepticism and curiosity — are rarer than either one alone. Most people have one or the other. Garrick had both working at the same time.
+That's the magic, actually: Skepticism + Curiosity.  Being critical of ideas until they're proven, and remaining genuinely open to updating.  Rare as separate attribute. Thanks, Garrick, for openly modeling both.
 
 ---
 
