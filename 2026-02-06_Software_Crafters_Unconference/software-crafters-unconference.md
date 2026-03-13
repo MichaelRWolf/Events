@@ -1,26 +1,22 @@
 ---
 layout: post
-title: "Software Crafters Unconference — February 2026"
+title: "Software Crafters UnConference — Spring 2026"
 date: 2026-02-06
 categories: [conferences, software-craft, AI]
 tags: [unconference, TDD, agile, mob-programming, LLM, software-craft]
 ---
 
-Last month I spent a day at the Software Crafters Unconference — an open space event where practitioners self-organize around the topics they actually care about. No vendor keynotes. No polished decks. Just honest conversation about the work.
+I recently attended my 3rd Software Crafters UnConference — an open space event where practitioners self-organize around the topics they actually care about. No vendor keynotes. No polished decks. Just honest conversation about the work.
 
 Here's what stayed with me.
 
 ## The Big Theme: Same Game, New Tools
 
-### V1
+The through-line of the day, for me, was this: Dave Farley's frame still holds — the game is still to optimize for learning and complexity. But the complexity is moving. What's changing is the toolkit and the terrain.
 
-The through-line of the day, for me, was this: we're still optimizing for learning and managing complexity. Dave Farley's frame still holds. What's changing is the toolkit and the terrain.
+Now that it's easier to generate and modify programming language and config files (FKA "source code"), the "source of truth" code is differently controlled — extending beyond flow, data, and source code into knowledge and interaction. We used to be statically stable (think crawling) but we are transitioning to dynamically stable (think walking, always falling, but catching ourselves before we actually do).
 
-We're adding prompt engineering and agent-herding alongside the practices we already know. More interestingly, "control" is extending beyond flow, data, and source code — into knowledge and interaction. The source of truth is moving further from what we used to call source code. That's either an opportunity or a risk, depending on whether we're the ones shaping it.
-
-### V2
-
-As Dave Farley advises, the game is still to optomize for learning and complexity.  But the complexity is moving.  Now that it's easier to generate and modify programming language and config files (FKA "source code"), the "source of truth" code is differently controlled.  We used to be statically stable (think crawling) but we are transitioning to dynamically stable (think walking, always falling, but catching ourselves before we actually do).  We are inventing this as we learn: agents, skills, prompt engineering, context engineering, orchestration.  Like the blacksmiths in the age of horseless carriages, the ones who stuck with the "horse business" peaked at 1915, but the ones who stayed in the "transportation business" became truckers (known anachronistically as "teamsters").  We can't predict snowmobiles, ski boats and helicopters.  But we can still manage for learning and complexity.
+We are inventing this as we learn: agents, skills, prompt engineering, context engineering, orchestration. Like the blacksmiths in the age of horseless carriages, the ones who stuck with the "horse business" peaked at 1915, but the ones who stayed in the "transportation business" became truckers (known anachronistically as "teamsters"). We can't predict snowmobiles, ski boats and helicopters. But we can still manage for learning and complexity.
 
 ## Sessions
 
