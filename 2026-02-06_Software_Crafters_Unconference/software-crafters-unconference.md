@@ -3,7 +3,7 @@ layout: post
 title: "Software Crafters UnConference — Spring 2026"
 date: 2026-02-06
 categories: [conferences, software-craft, AI]
-tags: [unconference, TDD, agile, mob-programming, LLM, software-craft]
+tags: [unconference, open-space, software-craftsmanship, software-engineering, agile, XP, extreme-programming, TDD, mob-programming, ensemble-programming, continuous-delivery, AI, LLM, agentic-AI, AI-assisted-development, prompt-engineering, context-engineering, hexagonal-architecture, event-sourcing, observability, mentoring, team-dynamics, developer-experience, learning, complexity, Dave-Farley, Woody-Zuill]
 ---
 
 I recently attended my 3rd Software Crafters UnConference — an open space event where practitioners self-organize around the topics they actually care about. No vendor keynotes. No polished decks. Just honest conversation about the work.
@@ -12,11 +12,11 @@ Here's what stayed with me.
 
 ## The Big Theme: Same Game, New Tools
 
-The through-line of the day, for me, was this: Dave Farley's frame still holds — the game is still to optimize for learning and complexity. But the complexity is moving. As AI changes the cost, complexity, and risk of software development, we are inventing (or discovering) new places to add them back.  AI isn't giving us the same software differently, it is differently giving us different software.
+The through-line of the day, for me, was this: Dave Farley's frame still holds — the game is still to optimize for learning and complexity. But the complexity is moving. As AI changes the cost, complexity, and risk of software development, we are inventing (or discovering) new places to add them back. AI isn't giving us the same software differently, it is differently giving us different software.
 
-As AI generates programming language and config files for (what's approaching) no cost, those artifacts are no longer the "source files".  They are ephemeral artifacts derived from other "source of truth" files (or non-file sources of truth).  As Woody Zuill says, "We are discovering what work needs to be done by doing the work" with these new thingies: agents, skills, orchestrators, context.
+As AI generates programming language and config files for (what's approaching) no cost, those artifacts are no longer the "source files". They are ephemeral artifacts derived from other "source of truth" files (or non-file sources of truth). As Woody Zuill says, "We are discovering what work needs to be done by doing the work" with these new thingies: agents, skills, orchestrators, context.
 
-We are metaphorically marveling that our 1 horse carriage is powered by a 10 horsepower motor, but we don't (can't?) yet imagine snowmobiles, ski boats, and stump grinders. Or oil changes.
+We are metaphorically marveling that our 1-horse carriage is powered by a 10 horsepower motor, but we don't (can't?) yet imagine snowmobiles, ski boats, and stump grinders. Or oil changes.
 
 ## Sessions
 
@@ -58,7 +58,7 @@ Low polish, high value. That's the format working as intended.
 
 There's something irreplaceable about a room where the agenda is built by the people in it — where sessions form around genuine curiosity rather than a speaker submission deadline, and where the best conversations often happen between slots rather than during them.
 
-If they were giving awards, I'd give Garrick West the "Agile Curmudgeon" award — for boldly openly modeling both attributes:
+If they were giving awards, I'd give Garrick West the "Agile Curmudgeon" award — for boldly modeling both attributes:
 
 The curmudgeon part (at opening circle): "I don't want to pay for an AI to parse 'Please' and 'Thank you.' In fact, I want it to teach me how to treat it non-anthropomorphically."
 
