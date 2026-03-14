@@ -1,3 +1,11 @@
+# IDE / AI tool directories
+.cursor/
+.claude/
+!.claude/CLAUDE.md
+!.claude/settings.json
+!.claude/commands/
+!.claude/commands/**
+
 .DS_Store
 ._*
 .AppleDouble
