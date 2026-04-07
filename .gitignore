@@ -15,3 +15,6 @@ ehthumbs.db
 .Trashes
 .fseventsd
 
+# Claude Code local config inside event subdirectories
+*/.claude/
+
