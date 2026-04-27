@@ -1,4 +1,9 @@
 repos:
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.45.0
+    hooks:
+      - id: markdownlint-fix
+
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
     hooks:
@@ -6,21 +11,16 @@ repos:
       - id: check-added-large-files
         args: ["--maxkb=102400"] # 100MB
 
-  - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.45.0
-    hooks:
-      - id: markdownlint-fix
-
   - repo: local
     hooks:
-      - id: prettier-markdown
-        name: prettier (markdown tables)
-        entry: npx prettier --write --prose-wrap never
-        language: system
-        types: [markdown]
-
       - id: forbid-org-files
         name: forbid org-mode files
         entry: bash -c 'echo "Do not commit .org files." >&2; exit 1'
         language: system
         files: \.org$
+
+      - id: prettier-markdown
+        name: prettier (markdown tables)
+        entry: npx prettier --write --prose-wrap never
+        language: system
+        types: [markdown]
