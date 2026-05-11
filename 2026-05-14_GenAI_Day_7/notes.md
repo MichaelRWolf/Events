@@ -90,3 +90,7 @@ Examines AI applications in site reliability engineering. Covers AI-powered obse
 Field-based guidance from 20 years across financial services and insurance sectors. Emphasizes "real deployments, real obstacles, real numbers" from heavily regulated industry contexts.
 
 #### Notes - The Moves That Matter: A Practitioner's Guide to Joining the 39%
+
+## LinkedIn
+
+See [linkedin_post.md](linkedin_post.md) for the promotional post and first comment.
