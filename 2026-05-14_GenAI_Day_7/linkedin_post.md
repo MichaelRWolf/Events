@@ -2,7 +2,7 @@
 
 ## Post
 
-Skills Development Group will be presenting their 7th GenAI Day this Thursday, May 14.  I'll be there.  I recommend it to anyone who wants perspective on this rapidly evolving field.
+SoftEd will be presenting their 7th GenAI Day this Thursday, May 14.  I'll be there.  I recommend it to anyone who wants perspective on this rapidly evolving field.
 
 I've attended two of the previous six. Each one has been well worth the 6 hour investment.
 
@@ -50,7 +50,7 @@ Speakers, companies, and titles for **GenAI Day #7** are referenced in first com
 
 Speakers at GenAI Day #7 -- Thursday May 14:
 
-- David Mantica -- Managing Director, @Skills Development Group
+- David Mantica -- Managing Director, @SoftEd
 - Jordan Plawner -- Founder, Pacific AI Advisory
 - George Churchwell -- @Mt. Tam Innovations
 - Tony Rockliff -- AI Connection Club
