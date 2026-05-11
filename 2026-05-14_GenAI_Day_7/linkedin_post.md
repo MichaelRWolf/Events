@@ -2,9 +2,9 @@
 
 ## Post
 
-Skills Development Group will be presenting their 7th GenAI Day this Thursday, May 14 -- and I'll be there.
+Skills Development Group will be presenting their 7th GenAI Day this Thursday, May 14.  I'll be there.  I recommend it to anyone who wants perspective on this rapidly evolving field.
 
-I've attended two of the previous six. Each one has been worth the day.
+I've attended two of the previous six. Each one has been well worth the 6 hour investment.
 
 What keeps me coming back: David Mantica.
 
@@ -15,6 +15,8 @@ This one focuses on **Agentic AI** -- the next wave moving from experimental to 
 If you want to spend a Thursday focused on what matters, this is it.
 
 <https://www.softed.com/may-2026-genai-day>
+
+P.S. Earn 6 PDUs/CEUs
 
 ---
 
