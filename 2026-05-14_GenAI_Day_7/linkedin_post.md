@@ -2,7 +2,7 @@
 
 ## Post
 
-Skills Development Group will be presenting their 7th GenAI Day this Thursday -- and I'll be there.
+Skills Development Group will be presenting their 7th GenAI Day this Thursday, May 14 -- and I'll be there.
 
 I've attended two of the previous six. Each one has been worth the day.
 
@@ -18,7 +18,7 @@ If you want to spend a Thursday focused on what matters, this is it.
 
 ---
 
-Still skeptical? Here's what I took away from the last two -- MY MANUAL notes, summarized by Claude:
+For context, here are highlights from my notes at #4 and #5 -- my manual notes (summarized by Claude):
 
 **From GenAI Day #4 (October 2024):**
 
