@@ -1,74 +1,85 @@
 # Image Generation Prompt -- GenAI Day #7 LinkedIn Post
 
-Paste the block below directly into ChatGPT.
+Send each numbered prompt below as a **separate message** to ChatGPT.
+One message = one image. Do not combine them.
 
 ---
 
-## Prompt
+## Prompt 1 of 4
 
-Generate 4 black-and-white line-drawing illustrations for LinkedIn posts.
-Aspect ratio: 1.91:1 (1200 × 628 px landscape -- standard LinkedIn post image).
+Black and white pen-and-ink line drawing. No color. No gray. No text.
+No letters. No words. No labels. No numbers. White background.
+Landscape format, 1.91:1 aspect ratio.
 
-ABSOLUTE RULE: No text, no letters, no numbers, no words anywhere in any image.
-Visual elements only.
+A single architectural arch. On the far left, the arch is drawn in thin
+dotted lines -- tentative, incomplete. Moving right, the same arch
+transitions to bold solid strokes -- structural, finished, load-bearing.
+The transformation happens gradually across the width of the image.
 
-### Style
+The drawing occupies the center 35% of the frame. Most of the image is
+empty white space. No figures. No people. No ground line.
 
-- Pure black and white -- no gray, no color, no halftone
-- Crisp architectural line weight -- technical illustration meets editorial drawing
-- Minimal: 2-5 elements per image maximum
-- Negative space is deliberate -- white works as hard as black
-- Abstract enough to invite interpretation; not a diagram, not clip art
-- All 4 should feel like a visual family: same line weight, same abstraction level
+Style: editorial pen illustration, medium-weight confident strokes,
+New Yorker magazine illustration style.
 
-### Audience
+---
 
-Developers, middle managers, CTOs, CSOs -- people who feel the urgency of
-understanding GenAI technically, organizationally, and strategically. They know
-something is changing fast. They are not sure whether they are ahead of it or
-behind it. Do not be literal. Evoke the tension, not the technology.
+## Prompt 2 of 4
 
-### Themes to draw from
+Black and white pen-and-ink line drawing. No color. No gray. No text.
+No letters. No words. No labels. No numbers. White background.
+Landscape format, 1.91:1 aspect ratio.
 
-Do not illustrate these literally -- find visual metaphors.
+A dense, uniform grid of thin vertical lines fills the entire frame from
+edge to edge. Near the horizontal center, one single vertical line is
+drawn in bold, heavy strokes -- noticeably darker and thicker than all
+the others. That one line is the only element of visual weight in the
+entire image. No figures. No people.
 
-- Agentic AI: a chain of actions where each step triggers the next without a
-  human hand at every link -- the initiating gesture is human; everything after
-  is autonomous
-- Curation over consumption: a world saturated with identical signals where one
-  channel is distinct -- value is in filtering, not in volume
-- AI projects fail because of adoption and governance, not technology -- the
-  foundation must exist before the structure can stand
-- AI as teammate vs. AI as tool: two entities in mutual adaptation -- who adapts
-  to whom?
-- Something that was experimental is now load-bearing -- a trajectory, not a
-  moment
+Note: the dense field of lines is intentional -- density IS the concept
+for this image. Do not add white space around the field.
 
-### The 4 images
+Style: editorial pen illustration, medium-weight confident strokes,
+New Yorker magazine illustration style.
 
-**Image 1 -- TRAJECTORY**
-Something tentative has become essential. Show direction of travel, not just a
-threshold. A structure that began as optional is now weight-bearing. Suggest the
-arc from experimental to critical without showing a timeline.
+---
 
-**Image 2 -- SIGNAL**
-A field of identical or chaotic marks; one line or form cuts through with
-clarity. Evokes curation, the value of a trusted filter, finding what matters in
-a saturated environment.
+## Prompt 3 of 4
 
-**Image 3 -- CHAIN OF AGENCY**
-A sequence where each step triggers the next without a human hand at each link.
-The first gesture is human; the cascade that follows is not. Not a flowchart --
-suggest momentum, delegation, autonomous continuation.
+Black and white pen-and-ink line drawing. No color. No gray. No text.
+No letters. No words. No labels. No numbers. White background.
+Landscape format, 1.91:1 aspect ratio.
 
-**Image 4 -- MIRROR**
-Two entities -- one organic, one structured/geometric -- in posture of mutual
-adaptation. Neither dominates. The boundary between them is where the
-interesting thing happens. Suggest collaboration without hierarchy.
+A row of standing rectangular blocks stretches from left to right across
+the lower center of the frame. On the far left, a single disembodied hand
+pushes the first block into a fall. The blocks cascade right, each falling
+into the next. No hand touches any block after the first. The blocks grow
+very slightly more complex in outline as they approach the right edge.
+The final block on the far right is still standing.
 
-### ROI note
+The drawing occupies the center-lower 35% of the frame. Most of the image
+is empty white space above. No faces. No bodies beyond the one hand.
 
-4 images gives one for each rhetorical register in the post: urgency
-(Trajectory), attention (Signal), capability (Chain of Agency), relationship
-(Mirror). Each can accompany a future post independently. Generate all 4 as a
-set, then choose by tone.
+Style: editorial pen illustration, medium-weight confident strokes,
+New Yorker magazine illustration style.
+
+---
+
+## Prompt 4 of 4
+
+Black and white pen-and-ink line drawing. No color. No gray. No text.
+No letters. No words. No labels. No numbers. White background.
+Landscape format, 1.91:1 aspect ratio.
+
+Two abstract shapes face each other across a narrow empty gap at the
+center of the image. The left shape is built entirely from curved,
+irregular, flowing lines. The right shape is built entirely from straight,
+angular, geometric lines. The two shapes are mirror images in overall
+outline but constructed from opposite line types. The gap between them is
+empty white. No faces. No human figures. No text.
+
+The two shapes together occupy the center 35% of the frame. Most of the
+image is empty white space surrounding them.
+
+Style: editorial pen illustration, medium-weight confident strokes,
+New Yorker magazine illustration style.
