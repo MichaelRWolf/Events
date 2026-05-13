@@ -1,0 +1,151 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hill;Lara;;;
+FN:Lara Hill
+TITLE:Facilitator
+ORG:Skills Development Group
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/larahill/
+URL;TYPE=Work:https://skillsdg.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/larahill/\nRole: Facilitator/co-host (listed in SoftEd registration emails alongside David Mantica -- not on public speaker page)\nRepeat: GenAI Day #5\nEvent: https://www.softed.com/may-2026-genai-day
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Mantica;David;;;
+FN:David Mantica
+TITLE:Managing Director
+ORG:SoftEd
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/david-mantica/
+URL;TYPE=Work:https://www.softed.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/david-mantica/\nBio: https://www.softed.com/us/about-us/our-team/david-mantica/\nSession: Opening Keynote: Leading in the Age of AI Agents\nEvent: https://www.softed.com/may-2026-genai-day
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Plawner;Jordan;;;
+FN:Jordan Plawner
+TITLE:Founder
+ORG:Pacific AI Advisory
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/jordan-plawner/
+URL;TYPE=Work:https://www.pacificaiadvisory.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/jordan-plawner/\nSession: Meaning and Purpose in the Age of AI: Making AI Human\nEvent: https://www.softed.com/may-2026-genai-day
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Churchwell;George;;;
+FN:George Churchwell
+TITLE:Director\, Generative AI Solutions
+ORG:Mt. Tam Innovations LLC
+TEL;TYPE=Work:+1-571-250-5938
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/george-churchwell-6a6a
+URL;TYPE=Work:https://www.thinkmti.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/george-churchwell-6a6a\nBio: https://www.thinkmti.com/team\nSession: Building Custom AI Agents: A Hands-On Guide to Purpose-Built GPTs\nEvent: https://www.softed.com/may-2026-genai-day
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Rockliff;Tony;;;
+FN:Tony Rockliff
+TITLE:Founder
+ORG:AI Connection Club
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/tonyrockliff/
+URL;TYPE=Work:https://aiconnectionclub.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/tonyrockliff/\nBio: https://tonyrockliff.com/about-tony/\nSession: AI for Everyone: Practical Tools That Transform How You Work Today\nEvent: https://www.softed.com/may-2026-genai-day
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Rao;Toby;;;
+FN:Toby Rao
+TITLE:Founder
+ORG:Loudoun AiGile Network
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/tobyrao/
+NOTE:LinkedIn: https://www.linkedin.com/in/tobyrao/\nSession: Beyond the Pilot: Bringing AI to Life Across the Organization\nEvent: https://www.softed.com/may-2026-genai-day\nNote: Also Director of Enterprise Transformation & AI COE Lead at Exostar (day job).
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Knox;Alan;;;
+FN:Alan Knox
+TITLE:Chief Operating Officer
+ORG:CtiPath
+EMAIL;TYPE=Work:info@alanknox.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/alanknox/
+URL;TYPE=Work:https://alanknox.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/alanknox/\nSession: Scaling AI Agents Without Losing Control: AI Proposes\, Systems Decide\nEvent: https://www.softed.com/may-2026-genai-day\nVerify: Event page lists him as VP Product Development at QuantaViable — no public web presence for that company found.
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Gonyou;Stacy;;;
+FN:Stacy Gonyou
+TITLE:Director of AI Strategy & Solutions
+ORG:IntePros
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/stacygonyou/
+URL;TYPE=Work:https://intepros.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/stacygonyou/\nSession: The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization\nEvent: https://www.softed.com/may-2026-genai-day\nNote: IntePros is a staffing/consulting firm — direct paid-work connection.
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Wolfe;Jess;;;
+FN:Jess Wolfe
+TITLE:Customer Success Manager
+ORG:Swarmia
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/thejessicawolfe/
+URL;TYPE=Work:https://www.swarmia.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/thejessicawolfe/\nSession: Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand\nEvent: https://www.softed.com/may-2026-genai-day
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:King;Corey;;;
+FN:Corey King
+TITLE:Owner & Principal
+ORG:Black Flak LLC
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/king-corey/
+URL;TYPE=Work:https://www.blackflak.org/
+NOTE:LinkedIn: https://www.linkedin.com/in/king-corey/\nSession: Stop Automating the Mess: A Lean Case for AI That Actually Works\nEvent: https://www.softed.com/may-2026-genai-day
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Panajkar;Dev;;;
+FN:Dev Panajkar
+TITLE:CIO
+ORG:XClaymation
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/devpanajkar/
+URL;TYPE=Work:https://xclaymation.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/devpanajkar/\nSession: Elevating SRE Observability using AI (co-presenter with Prasad Banala)\nEvent: https://www.softed.com/may-2026-genai-day
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Banala;Prasad;;;
+FN:Prasad Banala
+TITLE:Director of Quality\, Performance & SRE
+ORG:Major Retail Company
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/prasad-banala-5686a716/
+NOTE:LinkedIn: https://www.linkedin.com/in/prasad-banala-5686a716/\nSession: Elevating SRE Observability using AI (co-presenter with Dev Panajkar)\nEvent: https://www.softed.com/may-2026-genai-day\nNote: Employer withheld per event page.
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Larsson;Jenny;;;
+FN:Jenny Larsson
+TITLE:AI & Digital Transformation Executive
+ORG:Independent Consultant
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/jlarsson/
+NOTE:LinkedIn: https://www.linkedin.com/in/jlarsson/\nSession: The Moves That Matter: A Practitioner's Guide to Joining the 39%\nEvent: https://www.softed.com/may-2026-genai-day\nNote: Presenting as independent. Actual employer is Intact Insurance Specialty Solutions (Global CIO). Multiple "Jenny Larsson" on LinkedIn — this one confirmed via event page.
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Medina;Zaki;;;
+FN:Zaki Medina
+TITLE:CTO
+ORG:REVIVE Healthcare Group
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/zakimedina/
+NOTE:LinkedIn: https://www.linkedin.com/in/zakimedina/\nSession: Closing Session: Agentic AI isn't magic. It's a stack.\nEvent: https://www.softed.com/may-2026-genai-day\nNote: Also appeared at GenAI Day #5 (March 2025).
+END:VCARD

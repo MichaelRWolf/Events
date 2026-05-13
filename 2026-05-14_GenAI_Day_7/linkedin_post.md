@@ -1,5 +1,8 @@
 # LinkedIn Post -- GenAI Day #7
 
+**Published:** 2026-05-11
+**Post URL:** <https://www.linkedin.com/posts/mrwolf_genai-day-may-2026-softed-activity-7459764288711401472-30cj>
+
 ## Post
 
 SoftEd will be presenting their 7th GenAI Day this Thursday, May 14.  I'll be there.  I recommend it to anyone who wants perspective on this rapidly evolving field.

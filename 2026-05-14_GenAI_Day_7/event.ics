@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Wolf//GenAI Day 7//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GenAI Day #7 - 2026-05-14
+X-WR-TIMEZONE:America/New_York
+
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:genai-day-7-full@softed.com
+DTSTART;TZID=America/New_York:20260514T110000
+DTEND;TZID=America/New_York:20260514T170000
+SUMMARY:GenAI Day #7 - The Rise of Agentic AI (Full Event)
+DESCRIPTION:SoftEd GenAI Day #7. 13 sessions\, 6 PDUs/CEUs.\nFormat: Live on Zoom.\nEvent page: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-david-mantica@softed.com
+DTSTART;TZID=America/New_York:20260514T110000
+DTEND;TZID=America/New_York:20260514T113000
+SUMMARY:GenAI Day #7 - David Mantica - Opening Keynote: Leading in the Age of AI Agents
+DESCRIPTION:Speaker: David Mantica\nTitle: Managing Director\, SoftEd\nLinkedIn: https://www.linkedin.com/in/david-mantica/\nBio: https://www.softed.com/us/about-us/our-team/david-mantica/\nTopic: Transformational leadership in the era of AI agents. "80% of project management tasks will be AI-driven by 2030." Scaling AI from experimental to operational.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+gLOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-jess-wolfe@softed.com
+DTSTART;TZID=America/New_York:20260514T113000
+DTEND;TZID=America/New_York:20260514T115000
+SUMMARY:GenAI Day #7 - Jess Wolfe - Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
+DESCRIPTION:Speaker: Jess Wolfe\nTitle: Customer Success Manager\, Swarmia\nLinkedIn: https://www.linkedin.com/in/thejessicawolfe/\nCompany: https://www.swarmia.com/\nTopic: Five Levels of AI Autonomy framework. Matching conversational vs. task-specific agents to the right business scenarios.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-alan-knox@softed.com
+DTSTART;TZID=America/New_York:20260514T115000
+DTEND;TZID=America/New_York:20260514T121000
+SUMMARY:GenAI Day #7 - Alan Knox - Scaling AI Agents Without Losing Control: AI Proposes\, Systems Decide
+DESCRIPTION:Speaker: Alan Knox\nTitle: COO\, CtiPath (listed on event as VP Product Dev\, QuantaViable — verify)\nLinkedIn: https://www.linkedin.com/in/alanknox/\nWebsite: https://alanknox.com/\nTopic: Governed autonomy model for AI decision-making in regulated\, high-stakes environments.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-panajkar-banala@softed.com
+DTSTART;TZID=America/New_York:20260514T122000
+DTEND;TZID=America/New_York:20260514T124000
+SUMMARY:GenAI Day #7 - Dev Panajkar & Prasad Banala - Elevating SRE Observability using AI
+DESCRIPTION:Speakers: Dev Panajkar (CIO\, XClaymation) & Prasad Banala (Director of Quality\, Performance & SRE\, Major Retail Company)\nLinkedIn Dev: https://www.linkedin.com/in/devpanajkar/\nLinkedIn Prasad: https://www.linkedin.com/in/prasad-banala-5686a716/\nTopic: AI-powered observability reducing noise\, enhancing incident investigation\, and predictive system reliability.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-toby-rao@softed.com
+DTSTART;TZID=America/New_York:20260514T124000
+DTEND;TZID=America/New_York:20260514T130000
+SUMMARY:GenAI Day #7 - Toby Rao - Beyond the Pilot: Bringing AI to Life Across the Organization
+DESCRIPTION:Speaker: Toby Rao\nTitle: Founder\, Loudoun AiGile Network\nLinkedIn: https://www.linkedin.com/in/tobyrao/\nTopic: Case study: 58% adoption\, 69% productivity gain\, 93% engagement in nine months. Six key transition strategies.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-jordan-plawner@softed.com
+DTSTART;TZID=America/New_York:20260514T131500
+DTEND;TZID=America/New_York:20260514T133500
+SUMMARY:GenAI Day #7 - Jordan Plawner - Meaning and Purpose in the Age of AI: Making AI Human
+DESCRIPTION:Speaker: Jordan Plawner\nTitle: Founder\, Pacific AI Advisory\nLinkedIn: https://www.linkedin.com/in/jordan-plawner/\nWebsite: https://www.pacificaiadvisory.com/\nTopic: Personal and organizational adaptation to AI. Protecting identity\, purpose\, and creativity while integrating automation.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-jenny-larsson@softed.com
+DTSTART;TZID=America/New_York:20260514T133500
+DTEND;TZID=America/New_York:20260514T140500
+SUMMARY:GenAI Day #7 - Jenny Larsson - The Moves That Matter: A Practitioner's Guide to Joining the 39%
+DESCRIPTION:Speaker: Jenny Larsson\nTitle: AI & Digital Transformation Executive (presenting as independent)\nLinkedIn: https://www.linkedin.com/in/jlarsson/\nNote: Actual employer is Intact Insurance Specialty Solutions (Global CIO). Multiple LinkedIn matches — confirmed via event page.\nTopic: Field-based guidance from 20 years in financial services and insurance. Real deployments\, real obstacles\, real numbers.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-george-churchwell@softed.com
+DTSTART;TZID=America/New_York:20260514T141500
+DTEND;TZID=America/New_York:20260514T143500
+SUMMARY:GenAI Day #7 - George Churchwell - Building Custom AI Agents: A Hands-On Guide to Purpose-Built GPTs
+DESCRIPTION:Speaker: George Churchwell\nTitle: Director\, Generative AI Solutions\, Mt. Tam Innovations LLC\nLinkedIn: https://www.linkedin.com/in/george-churchwell-6a6a\nBio: https://www.thinkmti.com/team\nPhone: +1-571-250-5938\nTopic: Designing domain-specific AI applications. Prompt engineering and architecture. Also spoke at GenAI Day #4 and #5.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-corey-king@softed.com
+DTSTART;TZID=America/New_York:20260514T143500
+DTEND;TZID=America/New_York:20260514T150000
+SUMMARY:GenAI Day #7 - Corey King - Stop Automating the Mess: A Lean Case for AI That Actually Works
+DESCRIPTION:Speaker: Corey King\nTitle: Owner & Principal\, Black Flak LLC\nLinkedIn: https://www.linkedin.com/in/king-corey/\nWebsite: https://www.blackflak.org/\nTopic: Apply operational excellence before AI deployment. "95% of AI initiatives deliver zero return." Lean Six Sigma approach.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-tony-rockliff@softed.com
+DTSTART;TZID=America/New_York:20260514T150000
+DTEND;TZID=America/New_York:20260514T153000
+SUMMARY:GenAI Day #7 - Tony Rockliff - AI for Everyone: Practical Tools That Transform How You Work Today
+DESCRIPTION:Speaker: Tony Rockliff\nTitle: Founder\, AI Connection Club\nLinkedIn: https://www.linkedin.com/in/tonyrockliff/\nWebsite: https://aiconnectionclub.com/\nTopic: Live demonstrations of AI workflows for non-technical professionals. Marketing automation\, research assistance\, content generation.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-stacy-gonyou@softed.com
+DTSTART;TZID=America/New_York:20260514T153000
+DTEND;TZID=America/New_York:20260514T155000
+SUMMARY:GenAI Day #7 - Stacy Gonyou - The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization
+DESCRIPTION:Speaker: Stacy Gonyou\nTitle: Director of AI Strategy & Solutions\, IntePros\nLinkedIn: https://www.linkedin.com/in/stacygonyou/\nCompany: https://intepros.com/\nTopic: Structured AI team deployment with defined engagement parameters and sustainable knowledge transfer. IntePros is a staffing/consulting firm — direct paid-work connection.\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genai-day-7-zaki-medina@softed.com
+DTSTART;TZID=America/New_York:20260514T160000
+DTEND;TZID=America/New_York:20260514T170000
+SUMMARY:GenAI Day #7 - Zaki Medina - Closing Session: Agentic AI isn't magic. It's a stack.
+DESCRIPTION:Speaker: Zaki Medina\nTitle: CTO\, REVIVE Healthcare Group\nLinkedIn: https://www.linkedin.com/in/zakimedina/\nTopic: Closing keynote. Agentic AI as a production stack\, not magic. Also appeared at GenAI Day #5 (March 2025).\nEvent: https://www.softed.com/may-2026-genai-day
+URL:https://www.softed.com/may-2026-genai-day
+LOCATION:Live on Zoom
+END:VEVENT
+
+END:VCALENDAR
