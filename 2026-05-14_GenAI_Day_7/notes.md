@@ -268,3 +268,14 @@ Live notes: [notes_session12_1600_Medina_Closing-Session.md](notes_session12_160
 ## LinkedIn
 
 See [linkedin_post.md](linkedin_post.md) for the promotional post and first comment.
+
+## After-session
+
+In anonymous survey - <https://docs.google.com/forms/u/0/d/e/1FAIpQLSePm89aL15886Rgn7tRLLEnwEEXbd9XOJD8ZRNCDJwtJXDrWA/formResponse>
+
+(Jess Wolfe) - Wow!  Great L1-L5 framing.  Good audience participation via chat, but without bogging down.  Nice refrain - DoD is definition of ready for AI.  Nice.  
+(Alan Knox) - Listening casually, I'd say he was speaking too fast, but by paying attention it was so well-delivered that I could keep up with an amazing of insight for all the agents he mentione.  Great summary picture and restating at the end with all on one sheet.  And great summary-summary of what AI does and what humans do - AI proposes.  System (which includes people and process) decides"
+(Tony Rockliff) - What a wonderful way of being.  Hyper geeky.  Hyper humane.  Type A content wrapped in a Chill-Out presence.  Highly inspiring.
+(Stacy Gonyou) - Soooo many notes.  Too many side references to grab - but the name dropping added credibility and gravitas to the presentation, not merely gratuitous name-dropping theatre.  They amplified the points for how to get the promises of the 60- or 90-day goals.  Great modeling of how a limited-time engagement can reframe why "continual learning" is not just an occasional learning/doing jump but  rather a change in mind-set.
+(Zaki Medina) - <Repeat Stacy comment about breadth of references adding gravitas and credibility, but not diverting attention>  I loved the zoom out to 2024 Start, 2025 Struggle, 2026 Click.  Not candy-coated platitude about perseverence, but rather the scars and lessons from slogging through uncertainty.
+Sorry I couldn't just pick one!!!  These were all above expectation, not just (mathematically boringly) above the day's average.
