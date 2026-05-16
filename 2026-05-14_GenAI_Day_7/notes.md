@@ -22,14 +22,14 @@ See [people.vcf](people.vcf) for importable contact cards (vCard 3.0, all 13 spe
 
 _Repeat: GenAI Day #5. Listed in registration emails alongside David Mantica. Not on public speaker page -- likely SoftEd co-host / facilitator role._
 
-- LinkedIn: <https://www.linkedin.com/in/larahill/>
-- Company: <https://skillsdg.com/>
+- LinkedIn: [Lara Hill](https://www.linkedin.com/in/larahill/)
+- Company: [Skills Development Group](https://skillsdg.com/)
 
 #### David Mantica -- Managing Director, SoftEd
 
 Repeat speaker: GenAI Days #4, #5, #7
 
-- LinkedIn: <https://www.linkedin.com/in/david-mantica/>
+- LinkedIn: [David Mantica](https://www.linkedin.com/in/david-mantica/)
 - Bio: <https://www.softed.com/us/about-us/our-team/david-mantica/>
 - Session: Opening Keynote: Leading in the Age of AI Agents
 - Note: LinkedIn URL not yet in Contacts.app card -- add after import.
@@ -38,7 +38,7 @@ Repeat speaker: GenAI Days #4, #5, #7
 
 Repeat speaker: GenAI Days #4, #5, #7. Duplicate card in Contacts.app -- Daylite will merge.
 
-- LinkedIn: <https://www.linkedin.com/in/george-churchwell-6a6a>
+- LinkedIn: [George Churchwell](https://www.linkedin.com/in/george-churchwell-6a6a)
 - Bio: <https://www.thinkmti.com/team>
 - Session: Building Custom AI Agents: A Hands-On Guide to Purpose-Built GPTs
 - Phone: +1-571-250-5938
@@ -47,33 +47,33 @@ Repeat speaker: GenAI Days #4, #5, #7. Duplicate card in Contacts.app -- Daylite
 
 Repeat speaker: GenAI Days #5, #7
 
-- LinkedIn: <https://www.linkedin.com/in/zakimedina/>
+- LinkedIn: [Zaki Medina](https://www.linkedin.com/in/zakimedina/)
 - Session: Closing Session: Agentic AI isn't magic. It's a stack.
 
 ### New Contacts
 
 #### Jordan Plawner -- Founder, Pacific AI Advisory
 
-- LinkedIn: <https://www.linkedin.com/in/jordan-plawner/>
-- Company: <https://www.pacificaiadvisory.com/>
+- LinkedIn: [Jordan Plawner](https://www.linkedin.com/in/jordan-plawner/)
+- Company: [Pacific AI Advisory](https://www.pacificaiadvisory.com/)
 - Session: Meaning and Purpose in the Age of AI: Making AI Human
 
 #### Tony Rockliff -- Founder, AI Connection Club
 
-- LinkedIn: <https://www.linkedin.com/in/tonyrockliff/>
+- LinkedIn: [Tony Rockliff](https://www.linkedin.com/in/tonyrockliff/)
 - Bio: <https://tonyrockliff.com/about-tony/>
-- Company: <https://aiconnectionclub.com/>
+- Company: [AI Connection Club](https://aiconnectionclub.com/)
 - Session: AI for Everyone: Practical Tools That Transform How You Work Today
 
 #### Toby Rao -- Founder, Loudoun AiGile Network
 
-- LinkedIn: <https://www.linkedin.com/in/tobyrao/>
+- LinkedIn: [Toby Rao](https://www.linkedin.com/in/tobyrao/)
 - Session: Beyond the Pilot: Bringing AI to Life Across the Organization
 - Note: Also Director of Enterprise Transformation & AI COE Lead at Exostar (day job).
 
 #### Alan Knox -- COO, CtiPath
 
-- LinkedIn: <https://www.linkedin.com/in/alanknox/>
+- LinkedIn: [Alan Knox](https://www.linkedin.com/in/alanknox/)
 - Website: <https://alanknox.com/>
 - Email: <info@alanknox.com>
 - Session: Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide
@@ -81,38 +81,38 @@ Repeat speaker: GenAI Days #5, #7
 
 #### Stacy Gonyou -- Director of AI Strategy & Solutions, IntePros
 
-- LinkedIn: <https://www.linkedin.com/in/stacygonyou/>
-- Company: <https://intepros.com/>
+- LinkedIn: [Stacy Gonyou](https://www.linkedin.com/in/stacygonyou/)
+- Company: [IntePros](https://intepros.com/)
 - Session: The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization
 - Note: IntePros is a staffing/consulting firm -- **direct paid-work connection**.
 
 #### Jess Wolfe -- Customer Success Manager, Swarmia
 
-- LinkedIn: <https://www.linkedin.com/in/thejessicawolfe/>
-- Company: <https://www.swarmia.com/>
+- LinkedIn: [Jess Wolfe](https://www.linkedin.com/in/thejessicawolfe/)
+- Company: [Swarmia](https://www.swarmia.com/)
 - Session: Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
 
 #### Corey King -- Owner & Principal, Black Flak LLC
 
-- LinkedIn: <https://www.linkedin.com/in/king-corey/>
+- LinkedIn: [Corey King](https://www.linkedin.com/in/king-corey/)
 - Website: <https://www.blackflak.org/>
 - Session: Stop Automating the Mess: A Lean Case for AI That Actually Works
 
 #### Dev Panajkar -- CIO, XClaymation
 
-- LinkedIn: <https://www.linkedin.com/in/devpanajkar/>
-- Company: <https://xclaymation.com/>
+- LinkedIn: [Dev Panajkar](https://www.linkedin.com/in/devpanajkar/)
+- Company: [XClaymation](https://xclaymation.com/)
 - Session: Elevating SRE Observability using AI
 
 #### Prasad Banala -- Director of Quality, Performance & SRE, Major Retail Company
 
-- LinkedIn: <https://www.linkedin.com/in/prasad-banala-5686a716/>
+- LinkedIn: [Prasad Banala](https://www.linkedin.com/in/prasad-banala-5686a716/)
 - Session: Elevating SRE Observability using AI
 - Note: Employer withheld per event page.
 
 #### Jenny Larsson -- AI & Digital Transformation Executive (independent)
 
-- LinkedIn: <https://www.linkedin.com/in/jlarsson/>
+- LinkedIn: [Jenny Larsson](https://www.linkedin.com/in/jlarsson/)
 - Session: The Moves That Matter: A Practitioner's Guide to Joining the 39%
 - Note: Actual employer is Intact Insurance Specialty Solutions (Global CIO). Multiple LinkedIn matches -- confirmed via event page.
 
