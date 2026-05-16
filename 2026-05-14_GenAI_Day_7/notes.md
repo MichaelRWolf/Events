@@ -120,114 +120,246 @@ Repeat speaker: GenAI Days #5, #7
 
 See [event.ics](event.ics) for importable calendar events (12 sessions + full-day block, TZID=America/New_York).
 
-### 11:00 - Opening Keynote: Leading in the Age of AI Agents -- David Mantica
+### 11:00 - Session #1 - David Mantica - Opening Keynote: Leading in the Age of AI Agents
 
-- [David Mantica](https://www.linkedin.com/in/david-mantica/)
-- [SoftEd](https://www.softed.com/)
+[David Mantica](https://www.linkedin.com/in/david-mantica/), [SoftEd](https://www.softed.com/)
 
-> "The leadership playbook is being rewritten. With Gartner predicting that 80% of project management tasks will be AI-driven by 2030..." David examines what works in enterprise AI adoption and leadership capabilities separating successful scaling from pilot stagnation.
+``` text
+Opening Keynote: Leading in the Age of AI Agents 
 
-Live notes: [notes_session01_1100_Mantica_Opening-Keynote.md](notes_session01_1100_Mantica_Opening-Keynote.md)
+The leadership playbook is being rewritten. With Gartner predicting that 80% of project management tasks will be AI-driven by 2030..." David examines what works in enterprise AI adoption and leadership capabilities separating successful scaling from pilot stagnation.
+```
 
-### 11:30 - Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand -- Jess Wolfe
+#### 11:00 Notes - David Mantica - Opening Keynote: Leading in the Age of AI Agents
 
-- [Jess Wolfe](https://www.linkedin.com/in/thejessicawolfe/)
-- [Swarmia](https://www.swarmia.com/)
+#### 11:00 Follow-up - David Mantica - Opening Keynote: Leading in the Age of AI Agents
 
-> Jess introduces the "Five Levels of AI Autonomy" framework, clarifying when conversational AI versus task agents suit particular organizational problems and workflows.
+---
 
-Live notes: [notes_session02_1130_Wolfe_Stop-Using-a-Sledgehammer.md](notes_session02_1130_Wolfe_Stop-Using-a-Sledgehammer.md)
+### 11:30 - Session #2 - Jess Wolfe - Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
 
-### 11:50 - Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide -- Alan Knox
+[Jess Wolfe](https://www.linkedin.com/in/thejessicawolfe/), [Swarmia](https://www.swarmia.com/)
 
-- [Alan Knox](https://www.linkedin.com/in/alanknox/)
-- Website: <https://alanknox.com/>
+``` text
+Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
 
-> Alan introduces governed autonomy architecture where "AI handles reasoning while deterministic systems control progression, escalation, and oversight," demonstrating real-world implementation.
+Jess introduces the "Five Levels of AI Autonomy" framework, clarifying when conversational AI versus task agents suit particular organizational problems and workflows.
+```
 
-Live notes: [notes_session03_1150_Knox_Scaling-AI-Agents.md](notes_session03_1150_Knox_Scaling-AI-Agents.md)
+#### 11:30 Notes - Jess Wolfe - Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
 
-### 12:20 - Elevating SRE Observability using AI -- Dev Panajkar & Prasad Banala
+#### 11:30 Follow-up - Jess Wolfe - Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
 
-- [Dev Panajkar](https://www.linkedin.com/in/devpanajkar/)
-- [Prasad Banala](https://www.linkedin.com/in/prasad-banala-5686a716/)
-- [XClaymation](https://xclaymation.com/)
+---
 
-> Dev and Prasad explore how GenAI transforms SRE, demonstrating "how AI-powered observability adds context, reduces noise, and connects system behavior to customer impact."
+### 11:50 - Session #3 - Alan Knox - Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide
 
-Live notes: [notes_session04_1220_Panajkar-Banala_SRE-Observability.md](notes_session04_1220_Panajkar-Banala_SRE-Observability.md)
+[Alan Knox](https://www.linkedin.com/in/alanknox/), <https://alanknox.com/>
 
-### 12:40 - Beyond the Pilot: Bringing AI to Life Across the Organization -- Toby Rao
+``` text
+Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide
 
-- [Toby Rao](https://www.linkedin.com/in/tobyrao/)
+Alan introduces governed autonomy architecture where "AI handles reasoning while deterministic systems control progression, escalation, and oversight," demonstrating real-world implementation.
+```
 
-> Toby walks through six moves separating organizations scaling AI from those stalling, sharing how a transformation achieved "58% adoption, a 69% productivity gain, and 93% engagement in nine months."
+#### 11:50 Notes - Alan Knox - Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide
 
-Live notes: [notes_session05_1240_Rao_Beyond-the-Pilot.md](notes_session05_1240_Rao_Beyond-the-Pilot.md)
+#### 11:50 Follow-up - Alan Knox - Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide
 
-### 1:15 - Meaning and Purpose in the Age of AI: Making AI Human -- Jordan Plawner
+---
 
-- [Jordan Plawner](https://www.linkedin.com/in/jordan-plawner/)
-- [Pacific AI Advisory](https://www.pacificaiadvisory.com/)
+### 12:20 - Session #4 - Dev Panajkar & Prasad Banala - Elevating SRE Observability using AI
 
-> Jordan helps professionals understand contemporary AI capabilities and limitations, guiding audiences through an inner loop of change -- mindset, skills, everyday use -- that "turns uncertainty into agency and frees time for more meaningful work."
+[Dev Panajkar](https://www.linkedin.com/in/devpanajkar/), [Prasad Banala](https://www.linkedin.com/in/prasad-banala-5686a716/), [XClaymation](https://xclaymation.com/)
 
-Live notes: [notes_session06_1315_Plawner_Meaning-and-Purpose.md](notes_session06_1315_Plawner_Meaning-and-Purpose.md)
+``` text
+Elevating SRE Observability using AI
 
-### 1:35 - The Moves That Matter: A Practitioner's Guide to Joining the 39% -- Jenny Larsson
+Dev and Prasad explore how GenAI transforms SRE, demonstrating "how AI-powered observability adds context, reduces noise, and connects system behavior to customer impact."
+```
 
-- [Jenny Larsson](https://www.linkedin.com/in/jlarsson/)
+#### 12:20 Notes - Dev Panajkar & Prasad Banala - Elevating SRE Observability using AI
 
-> Jenny shares real deployments and obstacles from regulated industries, covering "what the research confirms, and what you can do differently starting next week."
+#### 12:20 Follow-up - Dev Panajkar & Prasad Banala - Elevating SRE Observability using AI
 
-Live notes: [notes_session07_1335_Larsson_The-Moves-That-Matter.md](notes_session07_1335_Larsson_The-Moves-That-Matter.md)
+---
 
-### 2:15 - Building Custom AI Agents: A Hands-On Guide to Purpose-Built GPTs -- George Churchwell
+### 12:40 - Session #5 - Toby Rao - Beyond the Pilot: Bringing AI to Life Across the Organization
 
-- [George Churchwell](https://www.linkedin.com/in/george-churchwell-6a6a)
-- Bio: <https://www.thinkmti.com/team>
-- [Mt. Tam Innovations](https://www.thinkmti.com/)
+[Toby Rao](https://www.linkedin.com/in/tobyrao/)
 
-> George shares methodology for constructing purpose-built GPTs tailored to specific workflows, covering "practical prompt engineering patterns, how to design AI tools that your team will actually use, and the architectural decisions that determine whether a custom agent becomes essential infrastructure or just another tool gathering digital dust."
+``` text
+Beyond the Pilot: Bringing AI to Life Across the Organization
 
-Live notes: [notes_session08_1415_Churchwell_Building-Custom-AI-Agents.md](notes_session08_1415_Churchwell_Building-Custom-AI-Agents.md)
+Toby walks through six moves separating organizations scaling AI from those stalling, sharing how a transformation achieved "58% adoption, a 69% productivity gain, and 93% engagement in nine months."
+```
 
-### 2:35 - Stop Automating the Mess: A Lean Case for AI That Actually Works -- Corey King
+#### 12:40 Notes - Toby Rao - Beyond the Pilot: Bringing AI to Life Across the Organization
 
-- [Corey King](https://www.linkedin.com/in/king-corey/)
-- Website: <https://www.blackflak.org/>
+#### 12:40 Follow-up - Toby Rao - Beyond the Pilot: Bringing AI to Life Across the Organization
 
-> Corey argues for applying "Lean Six Sigma principles, including value stream mapping, waste identification, and disciplined prioritization, before deploying AI."
+Toby is the Founder of a 2,300+ member Agile + AI community. This is Michael's intersection.
+Ask about the network itself, not the case study. What kinds of practitioners are in it? Is there space for someone who does team-level AI adoption work?
 
-Live notes: [notes_session09_1435_King_Stop-Automating-the-Mess.md](notes_session09_1435_King_Stop-Automating-the-Mess.md)
+**In-session or at break:** "Toby -- the Agile + AI intersection is exactly where I work. I'd love to learn more about the Loudoun AiGile Network. Is it open to practitioners doing hands-on adoption work with teams?"
 
-### 3:00 - AI for Everyone: Practical Tools That Transform How You Work Today -- Tony Rockliff
+Rough follow-up draft:
 
-- [Tony Rockliff](https://www.linkedin.com/in/tonyrockliff/)
-- Bio: <https://tonyrockliff.com/about-tony/>
-- [AI Connection Club](https://aiconnectionclub.com/)
+> "Toby -- the case study landed for me. The 58% number is the kind of evidence most orgs need before they'll move. I work at exactly that intersection of Agile and AI adoption -- helping teams close the gap between 'deployed' and 'trusted.' Is the Loudoun AiGile Network a place where that kind of practitioner work fits? I'd welcome a conversation."
 
-> Tony demonstrates practical AI tools and techniques available currently, offering "live demonstrations of real workflows and leave with a curated toolkit you can start using immediately, regardless of your technical background."
+---
 
-Live notes: [notes_session10_1500_Rockliff_AI-for-Everyone.md](notes_session10_1500_Rockliff_AI-for-Everyone.md)
+### 1:15 - Session #6 - Jordan Plawner - Meaning and Purpose in the Age of AI: Making AI Human
 
-### 3:30 - The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization -- Stacy Gonyou
+[Jordan Plawner](https://www.linkedin.com/in/jordan-plawner/), [Pacific AI Advisory](https://www.pacificaiadvisory.com/)
 
-- [Stacy Gonyou](https://www.linkedin.com/in/stacygonyou/)
-- [IntePros](https://intepros.com/)
+``` text
+Meaning and Purpose in the Age of AI: Making AI Human
 
-> Stacy covers practical methodology for establishing forward-deployed pods, running time-boxed engagements, and executing sustainable handoffs without creating organizational dependency.
+Jordan helps professionals understand contemporary AI capabilities and limitations, guiding audiences through an inner loop of change -- mindset, skills, everyday use -- that "turns uncertainty into agency and frees time for more meaningful work."
+```
 
-Live notes: [notes_session11_1530_Gonyou_90-Day-Pod.md](notes_session11_1530_Gonyou_90-Day-Pod.md)
+#### 1:15 Notes - Jordan Plawner - Meaning and Purpose in the Age of AI: Making AI Human
 
-### 4:00 - Closing Session: Agentic AI isn't magic. It's a stack. -- Zaki Medina
+#### 1:15 Follow-up - Jordan Plawner - Meaning and Purpose in the Age of AI: Making AI Human
 
-- [Zaki Medina](https://www.linkedin.com/in/zakimedina/)
-- [REVIVE Healthcare Group](https://www.linkedin.com/company/revive-healthcare-group/)
+Jordan is running an AI advisory firm targeting mid-size orgs and Fortune 500. Advisory firms need implementation muscle for the ground-level work they can't do from a boardroom.
 
-> Zaki examines the agent stack's six layers, maturity curves, and commoditization trajectories, providing "a five-step Monday-morning action list you can run before lunch."
+**In-session or at break:** "Jordan -- I've been doing something adjacent to your work: using mob programming as an AI adoption tool. Teams learn faster working together with AI in the loop than in any training session. Curious whether that kind of implementation layer fits into your practice."
 
-Live notes: [notes_session12_1600_Medina_Closing-Session.md](notes_session12_1600_Medina_Closing-Session.md)
+Rough follow-up draft:
+
+> "Jordan -- your framing of 'uncertainty into agency' resonated. I've been working on exactly that transition, but from the inside of teams rather than from the advisory layer. Mob programming with AI in the loop accelerates the shift from fear to fluency faster than any workshop I've seen. Curious whether Pacific AI Advisory ever needs an implementation partner for the hands-on phase. Would welcome a conversation."
+
+---
+
+### 1:35 - Session #7 - Jenny Larsson - The Moves That Matter: A Practitioner's Guide to Joining the 39%
+
+[Jenny Larsson](https://www.linkedin.com/in/jlarsson/)
+
+``` text
+The Moves That Matter: A Practitioner's Guide to Joining the 39%
+
+Jenny shares real deployments and obstacles from regulated industries, covering "what the research confirms, and what you can do differently starting next week."
+```
+
+#### 1:35 Notes - Jenny Larsson - The Moves That Matter: A Practitioner's Guide to Joining the 39%
+
+#### 1:35 Follow-up - Jenny Larsson - The Moves That Matter: A Practitioner's Guide to Joining the 39%
+
+---
+
+### 2:15 - Session #8 - George Churchwell - Building Custom AI Agents: A Hands-On Guide to Purpose-Built GPTs
+
+[George Churchwell](https://www.linkedin.com/in/george-churchwell-6a6a), [Mt. Tam Innovations](https://www.thinkmti.com/)
+
+``` text
+Building Custom AI Agents: A Hands-On Guide to Purpose-Built GPTs
+
+George shares methodology for constructing purpose-built GPTs tailored to specific workflows, covering "practical prompt engineering patterns, how to design AI tools that your team will actually use, and the architectural decisions that determine whether a custom agent becomes essential infrastructure or just another tool gathering digital dust."
+```
+
+#### 2:15 Notes - George Churchwell - Building Custom AI Agents: A Hands-On Guide to Purpose-Built GPTs
+
+#### 2:15 Follow-up - George Churchwell - Building Custom AI Agents: A Hands-On Guide to Purpose-Built GPTs
+
+George keeps showing up at these events. That's signal. Three events is a pattern worth naming.
+
+**In-session or after:** "George -- I keep running into you at these things. That's probably a sign we should actually talk. What are you working on right now that's most interesting?"
+
+This is a relationship opener, not a pitch. Let the conversation develop.
+
+Rough follow-up draft:
+
+> "George -- three GenAI Days and we keep finding each other. I'd like to actually talk. I work in the space where your 'digital dust' problem lives -- helping teams build the adoption habits that make custom agents stick rather than stall. Coffee or a call sometime this week?"
+
+---
+
+### 2:35 - Session #9 - Corey King - Stop Automating the Mess: A Lean Case for AI That Actually Works
+
+[Corey King](https://www.linkedin.com/in/king-corey/), [Black Flak](https://www.blackflak.org/)
+
+``` text
+Stop Automating the Mess: A Lean Case for AI That Actually Works
+
+Corey argues for applying "Lean Six Sigma principles, including value stream mapping, waste identification, and disciplined prioritization, before deploying AI."
+```
+
+#### 2:35 Notes - Corey King - Stop Automating the Mess: A Lean Case for AI That Actually Works
+
+#### 2:35 Follow-up - Corey King - Stop Automating the Mess: A Lean Case for AI That Actually Works
+
+---
+
+### 3:00 - Session #10 - Tony Rockliff - AI for Everyone: Practical Tools That Transform How You Work Today
+
+[Tony Rockliff](https://www.linkedin.com/in/tonyrockliff/), [AI Connection Club](https://aiconnectionclub.com/)
+
+``` text
+AI for Everyone: Practical Tools That Transform How You Work Today
+
+Tony demonstrates practical AI tools and techniques available currently, offering "live demonstrations of real workflows and leave with a curated toolkit you can start using immediately, regardless of your technical background."
+```
+
+#### 3:00 Notes - Tony Rockliff - AI for Everyone: Practical Tools That Transform How You Work Today
+
+#### 3:00 Follow-up - Tony Rockliff - AI for Everyone: Practical Tools That Transform How You Work Today
+
+Tony's entire brand is connecting people in AI. His community has 2,300+ members. He runs 10+ seminars monthly. He is literally in the business of connecting people.
+
+**Tell him what you do. Ask who he thinks you should know.**
+
+**In-session or break:** "Tony -- I help technical teams adopt AI at the team level, using mob programming as the learning vehicle. Who in the AI Connection Club community do you think I should meet?"
+
+Rough follow-up draft:
+
+> "Tony -- I appreciate the curation. That's exactly the gap you're filling. I work on the adjacent problem: once someone knows they want to use AI, how do they actually build the muscle with their team? Mob programming with AI in the loop is my answer. I'd love to know who in the AI Connection Club community is tackling team-level adoption -- and whether there's a fit. Up for a quick call?"
+
+---
+
+### 3:30 - Session #11 - Stacy Gonyou - The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization
+
+[Stacy Gonyou](https://www.linkedin.com/in/stacygonyou/), [IntePros](https://intepros.com/)
+
+``` text
+The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization
+
+Stacy covers practical methodology for establishing forward-deployed pods, running time-boxed engagements, and executing sustainable handoffs without creating organizational dependency.
+```
+
+#### 3:30 Notes - Stacy Gonyou - The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization
+
+#### 3:30 Follow-up - Stacy Gonyou - The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization
+
+Stacy is at IntePros, a staffing and consulting firm that places people in tech roles. She is describing an engagement model (the 90-Day Pod) that is exactly the shape of work Michael does.
+
+**This is the most direct paid-work path in the room.**
+
+**After her session:** "Stacy -- the 90-Day Pod model is exactly the shape of engagement I do. Embedded, time-boxed, focused on knowledge transfer rather than dependency. I'd love to talk about whether there's a fit with what IntePros does. Is there a good way to connect after today?"
+
+Do not over-explain. One sentence about overlap. One ask. Stop talking.
+
+Rough follow-up draft:
+
+> "Stacy -- I appreciated your session today. The 90-Day Pod model resonated because it describes how I work: embedded with the team, time-boxed engagement, sustainable handoff. I bring that approach specifically to AI adoption with technical teams. I'd welcome a conversation about whether IntePros ever places practitioners like me. Available for a 20-minute call this week?"
+
+---
+
+### 4:00 - Session #12 - Zaki Medina - Closing Session: Agentic AI isn't magic. It's a stack
+
+[Zaki Medina](https://www.linkedin.com/in/zakimedina/), [REVIVE Healthcare Group](https://www.linkedin.com/company/revive-healthcare-group/)
+
+``` text
+Closing Session: Agentic AI isn't magic. It's a stack.
+
+Zaki examines the agent stack's six layers, maturity curves, and commoditization trajectories, providing "a five-step Monday-morning action list you can run before lunch."
+```
+
+#### 4:00 Notes - Zaki Medina - Closing Session: Agentic AI isn't magic. It's a stack
+
+#### 4:00 Follow-up - Zaki Medina - Closing Session: Agentic AI isn't magic. It's a stack
+
+---
 
 ## LinkedIn
 
