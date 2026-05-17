@@ -148,6 +148,9 @@ Jess introduces the "Five Levels of AI Autonomy" framework, clarifying when conv
 
 #### S02 11:30 Notes - Jess Wolfe - Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
 
+![01_jess_wolfe_face](assets/jess_wolfe/01_jess_wolfe_face.png)
+![02_jess_wolfe_swarmia_product_slide](assets/jess_wolfe/02_jess_wolfe_swarmia_product_slide.png)
+
 #### S02 11:30 Follow-up - Jess Wolfe - Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
 
 ---
@@ -163,6 +166,11 @@ Alan introduces governed autonomy architecture where "AI handles reasoning while
 ```
 
 #### S03 11:50 Notes - Alan Knox - Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide
+
+![00_alan_knox_face](assets/alan_knox/00_alan_knox_face.png)
+![01_alan_knox_three_layer_framework](assets/alan_knox/01_alan_knox_three_layer_framework.png)
+![02_alan_knox_takeaways](assets/alan_knox/02_alan_knox_takeaways.png)
+![03_alan_knox_key_takeaways_summary](assets/alan_knox/03_alan_knox_key_takeaways_summary.png)
 
 #### S03 11:50 Follow-up - Alan Knox - Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide
 
@@ -180,6 +188,10 @@ Dev and Prasad explore how GenAI transforms SRE, demonstrating "how AI-powered o
 
 #### S04 12:20 Notes - Dev Panajkar & Prasad Banala - Elevating SRE Observability using AI
 
+![00_dev_panajkar_face](assets/dev_panajkar/00_dev_panajkar_face.png)
+![00_prasad_banala_face](assets/prasad_banala/00_prasad_banala_face.png)
+![01_sre_common_pitfalls](assets/dev_panajkar/01_sre_common_pitfalls.png)
+
 #### S04 12:20 Follow-up - Dev Panajkar & Prasad Banala - Elevating SRE Observability using AI
 
 ---
@@ -195,6 +207,11 @@ Toby walks through six moves separating organizations scaling AI from those stal
 ```
 
 #### S05 12:40 Notes - Toby Rao - Beyond the Pilot: Bringing AI to Life Across the Organization
+
+![00_toby_rao_face](assets/toby_rao/00_toby_rao_face.png)
+![01_toby_rao_bio](assets/toby_rao/01_toby_rao_bio.png)
+![02_toby_rao_aisa_adoption_journey](assets/toby_rao/02_toby_rao_aisa_adoption_journey.png)
+![03_toby_rao_summit_framework](assets/toby_rao/03_toby_rao_summit_framework.png)
 
 #### S05 12:40 Follow-up - Toby Rao - Beyond the Pilot: Bringing AI to Life Across the Organization
 
@@ -221,6 +238,15 @@ Jordan helps professionals understand contemporary AI capabilities and limitatio
 
 #### S06 1:15 Notes - Jordan Plawner - Meaning and Purpose in the Age of AI: Making AI Human
 
+![00_jordan_plawner_face](assets/jordan_plawner/00_jordan_plawner_face.png)
+![01_jordan_plawner_title_slide](assets/jordan_plawner/01_jordan_plawner_title_slide.png)
+![02_jordan_plawner_chatbot_is_you](assets/jordan_plawner/02_jordan_plawner_chatbot_is_you.png)
+![03_jordan_plawner_literacy_to_digital_assistant](assets/jordan_plawner/03_jordan_plawner_literacy_to_digital_assistant.png)
+![04_jordan_plawner_identity_not_skills](assets/jordan_plawner/04_jordan_plawner_identity_not_skills.png)
+![05_jordan_plawner_ai_not_thinking_neuro_symbolic](assets/jordan_plawner/05_jordan_plawner_ai_not_thinking_neuro_symbolic.png)
+![06_jordan_plawner_maslow_for_ai](assets/jordan_plawner/06_jordan_plawner_maslow_for_ai.png)
+![07_jordan_plawner_coordination_orchestration](assets/jordan_plawner/07_jordan_plawner_coordination_orchestration.png)
+
 #### S06 1:15 Follow-up - Jordan Plawner - Meaning and Purpose in the Age of AI: Making AI Human
 
 Jordan is running an AI advisory firm targeting mid-size orgs and Fortune 500. Advisory firms need implementation muscle for the ground-level work they can't do from a boardroom.
@@ -244,6 +270,11 @@ Jenny shares real deployments and obstacles from regulated industries, covering 
 ```
 
 #### S07 1:35 Notes - Jenny Larsson - The Moves That Matter: A Practitioner's Guide to Joining the 39%
+
+![00_jenny_larsson_face](assets/jenny_larsson/00_jenny_larsson_face.png)
+![01_jenny_larsson_bring_people_with_you](assets/jenny_larsson/01_jenny_larsson_bring_people_with_you.png)
+![02_jenny_larsson_tech_not_the_hard_part](assets/jenny_larsson/02_jenny_larsson_tech_not_the_hard_part.png)
+![03_jenny_larsson_go_forward_kill_delay_matrix](assets/jenny_larsson/03_jenny_larsson_go_forward_kill_delay_matrix.png)
 
 #### S07 1:35 Follow-up - Jenny Larsson - The Moves That Matter: A Practitioner's Guide to Joining the 39%
 
@@ -287,6 +318,9 @@ Corey argues for applying "Lean Six Sigma principles, including value stream map
 
 #### S09 2:35 Notes - Corey King - Stop Automating the Mess: A Lean Case for AI That Actually Works
 
+![01_corey_king_pairing_tech_techniques_2books](assets/corey_king/01_corey_king_pairing_tech_techniques_2books.png)
+![02_corey_king_pairing_tech_techniques_3books](assets/corey_king/02_corey_king_pairing_tech_techniques_3books.png)
+
 #### S09 2:35 Follow-up - Corey King - Stop Automating the Mess: A Lean Case for AI That Actually Works
 
 ---
@@ -329,6 +363,10 @@ Stacy covers practical methodology for establishing forward-deployed pods, runni
 
 #### S11 3:30 Notes - Stacy Gonyou - The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization
 
+![00_stacy_gonyou_face](assets/stacy_gonyou/00_stacy_gonyou_face.png)
+![01_stacy_gonyou_perpetual_change_imperative_download](assets/stacy_gonyou/01_stacy_gonyou_perpetual_change_imperative_download.png)
+![02_stacy_gonyou_change_operating_state_manifesto](assets/stacy_gonyou/02_stacy_gonyou_change_operating_state_manifesto.png)
+
 #### S11 3:30 Follow-up - Stacy Gonyou - The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization
 
 Stacy is at IntePros, a staffing and consulting firm that places people in tech roles. She is describing an engagement model (the 90-Day Pod) that is exactly the shape of work Michael does.
@@ -356,6 +394,12 @@ Zaki examines the agent stack's six layers, maturity curves, and commoditization
 ```
 
 #### S12 4:00 Notes - Zaki Medina - Closing Session: Agentic AI isn't magic. It's a stack
+
+![00_zaki_medina_face](assets/zaki_medina/00_zaki_medina_face.png)
+![01_zaki_medina_agent_stack_six_layers](assets/zaki_medina/01_zaki_medina_agent_stack_six_layers.png)
+![02_zaki_medina_you_are_not_late](assets/zaki_medina/02_zaki_medina_you_are_not_late.png)
+![03_zaki_medina_monday_morning_five_things](assets/zaki_medina/03_zaki_medina_monday_morning_five_things.png)
+![04_zaki_medina_contact_hardest_workflow](assets/zaki_medina/04_zaki_medina_contact_hardest_workflow.png)
 
 #### S12 4:00 Follow-up - Zaki Medina - Closing Session: Agentic AI isn't magic. It's a stack
 
