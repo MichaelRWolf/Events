@@ -132,7 +132,39 @@ The leadership playbook is being rewritten. With Gartner predicting that 80% of 
 
 #### S01 11:00 Notes - David Mantica - Opening Keynote: Leading in the Age of AI Agents
 
+- 2022 through now - 80,000 tech layoffs
+- By mid 2020s, 80% of project management will be done by AI
+
+Old - SHOULD we do AI?
+Now - HOW FAST should we do AI?
+
+A fool with a tool
+is still a fool
+  -- Grady Booch
+
+Gaps - All stalling tactis
+
+- capability gap
+- no use case
+- leadership avoidance
+
+New leadership skills
+
+- Adaptive Leadership
+- Critical thinking
+- self-awareness
+
 #### S01 11:00 Follow-up - David Mantica - Opening Keynote: Leading in the Age of AI Agents
+
+1. TY (w/ Lara) for event
+2. Self-awareness -- Connect to Wendy
+3. Reserch Amy Rice - Co-intelligence
+
+Quotes:
+
+> 1. Get on the balcony.  (To view the landscape
+>
+> 2. Protect dissent
 
 ---
 
@@ -151,7 +183,35 @@ Jess introduces the "Five Levels of AI Autonomy" framework, clarifying when conv
 ![01_jess_wolfe_face](assets/jess_wolfe/01_jess_wolfe_face.png)
 ![02_jess_wolfe_swarmia_product_slide](assets/jess_wolfe/02_jess_wolfe_swarmia_product_slide.png)
 
+5 levels of AI Autonomy
+L1 - Assist (auto compleat)
+L2 - Conversational
+L3 - Task Agent
+L4 - Autonomous
+L5 - Agentic Avalanch
+
+Tool/Task does not choose level.  Human does.
+
+Most teams plateau around Level 2.
+
+Higher is not Better
+
+Refrains
+
+> Do you have a clear Definition of Done?
+> DoD is Definition of "Ready for AI"
+
+Many interactive examples to test audience comprehension.  Show, don't tell.
+
 #### S02 11:30 Follow-up - Jess Wolfe - Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
+
+LinkedIn connection
+very impressed with your session last week at 10 AM at seven. You put a lot into a small amount of time, and even made time for interaction. I will book 30 minutes with your CEO. Would you be interested in 30 minute session to blah blah blah
+
+] Book 30-minute session w/ CEO
+
+- What's his name?
+[] Book 30 minute session w/ Jess
 
 ---
 
@@ -419,3 +479,22 @@ In anonymous survey - <https://docs.google.com/forms/u/0/d/e/1FAIpQLSePm89aL1588
 (Stacy Gonyou) - Soooo many notes.  Too many side references to grab - but the name dropping added credibility and gravitas to the presentation, not merely gratuitous name-dropping theatre.  They amplified the points for how to get the promises of the 60- or 90-day goals.  Great modeling of how a limited-time engagement can reframe why "continual learning" is not just an occasional learning/doing jump but  rather a change in mind-set.
 (Zaki Medina) - <Repeat Stacy comment about breadth of references adding gravitas and credibility, but not diverting attention>  I loved the zoom out to 2024 Start, 2025 Struggle, 2026 Click.  Not candy-coated platitude about perseverence, but rather the scars and lessons from slogging through uncertainty.
 Sorry I couldn't just pick one!!!  These were all above expectation, not just (mathematically boringly) above the day's average.
+
+## Links
+
+1. [AI Essentials for Training Managers](https://trainingindustry.com/continuing-professional-development/certificates/ai-essentials-for-training-managers-optimizing-ld-with-artificial-intelligence/) -- Training Industry certificate program on applying AI in L&D functions.
+2. [Book a meeting with Otto Hilska, Swarmia](https://link.swarmia.com/meetings/otto-hilska/partner?utm_campaign=genai-day-2026&uuid=e386f05c-bbde-4e0f-b2ed-01045c21cdaa) -- Partner meeting link to demo Swarmia's engineering AI adoption tracking platform.
+3. [Jenny Larsson](https://www.linkedin.com/in/jlarsson/)
+4. [Chris Barth](https://www.linkedin.com/in/chrisbarthsr/)
+5. [Jordan Plawner](https://www.linkedin.com/in/jordan-plawner/)
+6. [AI Business Summit](https://aibusinesssummit.com/optin-page---ga?fpr=abundance555) -- Registration opt-in for an AI-focused business summit event.
+7. [Google: what is Manus in AI terms](https://www.google.com/search?q=what+is+manus+in+ai+terms&oq=what+is+manus+in+ai+terms&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDgwMzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8) -- Background search on the Manus AI agent platform referenced during sessions.
+8. [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) -- Organizations design systems that mirror their internal communication structures.
+9. [Agile Manifesto Principles](https://agilemanifesto.org/principles.html) -- The 12 principles behind the Agile Manifesto, frequently cited in AI adoption discussions.
+10. [Lean Startup (book search)](https://www.google.com/search?q=lean+startup+book&oq=lean+startup+book&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI4MDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8) -- Eric Ries's methodology for iterative product development and validated learning.
+11. [Manus login (invite code)](https://manus.im/login?code=W3A2QNOKWVDOD) -- Personal invite link for the Manus AI agent platform.
+12. [Slido: GenAI Day #7 live polls](https://app.sli.do/event/91jMcG6HfbRub2EFuNyY7b/live/polls) -- Audience interaction polls for the event.
+13. [Manus app login](https://manus.im/login?redirectUrl=https%3A%2F%2Fmanus.im%2Fapp%3FredirectUrl%3D) -- Manus login with redirect to the main app.
+14. [Manus login (invite code)](https://manus.im/login?code=W3A2QNOKWVDOD) -- Duplicate of entry 11.
+15. [AI Connection Club: RenderZero Studio](https://aiconnectionclub.com/renderzero-studio/) -- Tony Rockliff's AI-powered video production studio offering within the AI Connection Club.
+16. [Everyone's installing AI agents, nobody's adopting them](https://thesolutiontea.substack.com/p/everyones-installing-ai-agents-nobodys) -- Substack piece on the gap between deploying AI agents and achieving real team adoption.
