@@ -138,9 +138,9 @@ The leadership playbook is being rewritten. With Gartner predicting that 80% of 
 Old - SHOULD we do AI?
 Now - HOW FAST should we do AI?
 
-A fool with a tool
-is still a fool
-  -- Grady Booch
+> A fool with a tool
+> is still a fool.
+> -- Grady Booch
 
 Gaps - All stalling tactis
 
@@ -249,22 +249,26 @@ Level 1
 - Planner
 - Executioner
 - Workflow Engine
+
 Level 2
+
 - Step Reviewer
+
 Level 3
+
   -Oversight Agent
 
 Q: Who owns decision?
 A: CTO (or person) always owns cecision!
 
 1. AI Proposes
-Authority is human
-Contracts
-Review improves correctness
-Robustness proportional meta level
-Expose failures
-Humans control important parts
-Governance is design, NOT afterthought
+1. Authority is human
+1. Contracts
+1. Review improves correctness
+1. Robustness proportional meta level
+1. Expose failures
+1. Humans control important parts
+1. Governance is design, NOT afterthought
 
 Celia Moore had good HR question.
 
@@ -273,7 +277,12 @@ Celia Moore had good HR question.
 - [ ] Suggest "Thinking Fast and Slow" to Alan
 - [ ] Connect  Willem Larsen to Alan
 - [ ] LI Connection Request - Alan
+
+> I appreciate the two parallel systems (paramedics and AI Agents) in you GenAI Day #7 talk.  Having 2 domains was very helpful to triangulate the roles.  I'd love to stay connected -- on LinkedIn, and even a call if you would like that.
+
 - [ ] LI Connection Request - Celia
+
+> At GenAI Day, your question in Alan's session named the thing most technical frameworks skip -- the human side that balances autonomy and governance.  Would love to stay connected.
   
 ---
 
