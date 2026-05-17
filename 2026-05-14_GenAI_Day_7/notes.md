@@ -304,6 +304,8 @@ Dev and Prasad explore how GenAI transforms SRE, demonstrating "how AI-powered o
 
 #### S04 12:20 Follow-up - Dev Panajkar & Prasad Banala - Elevating SRE Observability using AI
 
+Tata!  No follow-up.
+
 ---
 
 ### S05 12:40 - Toby Rao - Beyond the Pilot: Bringing AI to Life Across the Organization
