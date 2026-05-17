@@ -205,13 +205,12 @@ Many interactive examples to test audience comprehension.  Show, don't tell.
 
 #### S02 11:30 Follow-up - Jess Wolfe - Stop Using a Sledgehammer: Matching AI Autonomy to the Task at Hand
 
-LinkedIn connection
-very impressed with your session last week at 10 AM at seven. You put a lot into a small amount of time, and even made time for interaction. I will book 30 minutes with your CEO. Would you be interested in 30 minute session to blah blah blah
+- [ ] Send [LinkedIn connection request](https://www.linkedin.com/in/thejessicawolfe/)
 
-] Book 30-minute session w/ CEO
+  > You packed a lot of great material into your GenAI session, but what impressed me most is that you engaged folks with the L1-L5 examples. Well done. Would love to stay connected. Thanks for CEO connection invitation.
 
-- What's his name?
-[] Book 30 minute session w/ Jess
+- [ ] [Book 30-minute session with CEO (Otto Hilska)](https://link.swarmia.com/meetings/otto-hilska/partner?utm_campaign=genai-day-2026&uuid=e386f05c-bbde-4e0f-b2ed-01045c21cdaa)
+- [ ] Book 30-minute session with Jess
 
 ---
 
