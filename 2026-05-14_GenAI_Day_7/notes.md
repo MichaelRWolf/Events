@@ -231,8 +231,50 @@ Alan introduces governed autonomy architecture where "AI handles reasoning while
 ![02_alan_knox_takeaways](assets/alan_knox/02_alan_knox_takeaways.png)
 ![03_alan_knox_key_takeaways_summary](assets/alan_knox/03_alan_knox_key_takeaways_summary.png)
 
+Son is paramedic.  Extended use of simile to AI Agents.  Well done.
+
+- protocols
+- Assistance
+- Autonomous
+- Controls
+
+Autonomy when needed
+Governance always
+
+FTO - Field Training Officer
+APP - Advanced Practice Paramedic - Oversight Agents
+
+Level 1
+
+- Planner
+- Executioner
+- Workflow Engine
+Level 2
+- Step Reviewer
+Level 3
+  -Oversight Agent
+
+Q: Who owns decision?
+A: CTO (or person) always owns cecision!
+
+1. AI Proposes
+Authority is human
+Contracts
+Review improves correctness
+Robustness proportional meta level
+Expose failures
+Humans control important parts
+Governance is design, NOT afterthought
+
+Celia Moore had good HR question.
+
 #### S03 11:50 Follow-up - Alan Knox - Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide
 
+- [ ] Suggest "Thinking Fast and Slow" to Alan
+- [ ] Connect  Willem Larsen to Alan
+- [ ] LI Connection Request - Alan
+- [ ] LI Connection Request - Celia
+  
 ---
 
 ### S04 12:20 - Dev Panajkar & Prasad Banala - Elevating SRE Observability using AI
