@@ -446,6 +446,48 @@ Stacy covers practical methodology for establishing forward-deployed pods, runni
 ![00_stacy_gonyou_face](assets/stacy_gonyou/00_stacy_gonyou_face.png)
 ![01_stacy_gonyou_perpetual_change_imperative_download](assets/stacy_gonyou/01_stacy_gonyou_perpetual_change_imperative_download.png)
 ![02_stacy_gonyou_change_operating_state_manifesto](assets/stacy_gonyou/02_stacy_gonyou_change_operating_state_manifesto.png)
+AI practice at IntePros Consulting
+
+Forward Deployed Pod
+
+1. Strategist
+2. Architect
+3. Engineer
+
+90 Day Pod
+Day 1 - Ask questions
+Day 60 - Build out
+Day 90 - Hand off
+
+Engagement Count
+1 - Proof point
+2 - Practice polish
+5+ - Compounding (flywheel)
+
+Surprises
+
+- UBER burned their yearly AI budget by April
+- 90% of products provide no business vaue
+
+Insight - Forward Deployed Engineering Services.  Emerging market.  Becoming standard.
+
+Pod follows pain not the vendor.
+
+Connection
+
+- Dojo
+
+Case history:
+
+- 22 USD/ticket * 4000 ticket/ day
+- Capture 1-2 flows w/ AI
+- Ca-ching
+
+IQ + EQ + AI - Disruptive emotions (Fear, Territory, Insecurity)
+
+Quote:
+Change is not a phase
+It is operating state
 
 #### S11 Follow-up - Stacy Gonyou
 
@@ -453,11 +495,15 @@ Stacy is at IntePros, a staffing and consulting firm that places people in tech 
 
 **This is the most direct paid-work path in the room.**
 
-**After her session:** "Stacy -- the 90-Day Pod model is exactly the shape of engagement I do. Embedded, time-boxed, focused on knowledge transfer rather than dependency. I'd love to talk about whether there's a fit with what IntePros does. Is there a good way to connect after today?"
+**LI About Summary:** 25+ year career from internet startups through eBay and Google. Built $1B+ revenue programs and $2M+/yr professional services orgs. Defensive patents. C-suite client work at Fortune 50 scale. Four levers: technical depth (CS + English), digital data/analytics, client-facing at exec level, servant leadership. She leads with outcomes and revenue, not credentials or craftsmanship. Hires for business value, not just skill.
+
+**LI Connection Request (300 chars):**
+
+> Stacy -- your enthusiasm for the 90-Day Pod was contagious. I do this work too: embedded, mob programming in the team's environment -- not the classroom. Your FDE framing gave me the label I've been missing. I'd love to explore whether IntePros places practitioners like me.
 
 Do not over-explain. One sentence about overlap. One ask. Stop talking.
 
-Rough follow-up draft:
+Rough follow-up draft (longer form, after connecting):
 
 > "Stacy -- I appreciated your session today. The 90-Day Pod model resonated because it describes how I work: embedded with the team, time-boxed engagement, sustainable handoff. I bring that approach specifically to AI adoption with technical teams. I'd welcome a conversation about whether IntePros ever places practitioners like me. Available for a 20-minute call this week?"
 
@@ -508,7 +554,30 @@ I help teams build AI adoption habits. You measure whether it's working. I don't
 
 ```
 
-## Companies
+## Companies and Roles
+
+### IntePros
+
+- Website: <https://intepros.com/>
+- Contact: [Stacy Gonyou](https://www.linkedin.com/in/stacygonyou/) (Director of AI Strategy & Solutions)
+
+**Overview:** Woman-owned IT staffing and consulting firm, 25+ years. Places top IT talent across technology, healthcare, and business analytics. Actively hiring. Engagement model: time-boxed, embedded "pods" (see Stacy's 90-Day Pod framework) for AI adoption -- forward deployed, follows pain not vendor, exits with client capability not dependency.
+
+**Relevance:** Direct paid-work path. IntePros places practitioners for embedded engagements. Michael's model (mob programming, time-boxed, sustainable handoff) matches their delivery shape exactly.
+
+---
+
+### Forward Deployed Engineer (FDE)
+
+An engineer who embeds with the client post-sale, deploys production-grade solutions on-site, and owns the customer's technical success long-term. Distinct from a Solutions Engineer (pre-sale demo) or CSM (relationship). Writes real code in the client's environment.
+
+Expanding variants: **Forward Deployed Architect** (org-wide AI adoption strategy, bridges C-suite to engineering), **Forward Deployed Scientist** (data/AI focus).
+
+**Market:** Job postings +1,165% YoY in 2025. Every major AI company (OpenAI, Anthropic, Palantir, Databricks) building dedicated FDE teams. Salary: $215K-$310K base in 2026.
+
+**Michael's angle:** Mob programming embedded with teams IS forward deployed work. The label has been missing, not the practice.
+
+---
 
 ### Swarmia
 
