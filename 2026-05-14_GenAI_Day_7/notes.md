@@ -190,18 +190,20 @@ A: CTO (or person) always owns cecision!
 
 Celia Moore had good HR question.
 
+Talking points from LI profile: In RDU area.  Has seeming secondary gig in AI SDLC parallel to 13+ year COO position.  Posting many times a week.
+
 #### S03 Follow-up - Alan Knox
 
 - [ ] Suggest "Thinking Fast and Slow" to Alan
 - [ ] Connect  Willem Larsen to Alan
-- [ ] LI Connection Request - Alan
+- [x] LI Connection Request - Alan
 
 > I appreciate the two parallel systems (paramedics and AI Agents) in you GenAI Day #7 talk.  Having 2 domains was very helpful to triangulate the roles.  I'd love to stay connected -- on LinkedIn, and even a call if you would like that.
 
 - [ ] LI Connection Request - Celia
 
 > At GenAI Day, your question in Alan's session named the thing most technical frameworks skip -- the human side that balances autonomy and governance.  Would love to stay connected.
-  
+
 ---
 
 ### S04 Dev Panajkar & Prasad Banala
@@ -257,6 +259,10 @@ Toby walks through six moves separating organizations scaling AI from those stal
 ![03_toby_rao_summit_framework](assets/toby_rao/03_toby_rao_summit_framework.png)
 
 #### S05 Follow-up - Toby Rao
+
+- [x] LI Connection
+- [ ]
+-
 
 Toby is the Founder of a 2,300+ member Agile + AI community. This is Michael's intersection.
 Ask about the network itself, not the case study. What kinds of practitioners are in it? Is there space for someone who does team-level AI adoption work?
