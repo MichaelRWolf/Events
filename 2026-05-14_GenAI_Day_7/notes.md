@@ -14,22 +14,13 @@
 
 ## People
 
-See [people.vcf](people.vcf) for importable contact cards (vCard 3.0, all 13 speakers).
-
-### Existing Contacts
-
-#### Lara Hill -- Facilitator, Skills Development Group
-
-_Repeat: GenAI Day #5. Listed in registration emails alongside David Mantica. Not on public speaker page -- likely SoftEd co-host / facilitator role._
-
-- LinkedIn: [Lara Hill](https://www.linkedin.com/in/larahill/)
-- Company: [Skills Development Group](https://skillsdg.com/)
+See [people.vcf](people.vcf) for importable contact cards (vCard 3.0, all 13 speakers). Per-person details (LinkedIn, title, company, notes) are in each session's entry below.
 
 ## Sessions
 
 See [event.ics](event.ics) for importable calendar events (12 sessions + full-day block, TZID=America/New_York).
 
-### S01 11:00 - David Mantica
+### S01 11:00 - David Mantica & Lara Hill
 
 - Session: Opening Keynote: Leading in the Age of AI Agents
 - Title: Managing Director, SoftEd
@@ -37,13 +28,19 @@ See [event.ics](event.ics) for importable calendar events (12 sessions + full-da
 - Bio: <https://www.softed.com/us/about-us/our-team/david-mantica/>
 - Note: Repeat speaker: GenAI Days #4, #5, #7. LinkedIn URL not yet in Contacts.app card -- add after import.
 
+- Session: Opening Keynote: Leading in the Age of AI Agents
+- Title: Facilitator, Skills Development Group
+- LinkedIn: [Lara Hill](https://www.linkedin.com/in/larahill/)
+- Company: [Skills Development Group](https://skillsdg.com/)
+- Note: Repeat: GenAI Day #5. Co-facilitator; listed in registration emails alongside David Mantica. Not on public speaker page.
+
 ``` text
 Opening Keynote: Leading in the Age of AI Agents 
 
 The leadership playbook is being rewritten. With Gartner predicting that 80% of project management tasks will be AI-driven by 2030..." David examines what works in enterprise AI adoption and leadership capabilities separating successful scaling from pilot stagnation.
 ```
 
-#### S01 11:00 - David Mantica - Notes
+#### S01 11:00 - David Mantica & Lara Hill - Notes
 
 - 2022 through now - 80,000 tech layoffs
 - By mid 2020s, 80% of project management will be done by AI
@@ -67,7 +64,7 @@ New leadership skills
 - Critical thinking
 - self-awareness
 
-#### S01 11:00 - David Mantica - Follow-up
+#### S01 11:00 - David Mantica & Lara Hill - Follow-up
 
 1. TY (w/ Lara) for event
 2. Self-awareness -- Connect to Wendy
