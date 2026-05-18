@@ -432,6 +432,8 @@ Rough follow-up draft:
 - (3:30) The 90-Day Pod: A Framework for Embedding AI Without Losing the Organization
 - Title: Director of AI Strategy & Solutions, IntePros
 - LinkedIn: [Stacy Gonyou](https://www.linkedin.com/in/stacygonyou/)
+- Phone: 719-659-5794
+- Email: <stacynoack@gmail.com>
 - Company: [IntePros](https://intepros.com/)
 - Note: IntePros is a staffing/consulting firm -- **direct paid-work connection**.
 
@@ -446,6 +448,7 @@ Stacy covers practical methodology for establishing forward-deployed pods, runni
 ![00_stacy_gonyou_face](assets/stacy_gonyou/00_stacy_gonyou_face.png)
 ![01_stacy_gonyou_perpetual_change_imperative_download](assets/stacy_gonyou/01_stacy_gonyou_perpetual_change_imperative_download.png)
 ![02_stacy_gonyou_change_operating_state_manifesto](assets/stacy_gonyou/02_stacy_gonyou_change_operating_state_manifesto.png)
+![03_stacy_gonyou_contact](assets/stacy_gonyou/03_stacy_gonyou_contact.png)
 AI practice at IntePros Consulting
 
 Forward Deployed Pod
