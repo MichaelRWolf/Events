@@ -224,6 +224,8 @@ Dev and Prasad explore how GenAI transforms SRE, demonstrating "how AI-powered o
 
 #### S04 Notes - Dev Panajkar & Prasad Banala
 
+Great job putting lists on slides.
+
 ![00_dev_panajkar_face](assets/dev_panajkar/00_dev_panajkar_face.png)
 ![00_prasad_banala_face](assets/prasad_banala/00_prasad_banala_face.png)
 ![01_sre_common_pitfalls](assets/dev_panajkar/01_sre_common_pitfalls.png)
