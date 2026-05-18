@@ -118,9 +118,9 @@ Many interactive examples to test audience comprehension.  Show, don't tell.
 
 #### S02 Follow-up - Jess Wolfe
 
-- [ ] Send [LinkedIn connection request](https://www.linkedin.com/in/thejessicawolfe/)
+- [x] Send [LinkedIn connection request](https://www.linkedin.com/in/thejessicawolfe/)
 
-  > You packed a lot of great material into your GenAI session, but what impressed me most is that you engaged folks with the L1-L5 examples. Well done. Would love to stay connected. Thanks for CEO connection invitation.
+  > Jess,  You packed a lot of great material into your GenAI session, but what impressed me most is that you engaged folks with the L1-L5 examples. Well done. Would love to stay connected. Thanks for CEO connection invitation.  Best, Michael
 
 - [ ] [Book 30-minute session with CEO (Otto Hilska)](https://link.swarmia.com/meetings/otto-hilska/partner?utm_campaign=genai-day-2026&uuid=e386f05c-bbde-4e0f-b2ed-01045c21cdaa)
 - [ ] Book 30-minute session with Jess
@@ -485,6 +485,7 @@ LinkedIn connections captured from Zoom chat during the event.
 
 - [Chris Barth](https://www.linkedin.com/in/chrisbarthsr/)
 - [Celia Wall Moore](https://www.linkedin.com/in/celia-wall-moore1/)
+- [Otto Hilska](https://www.linkedin.com/in/hilska/) -- CEO, Swarmia
 
 ## LinkedIn
 
