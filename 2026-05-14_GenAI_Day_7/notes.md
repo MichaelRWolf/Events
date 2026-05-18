@@ -497,7 +497,7 @@ LinkedIn connections captured from Zoom chat during the event.
 
 ### Otto Hilska
 
-[Otto Hilska](https://www.linkedin.com/in/hilska/) -- CEO, Swarmia
+[Otto Hilska](https://www.linkedin.com/in/hilska/) -- CEO, Swarmia -- [Meeting May 21 1:30 PM EDT](otto_hilska_meeting.ics)
 
 ``` text
 I help teams build AI adoption habits. You measure whether it's working. I don't have clients to send you today, but I want to understand your product well enough to know
