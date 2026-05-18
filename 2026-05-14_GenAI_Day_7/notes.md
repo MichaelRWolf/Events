@@ -381,18 +381,16 @@ Surprise: opened by asking the audience "What did you learn from me?" -- flipped
 
 George keeps showing up at these events. That's signal. Three events is a pattern worth naming.
 
-**In-session or after:** "George -- I keep running into you at these things. That's probably a sign we should actually talk. What are you working on right now that's most interesting?"
+- [x] LI reconnect
 
-This is a relationship opener, not a pitch. Let the conversation develop.
+``` text
+Your prompt was a top 5 takeaway from GenAI Day -- "What did you learn from me?".  or "about me?".  Alredy used it many times.
 
-Rough follow-up draft:
+How many GenAI days is this for you?  It's my 3rd and you've spoken at each one.  The MIT demo you pulled up provided a different way to engage thatn I saw previously.  
 
-> "George -- three GenAI Days and we keep finding each other. I'd like to actually talk. I work in the space where your 'digital dust' problem lives -- helping teams build the adoption habits that make custom agents stick rather than stall. Coffee or a call sometime this week?"
+Are the speaking gigs and classroom learning getting you to talk with the 5% who are not making the sensationalist headlines?
 
-I've already used your AI"What did you learn from me?" many
-
- was my best takeaway from the whole event. Three events in, I'm curious: is the MIT class actually nudging you toward the 5%, or are you getting the same
-  ▎ results you get from speaking?
+```
 
 ---
 
