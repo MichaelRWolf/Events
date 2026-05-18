@@ -508,6 +508,20 @@ I help teams build AI adoption habits. You measure whether it's working. I don't
 
 ```
 
+## Companies
+
+### Swarmia
+
+- Website: <https://www.swarmia.com/>
+- CEO: [Otto Hilska](https://www.linkedin.com/in/hilska/)
+- Contact: [Jess Wolfe](https://www.linkedin.com/in/thejessicawolfe/) (Customer Success Manager)
+
+**Founded:** 2019, Helsinki, Finland. Originally focused on GitHub analytics for engineering teams; evolved into a full developer productivity platform.
+
+**Product:** Engineering analytics platform targeting engineering leaders and CTOs. Tracks software delivery performance via DORA metrics (deployment frequency, lead time, change failure rate, recovery time), flow metrics (cycle time, batch size), and team investment allocation (feature work vs. bugs vs. debt). Surfaces AI adoption signals within engineering workflows. Positioning: gives engineering leaders the same data-informed visibility into team health that product teams have for user behavior.
+
+**Relevance:** Michael's context is team-level AI adoption coaching. Swarmia measures what Michael helps teams build -- complementary, not competing. Referral/partner angle: practitioners who recommend tooling to teams are a real channel for them.
+
 ## LinkedIn
 
 See [linkedin_post.md](linkedin_post.md) for the promotional post and first comment.
