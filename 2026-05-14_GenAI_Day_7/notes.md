@@ -370,6 +370,13 @@ George shares methodology for constructing purpose-built GPTs tailored to specif
 
 #### S08 Notes - George Churchwell
 
+Surprise: opened by asking the audience "What did you learn from me?" -- flipped the room.
+
+- Taking MIT class on agents
+- Use agents to create agents
+- Humans will be pulled into lawsuits (liability follows the human)
+- 95% of AI projects are failing -- be in the 5%
+
 #### S08 Follow-up - George Churchwell
 
 George keeps showing up at these events. That's signal. Three events is a pattern worth naming.
@@ -381,6 +388,11 @@ This is a relationship opener, not a pitch. Let the conversation develop.
 Rough follow-up draft:
 
 > "George -- three GenAI Days and we keep finding each other. I'd like to actually talk. I work in the space where your 'digital dust' problem lives -- helping teams build the adoption habits that make custom agents stick rather than stall. Coffee or a call sometime this week?"
+
+I've already used your AI"What did you learn from me?" many
+
+ was my best takeaway from the whole event. Three events in, I'm curious: is the MIT class actually nudging you toward the 5%, or are you getting the same
+  ▎ results you get from speaking?
 
 ---
 
