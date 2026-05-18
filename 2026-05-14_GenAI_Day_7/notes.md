@@ -200,7 +200,7 @@ Talking points from LI profile: In RDU area.  Has seeming secondary gig in AI SD
 
 > I appreciate the two parallel systems (paramedics and AI Agents) in you GenAI Day #7 talk.  Having 2 domains was very helpful to triangulate the roles.  I'd love to stay connected -- on LinkedIn, and even a call if you would like that.
 
-- [ ] LI Connection Request - Celia
+- [x] LI Connection Request - Celia
 
 > At GenAI Day, your question in Alan's session named the thing most technical frameworks skip -- the human side that balances autonomy and governance.  Would love to stay connected.
 
@@ -478,6 +478,13 @@ Zaki examines the agent stack's six layers, maturity curves, and commoditization
 #### S12 Follow-up - Zaki Medina
 
 ---
+
+## Non-Speakers
+
+LinkedIn connections captured from Zoom chat during the event.
+
+- [Chris Barth](https://www.linkedin.com/in/chrisbarthsr/)
+- [Celia Wall Moore](https://www.linkedin.com/in/celia-wall-moore1/)
 
 ## LinkedIn
 
