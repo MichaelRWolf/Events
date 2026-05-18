@@ -360,6 +360,7 @@ Jenny shares real deployments and obstacles from regulated industries, covering 
 - LinkedIn: [George Churchwell](https://www.linkedin.com/in/george-churchwell-6a6a)
 - Bio: <https://www.thinkmti.com/team>
 - Phone: +1-571-250-5938
+- Book: [Training the AI Puppy: A Discipline Framework for Enterprise AI Success](https://www.amazon.com/dp/B0GYT56756) (Kindle, 195 pp, 2026)
 - Note: Repeat speaker: GenAI Days #4, #5, #7. Duplicate card in Contacts.app -- Daylite will merge.
 
 ``` text
