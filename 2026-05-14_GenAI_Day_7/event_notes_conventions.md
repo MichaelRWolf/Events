@@ -44,24 +44,32 @@ Sessions listed in **agenda order** (chronological by start time).
 Each session heading format:
 
 ```markdown
-### Session Title -- Speaker Name
+### S## Name
 
-HH:MM AM/PM EDT
+- (HH:MM) Session Title
+- Title: Speaker title, Company
+- LinkedIn: [Name](URL)
+- Company: [Company](URL)
+- Note: flags, verification, strategic relevance
 ```
 
-Immediately after the time line, a bullet list:
+Then a fenced code block with the **exact verbatim text** from the event page:
 
-- LinkedIn: `<URL>` for each speaker
-- Company/Website: `<URL>`
-- Event: `<event page URL>`
+````markdown
+``` text
+Exact text copied from the event page session description.
+```
+````
 
-Then a blockquote with the **exact verbatim text** from the event page:
+Then subsections for live capture and follow-up:
 
 ```markdown
-> Exact text copied from the event page session description.
+#### S## Notes - Name
+
+#### S## Follow-up - Name
 ```
 
-Then an empty `#### Notes - Session Title` subsection for live capture during the event.
+For sessions with multiple speakers, repeat the speaker bullet block (title, LinkedIn, company, note) once per speaker before the fenced description block.
 
 ## VCF Files
 
