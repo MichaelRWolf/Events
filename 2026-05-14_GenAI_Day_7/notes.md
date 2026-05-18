@@ -308,15 +308,19 @@ Jordan helps professionals understand contemporary AI capabilities and limitatio
 ![06_jordan_plawner_maslow_for_ai](assets/jordan_plawner/06_jordan_plawner_maslow_for_ai.png)
 ![07_jordan_plawner_coordination_orchestration](assets/jordan_plawner/07_jordan_plawner_coordination_orchestration.png)
 
+An amazing amount of technical depth -- but built on a very humane foundation that put human values and creativity at the center. Someone to build a practice relationship with.
+
 #### S06 Follow-up - Jordan Plawner
 
 Jordan is running an AI advisory firm targeting mid-size orgs and Fortune 500. Advisory firms need implementation muscle for the ground-level work they can't do from a boardroom.
 
 **In-session or at break:** "Jordan -- I've been doing something adjacent to your work: using mob programming as an AI adoption tool. Teams learn faster working together with AI in the loop than in any training session. Curious whether that kind of implementation layer fits into your practice."
 
-Rough follow-up draft:
+- [x] LI Connection Request sent:
 
-> "Jordan -- your framing of 'uncertainty into agency' resonated. I've been working on exactly that transition, but from the inside of teams rather than from the advisory layer. Mob programming with AI in the loop accelerates the shift from fear to fluency faster than any workshop I've seen. Curious whether Pacific AI Advisory ever needs an implementation partner for the hands-on phase. Would welcome a conversation."
+> Your GenAI Day session had the skin of technical depth, but it was the bones that got me. Very human. For decades, I billed for technical training -- what I delivered was human connection. I'm wondering if that holds true for you in the emerging AI market.
+
+- [ ] Connect w/ Wendy's iniative.  Meaning and Purpose.
 
 ---
 
