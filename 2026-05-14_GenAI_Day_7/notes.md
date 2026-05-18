@@ -122,8 +122,17 @@ Many interactive examples to test audience comprehension.  Show, don't tell.
 
   > Jess,  You packed a lot of great material into your GenAI session, but what impressed me most is that you engaged folks with the L1-L5 examples. Well done. Would love to stay connected. Thanks for CEO connection invitation.  Best, Michael
 
-- [ ] [Book 30-minute session with CEO (Otto Hilska)](https://link.swarmia.com/meetings/otto-hilska/partner?utm_campaign=genai-day-2026&uuid=e386f05c-bbde-4e0f-b2ed-01045c21cdaa)
+- [x] [Book 30-minute session with CEO (Otto Hilska)](https://link.swarmia.com/meetings/otto-hilska/partner?utm_campaign=genai-day-2026&uuid=e386f05c-bbde-4e0f-b2ed-01045c21cdaa)
+
 - [ ] Book 30-minute session with Jess
+
+``` text
+I grabbed a slot w/ Otto on Thursday.  Thanks for the link.
+
+Is there a context you'd suggest I bring to that conversation?
+
+I work with teams on AI/technology/practice adoption and I'm trying to understand how Swarmia fits before I show up cold.
+```
 
 ---
 
@@ -485,7 +494,19 @@ LinkedIn connections captured from Zoom chat during the event.
 
 - [Chris Barth](https://www.linkedin.com/in/chrisbarthsr/)
 - [Celia Wall Moore](https://www.linkedin.com/in/celia-wall-moore1/)
-- [Otto Hilska](https://www.linkedin.com/in/hilska/) -- CEO, Swarmia
+
+### Otto Hilska
+
+[Otto Hilska](https://www.linkedin.com/in/hilska/) -- CEO, Swarmia
+
+``` text
+I help teams build AI adoption habits. You measure whether it's working. I don't have clients to send you today, but I want to understand your product well enough to know
+  when to recommend it -- and whether there's a referral relationship that makes sense."
+
+  That's honest, it's valuable to him (practitioners who recommend products are a real channel), and it doesn't overstate where you are. Let him tell you what a good partner looks like. Then you'll know
+  if you're one.
+
+```
 
 ## LinkedIn
 
