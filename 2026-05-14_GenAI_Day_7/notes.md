@@ -497,9 +497,14 @@ Stacy is at IntePros, a staffing and consulting firm that places people in tech 
 
 **LI About Summary:** 25+ year career from internet startups through eBay and Google. Built $1B+ revenue programs and $2M+/yr professional services orgs. Defensive patents. C-suite client work at Fortune 50 scale. Four levers: technical depth (CS + English), digital data/analytics, client-facing at exec level, servant leadership. She leads with outcomes and revenue, not credentials or craftsmanship. Hires for business value, not just skill.
 
-**LI Connection Request (300 chars):**
+- [x] LI Connection Request sent:
 
-> Stacy -- your enthusiasm for the 90-Day Pod was contagious. I do this work too: embedded, mob programming in the team's environment -- not the classroom. Your FDE framing gave me the label I've been missing. I'd love to explore whether IntePros places practitioners like me.
+> At GenAI Day, your enthusiasm for the 90-Day Pod was contagious. And it feels familiar to how I work - Dojo, Mobbing, Embedded, mixing production with training, with real people. In well-defined engagements that have an end.
+>
+> I'd love to explore whether IntePros places practitioners like me.
+>
+> Best,
+> Michael
 
 Do not over-explain. One sentence about overlap. One ask. Stop talking.
 
