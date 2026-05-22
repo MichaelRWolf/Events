@@ -600,7 +600,22 @@ I help teams build AI adoption habits. You measure whether it's working. I don't
 
 ### Rebecca Murphey
 
-- [ ] LI connection request
+- [x] LI connection request
+
+``` text
+Rebecca --
+
+I'm from the tribe of `GenAI Day attendees who used a camera to participate`.  I think you are in this tribe, too.
+
+I recognized you as I was prepping for a call with Otto that Jess offered in her session.
+
+Your writing caught my attention - we share a few tribes, many ideas, and a few woundsf.
+
+Let's connect on LinkedIn.  And (after you've had time for your foot and Swarmia departure to settle a bit), let's connect with cameras on, too.
+
+Best, 
+Michael
+```
 
 - [ ] Read "The Physics of Software Delivery"
 
@@ -616,22 +631,6 @@ Murphey, R. (2026, February 18). The Physics of Software Delivery. Substack.Com;
 Background: Newspaper journalist turned front-end developer turned engineering leader. Indeed (founded Front-End Core org, 30+ members; cut feature release time from 3 weeks to under 1 day) → Stripe (led Flow-to-TypeScript conversion on millions of lines; implemented SPACE framework for developer productivity) → Swarmia Field CTO (Jan 2023 -- May 2026). Deep roots in the JS/frontend community; well-known in engineering effectiveness circles.
 
 **Relevance:** She just left the embedded practitioner role she held for 3 years and is figuring out what's next -- same position Michael is in. Peer outreach now is well-timed. She has deep networks in the engineering effectiveness space and likely knows who is hiring or building practices in this area.
-
-#### Rebecca Follow-up
-
-- [ ] LI Connection Request
-
-``` text
-Rebecca --
-
-I'm from the tribe of people who know how to enable a camera. Were you in that tribe at GenAI Day?
-
-I recognized you when I accepted Jess's invitation to talk with Otto. I suspect we have more tribes in common.
-
-Let's connect once you settle from the Swarmia departure -- but before you get hopping on that foot.
-
-Best, Michael
-```
 
 ---
 
