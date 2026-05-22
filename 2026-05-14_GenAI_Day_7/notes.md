@@ -134,6 +134,12 @@ Is there a context you'd suggest I bring to that conversation?
 I work with teams on AI/technology/practice adoption and I'm trying to understand how Swarmia fits before I show up cold.
 ```
 
+- [ ] TY for Otto intro
+
+``` text
+Jess -- the Otto link was a good call. We had a solid 30 minutes yesterday. I appreciate you making it easy to connect. I'll keep Swarmia top of mind when I'm working with engineering teams. If you run across anyone who needs help building AI adoption habits at the team level, I'd welcome the intro.
+```
+
 ---
 
 ### S03 Alan Knox
@@ -573,6 +579,16 @@ LinkedIn connections captured from Zoom chat during the event.
 
 [Otto Hilska](https://www.linkedin.com/in/hilska/) -- CEO, Swarmia -- [Meeting May 21 1:30 PM EDT](otto_hilska_meeting.ics)
 
+- Book: [Build: Elements of an Effective Software Organization](https://www.amazon.com/dp/B0CNGYYVF7) (co-authored with Rebecca Murphey, Jan 2024)
+
+#### Otto Follow-up
+
+- [ ] TY for the meeting
+
+``` text
+Otto -- thanks for the time yesterday. Good conversation. I'll be paying attention to teams that could use what Swarmia measures. If you work with teams that are deploying AI but not yet building habits around it, I'd welcome the referral.
+```
+
 ``` text
 I help teams build AI adoption habits. You measure whether it's working. I don't have clients to send you today, but I want to understand your product well enough to know
   when to recommend it -- and whether there's a referral relationship that makes sense."
@@ -581,6 +597,19 @@ I help teams build AI adoption habits. You measure whether it's working. I don't
   if you're one.
 
 ```
+
+### Rebecca Murphey
+
+[Rebecca Murphey](https://www.linkedin.com/in/rmurphey/) -- Field CTO, Swarmia
+
+- Website: <https://rmurphey.com/>
+- Book: [Build: Elements of an Effective Software Organization](https://www.amazon.com/dp/B0CNGYYVF7) (co-authored with Otto Hilska, Jan 2024)
+
+Background: Newspaper journalist turned front-end developer turned engineering leader. Indeed (founded Front-End Core org, 30+ members; cut feature release time from 3 weeks to under 1 day) → Stripe (led Flow-to-TypeScript conversion on millions of lines; implemented SPACE framework for developer productivity) → Swarmia Field CTO (Jan 2023). Deep roots in the JS/frontend community; well-known in engineering effectiveness circles.
+
+**Relevance:** Field CTO = she does what Michael does, embedded inside a product company. Co-author of the book Otto published on building effective software orgs. Useful background for understanding what Swarmia values in practitioners and partners.
+
+---
 
 ## Companies and Roles
 
@@ -617,7 +646,21 @@ Expanding variants: **Forward Deployed Architect** (org-wide AI adoption strateg
 
 **Product:** Engineering analytics platform targeting engineering leaders and CTOs. Tracks software delivery performance via DORA metrics (deployment frequency, lead time, change failure rate, recovery time), flow metrics (cycle time, batch size), and team investment allocation (feature work vs. bugs vs. debt). Surfaces AI adoption signals within engineering workflows. Positioning: gives engineering leaders the same data-informed visibility into team health that product teams have for user behavior.
 
+**News:** Raised $11M Series A (June 2025, led by Karma Ventures and DIG Ventures). Product push into AI adoption analytics -- GitHub Copilot and Cursor usage tracking. Notable angels: Cal Henderson (ex-Slack CTO), Romain Huët (OpenAI Head of Developer Experience).
+
 **Relevance:** Michael's context is team-level AI adoption coaching. Swarmia measures what Michael helps teams build -- complementary, not competing. Referral/partner angle: practitioners who recommend tooling to teams are a real channel for them.
+
+---
+
+### Build (Book)
+
+[Build: Elements of an Effective Software Organization](https://www.amazon.com/dp/B0CNGYYVF7) -- Rebecca Murphey & Otto Hilska (Kindle, 126 pp, Jan 2024)
+
+4.3/5 on Goodreads (64 ratings, 85% four or five stars). Reception: consistently praised as short, actionable, no filler. One reviewer: "succinctly presents at least 80% of what matters in software engineering management."
+
+Three themes: relentless focus on business outcomes, actionable productivity insights, improving the experience of building software. Appendices and supplementary material at [swarmia.com/build/](https://www.swarmia.com/build/).
+
+**Relevance:** Otto wrote the book on what effective software teams look like. Michael's work is about building those habits at the team level. Shared language; a natural conversation anchor.
 
 ## LinkedIn
 
