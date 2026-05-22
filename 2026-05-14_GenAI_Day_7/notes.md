@@ -124,7 +124,7 @@ Many interactive examples to test audience comprehension.  Show, don't tell.
 
 - [x] [Book 30-minute session with CEO (Otto Hilska)](https://link.swarmia.com/meetings/otto-hilska/partner?utm_campaign=genai-day-2026&uuid=e386f05c-bbde-4e0f-b2ed-01045c21cdaa)
 
-- [ ] Book 30-minute session with Jess
+- [-] ~~Book 30-minute session with Jess~~ (abandoned -- Otto meeting covered it)
 
 ``` text
 I grabbed a slot w/ Otto on Thursday.  Thanks for the link.
@@ -134,7 +134,7 @@ Is there a context you'd suggest I bring to that conversation?
 I work with teams on AI/technology/practice adoption and I'm trying to understand how Swarmia fits before I show up cold.
 ```
 
-- [ ] TY for Otto intro
+- [x] Jess TY for Otto intro
 
 ``` text
 Jess -- Thanks for making it easy to connect with Otto.  At our meeting I let him know I'll keep Swarmia top of mind when I'm working with engineering teams, and he said he'd keep me in mind for teams needing help adopting new habits and tools.  Thanks again, Michael
