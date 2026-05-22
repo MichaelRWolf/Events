@@ -577,7 +577,7 @@ LinkedIn connections captured from Zoom chat during the event.
 
 ### Otto Hilska
 
-[Otto Hilska](https://www.linkedin.com/in/hilska/) -- CEO, Swarmia -- [Meeting May 21 1:30 PM EDT](otto_hilska_meeting.ics)
+[Otto Hilska](https://www.linkedin.com/in/hilska/) -- CEO, Swarmia -- [Meeting May 21 1:30 PM EDT](otto_hilska_meeting.ics) -- [Backgrounder & Notes](otto_hilska_backgrounder.md)
 
 - Book: [Build: Elements of an Effective Software Organization](https://www.amazon.com/dp/B0CNGYYVF7) (co-authored with Rebecca Murphey, Jan 2024)
 
