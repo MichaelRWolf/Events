@@ -142,6 +142,28 @@ END:VCARD
 
 BEGIN:VCARD
 VERSION:3.0
+N:Hilska;Otto;;;
+FN:Otto Hilska
+TITLE:CEO & Founder
+ORG:Swarmia
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/hilska/
+URL;TYPE=Work:https://www.swarmia.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/hilska/\nCEO & Founder of Swarmia (est. 2019\, Helsinki). Co-author: Build: Elements of an Effective Software Organization (with Rebecca Murphey\, Jan 2024).\nMeeting: May 21 2026 (30 min\, via Jess Wolfe). Mutual referral arrangement agreed.\nEvent context: GenAI Day #7\, May 2026
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Murphey;Rebecca;;;
+FN:Rebecca Murphey
+TITLE:Strategic Advisor (former Field CTO\, Swarmia)
+ORG:Independent
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/rmurphey/
+URL;TYPE=Work:https://rmurphey.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/rmurphey/\nDeparted Swarmia May 2026 after 3+ years as Field CTO. Next role TBD.\nCo-author: Build: Elements of an Effective Software Organization (with Otto Hilska\, Jan 2024).\nBackground: Indeed (Front-End Core org) -> Stripe (Flow-to-TypeScript\, SPACE framework) -> Swarmia Field CTO (Jan 2023 - May 2026).\nEvent context: GenAI Day #7\, May 2026 via Otto Hilska connection.
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
 N:Medina;Zaki;;;
 FN:Zaki Medina
 TITLE:CTO
