@@ -145,11 +145,10 @@ Jess -- Thanks for making it easy to connect with Otto.  At our meeting I let hi
 ### S03 Alan Knox
 
 - (11:50) Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide
-- Title: COO, CtiPath
+- Title: COO, CitiPath
 - LinkedIn: [Alan Knox](https://www.linkedin.com/in/alanknox/)
 - Website: <https://alanknox.com/>
 - Email: <info@alanknox.com>
-- Note: Event page lists him as VP Product Development, QuantaViable -- no public web presence found. Verify with him directly.
 
 ``` text
 Scaling AI Agents Without Losing Control: AI Proposes, Systems Decide
@@ -209,11 +208,21 @@ Talking points from LI profile: In RDU area.  Has seeming secondary gig in AI SD
 
 #### S03 Follow-up - Alan Knox
 
-- [ ] Suggest "Thinking Fast and Slow" to Alan
-- [ ] Connect  Willem Larsen to Alan
+- [x] Suggest "Thinking Fast and Slow" to Alan
+- [x] Connect Willem Larsen to Alan
 - [x] LI Connection Request - Alan
 
 > I appreciate the two parallel systems (paramedics and AI Agents) in you GenAI Day #7 talk.  Having 2 domains was very helpful to triangulate the roles.  I'd love to stay connected -- on LinkedIn, and even a call if you would like that.
+
+- [x] Follow-up message to Alan (response to "I'm glad you liked it")
+
+> I was reviewing my notes, and 2 TODOs for you caught my mind.
+>
+> - "Thinking, Fast and Slow" is probably already on your radar. Your talk reminded me of some of Danny's points.
+>
+> - That was on my mind because I'm listening to "The Undoing Project" written by Michael Lewis, about the lifelong friendship between Daniel Kahneman and Amos Tversky. It was a nice deep dive to hear about how their collaboration created something that neither could do alone, and to see the ideas evolve that would eventually win Kahneman the Nobel Prize (which he acknowledges built on their shared work)
+>
+> Your presentation also reminded me of work by @Willem Larsen. Here's a representative post. Let me know if you'd like an introduction. <https://www.linkedin.com/posts/willem-larsen-8a005514_click-chain-ai-meet-amal-amaya-willem-share-7455034237478436864-VhS3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAADxzIBUUakc3o7MptwunFkY9GeiKZrIN8>
 
 - [x] LI Connection Request - Celia
 
