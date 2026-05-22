@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Murphey;Rebecca;;;
+FN:Rebecca Murphey
+TITLE:Strategic Advisor (former Field CTO\, Swarmia)
+ORG:Independent
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/rmurphey/
+URL;TYPE=Work:https://rmurphey.com/
+NOTE:LinkedIn: https://www.linkedin.com/in/rmurphey/\nDeparted Swarmia May 2026 after 3+ years as Field CTO. Next role TBD -- transitioning to advisory/consulting.\nCo-author: Build: Elements of an Effective Software Organization (with Otto Hilska\, Jan 2024) https://www.amazon.com/dp/B0CNGYYVF7\nBackground: Indeed (founded Front-End Core org) -> Stripe (Flow-to-TypeScript\, SPACE framework) -> Swarmia Field CTO\nMet via Otto Hilska / Swarmia connection\, GenAI Day #7 context\, May 2026
+END:VCARD

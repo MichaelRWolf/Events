@@ -600,14 +600,16 @@ I help teams build AI adoption habits. You measure whether it's working. I don't
 
 ### Rebecca Murphey
 
-[Rebecca Murphey](https://www.linkedin.com/in/rmurphey/) -- Field CTO, Swarmia
+[Rebecca Murphey](https://www.linkedin.com/in/rmurphey/) -- former Field CTO, Swarmia (departed ~May 2026)
 
 - Website: <https://rmurphey.com/>
 - Book: [Build: Elements of an Effective Software Organization](https://www.amazon.com/dp/B0CNGYYVF7) (co-authored with Otto Hilska, Jan 2024)
 
-Background: Newspaper journalist turned front-end developer turned engineering leader. Indeed (founded Front-End Core org, 30+ members; cut feature release time from 3 weeks to under 1 day) → Stripe (led Flow-to-TypeScript conversion on millions of lines; implemented SPACE framework for developer productivity) → Swarmia Field CTO (Jan 2023). Deep roots in the JS/frontend community; well-known in engineering effectiveness circles.
+**Status (May 2026):** Just left Swarmia after 3+ years. Posted a warm departure on LinkedIn (139 reactions) -- thanked Otto for recruiting her over Christmas 2022, emotional about leaving the community. No next role announced yet. LinkedIn headline still shows "Field CTO @ Swarmia. Strategic advisor,..." suggesting she is transitioning into advisory/consulting work. Second post (2 days later) processing the loss of the community side of the job.
 
-**Relevance:** Field CTO = she does what Michael does, embedded inside a product company. Co-author of the book Otto published on building effective software orgs. Useful background for understanding what Swarmia values in practitioners and partners.
+Background: Newspaper journalist turned front-end developer turned engineering leader. Indeed (founded Front-End Core org, 30+ members; cut feature release time from 3 weeks to under 1 day) → Stripe (led Flow-to-TypeScript conversion on millions of lines; implemented SPACE framework for developer productivity) → Swarmia Field CTO (Jan 2023 -- May 2026). Deep roots in the JS/frontend community; well-known in engineering effectiveness circles.
+
+**Relevance:** She just left the embedded practitioner role she held for 3 years and is figuring out what's next -- same position Michael is in. Peer outreach now is well-timed. She has deep networks in the engineering effectiveness space and likely knows who is hiring or building practices in this area.
 
 ---
 
