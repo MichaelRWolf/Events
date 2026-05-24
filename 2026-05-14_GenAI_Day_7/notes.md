@@ -64,11 +64,29 @@ New leadership skills
 - Critical thinking
 - self-awareness
 
+**David:** Impressed with the caliber and depth of curation -- each presenter could have been a standalone 60-90 minute session. Thoughtful rolodex. (AI-assisted by now?)
+
+**Lara:** Facilitation between sessions was seamless and invisible. Anecdote about being blindsided by AI note takers: perfect example of "what we don't know we don't know" -- unintended consequences in plain sight.
+
 #### S01 Follow-up - David Mantica & Lara Hill
 
-1. TY (w/ Lara) for event
-2. Self-awareness -- Connect to Wendy
-3. Reserch Amy Rice - Co-intelligence
+##### David Mantica
+
+- [ ] LI Connection Request -- David Mantica
+
+  > David -- three GenAI Days, and the curation keeps raising the bar. Each session could have been a full day on its own. Did you get what you wanted from this one? Also: Steven Diamante (local RDU, active AI scene) expressed interest in video -- could be a good exposure channel for your speakers.
+
+- [ ] Research Amy Rice -- Co-intelligence
+- [ ] Connect to Wendy (self-awareness thread)
+- Note: Steven Diamante (local RDU, active AI scene) -- interested in presenter video exposure
+
+##### Lara Hill
+
+- [ ] LI Connection Request -- Lara Hill
+
+  > Lara -- the transitions between sessions were seamless, which means you were working hard. And your AI note-taker story was the best example of "what we don't know we don't know" all day. Would love to stay connected.
+
+- [ ] Explore Skills Development Group as a practitioner placement channel
 
 Quotes:
 
@@ -285,8 +303,7 @@ Toby walks through six moves separating organizations scaling AI from those stal
 #### S05 Follow-up - Toby Rao
 
 - [x] LI Connection
-- [ ]
--
+- [ ] Learn about Toby's community connection.
 
 Toby is the Founder of a 2,300+ member Agile + AI community. This is Michael's intersection.
 Ask about the network itself, not the case study. What kinds of practitioners are in it? Is there space for someone who does team-level AI adoption work?
@@ -297,10 +314,12 @@ Rough follow-up draft:
 
 > "Toby -- the case study landed for me. The 58% number is the kind of evidence most orgs need before they'll move. I work at exactly that intersection of Agile and AI adoption -- helping teams close the gap between 'deployed' and 'trusted.' Is the Loudoun AiGile Network a place where that kind of practitioner work fits? I'd welcome a conversation."
 
-- [ ] Reply to Toby's acceptance:
+- [ ] Decide: check Toby's recent LI activity -- is it time to poke or let drop?
 
-> Great to connect, Toby. A few intersections: Loudoun County High School (when Leesburg was frontier between west-facing FFA (Future Farmers of America) and east-facing FBLA (Future Business Leaders of America)), a Pacific Northwest thread, and UX running through both our paths.
-> I'd enjoy a conversation about what you're seeing in the GenAI market right now. As could be expected at this phase, the signal/noise ratio is hard to read. Does the Loudoun AiGile group help? Up for 30 minutes?
+  Draft if poking:
+
+  > Great to connect, Toby. A few intersections: Loudoun County High School (when Leesburg was frontier between west-facing FFA (Future Farmers of America) and east-facing FBLA (Future Business Leaders of America)), a Pacific Northwest thread, and UX running through both our paths.
+  > I'd enjoy a conversation about what you're seeing in the GenAI market right now. As could be expected at this phase, the signal/noise ratio is hard to read. Does the Loudoun AiGile group help? Up for 30 minutes?
 
 ---
 
@@ -364,7 +383,23 @@ Jenny shares real deployments and obstacles from regulated industries, covering 
 ![02_jenny_larsson_tech_not_the_hard_part](assets/jenny_larsson/02_jenny_larsson_tech_not_the_hard_part.png)
 ![03_jenny_larsson_go_forward_kill_delay_matrix](assets/jenny_larsson/03_jenny_larsson_go_forward_kill_delay_matrix.png)
 
+So much stood out -- many notes captured as visual slides.
+
+- Technology is not the point
+- Do not go forward unless you have a strong green
+- Go/Kill/Delay matrix: real decision tool, not a theory slide
+- Vibe coding on a morning run AND at kids' lacrosse practice -- she really is in the agent swarm
+- "Bring people with you" -- the social side of transformation that most technical frameworks skip
+
 #### S07 Follow-up - Jenny Larsson
+
+- [ ] LI Connection Request -- Jenny Larsson
+
+  > Jenny -- vibe coding on a morning run and at lacrosse practice. You really are in the agent swarm. "Technology is not the point" and the go/kill/delay matrix both landed. I'd welcome a real conversation about where people actually care about this.
+
+- [ ] Review visual notes from session (slides captured in assets/jenny_larsson/)
+- [ ] Reply to Jenny's LI post about her GenAI Day experience
+- [ ] Strong ask: conversation on where orgs are genuinely committed to AI-adjacent change (not just excited about it)
 
 ---
 
@@ -428,7 +463,20 @@ Corey argues for applying "Lean Six Sigma principles, including value stream map
 ![01_corey_king_pairing_tech_techniques_2books](assets/corey_king/01_corey_king_pairing_tech_techniques_2books.png)
 ![02_corey_king_pairing_tech_techniques_3books](assets/corey_king/02_corey_king_pairing_tech_techniques_3books.png)
 
+- The book pairing (2, then 3 -- not 20) showed real discipline. Curated is credible.
+- "Fix flow, not bottlenecks" -- goes into the vocabulary
+- Playbooks remind me of Dojos -- tie-in worth exploring
+- PACE: Planned, Alternative, Contingency, Emergency -- military decision framework. Look up.
+- Carl Ditzler: mutual admiration; follow up
+
 #### S09 Follow-up - Corey King
+
+- [ ] LI Connection Request -- Corey King
+
+  > Corey -- "fix flow, not bottlenecks" is going into my vocabulary. And the book pairing (not 20 books) showed real discipline. I work at the intersection of Lean and team-level AI adoption. Would love to stay connected.
+
+- [ ] Look up PACE framework (Planned, Alternative, Contingency, Emergency)
+- [ ] Follow up: Carl Ditzler -- mutual admiration thread
 
 ---
 
@@ -448,6 +496,14 @@ Tony demonstrates practical AI tools and techniques available currently, offerin
 
 #### S10 Notes - Tony Rockliff
 
+Type A content wrapped in chill-out energy. Hyper geeky. Hyper humane. Highly inspiring.
+
+Three tools demonstrated:
+
+1. **Google NotebookLM** -- centralized repo / personal knowledge base. Turned a 1-day research project into 15 minutes. Watches video, reads PDF, analyzes spreadsheets. Second brain.
+2. **Manus** -- does the glossy stuff (PPT) AND the structural stuff: create apps, sites, enterprise apps, find and fix bugs, eliminate toil, organize files. Example: categorized and renamed 800 images; summarized 100 emails (read/reply/later/discard). File format conversion. Invite link shared in chat.
+3. **WaveSpeed Desktop** -- stop renting image/video generation tools. Own the generated content. $13 one-time purchase. One tool: raw, hybrid, aggregator modes. Create videos with 50 cameras. Ask Tony: can it create video INTENDED to be viewed across multiple monitors?
+
 #### S10 Follow-up - Tony Rockliff
 
 Tony's entire brand is connecting people in AI. His community has 2,300+ members. He runs 10+ seminars monthly. He is literally in the business of connecting people.
@@ -455,6 +511,13 @@ Tony's entire brand is connecting people in AI. His community has 2,300+ members
 **Tell him what you do. Ask who he thinks you should know.**
 
 **In-session or break:** "Tony -- I help technical teams adopt AI at the team level, using mob programming as the learning vehicle. Who in the AI Connection Club community do you think I should meet?"
+
+- [ ] LI Connection Request -- Tony Rockliff
+
+  > Tony -- Type A content wrapped in chill-out energy. I stayed with all three tool demos. WaveSpeed: I have a specific idea about multi-monitor video I want to ask you about. Can we connect?
+
+- [ ] Ask who in AI Connection Club is doing team-level AI adoption work
+- [ ] Ask Tony about WaveSpeed for video intended to span multiple monitors
 
 Rough follow-up draft:
 
@@ -573,7 +636,31 @@ Zaki examines the agent stack's six layers, maturity curves, and commoditization
 ![03_zaki_medina_monday_morning_five_things](assets/zaki_medina/03_zaki_medina_monday_morning_five_things.png)
 ![04_zaki_medina_contact_hardest_workflow](assets/zaki_medina/04_zaki_medina_contact_hardest_workflow.png)
 
+2024 Start. 2025 Struggle. 2026 Click. Not candy-coated perseverance -- scars and lessons from slogging through uncertainty.
+
+"Like living Day One. Nobody is behind in a continually-six-month-old ecosystem."
+
+Three skills that actually matter now:
+
+1. **Context engineering** (90%) -- not prompt engineering (10%). The context you bring shapes everything.
+2. **Eval Driven Development** -- TDD cannot capture non-deterministic output. Capture decisions instead.
+3. **Stack literacy** -- know the layers, build things, don't get tool/vendor loyal in the way of understanding.
+
+"Source Files" -- follow up on what he means by this.
+
+Said he was happy to connect. Research: [mem0.ai](https://mem0.ai/)
+
 #### S12 Follow-up - Zaki Medina
+
+Repeat speaker: Day #5 and #7. That continuity is worth naming.
+
+- [ ] LI Connection Request -- Zaki Medina
+
+  > Zaki -- 2024 start, 2025 struggle, 2026 click. That arc is the honest version of this story. "Nobody is behind in a continually-six-month-old ecosystem" is the most useful thing I heard all day. Would love to stay connected.
+
+- [ ] Follow up on "Source Files" -- what does he mean?
+- [ ] Research mem0.ai
+- [ ] Explore REVIVE Healthcare as a potential AI adoption context
 
 ---
 
