@@ -557,9 +557,9 @@ Tony's entire brand is connecting people in AI. His community has 2,300+ members
 
 **In-session or break:** "Tony -- I help technical teams adopt AI at the team level, using mob programming as the learning vehicle. Who in the AI Connection Club community do you think I should meet?"
 
-- [-] ~~LI Connection Request -- Tony Rockliff~~ (disregarded -- government/military adjacency)
-- [-] ~~Ask who in AI Connection Club is doing team-level AI adoption work~~
-- [-] ~~Ask Tony about WaveSpeed for video intended to span multiple monitors~~
+- [ ] LI Connection Request -- Tony Rockliff
+- [ ] Ask who in AI Connection Club is doing team-level AI adoption work
+- [ ] Ask Tony about WaveSpeed for video intended to span multiple monitors
 
 Rough follow-up draft:
 
