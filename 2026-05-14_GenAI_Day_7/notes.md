@@ -12,6 +12,18 @@
 - Post-event: recordings, slides, full transcripts, and chat logs sent to all registrants
 - Tip from SoftEd: share your LinkedIn URL in the Zoom chat
 
+## GenAI Day Series
+
+| # | Date                   | Michael Active |
+|---|------------------------|----------------|
+| 1 | unknown                |                |
+| 2 | unknown                |                |
+| 3 | unknown                |                |
+| 4 | 2024-10 (October 2024) | yes            |
+| 5 | 2025-03 (March 2025)   | yes            |
+| 6 | unknown                |                |
+| 7 | 2026-05-14             | yes            |
+
 ## People
 
 See [people.vcf](people.vcf) for importable contact cards (vCard 3.0, all 13 speakers). Per-person details (LinkedIn, title, company, notes) are in each session's entry below.
@@ -709,7 +721,7 @@ Said he was happy to connect. Research: [mem0.ai](https://mem0.ai/)
 
 Repeat speaker: Day #5 and #7. That continuity is worth naming.
 
-- [-] ~~LI Connection Request -- Zaki Medina~~ -- sent weak message 2026-05-23 instead
+- [-] ~~LI Connection Request -- Zaki Medina~~ -- sent weak message 2025-04-23 (after Day #5) instead
 
 ``` text
 Hi Zaki - Your GenAI Day talk was insightful... especially as I look for my next step.
