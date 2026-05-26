@@ -624,7 +624,9 @@ Stacy is at IntePros, a staffing and consulting firm that places people in tech 
 
 **LI About Summary:** 25+ year career from internet startups through eBay and Google. Built $1B+ revenue programs and $2M+/yr professional services orgs. Defensive patents. C-suite client work at Fortune 50 scale. Four levers: technical depth (CS + English), digital data/analytics, client-facing at exec level, servant leadership. She leads with outcomes and revenue, not credentials or craftsmanship. Hires for business value, not just skill.
 
-- [x] LI Connection Request sent:
+- [x] LI Message sent (2026-05-18) -- "Sharing excitement for pod way of working"
+
+  **Status (2026-05-26):** Following, not connected. Message likely in her Requests folder -- not guaranteed she saw it. No reply as of today. Memorial Day was yesterday; some schools end this week.
 
 > At GenAI Day, your enthusiasm for the 90-Day Pod was contagious. And it feels familiar to how I work - Dojo, Mobbing, Embedded, mixing production with training, with real people. In well-defined engagements that have an end.
 >
@@ -633,9 +635,15 @@ Stacy is at IntePros, a staffing and consulting firm that places people in tech 
 > Best,
 > Michael
 
+- [ ] Send LI Connection Request this week (Tue/Wed) -- surfaces you in her notifications; message alone may be buried in Requests
+
+  Connection note (brief -- message already made the ask):
+
+  > "Sent you a note after GenAI Day about the 90-Day Pod resonating with my work. Would love to connect."
+
 Do not over-explain. One sentence about overlap. One ask. Stop talking.
 
-Rough follow-up draft (longer form, after connecting):
+After connecting, use the longer follow-up draft:
 
 > "Stacy -- I appreciated your session today. The 90-Day Pod model resonated because it describes how I work: embedded with the team, time-boxed engagement, sustainable handoff. I bring that approach specifically to AI adoption with technical teams. I'd welcome a conversation about whether IntePros ever places practitioners like me. Available for a 20-minute call this week?"
 
