@@ -68,6 +68,8 @@ New leadership skills
 
 **Lara:** Facilitation between sessions was seamless and invisible. Anecdote about being blindsided by AI note takers: perfect example of "what we don't know we don't know" -- unintended consequences in plain sight.
 
+**Chat contribution:** "In a field where 95% of AI projects fail to deliver, the leadership variable is often whether someone had the courage to declare the experiment over and the system ready. Gartner's 80% prediction assumes that transition actually happens."
+
 #### S01 Follow-up - David Mantica & Lara Hill
 
 ##### David Mantica
@@ -133,6 +135,8 @@ Refrains
 > DoD is Definition of "Ready for AI"
 
 Many interactive examples to test audience comprehension.  Show, don't tell.
+
+**Chat contribution:** "The sledgehammer problem is often invisible -- teams reach for conversational AI because it's the only level they've been trained on, not because it's the right fit for the task."
 
 #### S02 Follow-up - Jess Wolfe
 
@@ -224,6 +228,8 @@ Celia Moore had good HR question.
 
 Talking points from LI profile: In RDU area.  Has seeming secondary gig in AI SDLC parallel to 13+ year COO position.  Posting many times a week.
 
+**Chat contribution:** "The deterministic wrapper around the AI decision is what lets you sleep at night. AI proposes; a state machine disposes. The hard design question is where to put the boundary."
+
 #### S03 Follow-up - Alan Knox
 
 - [x] Suggest "Thinking Fast and Slow" to Alan
@@ -274,6 +280,8 @@ Great job putting lists on slides.
 ![00_prasad_banala_face](assets/prasad_banala/00_prasad_banala_face.png)
 ![01_sre_common_pitfalls](assets/dev_panajkar/01_sre_common_pitfalls.png)
 
+**Chat contribution:** "The noise problem in SRE observability is partly a training data problem -- the model learns what 'normal' looks like from the same alert stream that's already over-fired. Curious how you handle the cold-start before the model has enough signal."
+
 #### S04 Follow-up - Dev Panajkar & Prasad Banala
 
 Tata!  No follow-up.
@@ -299,6 +307,8 @@ Toby walks through six moves separating organizations scaling AI from those stal
 ![01_toby_rao_bio](assets/toby_rao/01_toby_rao_bio.png)
 ![02_toby_rao_aisa_adoption_journey](assets/toby_rao/02_toby_rao_aisa_adoption_journey.png)
 ![03_toby_rao_summit_framework](assets/toby_rao/03_toby_rao_summit_framework.png)
+
+**Chat contribution:** "58% adoption is remarkable -- most orgs celebrate 20% and call it success. What was the specific move that broke through the 30% stall? That's the wall most transformations hit and don't recover from."
 
 #### S05 Follow-up - Toby Rao
 
@@ -349,6 +359,8 @@ Jordan helps professionals understand contemporary AI capabilities and limitatio
 
 An amazing amount of technical depth -- but built on a very humane foundation that put human values and creativity at the center. Someone to build a practice relationship with.
 
+**Chat contribution:** "The identity threat from AI is real in technical roles too -- not just creative ones. Engineers who built careers on knowing things are suddenly in a world where the knowing is commoditized. The inner loop you describe has to reach that group too."
+
 #### S06 Follow-up - Jordan Plawner
 
 Jordan is running an AI advisory firm targeting mid-size orgs and Fortune 500. Advisory firms need implementation muscle for the ground-level work they can't do from a boardroom.
@@ -360,6 +372,10 @@ Jordan is running an AI advisory firm targeting mid-size orgs and Fortune 500. A
 > Your GenAI Day session had the skin of technical depth, but it was the bones that got me. Very human. For decades, I billed for technical training -- what I delivered was human connection. I'm wondering if that holds true for you in the emerging AI market.
 
 - [ ] Connect w/ Wendy's iniative.  Meaning and Purpose.
+
+Draft for deeper conversation (after connecting):
+
+> "Jordan -- your framing of 'uncertainty into agency' resonated. I've been working on exactly that transition, but from the inside of teams rather than from the advisory layer. Mob programming with AI in the loop accelerates the shift from fear to fluency faster than any workshop I've seen. Curious whether Pacific AI Advisory ever needs an implementation partner for the hands-on phase. Would welcome a conversation."
 
 ---
 
@@ -390,6 +406,8 @@ So much stood out -- many notes captured as visual slides.
 - Go/Kill/Delay matrix: real decision tool, not a theory slide
 - Vibe coding on a morning run AND at kids' lacrosse practice -- she really is in the agent swarm
 - "Bring people with you" -- the social side of transformation that most technical frameworks skip
+
+**Chat contribution:** "The 39% is also a talent filter -- the orgs that are making it work tend to already have someone inside who cares enough to build a real feedback loop between AI output and human judgment. The technology is rarely the bottleneck."
 
 #### S07 Follow-up - Jenny Larsson
 
@@ -427,6 +445,8 @@ Surprise: opened by asking the audience "What did you learn from me?" -- flipped
 - Use agents to create agents
 - Humans will be pulled into lawsuits (liability follows the human)
 - 95% of AI projects are failing -- be in the 5%
+
+**Chat contribution:** "The 'digital dust' failure mode is usually a prompting problem that looks like an architecture problem. Teams give up before they solve the context injection challenge -- and then blame the model."
 
 #### S08 Follow-up - George Churchwell
 
@@ -469,6 +489,8 @@ Corey argues for applying "Lean Six Sigma principles, including value stream map
 - PACE: Planned, Alternative, Contingency, Emergency -- military decision framework. Look up.
 - Carl Ditzler: mutual admiration; follow up
 
+**Chat contribution:** "Automating the mess just makes the mess faster. The value stream map is the right diagnostic before any AI deployment decision. The hard part is getting organizations to pause long enough to draw it."
+
 #### S09 Follow-up - Corey King
 
 - [ ] LI Connection Request -- Corey King
@@ -503,6 +525,8 @@ Three tools demonstrated:
 1. **Google NotebookLM** -- centralized repo / personal knowledge base. Turned a 1-day research project into 15 minutes. Watches video, reads PDF, analyzes spreadsheets. Second brain.
 2. **Manus** -- does the glossy stuff (PPT) AND the structural stuff: create apps, sites, enterprise apps, find and fix bugs, eliminate toil, organize files. Example: categorized and renamed 800 images; summarized 100 emails (read/reply/later/discard). File format conversion. Invite link shared in chat.
 3. **WaveSpeed Desktop** -- stop renting image/video generation tools. Own the generated content. $13 one-time purchase. One tool: raw, hybrid, aggregator modes. Create videos with 50 cameras. Ask Tony: can it create video INTENDED to be viewed across multiple monitors?
+
+**Chat contribution:** "The non-technical user barrier isn't the interface -- it's not having a use case that feels personal enough to justify the learning curve. A curated toolkit solves this because it sidesteps the 'figure it out yourself' phase entirely."
 
 #### S10 Follow-up - Tony Rockliff
 
@@ -590,6 +614,8 @@ Quote:
 Change is not a phase
 It is operating state
 
+**Chat contribution:** "The handoff at day 90 is the hardest moment -- not technically, but organizationally. The team has to believe they own the system before day 90, or it reverts the moment the pod leaves. What's the move that creates that ownership?"
+
 #### S11 Follow-up - Stacy Gonyou
 
 Stacy is at IntePros, a staffing and consulting firm that places people in tech roles. She is describing an engagement model (the 90-Day Pod) that is exactly the shape of work Michael does.
@@ -620,6 +646,7 @@ Rough follow-up draft (longer form, after connecting):
 - (4:00) Closing Session: Agentic AI isn't magic. It's a stack.
 - Title: CTO, REVIVE Healthcare Group
 - LinkedIn: [Zaki Medina](https://www.linkedin.com/in/zakimedina/)
+- Company: [REVIVE Healthcare Group](https://www.linkedin.com/company/revive-healthcare-group/)
 - Note: Repeat speaker: GenAI Days #5, #7
 
 ``` text
@@ -649,6 +676,8 @@ Three skills that actually matter now:
 "Source Files" -- follow up on what he means by this.
 
 Said he was happy to connect. Research: [mem0.ai](https://mem0.ai/)
+
+**Chat contribution:** "The commoditization curve for AI agent layers is moving faster than most enterprise adoption cycles. By the time the org is ready for layer 3, layer 3 is already table stakes. The five-step list is interesting -- does it account for the maturity gap?"
 
 #### S12 Follow-up - Zaki Medina
 
