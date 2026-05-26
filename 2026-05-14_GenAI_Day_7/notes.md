@@ -397,11 +397,19 @@ So much stood out -- many notes captured as visual slides.
 
 #### S07 Follow-up - Jenny Larsson
 
-- [ ] LI Connection Request -- Jenny Larsson
+- [x] LI Connection Request -- Jenny Larsson (2026-05-26 16:44)
 
-  > Jenny -- vibe coding on a morning run and at lacrosse practice. You really are in the agent swarm. "Technology is not the point" and the go/kill/delay matrix both landed. I'd welcome a real conversation about where people actually care about this.
+``` text
+Thanks for "Technology is not the hard part" at GenAI Day[*].
 
-- [ ] Review visual notes from session (slides captured in assets/jenny_larsson/)
+As a self-proclaimed technologist, I look to connect with this thinking!  I'd welcome a conversation about where people care enough to get green and go.
+
+Michael
+
+* The hard part is finding vibe time between lacrosse and running!  ;-)
+```
+
+- [x] Review visual notes from session (slides captured in assets/jenny_larsson/)
 - [ ] Reply to Jenny's LI post about her GenAI Day experience
 - [ ] Strong ask: conversation on where orgs are genuinely committed to AI-adjacent change (not just excited about it)
 
