@@ -74,9 +74,18 @@ New leadership skills
 
 ##### David Mantica
 
-- [ ] LI Connection Request -- David Mantica
+- [x] Already connected on LI
+- [x] TY message sent (2026-05-26)
 
-  > David -- three GenAI Days, and the curation keeps raising the bar. Each session could have been a full day on its own. Did you get what you wanted from this one? Also: Steven Diamante (local RDU, active AI scene) expressed interest in video -- could be a good exposure channel for your speakers.
+``` text
+David,  Thanks so much for including me in #7!  It was a pleasure and a privelege.   Beyond the "smile sheet" feedback, here's my honest thinking.  Are you ready for this?  It's brutally honest.
+
+It was great!  Couldn't ask for more.  What a great mix of ideas, perspectives, and expertises.
+
+Your rolodex rocks!
+
+Thanks again!
+```
 
 - [ ] Research Amy Rice -- Co-intelligence
 - [ ] Connect to Wendy (self-awareness thread)
@@ -84,9 +93,26 @@ New leadership skills
 
 ##### Lara Hill
 
-- [ ] LI Connection Request -- Lara Hill
+- [x] Already connected on LI
+- [x] TY message sent (2026-05-26)
 
-  > Lara -- the transitions between sessions were seamless, which means you were working hard. And your AI note-taker story was the best example of "what we don't know we don't know" all day. Would love to stay connected.
+``` text
+Lara,
+
+Thanks again for GenAI Day #7.  You probably got my feedback via the automated "smile sheet", but in case you missed it, here's what I really think.  (OK.  Are you sitting down?)
+
+It was great.
+
+Again.
+
+I learn so much from these.  Mostly because of the variety of voices and perspectives.  I am in such an echo chamber of people like me that it's great to get an opportunity to get in another chamber.
+
+Thanks again,
+
+Michael
+
+P.S.  And... in the "you gotta laugh" category -- this one wins the prize for having an AI note taker interrupt the notes for an AI conference.
+```
 
 - [ ] Explore Skills Development Group as a practitioner placement channel
 
