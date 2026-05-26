@@ -293,6 +293,7 @@ Tata!  No follow-up.
 - (12:40) Beyond the Pilot: Bringing AI to Life Across the Organization
 - Title: Founder, Loudoun AiGile Network
 - LinkedIn: [Toby Rao](https://www.linkedin.com/in/tobyrao/)
+- Community: [Loudoun Agile Network](https://www.meetup.com/loudoun-agile-network/) (Meetup, 2,300+ members)
 - Note: Also Director of Enterprise Transformation & AI COE Lead at Exostar (day job).
 
 ``` text
@@ -313,23 +314,8 @@ Toby walks through six moves separating organizations scaling AI from those stal
 #### S05 Follow-up - Toby Rao
 
 - [x] LI Connection
-- [ ] Learn about Toby's community connection.
-
-Toby is the Founder of a 2,300+ member Agile + AI community. This is Michael's intersection.
-Ask about the network itself, not the case study. What kinds of practitioners are in it? Is there space for someone who does team-level AI adoption work?
-
-**In-session or at break:** "Toby -- the Agile + AI intersection is exactly where I work. I'd love to learn more about the Loudoun AiGile Network. Is it open to practitioners doing hands-on adoption work with teams?"
-
-Rough follow-up draft:
-
-> "Toby -- the case study landed for me. The 58% number is the kind of evidence most orgs need before they'll move. I work at exactly that intersection of Agile and AI adoption -- helping teams close the gap between 'deployed' and 'trusted.' Is the Loudoun AiGile Network a place where that kind of practitioner work fits? I'd welcome a conversation."
-
-- [ ] Decide: check Toby's recent LI activity -- is it time to poke or let drop?
-
-  Draft if poking:
-
-  > Great to connect, Toby. A few intersections: Loudoun County High School (when Leesburg was frontier between west-facing FFA (Future Farmers of America) and east-facing FBLA (Future Business Leaders of America)), a Pacific Northwest thread, and UX running through both our paths.
-  > I'd enjoy a conversation about what you're seeing in the GenAI market right now. As could be expected at this phase, the signal/noise ratio is hard to read. Does the Loudoun AiGile group help? Up for 30 minutes?
+- [-] ~~Learn about Toby's community connection~~ (disregarded -- Loudoun AiGile Network is PMI-affiliated; government/military/PMI adjacency)
+- [-] ~~Decide: check Toby's recent LI activity -- is it time to poke or let drop?~~ (disregarded -- same)
 
 ---
 
@@ -536,12 +522,9 @@ Tony's entire brand is connecting people in AI. His community has 2,300+ members
 
 **In-session or break:** "Tony -- I help technical teams adopt AI at the team level, using mob programming as the learning vehicle. Who in the AI Connection Club community do you think I should meet?"
 
-- [ ] LI Connection Request -- Tony Rockliff
-
-  > Tony -- Type A content wrapped in chill-out energy. I stayed with all three tool demos. WaveSpeed: I have a specific idea about multi-monitor video I want to ask you about. Can we connect?
-
-- [ ] Ask who in AI Connection Club is doing team-level AI adoption work
-- [ ] Ask Tony about WaveSpeed for video intended to span multiple monitors
+- [-] ~~LI Connection Request -- Tony Rockliff~~ (disregarded -- government/military adjacency)
+- [-] ~~Ask who in AI Connection Club is doing team-level AI adoption work~~
+- [-] ~~Ask Tony about WaveSpeed for video intended to span multiple monitors~~
 
 Rough follow-up draft:
 
