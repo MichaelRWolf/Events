@@ -370,7 +370,8 @@ Draft for deeper conversation (after connecting):
 - (1:35) The Moves That Matter: A Practitioner's Guide to Joining the 39%
 - Title: AI & Digital Transformation Executive (independent)
 - LinkedIn: [Jenny Larsson](https://www.linkedin.com/in/jlarsson/)
-- Note: Actual employer is Intact Insurance Specialty Solutions (Global CIO). Multiple LinkedIn matches -- confirmed via event page.
+- Company: [Intact Insurance Specialty Solutions](https://www.linkedin.com/company/42117012/) (actual employer, Global CIO -- not advertised at event)
+- Note: Multiple LinkedIn matches -- confirmed via event page.
 
 ``` text
 The Moves That Matter: A Practitioner's Guide to Joining the 39%
