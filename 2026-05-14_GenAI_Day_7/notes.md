@@ -635,11 +635,9 @@ Stacy is at IntePros, a staffing and consulting firm that places people in tech 
 > Best,
 > Michael
 
-- [ ] Send LI Connection Request this week (Tue/Wed) -- surfaces you in her notifications; message alone may be buried in Requests
+- [-] ~~Send LI Connection Request~~ -- LI requires her email to connect; don't have it. Blocked.
 
-  Connection note (brief -- message already made the ask):
-
-  > "Sent you a note after GenAI Day about the 90-Day Pod resonating with my work. Would love to connect."
+- [ ] Get alternate connection to Stacy through LI connections -- find a mutual connection who can bridge the gap
 
 Do not over-explain. One sentence about overlap. One ask. Stop talking.
 
