@@ -542,6 +542,17 @@ Michael
 - [x] Look up PACE framework (Planned, Alternative, Contingency, Emergency)
 - [ ] Follow up: Carl Ditzler -- mutual admiration thread
 
+``` text
+Carl,
+
+At GenAI Day, you and Corey reminded me of "The Undoing Project", a story of a long-term working partnership.  I'm sorry yours ended.
+
+Like you, I am looking for work.  If you'd like to compare perspectives, let's schedule some time.
+
+Best,
+Michael
+```
+
 ---
 
 ### S10 Tony Rockliff
@@ -584,7 +595,7 @@ Tony's entire brand is connecting people in AI. His community has 2,300+ members
 
 - Note: LI does not allow connection -- options are Follow, Book a Session, or Message only
 - [ ] Book a session with Tony
-- [ ] Ask who in AI Connection Club is doing team-level AI adoption work
+- [x] Ask who in AI Connection Club is doing team-level AI adoption work
 - [ ] Ask Tony about WaveSpeed for video intended to span multiple monitors
 
 Rough follow-up draft:
