@@ -730,7 +730,7 @@ Said he was happy to connect. Research: [mem0.ai](https://mem0.ai/)
 
 Repeat speaker: Day #5 and #7. That continuity is worth naming.
 
-- [-] ~~LI Connection Request -- Zaki Medina~~ -- sent weak message 2025-04-23 (after Day #5) instead
+- [-] ~~LI Connection Request -- Zaki Medina~~ -- sent weak message 2025-04-23 (after GenAI Day #5) instead
 
 ``` text
 Hi Zaki - Your GenAI Day talk was insightful... especially as I look for my next step.
@@ -738,45 +738,38 @@ I STARTED as a dev... GREW into helping teams thrive... CURRENTLY exploring a bl
 AI to develop products + AI to grow human skills. Would love to trade thoughts. Best, Michael
 ```
 
-- [ ] Send stronger follow-up -- InMail or Book a Session (drafts below)
+- [x] Send stronger follow-up -- InMail sent 2026-05-26 21:09
 - [ ] Follow up on "Source Files" -- what does he mean?
 - [ ] Research mem0.ai
 - [ ] Explore REVIVE Healthcare as a potential AI adoption context
 
 ##### Draft A -- InMail (longer, more substantive)
 
+- [ ] LI InMail
+
 ``` text
 Zaki --
 
-"2024 start, 2025 struggle, 2026 click" was the most honest arc I heard all day. Not
-"here's how we won" -- here's what it actually felt like to push through before the
-tipping point arrived.
+"2024 start, 2025 struggle, 2026 click" was the most honest arc I heard at GenAI Day. Not a simplistic "here's how we won", but "here's what it actually felt like to push through before the tipping point arrived".  Like that famous quote from Edison about "not failing 250 times" it's too easy to focus on the breakthrough without acknowledging the ground truth when 220 things don't work.  Or 240.  245.  246.  247.  (I've heard that after trying everything he could think of he even tried his breakfast cereal, and something off his boot).
 
-That resonates. I've spent years doing technology adoption work in eras where the
-tipping point came late, or never -- Agile, XP, Lean, mob programming. Each one had
-a window. I was in the room when some of those windows closed on organizations that
-waited too long.
+But the tipping point that I'm still chewing on is commoditization BEFORE adoption.  This fundamentally tips the value I provided most of my career - embedded, time-boxed engagements, helping teams adopt new, valuable technology before the late majority or laggards.
 
-Your commoditization-vs-adoption framing is the thing I keep chewing on. The stack
-commoditizes faster than orgs can adopt. That's the race. And "nobody is behind in
-a continually-six-month-old ecosystem" is the right frame for practitioners -- but
-it doesn't help the org that's still deciding whether to start.
+This flip reminds me of the critical speed of water in an open trough.  Below that speed, you must control it downstream; above that speed, upstream.  Until now, my value has been as a dam holding back value that arrived slowly.  Feedback worked to send signals upstream.  But signals don't propagate in supercritical flow.  Feedback becomes a useless concept.  
 
-I work at the team level: embedded, time-boxed engagements, mob programming as the
-adoption vehicle. I'd welcome a conversation about what you're seeing before this
-window closes too.
+If I'm reading you right: all my "dam experience" is now deadweight, and the only currency left is my last 6 months of whitewater exposure.
 
+Your framing keeps spawning models -- stand/walk/run/fall, phase transitions, supercritical flow. Which brings to mind:
+
+> Essentially, all models are wrong,
+> but some are useful.
+>   -- George Box, statistician
+
+I'd welcome 30 minutes to compare which models you're finding useful right now.
+
+Any dam time. ;-)
+
+Punishly,
 Michael
-```
-
-##### Draft B -- Book a Session (tight opener)
-
-``` text
-Zaki -- your "2024 struggle, 2026 click" arc at GenAI Day was the honest version of
-this story. I want to compare notes: I've been doing technology adoption work since
-before several tipping points that never arrived for the orgs I was working with.
-Your commoditization-vs-adoption framing is the thing I can't stop thinking about.
-20 minutes?
 ```
 
 ---
