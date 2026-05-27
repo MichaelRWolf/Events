@@ -550,7 +550,11 @@ Michael
 - Title: Founder, AI Connection Club
 - LinkedIn: [Tony Rockliff](https://www.linkedin.com/in/tonyrockliff/)
 - Bio: <https://tonyrockliff.com/about-tony/>
+- Website: <https://tonyrockliff.com> (testimonials, client list)
 - Company: [AI Connection Club](https://aiconnectionclub.com/)
+- Studios: <https://videosforanybudget.com/green-screen-videos/>
+- Music: <https://tonyrockliff.com/music-production/>
+- Services: AI consulting, custom AI tools, recording studio, green screen video, animated logos, YouTube optimization, Facebook video ads, music production, web design, graphics, WordPress, audio restoration, video editing, seminars
 
 ``` text
 AI for Everyone: Practical Tools That Transform How You Work Today
@@ -579,14 +583,26 @@ Tony's entire brand is connecting people in AI. His community has 2,300+ members
 **In-session or break:** "Tony -- I help technical teams adopt AI at the team level, using mob programming as the learning vehicle. Who in the AI Connection Club community do you think I should meet?"
 
 - Note: LI does not allow connection -- options are Follow, Book a Session, or Message only
-- [ ] LI: Follow Tony Rockliff + send message
 - [ ] Book a session with Tony
 - [ ] Ask who in AI Connection Club is doing team-level AI adoption work
 - [ ] Ask Tony about WaveSpeed for video intended to span multiple monitors
 
 Rough follow-up draft:
 
-> "Tony -- I appreciate the curation. That's exactly the gap you're filling. I work on the adjacent problem: once someone knows they want to use AI, how do they actually build the muscle with their team? Mob programming with AI in the loop is my answer. I'd love to know who in the AI Connection Club community is tackling team-level adoption -- and whether there's a fit. Up for a quick call?"
+- [x] LI: Follow Tony Rockliff + send message - 2026-05-27
+
+``` text
+Tony,
+
+The landscape is full, so thank you (and Corey) for limiting your list to 3.
+
+I am exploring NotebookLM.  I need to replace an Org-Mode/Obsidian second-brain ecosystem that collapsed.
+
+Also interested in how learning adapts to such rapid iterations.  JIT?  What's your take?
+
+Thanks,
+Michael
+```
 
 ---
 
@@ -787,6 +803,8 @@ LinkedIn connections captured from Zoom chat during the event.
 
 - Book: [Build: Elements of an Effective Software Organization](https://www.amazon.com/dp/B0CNGYYVF7) (co-authored with Rebecca Murphey, Jan 2024)
 
+  Murphey, R., & Hilska, O. (2024). *Build: Elements of an effective software organization*. Swarmia. <https://www.amazon.com/dp/B0CNGYYVF7>
+
 #### Otto Follow-up
 
 - [x] TY for the meeting
@@ -831,6 +849,8 @@ Murphey, R. (2026, February 18). The Physics of Software Delivery. Substack.Com;
 
 - Website: <https://rmurphey.com/>
 - Book: [Build: Elements of an Effective Software Organization](https://www.amazon.com/dp/B0CNGYYVF7) (co-authored with Otto Hilska, Jan 2024)
+
+  Murphey, R., & Hilska, O. (2024). *Build: Elements of an effective software organization*. Swarmia. <https://www.amazon.com/dp/B0CNGYYVF7>
 
 **Status (May 2026):** Just left Swarmia after 3+ years. Posted a warm departure on LinkedIn (139 reactions) -- thanked Otto for recruiting her over Christmas 2022, emotional about leaving the community. No next role announced yet. LinkedIn headline still shows "Field CTO @ Swarmia. Strategic advisor,..." suggesting she is transitioning into advisory/consulting work. Second post (2 days later) processing the loss of the community side of the job.
 
