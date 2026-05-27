@@ -17,11 +17,11 @@ Created: 2026-05-26 17:25 -- picking up on another machine
 
 ### LI -- send these now
 
-| Person        | Session | How                                | Notes                                                                 |
-|---------------|---------|------------------------------------|-----------------------------------------------------------------------|
-| Corey King    | S09     | LI connection request              | draft ready in notes.md                                               |
-| Zaki Medina   | S12     | InMail or Book a Session           | two drafts ready in notes.md; pick Draft A (InMail) or Draft B (Book) |
-| Tony Rockliff | S10     | Follow + message OR Book a Session | draft ready in notes.md; LI does not allow connections                |
+| Person          | Session | How                                | Notes                                                  |
+|-----------------|---------|------------------------------------|--------------------------------------------------------|
+| ~~Corey King~~  | S09     | ~~LI connection request~~          | done (2026-05-26)                                      |
+| ~~Zaki Medina~~ | S12     | ~~InMail~~                         | done (2026-05-26 21:09)                                |
+| Tony Rockliff   | S10     | Follow + message OR Book a Session | draft ready in notes.md; LI does not allow connections |
 
 ### Follow-up threads (paid-work priority)
 

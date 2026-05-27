@@ -745,7 +745,7 @@ AI to develop products + AI to grow human skills. Would love to trade thoughts. 
 
 ##### Draft A -- InMail (longer, more substantive)
 
-- [ ] LI InMail
+- [ ] LI InMail - Sent 2026-05-26
 
 ``` text
 Zaki --
