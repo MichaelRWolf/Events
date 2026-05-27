@@ -526,11 +526,20 @@ Corey argues for applying "Lean Six Sigma principles, including value stream map
 
 #### S09 Follow-up - Corey King
 
-- [ ] LI Connection Request -- Corey King
+- [x] LI Connection Request -- Corey King
 
-  > Corey -- "fix flow, not bottlenecks" is going into my vocabulary. And the book pairing (not 20 books) showed real discipline. I work at the intersection of Lean and team-level AI adoption. Would love to stay connected.
+``` text
+Corey, 
+My take-aways from your GenAI session:
+ - 'Stop Automating the Mess' -- I left a story under your post about it. 
+ - Just 3 books.  Not 20.  Nice focus.  I supported them in the chat.
+ - Your style: honest, playful, serious
 
-- [ ] Look up PACE framework (Planned, Alternative, Contingency, Emergency)
+I'm tracking folks trying to get it right!  Who do you see?
+Michael
+```
+
+- [x] Look up PACE framework (Planned, Alternative, Contingency, Emergency)
 - [ ] Follow up: Carl Ditzler -- mutual admiration thread
 
 ---
