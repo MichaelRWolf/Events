@@ -4,7 +4,7 @@
 |----------|-------------------|------------------------------------------------------|-----------|
 | Speaker  | David Bernstein   | <https://www.linkedin.com/in/david-scott-bernstein/> | user      |
 | Host     | Paige Watson      | <https://www.linkedin.com/in/paige-is-xp/>           | Contacts  |
-| Host     | Steven Kuo        |                                                      |           |
+| Host     | Steven Kuo        | <https://www.linkedin.com/in/stevekuo/>              | user      |
 | Attendee | Dave Manningsmith | <https://www.linkedin.com/in/manningsmith>           | Contacts  |
 | Attendee | Paul Moore        | <https://www.linkedin.com/in/pdmoore2/>              | user      |
 | Attendee | Ron Lichty        | <https://www.linkedin.com/in/ronlichty/>             | LI search |

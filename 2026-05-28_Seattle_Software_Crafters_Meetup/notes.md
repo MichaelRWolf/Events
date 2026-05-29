@@ -56,7 +56,7 @@ speaker
 Hosts:
 
 - Paige Watson -- [LinkedIn](https://www.linkedin.com/in/paige-is-xp/) [Contacts]
-- Steven Kuo
+- Steven Kuo -- [LinkedIn](https://www.linkedin.com/in/stevekuo/) [user]
 
 - Dave Manningsmith -- [LinkedIn](https://www.linkedin.com/in/manningsmith) [Contacts]
 - Paul Moore -- [LinkedIn](https://www.linkedin.com/in/pdmoore2/) [user]
