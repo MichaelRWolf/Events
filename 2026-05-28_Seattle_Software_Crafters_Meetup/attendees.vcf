@@ -1,0 +1,68 @@
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+N:Bernstein;David;;;
+FN:David Bernstein
+URL;type=LinkedIn:https://www.linkedin.com/in/david-scott-bernstein/
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+N:Watson;Paige;;;
+FN:Paige Watson
+URL;type=LinkedIn:https://www.linkedin.com/in/paige-is-xp/
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+N:Kuo;Steven;;;
+FN:Steven Kuo
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+N:Manningsmith;Dave;;;
+FN:Dave Manningsmith
+URL;type=LinkedIn:https://www.linkedin.com/in/manningsmith
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+N:Moore;Paul;;;
+FN:Paul Moore
+URL;type=LinkedIn:https://www.linkedin.com/in/pdmoore2/
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+N:Lichty;Ron;;;
+FN:Ron Lichty
+URL;type=LinkedIn:https://www.linkedin.com/in/ronlichty/
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+N:Ch;Toby;;;
+FN:Toby Ch
+URL;type=LinkedIn:https://www.linkedin.com/in/tobych/
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+N:Smith;George;;;
+FN:George Smith
+URL;type=LinkedIn:https://www.linkedin.com/in/george-smith-litesoft/
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+N:Softly;BD;;;
+FN:BD Softly
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+N:Thurow;Alex;;;
+FN:Alex Thurow
+URL;type=LinkedIn:https://www.linkedin.com/in/alexthurow/
+END:VCARD
