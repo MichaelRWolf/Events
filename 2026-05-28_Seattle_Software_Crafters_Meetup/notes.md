@@ -44,7 +44,7 @@ Covers practical applications including automation opportunities and techniques 
 
 ### David invited group to new GoF (Gang of Four) roundtable
 
-- [Defining, Building, and Validating Software in the Age of AI](https://zoom.us) -- Zoom Roundtable, Jun 3, 2026 11:00 AM
+- [Defining, Building, and Validating Software in the Age of AI](https://us02web.zoom.us/meeting/register/ci3SPE3WSFeHsJw6IDlKaw) -- Zoom Roundtable, Jun 3, 2026 11:00 AM
   - Hosted via Zoom; registered at MichaelRWo**@att.net
   - Topics: defining software through goals/constraints/context; AI-assisted development; validation in an era of abundant implementation; preserving human agency; the changing role of developers and architects
 
