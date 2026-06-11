@@ -13,4 +13,4 @@ Thanks for sharing what you learned and for who you were being.
 Best,
 Michael
 
-P.S. I'm built to be a first follower, not a thought leader -- and that's a feature, not a bug. If you know teams who need someone to bridge inspiration and adoption, I'd appreciate an introduction.
+P.S. I'm built to be a first follower, not a thought leader, helping teams move from recognizing your (and others') ideas to "Look what we did".  If you know teams who need someone to bridge inspiration and adoption, I'd appreciate an introduction.
