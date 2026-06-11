@@ -8,4 +8,4 @@ I keep forgetting your (and Fred's) music background.  I used to invest a lot of
 
 I'm getting a sense that AI is cycling so fast that we can no longer rely on recent learning techniques (e.g. certifications, L&D courses, college degrees, high school) and will have to reconnect with age-old ways of learning (e.g. incrementally, cross-domain, collaboratively, multi-generationally, continually).
 
-Do you think there's a future in that?
+Do you think there's a future in that?  If so, let's find folks who want to learn these tunes.

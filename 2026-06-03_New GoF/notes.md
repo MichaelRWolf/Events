@@ -7,7 +7,7 @@
 
 - [ ] TY - David
 - [x] TY - Al ([message](message_Al_Shalloway.md))
-- [ ] TY - Woody
+- [x] TY - Woody ([message](message_Woody_Zuill.md))
 - [ ] Connect - Wolfram
 
 ## Links
