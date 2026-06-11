@@ -5,10 +5,10 @@
 
 ## Follow-up
 
-- [ ] TY - David
+- [x] TY - David
 - [x] TY - Al ([message](message_Al_Shalloway.md))
 - [x] TY - Woody ([message](message_Woody_Zuill.md))
-- [ ] Connect - Wolfram
+- [x] Connect - Wolfram
 
 ## Links
 
