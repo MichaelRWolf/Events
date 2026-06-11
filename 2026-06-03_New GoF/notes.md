@@ -3,6 +3,13 @@
 - Date: 2026-06-03 11:00 AM Eastern (9:00 AM MT)
 - Format: Zoom Roundtable -- "The New Gang of Four"
 
+## Follow-up
+
+- [ ] TY - David
+- [x] TY - Al ([message](message_Al_Shalloway.md))
+- [ ] TY - Woody
+- [ ] Connect - Wolfram
+
 ## Links
 
 - Announcement (LinkedIn): <https://www.linkedin.com/posts/david-scott-bernstein_welcome-you-are-invited-to-join-a-meeting-activity-7465227364520861696-KZOY/>
