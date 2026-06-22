@@ -37,8 +37,12 @@ The ecocycle maps cleanly: standardized curricula and credential-as-signal are i
 
 ## Notes on Group Fit
 
-**Opportunity:** Likely to resonate with Wendy (human potential lens) and Michael (agency/systems lens). Provides a shared intellectual frame before the session begins.
+**Opportunity:** Marie and Kristen are both recently out -- Marie permanently (emeritus), Kristen on a 15-month sabbatical. Both left with fresh, visceral reactions to institutional dysfunction they could see but couldn't fix. They care deeply; the system was just bigger than them. This article will likely land as *validation*, not critique. They will recognize it from the inside.
 
-**Risk:** Bauschard critiques the college model directly -- where Marie and Kristen spent their careers. Without careful framing, it can land as "you were part of the problem." Suggested reframe: *"You worked inside this system. What did you protect? What couldn't you change? What did you see that Bauschard might be missing?"*
+Wendy (human potential lens) and Michael (agency/systems lens) will resonate from their own angles. All four are likely to agree with the diagnosis.
 
-**Recommendation:** Do not require as pre-reading. Share optionally, framed as "a provocative take that might prime the pump -- not a text we'll be testing you on." Or: hold in reserve and quote a single passage in the opening to spark the first question. A 5,500-word article as mandatory homework risks feeling like school -- which is exactly what this session is trying to transcend.
+**Actual risk:** Not offense -- agreement that becomes a venting session. Four people who all agree the system is broken can spend three hours cataloguing grievances without generating any forward energy. The ecocycle frame for Q3 is the antidote: grief and grievance belong in the poverty trap; the session needs to move through it toward emergence.
+
+**Facilitation note:** If the article is used, name this dynamic explicitly at the outset -- *"We're not here to autopsy what went wrong. We're here to find what wants to be born."* Then let Q1 and Q2 do the diagnostic work, and trust Q3 to land the energy somewhere generative.
+
+**Recommendation:** Still don't require as pre-reading (homework feels like school). But the framing risk is now the opposite of what it seemed: don't protect them from the critique -- protect the session from collapsing into justified but unproductive grief.
