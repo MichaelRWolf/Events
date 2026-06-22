@@ -75,9 +75,27 @@ Whole group throughout (4 people -- no breakouts needed). 1-2-4 format for the o
 
 **Where:** Kristen's side yard
 
-**Format:** Talking-stick conversation in rounds. One person holds the stick -- they have the floor for 7 minutes. Then 8 minutes of open inquiry: clarifying questions only, directed at the speaker, designed to help them go deeper. Everyone will have time to shine. The inquiry round is your chance to groom with curiosity -- show respect, show genuine interest, help the speaker say what they didn't quite reach.
+### The Invitation
 
-Each question completes one full rotation before moving to the next. Three questions. Three hours. Intro and harvest make four.
+The four of us are at similar places, seen from different angles. I'm at a crossroads, and I sense each of you is too -- feeling that some things are ready to be born and others ready to die. I'm curious how that looks from where you stand.
+
+Given the passion I sense in this group, an unstructured evening might miss the juice. A little intentional structure lets us do three things well: learn from each other's journeys, support one another through the transitions we're each navigating, and find clarity for our own next paths.
+
+### The Three Questions
+
+We'll move through three questions together, in sequence -- each building on the last:
+
+1. *What trends have you seen -- and are seeing -- in your field of education, training, or development?*
+2. *What is education for? What is its purpose, its promise -- and who has it actually served?*
+3. *What wants to die so something new can be born -- and what gift do you want each person here to carry away?*
+
+The arc is intentional: observe, then interrogate, then envision.
+
+### How It Works
+
+Talking-stick conversation in rounds. Whoever holds the stick has the floor for 7 minutes, uninterrupted. Then 8 minutes of open inquiry: clarifying questions only, directed at the speaker, meant to help them go deeper -- not to redirect attention to the asker. No "I had a similar experience." Just genuine curiosity that helps the speaker reach what they hadn't quite said yet.
+
+Each question completes one full rotation before we move to the next. Three questions, three hours; the opening and a closing harvest make four. We'll close stone-soup style -- each person naming the gift they want the others to carry away.
 
 ### Opening Options (not yet decided)
 
@@ -86,14 +104,6 @@ Each question completes one full rotation before moving to the next. Three quest
 **Option B -- Facilitator framing + 1-2-4:** Michael opens in 2-3 sentences. Prompt: *"What drew you here tonight, and what would make this time worth it?"* → 2 min silent sticky writing → pair share → drop stickies in center as visual anchor.
 
 **Option C -- Combine A + B:** Wendy invocation (2-3 min) → Michael brief frame → 1-2-4.
-
-### The Three Questions
-
-1. *What trends have you seen -- and are seeing -- in your field of education, training, or development?*
-2. *What is education for? What is its purpose, its promise -- and who has it actually served?*
-3. *What wants to die so something new can be born -- and what gift do you want each person here to carry away?*
-
-The arc is intentional: observe → interrogate → envision. The third question draws on the ecocycle: poverty trap (what's stuck and draining), creative trap (what can't let go), emergence (what's trying to happen next).
 
 ## Articles and References
 
