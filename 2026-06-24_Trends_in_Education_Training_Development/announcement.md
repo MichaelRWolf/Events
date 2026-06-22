@@ -21,13 +21,13 @@ This is not a panel. Not a class. Not a workshop. It is a dinner conversation wi
 
 ### Why meet (Adam Grant's 5 reasons)
 
-| Reason          | How it shows up here                                                                                         |
-|-----------------|--------------------------------------------------------------------------------------------------------------|
-| **Bond**        | Four people who barely know each other; wisdom-sharing as the bonding mechanism                              |
-| **Learn**       | Trends, frameworks, and field-specific insight that none of us could get alone                               |
-| **Create**      | Emerging vision of what education could become -- and our own next chapters                                  |
-| **Decide**      | Each of us is at a pivot; naming what wants to die and be born is a decision-adjacent act                    |
-| **[Celebrate]** | Honoring the collective experience and wisdom at this table -- and the transitions each person is navigating |
+| Reason        | How it shows up here                                                                                         |
+|---------------|--------------------------------------------------------------------------------------------------------------|
+| **Bond**      | Four people who barely know each other; wisdom-sharing as the bonding mechanism                              |
+| **Learn**     | Trends, frameworks, and field-specific insight that none of us could get alone                               |
+| **Create**    | Emerging vision of what education could become -- and our own next chapters                                  |
+| **Decide**    | Each of us is at a pivot; naming what wants to die and be born is a decision-adjacent act                    |
+| **Celebrate** | Honoring the collective experience and wisdom at this table -- and the transitions each person is navigating |
 
 ### What success looks like
 
