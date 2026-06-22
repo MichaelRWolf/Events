@@ -11,7 +11,7 @@ Four people. Four vantage points on education. All at pivots.
 - **Kristen** -- experiential learning instructor at Brevard College; just started a 15-month sabbatical
 - **Wendy** -- spiritual coach; supports people in living the life of their dreams; recently through a significant energy shift
 
-Relationship map: Michael and Marie have shared beers/coffee 2-3 times. Marie and Kristen are close friends in and out of work. Wendy and Marie have said hi. Kristen is new to both Michael and Wendy.
+Relationship map: Michael and Marie have shared beers/coffee 2-3 times. Marie and Kristen are close friends in and out of work. Wendy and Marie have said hi. Kristen is new to both Michael and Wendy. Michael and Wendy have been together for 30 years.
 
 We are a small group with rich, varied experience and no shared institutional frame. That is a feature.
 
@@ -19,30 +19,32 @@ We are a small group with rich, varied experience and no shared institutional fr
 
 This is not a panel. Not a class. Not a workshop. It is a dinner conversation with intentional structure -- enough to keep all voices heard, not so much that it kills spontaneity.
 
-### Why meet (Adam Grant's 5 reasons)
+### Why meet (Adam Grant's 4 reasons, plus one)
 
-| Reason        | How it shows up here                                                                                         |
-|---------------|--------------------------------------------------------------------------------------------------------------|
-| **Bond**      | Four people who barely know each other; wisdom-sharing as the bonding mechanism                              |
-| **Learn**     | Trends, frameworks, and field-specific insight that none of us could get alone                               |
-| **Create**    | Emerging vision of what education could become -- and our own next chapters                                  |
-| **Decide**    | Each of us is at a pivot; naming what wants to die and be born is a decision-adjacent act                    |
-| **Celebrate** | Honoring the collective experience and wisdom at this table -- and the transitions each person is navigating |
+Four reasons to meet, per Grant (2023):
+
+| Reason     | How it shows up here                                                                                         |
+|------------|--------------------------------------------------------------------------------------------------------------|
+| **Bond**   | Four people who barely know each other; wisdom-sharing as the bonding mechanism                              |
+| **Learn**  | Trends, frameworks, and field-specific insight that none of us could get alone                               |
+| **Decide** | Each of us is at a pivot; naming what wants to die and be born is a decision-adjacent act                    |
+| **Do**     | Emerging vision of what education could become -- and our own next chapters                                  |
+| **Honor**  | (Beyond Grant) Recognizing the collective experience at this table and the transitions each person navigates |
 
 ### What success looks like
 
 Everyone takes away more than they brought. Stone soup style: each person offers one gift, receives three.
 
-### LS 5 Structural Elements
+### Liberating Structures: 5 Design Elements (Lipmanowicz & McCandless, 2014)
 
 **1. Structuring Invitation**
-Three sequenced questions, each building on the last. Participants speak from personal experience and professional observation -- not to debate, but to disclose and illuminate.
+Three sequenced questions, each building on the last. Participants speak from personal experience and professional observation -- to disclose and illuminate different vantage points on education and change.
 
 **2. How Space Is Arranged**
 Circle seating in Kristen's side yard. No head of table. Physical talking stick passed to signal whose floor it is. Timer visible to all. Stickies and markers for the opening activity.
 
 **3. How Participation Is Distributed**
-Strict equity: each person holds the talking stick for exactly 7 minutes, then the group has 8 minutes of open inquiry (clarifying questions only -- questions that help the speaker go deeper, not redirect attention to the asker). No speaking during another's 7 minutes. Questioners may not make statements, reframe, or open with "I had a similar experience."
+Strict equity: each person holds the talking stick for exactly 7 minutes uninterrupted, then the group has 8 minutes of open inquiry. Inquiry questions are designed to deepen the speaker's thinking -- surfacing nuance, context, and implications they may not have fully articulated yet. No speaking during another's 7 minutes; questioners focus entirely on understanding the speaker's particular lived experience and perspective.
 
 **4. How Groups Are Configured**
 Whole group throughout (4 people -- no breakouts needed). 1-2-4 format for the opening only: individual silent reflection (2 min) → pair share (3 min) → whole group.
@@ -51,7 +53,7 @@ Whole group throughout (4 people -- no breakouts needed). 1-2-4 format for the o
 
 | Segment   | Activity                                                                 | Time         |
 |-----------|--------------------------------------------------------------------------|--------------|
-| Opening   | Wendy invocation (option) + framing + 1-2-4 → stickies dropped in center | 30 min       |
+| Setup     | Wendy invocation (option) + framing + 1-2-4 → stickies dropped in center | 30 min       |
 | Round 1   | Q1: Trends -- 4 × 15 min (7 speak + 8 inquiry)                           | 60 min       |
 | Round 2   | Q2: Purpose -- 4 × 15 min                                                | 60 min       |
 | Round 3   | Q3: Die/Born -- 4 × 15 min                                               | 60 min       |
@@ -93,7 +95,7 @@ The arc is intentional: observe, then interrogate, then envision.
 
 ### How It Works
 
-Talking-stick conversation in rounds. Whoever holds the stick has the floor for 7 minutes, uninterrupted. Then 8 minutes of open inquiry: clarifying questions only, directed at the speaker, meant to help them go deeper -- not to redirect attention to the asker. No "I had a similar experience." Just genuine curiosity that helps the speaker reach what they hadn't quite said yet.
+Talking-stick conversation in rounds. Whoever holds the stick has the floor for 7 minutes, uninterrupted. Then 8 minutes of open inquiry: questions designed to understand the speaker's perspective more fully -- what shaped their thinking, what they've learned, what surprises them about their own field. Questions focus entirely on the speaker's experience and expertise, not on shared stories or parallel situations.
 
 Each question completes one full rotation before we move to the next. Three questions, three hours; the opening and a closing harvest make four. We'll close stone-soup style -- each person naming the gift they want the others to carry away.
 
@@ -105,6 +107,13 @@ Each question completes one full rotation before we move to the next. Three ques
 
 **Option C -- Combine A + B:** Wendy invocation (2-3 min) → Michael brief frame → 1-2-4.
 
-## Articles and References
+## References
+
+**Frameworks:**
+
+- Grant, A. (2023, September 26). Why meetings suck and how to fix them [Audio podcast episode]. In *Worklife with Adam Grant*. TED. <https://www.ted.com/podcasts/worklife>
+- Lipmanowicz, H., & McCandless, K. (2014). *The surprising power of liberating structures: Simple rules to unleash a culture of innovation*. CreateSpace.
+
+**Articles:**
 
 - [Institutionalized Education as Cognitive Offloading](articles/institutionalized_education_cognitive_offloading.md) -- Stefan Bauschard (2026) -- shared with Kristen as a possible conversation starter; see file for notes on group fit and recommended use.
