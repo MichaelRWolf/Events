@@ -57,7 +57,7 @@
 ### Next actions
 
 - [ ] Cross-introduce Wendy & Al regarding her efforts on building on his prompt #comms (ready)
-- [ ] Send security write-up to Al regarding his website #comms (ready)
+- [x] Send security write-up to Al regarding his website #comms (done)
 - [ ] Connect to attendees (Steven, Susan, Tony) #comms (ready)
 - [ ] Send "abdicate" article summary to everyone #comms (ready)
 
