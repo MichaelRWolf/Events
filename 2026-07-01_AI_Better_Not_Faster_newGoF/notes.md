@@ -57,7 +57,7 @@
 ### Next actions
 
 - [ ] Cross-introduce Wendy & Al regarding her efforts on building on his prompt #comms (ready)
-- [x] Send security write-up to Al regarding his website #comms (done)
+- [x] Send security write-up to Al regarding his website #comms (done) -- [security doc](../2026-06-03_New\ GoF/issue_www_subdomain_shows_not_secure_in_chrome.md)
 - [ ] Connect to attendees (Steven, Susan, Tony) #comms (ready)
 - [ ] Send "abdicate" article summary to everyone #comms (ready)
 
