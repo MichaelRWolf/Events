@@ -52,6 +52,21 @@
 - **Woody:** Has habits that keep him curious (and learning)
 - **Wolfram:** AI is about humans and capabilities
 
+## Offloading Article
+
+> Institutionalized education trained minds to offload thinking to authority; AI revealed this capacity as obsolete--the solution is restoring agency through judgment-based learning where student choices structurally affect outcomes.
+
+This **500-word summary** of Stefan Bauschard's *[Institutionalized Education as Cognitive Offloading](https://stefanbauschard.substack.com/p/institutionalized-education-as-cognitive)* (5,000-word original) covers:
+
+- 150-year arc of cognitive offloading (families → institutions → AI)
+- Why "academic integrity crisis" is a feature, not a bug, of institutional design
+- Capacities that cannot be offloaded (live reasoning, ethical judgment, accountability)
+- Path forward: variance as a feature (apprenticeship, seminars, debate, studio models)
+
+**Full summary:** See `/repos/notes/topics/education/cognitive_offloading_bauschard.md`
+
+---
+
 ## Follow-up
 
 ### Next actions
@@ -59,7 +74,7 @@
 - [ ] Cross-introduce Wendy & Al regarding her efforts on building on his prompt #comms (ready)
 - [x] Send security write-up to Al regarding his website #comms (done) -- [security doc](../2026-06-03_New\ GoF/issue_www_subdomain_shows_not_secure_in_chrome.md)
 - [ ] Connect to attendees (Steven, Susan, Tony) #comms (ready)
-- [ ] Send "abdicate" article summary to everyone #comms (ready)
+- [ ] Send "offloading" article summary to everyone #comms (ready) -- [summary](../../repos/notes/topics/education/cognitive_offloading_bauschard.md)
 
 ### Related events
 
