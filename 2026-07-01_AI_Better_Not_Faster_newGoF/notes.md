@@ -19,13 +19,15 @@
 
 ## People
 
-- **Wolfram Muller** (host)
-- **Al Shalloway** (panelist)
-- **David Bernstein** (panelist)
-- **Woody Zuill** (panelist)
-- Steven Diamante (attendee)
-- Susan Thompson (attendee, Al's student)
-- Tony Crowell (attendee, Al's student)
+| Person                                  | LinkedIn                                             | Email                                   |
+|-----------------------------------------|------------------------------------------------------|-----------------------------------------|
+| Wolfram Muller (host)                   | --                                                   | --                                      |
+| Al Shalloway (panelist)                 | --                                                   | <al.shalloway@successengineering.works> |
+| David Bernstein (panelist)              | <https://www.linkedin.com/in/david-scott-bernstein/> | --                                      |
+| Woody Zuill (panelist)                  | --                                                   | --                                      |
+| Steven Diamante (attendee)              | --                                                   | --                                      |
+| Susan Thompson (attendee, Al's student) | <https://www.linkedin.com/in/sthompsoncbap/>         | --                                      |
+| Tony Crowell (attendee, Al's student)   | <https://www.linkedin.com/in/victoracrowell/>        | --                                      |
 
 ## Notes
 
