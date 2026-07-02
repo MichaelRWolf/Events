@@ -73,9 +73,9 @@ This **500-word summary** of Stefan Bauschard's *[Institutionalized Education as
 
 ### Next actions
 
-- [ ] Cross-introduce Wendy & Al regarding her efforts on building on his prompt #comms (ready)
+- [x] Cross-introduce Wendy & Al regarding her efforts on building on his prompt #comms (done) -- planning podcast/post together
 - [x] Send security write-up to Al regarding his website #comms (done) -- [security doc](../2026-06-03_New\ GoF/issue_www_subdomain_shows_not_secure_in_chrome.md)
-- [ ] Connect to attendees (Steven, Susan, Tony) #comms (ready)
+- [x] Connect to attendees (Steven, Susan, Tony) #comms (done) -- Steven already connected; sent requests to Susan & Tony; Tony connected, available next week
 - [ ] Send "offloading" article summary to everyone #comms (ready) -- [summary](../../repos/notes/topics/education/cognitive_offloading_bauschard.md)
 
 ### Related events
